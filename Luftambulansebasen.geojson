@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493545471878493,
+          78.24717431470766
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Svalbard<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 2\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.754409894255687,
+          58.46785215244331
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Arendal<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34735981227577,
+          60.37995339736916
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Bergen<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566180242350393,
+          60.63132383561747
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen på Ål<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888724156176771,
+          61.457144056916384
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Førde<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.027917942690653,
+          61.586455788736124
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Florø<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730794356060367,
+          58.952262909254756
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Stavanger<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.62896448489307,
+          58.88181457944803
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Sola<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.797955035850086,
+          59.37986901486707
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Rygge<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.987818013777405,
+          59.93221086036612
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Lørenskog<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 2\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.096390333139363,
+          60.200866819264206
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen på Gardermoen<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 2\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.121449266226758,
+          62.069984460033375
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen på Dombås<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.312495270101543,
+          62.46368942034819
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Ålesund <br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.115321013900738,
+          62.55875476177138
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Ålesund<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.59360568536816,
+          68.77971246429206
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Harstad<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.980610198905623,
+          69.68311341010899
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Tromsø<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.911974554725955,
+          69.68312438487592
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Tromsø<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 2\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.911704590811716,
+          69.68326814863346
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Redningshelikopter Tromsø<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.351598371152653,
+          67.27105801590362
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Bodø<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.367690290930538,
+          67.27257619250835
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Bodø<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.213034585204516,
+          65.46177715915793
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Brønnøysund<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.212980941024869,
+          65.46176379209153
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Brønnøysund <br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.374804069759655,
+          63.36810649960061
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Trondheim<br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.637550925949725,
+          63.6994136204335
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Ørland<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.030948785414772,
+          69.70815665538156
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Kirkenes <br><b>Type</b>: Ambulansehelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.883007775310794,
+          69.72166808863058
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Kirkenes<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 1\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.34664034655095,
+          69.97809249785969
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Luftambulansebasen i Alta<br><b>Type</b>: Ambulansefly<br><b>Antall</b>: 2\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.961452429611906,
+          70.05809178519793
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Base Banak<br><b>Type</b>: Redningshelikopter<br><b>Antall</b>: 1\n                 </div>"
+      }
+    }
+  ]
+}

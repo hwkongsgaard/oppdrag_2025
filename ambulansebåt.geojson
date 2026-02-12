@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916935842089689,
+          62.78369106513732
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Aukra<br><b>RHF</b>: Helse Midt-Norge RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Molde- Ålesund<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Sentraliserte legevakter Ålesund og Molde kveld<br>natt og helg. Ambulansebåten benyttes også i<br>strekningen Molde-Vestnes om natten. Når<br>fergefrekvensen er lav. (pasienter fra<br>Kristiansund/Molde som skal til Ålesund sykehus.<br>Båtpersonellet bemanner også ambulansebilen på<br>Aukra\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.079282709118337,
+          63.330057940644686
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Smøla Straumen<br><b>RHF</b>: Helse Midt-Norge RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 1<br><b>Legevaktlege - stasjonering</b>: Smøla-Aure-Heim (Halsa)<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: 20<br><b>Kommentar</b>: Smøla, Aure og Heim har egne bilambulanser,<br>(responstid ivaretatt av bilambulanse) båten<br>overtar pasienter som skal videre til sykehus.<br>Smøla hele døgnet, Aure på natt. Legevaktsamarbeid<br>på kveld/natt og helg delt på de tre kommuner\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.568881986187304,
+          62.20690508306886
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Larsnes (Sande)<br><b>RHF</b>: Helse Midt-Norge RHF<br><b>Bemanning</b>: 2<br><b>Personell med ambulanseutdannelse</b>: Lokal ambulanse med på ambulanseoppdr.<br><b>Legevaktlege - stasjonering</b>: Larsnes-Volda<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Sentralisert legevakter Volda kveld natt og helg.<br>Båten er også en samfunnsbåt: Pendlerrute,<br>transport av brann, veterinær, e-verk\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0283743366845775,
+          61.60141633452106
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Florø kai, Kinn kommune<br><b>RHF</b>: Helse Vest RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Øyane i Florø: Legevakt i Florø\nBremanger:, Legevakt i Florø<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: <10<br><b>Kommentar</b>: Tid er oppgitt i gangtid i 25 minutt.<br>Bremangerlandet (Kalvåg og Hauge, har ope<br>legekontor man-fre, men vekselvis<br>daglegevaktfunksjon delt mellom fastland og øy.<br>Florø Legevakt har legevaktansvar for både Florø<br>og Bremanger Kommune på kveld og helg. Florø er<br>del av Kinn Kommune. Bremanger komm har vekselvis<br>daglegevakt på Hauge Bremangerøya, eller Svelgen<br>på fastlandet.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831212000000004,
+          61.068698
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Hardbakke i Solund<br><b>RHF</b>: Helse Vest RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Solund: Hardbakke\nAskvoll: Askvoll dagtid – Førde k/n/h<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: <10<br><b>Kommentar</b>: Tid frå hovudbase er effektiv gangtid i oppgitt 25<br>knop. Båten dekkjer øybefolkninga i kommunane,<br>Solund, Askvoll og Gulen, i tillegg til befolkning<br>innover i Sognefjorden i veglause områder og<br>dersom infrastruktur blir endra grunna<br>ras/rasefare. Her konsentrert oss om<br>primærdekkingsområde i kystområda. Solund kommune<br>med sine 800 innbyggjarar har eigen legevakt 24/7.<br>Askvoll kommune har nær 900 innbyggjar på<br>øysamfunn. Kommunen har legekontor på dagtid og<br>legevakt gjennom SYS IKL i Førde, kveld, natt og<br>helg.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.876813984030436,
+          59.16945521057668
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Judaberg<br><b>RHF</b>: Helse Vest RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Rullerende, Rennesøy, Hjelmeland og Finnøy<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: 20<br><b>Kommentar</b>: Ambulanse Båt/Legevakt samarbeid. Transport med<br>båt til alle øyer som ikke er landfaste. Legevakts<br>båt til de fleste store kaier, fungerer som<br>flytene Legevakt. Lege har også egen bil til<br>landfaste hjemmebesøk. Ellers samarbeid som for<br>øvrige ordinære legevakter.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.200024000000002,
+          60.099808
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Austevoll, Storholmen<br><b>RHF</b>: Helse Vest RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Storebø legesenter <br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Det er vaktlege på vakt, men det er ikke ofte<br>denne følger med båten. Jordmor er også på vakt,<br>det hender hyppigere at jordmor følger i båten.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.718699218537804,
+          59.83391968366134
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Sunde ferjekai<br><b>RHF</b>: Helse Vest RHF<br><b>Bemanning</b>: 4<br><b>Personell med ambulanseutdannelse</b>: 2<br><b>Legevaktlege - stasjonering</b>: Husnes<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: 8<br><b>Kommentar</b>: Ikke lege tilknyttet båten. Lege rykker ut fra<br>kommunalt legekontor ved behov på lik linje som de<br>rykker ut med ambulanse\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.701987587974447,
+          66.86867443224371
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Ørnes, Meløy Kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 2<br><b>Personell med ambulanseutdannelse</b>: 0<br><b>Legevaktlege - stasjonering</b>: Ørnes/ Inndyr<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Legevakten for Meløy kommune er stasjonert på<br>Ørnes. Legevakt for Gildeskål kommune er<br>stasjonert på Inndyr.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591234,
+          66.081319
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Bjørn, Dønna kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 1<br><b>Legevaktlege - stasjonering</b>: Alstahaug, Dønna /Herøy (LV samarbeid), Nesna, Vefsn, Træna, Lurøy<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Lege deltar i liten grad på oppdrag. Alle<br>kommunene har avtale med HSYK om bruk av<br>ambulansebåt i forbindelse med utrykning for lege<br>ved behov. Lege deltok på 10 oppdrag av båtens 750<br>oppdrag i 2022\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.965206582822391,
+          66.48790200691863
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Indre Kvarøy, Lurøy kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 1<br><b>Legevaktlege - stasjonering</b>: Rødøy, Træna, Nesna, Lurøy<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Lege deltar i noen grad på oppdrag. Alle kommunene<br>har avtale med HSYK om bruk av ambulansebåt i<br>forbindelse med utrykning for lege ved behov. Lege<br>deltok på 50 (A/H) oppdrag av båtens 537 oppdrag i<br>2022\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016242200058533,
+          65.65550039880301
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Rørøy, Vega kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 1<br><b>Legevaktlege - stasjonering</b>: Vega, Brønnøysund, Vevelstad<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Ambulansebåt Vega benyttes som transportressurs<br>for pasienter som skal innlegges<br>Helgelandssykehuset Sandnessjøen. Transporten går<br>fra Horn Brønnøy kommune til Tjøtta i Alstahaug<br>kommune (Vega – Horn – Tjøtta – Vega. Kjøretid 1<br>time 40 minutter). Denne aktiviteten utgjør 85 %<br>av båtens totale aktivitet i 2022\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.489950741208666,
+          68.85239460585372
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Stornes, Harstad kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 5<br><b>Personell med ambulanseutdannelse</b>: nan<br><b>Legevaktlege - stasjonering</b>: Harstad<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Dette er ferge i rute som har beredskap H24/7-365<br>for transport av ambulanse. Fraviker ruteplan ved<br>akuttoppdrag på ambulanse. legevaktslege deltar<br>ikke på ambulanseoppdrag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.080964000692465,
+          68.04810799477022
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Drag, Hamarøy kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 2<br><b>Personell med ambulanseutdannelse</b>: nan<br><b>Legevaktlege - stasjonering</b>: Narvik<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Rutebåt i beredskap for ambulanse h24/7-365,<br>antall oppdrag per år er mindre enn 5\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.619291632239804,
+          69.96112383536322
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Hansnes, Karlsøy kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 2<br><b>Personell med ambulanseutdannelse</b>: nan<br><b>Legevaktlege - stasjonering</b>: Hansnes<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Ambulansebåt som bemannes av ambulansepersonell<br>fra lokal stasjonert ambulanse. Legevaktlege er<br>jevnlig med på oppdrag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.349403942361278,
+          70.24221901840689
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Øksfjord – Loppa kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: 1<br><b>Legevaktlege - stasjonering</b>: Øksfjord<br><b>Deltar lege på oppdrag</b>: Ja<br><b>Prosentvis av akuttoppdrag med lege</b>: 80<br><b>Kommentar</b>: Båt er plassert i Øksfjord i Loppa kommune. Den<br>betjener kommune Loppa, Hasvik, Alta og<br>Hammerfest. Ved legevaktsoppdrag i Loppa er lege<br>med i nesten 100% av tilfellene. Lege fra Loppa<br>rykker også ut ved akutte behov i kommunene som<br>ligger rundt Loppa. Majoriteten av oppdrag for<br>fartøyet ligger i transport av pasienter til<br>sykehus i Hammerfest med hastegrad haster og akutt<br>fra Øksfjord og Hasvik. I Øksfjord er det ca 500<br>mennesker, i sesong øker dette med 100 til 200<br>personer. Ved stengt E6 (kvænangsfjelle) blir<br>pasienter sendt fra Burfjord ut til Øksfjord, og<br>man benytter båt. Ved stengt fylkesvei 882,<br>betjener også båten Øksfjordbotn.\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.98111744126321,
+          70.03534005684718
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Hovedbase</b>: Skjervøy, Skjervøy kommune<br><b>RHF</b>: Helse Nord RHF<br><b>Bemanning</b>: 3<br><b>Personell med ambulanseutdannelse</b>: nan<br><b>Legevaktlege - stasjonering</b>: Skjervøy/Burfjord<br><b>Deltar lege på oppdrag</b>: Nei<br><b>Prosentvis av akuttoppdrag med lege</b>: nan<br><b>Kommentar</b>: Rutebåt i beredskap for ambulanse h24/7-365.<br>Legevaktslege deltar i liten grad ved utrykning.<br>Antall oppdrag totalt per år ca 30\n                 </div>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.59268716956356,
+          59.19136537000735
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Skien\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.471252040756664,
+          59.82091924368148
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Blakstad\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.997443127269594,
+          59.932469882392255
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Ahus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713268192993807,
+          59.94144686108628
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Diakonhjemmet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740596969597952,
+          59.93607049673878
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Ullevål\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745916671449333,
+          59.933819078683335
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Lovisenberg\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02654272724123,
+          59.3179986927932
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Kalnes\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.420556713746922,
+          59.2724066682609
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Tønsberg\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.641790529593711,
+          60.684370645090425
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Reinsvoll\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.161278963281987,
+          60.78155398631639
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Hamar\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.161335413816968,
+          60.781593244632425
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Sannerud\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9844578695164605,
+          58.161853468086555
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Kristiansand\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75301306953034,
+          58.46726906178362
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Arendal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.280156425393893,
+          59.409060754099634
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Haugesund\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.789863524467685,
+          59.829571298592114
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Valen\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7359098560603625,
+          58.95290157428157
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Stavanger\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64453386954234,
+          58.728617698170794
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: NKS Jæren DPS\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3139536831126115,
+          60.41858053197071
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Sandviken\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888363627340821,
+          61.45689269018107
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Førde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.314199383208818,
+          62.46434551522687
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Ålesund\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.511015457839871,
+          62.78140229973729
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Molde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.504587600500184,
+          64.47042577916503
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Namsos\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.453032623732598,
+          63.454056174644315
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: St. Olavs\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.290200856285434,
+          63.74315160506078
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Levanger\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.91435268541222,
+          69.65916176900974
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Tromsø\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43656938529402,
+          67.28621544817432
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Bodø\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.537073827663479,
+          68.11971714779308
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Gravdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.91154095466982,
+          68.55999992721651
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Sykehus</b>: Storkmarknes\n                 </div>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.994258038804729,
+          60.19506663198425
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kongsvinger, Akerhus Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.994322957838778,
+          59.93277307877062
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Akershus Universitetssykehus, Akershus Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256390174812624,
+          60.1488575988164
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Ringerike, Vestre Viken\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.198774626333813,
+          59.74966754760829
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Drammen, Vestre Viken\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.510266155986635,
+          59.89895204855732
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Bærum, Vestre Viken\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702476042495597,
+          59.93602204569007
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Diakonhjemmet, Oslo Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.714176827152874,
+          59.94868045710232
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Rikshospitalet, Oslo Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745834001206298,
+          59.93373736578405
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Lovisenberg, Oslo Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736951727152363,
+          59.93708536743658
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Ullevål Sykehus, Oslo Universitetssykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.656668313649039,
+          59.67067219415285
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kongsberg, Vestre Viken\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.255596055973156,
+          59.56636026661442
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Notodden, Sykehuset i Telemark\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.026767727127314,
+          59.31802401950061
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kalnes, Sykehuset Østfold\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417886440617984,
+          59.27243155017952
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Tønsberg, Sykehuset I Vestfold\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570051083011785,
+          60.87724734937382
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Elverum, Sykehuset Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.472229827895754,
+          61.11295605406526
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Lillehammer, Sykehuset Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680936600202676,
+          60.80293501555962
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Gjøvik, Sykehuset Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.071240427187606,
+          60.798438588479065
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Hamar, Sykehuset Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.665674642429682,
+          58.29870090490624
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Flekkefjord, Sørlandet Sykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.755400384764753,
+          58.46681531859708
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Arendal, Sørlandet Sykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.980872982902003,
+          58.164150382752155
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kristiansand, Sørlandet Sykehus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.593772484793881,
+          59.19191547826774
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Skien, Sykehuset i Telemark\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.519388056035907,
+          61.102022377029854
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Lærdal, Helse Førde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.550338698321543,
+          60.058830798196006
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Odda, Helse Fonna\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420323689590504,
+          60.63405278553562
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Voss, Helse Bergen\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.362812854155515,
+          60.37924333695848
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Haraldsplass Diakonale Sykehus, Helse Bergen\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359195442513392,
+          60.37339425413064
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Haukeland Universitetssykehus, Helse Bergen\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.888349354983843,
+          61.45696394377372
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Førde , Helse Førde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.977815169562187,
+          61.91607759428836
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Nordfjord, Helse Førde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.091887642328368,
+          62.14975803622294
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Volda, Helse Møre Og Romsdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.732546674465401,
+          58.9522119938849
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Stavanger Universitetssjukehus, Helse Stavanger\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27923562713097,
+          59.40908625402736
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Haugesund, Helse Fonna\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511882640639054,
+          59.79271153100989
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Stord, Helse Fonna\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3142530288358145,
+          62.46431329927787
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Ålesund, Helse Møre Og Romsdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722930083592215,
+          63.11084767585999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kristiansund, Helse Møre Og Romsdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.139167456103976,
+          62.73718832453427
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Molde, Helse Møre Og Romsdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.775837427248616,
+          62.27059711020481
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Tynset, Sykehuset Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.289751242653859,
+          63.7418873025514
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Levanger, Helse Nord-trøndelag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.504533956177472,
+          64.47042115528525
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Namsos, Helse Nord-trøndelag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.845991884963206,
+          63.29247895938065
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Orkdal, St. Olavs Hospital\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.388000127296953,
+          63.4211083841644
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: St. Olavs Hospital, St. Olavs Hospital\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.397099056299485,
+          67.28309777135763
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Bodø, Nordlandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.537052369828963,
+          68.11970515289462
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Lofoten, Gravdal, Nordlandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.186581015779952,
+          66.3262969849548
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Mo i Rana, Helgelandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21207610041516,
+          65.83108861767138
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Mosjøen, Helgelandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617776827408385,
+          66.01798883257983
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Sandnessjøen, Helgelandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.980814046615013,
+          69.68310968492835
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Tromsø Universitetssykehuset Nord-norge (UNN)\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.52547766985897,
+          68.79639385033921
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Harstad, Universitetssykehuset Nord-norge (UNN)\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.412639456350664,
+          68.44192475210374
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Narvik, Universitetssykehuset Nord-norge (UNN)\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.911000629370811,
+          68.55906801721814
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Vesterålen, Stokmarknes, Nordlandssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.67161882761491,
+          70.67309789782996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Hammerfest, Finnmarkssykehuset\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03344125640722,
+          69.7074406204103
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Akuttmottak</b>: Kirkenes, Finnmarkssykehuset\n                 </div>"
+      }
+    }
+  ]
+}

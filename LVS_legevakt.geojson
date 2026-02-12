@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5623655,
+          59.88413970000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Aurskog-Høland<br><b>Legevaktnavn</b>: Aurskog-Høland og Rømskog legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.257723,
+          60.1473563
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Ringerike<br><b>Legevaktnavn</b>: Ringerike interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7587447,
+          59.9169999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Oslo <br><b>Legevaktnavn</b>: Oslo legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.387122100000001,
+          59.7429498
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bråset<br><b>Legevaktnavn</b>: Bråset legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.189551600000001,
+          59.747537999999984
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Drammen<br><b>Legevaktnavn</b>: Drammen legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.509722900000005,
+          59.89812879999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Asker - Bærum<br><b>Legevaktnavn</b>: Asker og Bærum legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.642439900000005,
+          59.837660099999965
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nesodden<br><b>Legevaktnavn</b>: Nesodden legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8436704,
+          59.72641650000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Follo<br><b>Legevaktnavn</b>: Follo legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1614226,
+          59.58728570000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Indre Østfold<br><b>Legevaktnavn</b>: Indre Østfold legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.040744199999997,
+          59.95366840000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nedre Romerike<br><b>Legevaktnavn</b>: Nedre Romerike legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8495216,
+          60.1144384
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nittedal <br><b>Legevaktnavn</b>: Nittedal legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.376014500000004,
+          59.1289989
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Aremark og Halden<br><b>Legevaktnavn</b>: legevakten for Aremark og Halden<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4703639,
+          59.4137442
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Horten<br><b>Legevaktnavn</b>: Horten kommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697116699999999,
+          59.44614079999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Moss<br><b>Legevaktnavn</b>: Mosseregionens legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972943,
+          59.28421469999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Tønsberg<br><b>Legevaktnavn</b>: Tønsbergregionen legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.925784400000005,
+          59.18238429999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Fredrikstad <br><b>Legevaktnavn</b>: Fredrikstad og Hvaler legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1101443,
+          59.285810899999994
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sarpsborg og Rakkestad<br><b>Legevaktnavn</b>: Sarpsborg og Rakkestad legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9940702,
+          60.19449460000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kongsvinger<br><b>Legevaktnavn</b>: Kongsvinger interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4770401,
+          60.1197176
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nes<br><b>Legevaktnavn</b>: Nes legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266612600000002,
+          60.3347408
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Eidsvoll <br><b>Legevaktnavn</b>: Eidsvoll legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.165067600000004,
+          60.1658407
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Jessheim<br><b>Legevaktnavn</b>: Jessheim interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.655611799999999,
+          59.669977
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kongsberg <br><b>Legevaktnavn</b>: Kongsberg intrekommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.262837600000003,
+          59.55927779999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Notodden <br><b>Legevaktnavn</b>: Notodden interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5736563,
+          60.8770659
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Elverum<br><b>Legevaktnavn</b>: Elverum interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2691265,
+          61.31444289999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Engerdal og Trysil<br><b>Legevaktnavn</b>: Trysil legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.473655000000003,
+          61.11243
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Lillehammer <br><b>Legevaktnavn</b>: Lillehammer Interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6795803,
+          60.80299029999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Gjøvik <br><b>Legevaktnavn</b>: Gjøvik Interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.117080199999997,
+          60.78659799999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Hedmarken<br><b>Legevaktnavn</b>: Hedmarken interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213015100000003,
+          59.13367039999997
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sandefjord <br><b>Legevaktnavn</b>: Sandefjord legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.724572500000004,
+          59.01808039999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bamble <br><b>Legevaktnavn</b>: Bamble legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.405429300000002,
+          58.87979250000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kragerø <br><b>Legevaktnavn</b>: Kragerø legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.035631700000001,
+          59.0532652
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Larvik <br><b>Legevaktnavn</b>: Larvik legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.035631700000001,
+          59.0532652
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS  Arendal <br><b>Legevaktnavn</b>: Larvik legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.655127499999995,
+          59.130852
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Porsgrunn <br><b>Legevaktnavn</b>: Porsgrunn legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.597324500000003,
+          59.19177449999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Skien <br><b>Legevaktnavn</b>: Skien interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6269273,
+          59.4836751
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Seljord <br><b>Legevaktnavn</b>: Seljord og Kviteseid legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.605426700000004,
+          59.88027109999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Tinn \n<br><b>Legevaktnavn</b>: Tinn kommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.987541799999998,
+          59.56874959999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Tokke og Vinje<br><b>Legevaktnavn</b>: Tokke-Vinje legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.452135699999998,
+          60.18214039999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bjørnafjorden <br><b>Legevaktnavn</b>: Bjørnafjorden og Samnanger legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291297100000001,
+          60.5462954
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nordhordland <br><b>Legevaktnavn</b>: Nordhordland interkommunale legevakt <br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.220771000000003,
+          60.41386390000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Askøy<br><b>Legevaktnavn</b>: Askøy legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.335817599999998,
+          60.37795130000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bergen <br><b>Legevaktnavn</b>: Bergen legvakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.118814600000006,
+          60.3648859
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sotra <br><b>Legevaktnavn</b>: Sotra legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744376700000002,
+          59.8551841
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kvinnherad <br><b>Legevaktnavn</b>: Kvinnherad legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.513345800000001,
+          59.79247819999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sunnhordland<br><b>Legevaktnavn</b>: Sunnhordland interkommunale legevakt IKS<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.153727099999999,
+          60.3734006
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kvam <br><b>Legevaktnavn</b>: Kvam legevakt<br><b>Merknad</b>: adresse gjelder kun dag og kveld/Voss LVS på natt\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.550325100000004,
+          60.05877119999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Ullensvang<br><b>Legevaktnavn</b>: Ullensvang  legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420393200000006,
+          60.633048699999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Voss <br><b>Legevaktnavn</b>: Voss interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.519043800000004,
+          61.10205309999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sogn <br><b>Legevaktnavn</b>: Sogn LMS legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.567485300000003,
+          60.63052879999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Hallingdal<br><b>Legevaktnavn</b>: Øvre Hallingdal legevakt/Hallingdal nattlevevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.293816000000001,
+          59.403809700000004
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Haugesund<br><b>Legevaktnavn</b>: Haugesund interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.045251600000007,
+          59.020007699999994
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Strand <br><b>Legevaktnavn</b>: Strand legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9998032000000014,
+          58.451421599999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Hå og Dalane<br><b>Legevaktnavn</b>: Dalane interkommunale legevakt (Eigersund legevakt)<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.693639499999999,
+          58.29661810000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Flekkefjord<br><b>Legevaktnavn</b>: Flekkefjord interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730404000000009,
+          58.95350499999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Stavanger<br><b>Legevaktnavn</b>: Stavanger legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632494599999997,
+          58.77263099999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Klepp og Time<br><b>Legevaktnavn</b>: Klepp og Time legevakt<br><b>Merknad</b>: Adresse gjelder kun dag og kveld/Hå LVS på natt\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.707757299999996,
+          58.8567602
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sandnes <br><b>Legevaktnavn</b>: Sandnes legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457951400000001,
+          58.03009059999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Lindesnesregionen<br><b>Legevaktnavn</b>: Lindesnes legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9790115,
+          58.163813
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kristiansand <br><b>Legevaktnavn</b>: Kristiansand interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9736069000000045,
+          58.2682449
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Vennesla og Iveland<br><b>Legevaktnavn</b>: Vennesla og Iveland legevakt <br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3786768,
+          62.5771341
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Røros <br><b>Legevaktnavn</b>: Røros interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314299599999998,
+          64.4640041
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Namdal<br><b>Legevaktnavn</b>: Indre Namdal legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2868967,
+          63.7415986
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Innherred <br><b>Legevaktnavn</b>: Innherred Interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480149,
+          64.0134485
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Steinkjer<br><b>Legevaktnavn</b>: Steinkjer interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9308723,
+          63.46910920000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Værnesregionen<br><b>Legevaktnavn</b>: Værnesregionen legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8462936,
+          63.2996771
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Orkdal<br><b>Legevaktnavn</b>: legevakten i Orkdalsregionen<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.392149300000002,
+          63.42190059999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Trondheim<br><b>Legevaktnavn</b>: Trondheim, Malvik, Melhus og Midtre-Gauldal legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.838487500000007,
+          63.09344189999995
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kristiansund <br><b>Legevaktnavn</b>: Kristiansund og omegn legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.161868600000002,
+          62.73961389999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Molde <br><b>Legevaktnavn</b>: Molde IK legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.533793200000002,
+          61.773223099999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nord-Gudbrandsdal<br><b>Legevaktnavn</b>: Nord-Gudbrandsdal interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.775826700000001,
+          62.2704923
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nord-Østerdal<br><b>Legevaktnavn</b>: Nord-Østerdal legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.242368200000003,
+          60.986642
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Valdres <br><b>Legevaktnavn</b>: Valdres legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8887027,
+          61.45703129999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Sunnfjord og Ytre Sogn (SYS IKL)<br><b>Legevaktnavn</b>: Sunnfjord og Ytre Sogn interkommunale legevakt (SYS IKL)<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3086579000000045,
+          62.46439909999997
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Ålesund <br><b>Legevaktnavn</b>: Ålesund legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.978021300000007,
+          61.916107499999995
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nordfjord <br><b>Legevaktnavn</b>: Nordfjord legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.081153399999999,
+          62.179182
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Søre Sunnmøre<br><b>Legevaktnavn</b>: Søre Sunnmøre legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9850595,
+          70.97703849999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nordkapp<br><b>Legevaktnavn</b>: Nordkapp legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.984835899999997,
+          69.68373919999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Tromsø<br><b>Legevaktnavn</b>: Tromsø legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3451535,
+          68.86370480000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bardu<br><b>Legevaktnavn</b>: Bardu interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.010281200000005,
+          69.23473450000003
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Finnsnes <br><b>Legevaktnavn</b>: Finnsnes interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4097694,
+          68.4416088
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Narvik <br><b>Legevaktnavn</b>: Narvik legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5259083,
+          68.79526139999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Harstad<br><b>Legevaktnavn</b>: Harstad interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9091868,
+          68.5609911
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Vesterålen<br><b>Legevaktnavn</b>: Vesterålen interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2760366,
+          69.9686648
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Alta<br><b>Legevaktnavn</b>: Alta kommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6716081,
+          70.6730269
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Vest-Finnmark<br><b>Legevaktnavn</b>: Hammerfest legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.521477599999994,
+          69.4718724
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Karasjok<br><b>Legevaktnavn</b>: Karasjok legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0300911,
+          69.00995979999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Kautokeino<br><b>Legevaktnavn</b>: Kautokeino legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0369083,
+          69.7677162
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Nordreisa og Skjervøy<br><b>Legevaktnavn</b>: Nordreisa legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03341969999999,
+          69.70736249999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Øst-Finnmark<br><b>Legevaktnavn</b>: Sør-Varanger legevakt<br><b>Merknad</b>: Kirkenes Sykehus AMK \n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.735634,
+          70.08324090000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Vadsø<br><b>Legevaktnavn</b>: Vadsø legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.414465500000002,
+          67.2777128
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Bodø <br><b>Legevaktnavn</b>: Bodø legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5358131,
+          68.120025
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Lofoten<br><b>Legevaktnavn</b>: Lofoten interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617298000000003,
+          66.0178115
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Helgeland<br><b>Legevaktnavn</b>: Helgelandsykehuset legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1868422,
+          66.3259243
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Legevaktsentral</b>: LVS Rana <br><b>Legevaktnavn</b>: Rana interkommunale legevakt<br><b>Merknad</b>: samlokalisert med  LV\n                 </div>"
+      }
+    }
+  ]
+}

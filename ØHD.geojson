@@ -1,0 +1,2501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.172299699999999,
+          59.2329017
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hjelmeland rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729238500000003,
+          58.8470245
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sandnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04423,
+          59.02336
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Strand rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728814800000002,
+          58.9689555
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stavanger rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6187068,
+          58.99967460000003
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Randaberg rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.645026641828505,
+          58.6160954316613
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hå rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.003120500000001,
+          58.45239669999997
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Eigersund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.294315623018289,
+          58.34274824197287
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sokndal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.089258900000003,
+          58.6383562
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bjerkreim rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8039247000000005,
+          58.095503199999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Farsund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.659980900000004,
+          58.297182299999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Flekkefjord rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0704360999999984,
+          58.137898299999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lyngdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.214855000000002,
+          58.3832812
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hægebostad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.963145400000002,
+          58.3160264
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kvinesdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.252254608024611,
+          59.48568783818554
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Suldal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.354143500000005,
+          59.65071779999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sauda rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275286500000002,
+          59.4103068
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Haugesund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.489644499999999,
+          59.3320464
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Tysvær rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3050466999999975,
+          59.28084570000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Karmøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.411213900000006,
+          58.617519599999994
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Åseral rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.301465864390115,
+          58.08431797029461
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lindesnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.596813600000003,
+          58.346138700000004
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Grimstad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765177500000002,
+          58.4574784
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Arendal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.378563999999999,
+          58.24972269999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lillesand rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.233001114845491,
+          58.3348809386408
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Birkenes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.973606900000003,
+          58.2682449
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vennesla rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.009231799999997,
+          58.1540925
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.997006800000003,
+          58.146712
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kristiansand rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.972021799999998,
+          58.42103109999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Iveland rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.78031729092665,
+          58.56194175384124
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Evje og Hornnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9401779,
+          59.21022989999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Fredrikstad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3871548,
+          59.122371699999995
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Halden rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.111875500000002,
+          59.2815475
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sarpsborg rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256575,
+          60.160095200000015
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ringerike rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1609509,
+          59.584480099999986
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Indre Østfold rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.564683800000001,
+          59.8831713
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Aurskog-Høland rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.838771500000002,
+          59.7205264
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nordre Follo rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.436215099999998,
+          59.83712060000003
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Asker rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039520900000003,
+          59.95446059999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lillestrøm rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.733875100000002,
+          59.912284
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Oslo kommune rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5267536,
+          59.8901155
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bærum rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1637891,
+          60.1349136
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ullensaker rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4795506,
+          60.15453720000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908470000000003,
+          59.77030999999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Øvre Eiker rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2057716,
+          59.74462200000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Drammen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.243222700000002,
+          59.7867782
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lier rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.243222700000002,
+          59.7867782
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lierne rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.014710000000001,
+          60.61317000000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Åsnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.999656,
+          60.19144399999997
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kongsvinger rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.683080300996998,
+          60.25346390098693
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sør-Odal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.052325200000002,
+          59.985590699999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Eidskog rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.411275600000002,
+          59.27043849999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Tønsberg rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.658927000000002,
+          59.43356999999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Moss rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.484787700000002,
+          59.415202999999984
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Horten rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2195832,
+          59.1288421
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sandefjord rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0268665,
+          59.05238079999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Larvik rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169364499999999,
+          59.4502655
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Midt-Telemark rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.646397199999997,
+          59.66511720000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kongsberg rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.262837600000003,
+          59.55927779999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Notodden rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.467142500000001,
+          61.114714000000006
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lillehammer rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264204127769686,
+          61.31548625548451
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Trysil rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7767094,
+          61.60381330000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stor-Elvdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.558958000000004,
+          60.392268999999985
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gran rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5632988,
+          60.881498
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Elverum rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7351622,
+          60.9089836
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ringsaker rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343884409262227,
+          60.81745807599983
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Løten rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.816854519662126,
+          60.67698745459357
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Østre Toten rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0783604,
+          60.79444419999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hamar rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.191266,
+          60.715923000000004
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stange rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6926616,
+          60.79474960000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gjøvik rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.609496,
+          60.72480250000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vestre Toten rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2249223,
+          60.70393539999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Søndre Land rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.075649299999998,
+          60.8343741
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nordre Land rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.414866100000001,
+          58.869421799999984
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kragerø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746168999999998,
+          59.00174000000003
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bamble rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.655529,
+          59.1410401
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Porsgrunn rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.610513299999997,
+          59.2074695
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Skien rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0850892,
+          59.1829364
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Fyresdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536060100000001,
+          59.2130095
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Valle rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.880947599999997,
+          60.2555777
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nore og Uvdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.593610000000004,
+          59.87859040000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Tinn rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9890011,
+          59.569234900000005
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vinje rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.627786599999999,
+          59.6056554
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hjartdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.492315200000002,
+          59.40213669999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kviteseid rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236804000000003,
+          60.9854954
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nord-Aurdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.412651199999999,
+          61.8415213
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sel rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74823528251371,
+          61.59552410277426
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nord-Fron rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.939400296642825,
+          61.55652002242317
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sør-Fron rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687565300000005,
+          62.59496369999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Oppdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384106800000001,
+          62.5748112
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Røros rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.418387620841368,
+          60.627834541603185
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Voss rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838733480866206,
+          61.073992615407995
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Solund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9051454,
+          60.07395979999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Austevoll rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.599214700000004,
+          60.046365699999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Tysnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6411444999999985,
+          60.23035050000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bjørnafjorden rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.328154400000002,
+          60.39209879999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bergen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.226059000000006,
+          60.409121600000006
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Askøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912087585359943,
+          60.514307146201816
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Øygarden rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1584647000000015,
+          60.6221393
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Alver rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.995594300000004,
+          59.9361331
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kvinnherad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.550333639516589,
+          60.06199881865883
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ullensvang rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.099212399999998,
+          61.227225600000004
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sogndal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4809,
+          61.09858
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lærdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.458154999999998,
+          61.44481310000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Luster rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.857355999999999,
+          61.45027519999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sunnfjord rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1455876,
+          61.70330740000001
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gloppen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731665799999998,
+          63.11173460000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kristiansund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.012228220923285,
+          63.459840406719216
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Smøla rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.375707400000001,
+          63.2874911
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Aure rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.180824500000008,
+          62.74025909999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Molde rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.153863355071214,
+          62.85414111431264
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hustadvika rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6380275000000015,
+          62.10101309999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vanylven rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.114181279976978,
+          61.93573265658784
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kinn rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9934790000000016,
+          61.9067218
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.029839200000001,
+          62.3690072
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hareid rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.844793300000001,
+          62.3440481
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ulstein rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631680700000006,
+          62.34175749999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Herøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631680700000006,
+          62.34175749999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Herøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.130988999999997,
+          62.1991849
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ørsta rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.074797700000002,
+          62.1452551
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Volda rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.944410099999999,
+          62.307719600000034
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stranda rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.578272000000006,
+          62.38963589999997
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sykkylven rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.582652999999999,
+          63.78279029999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Ørland rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3950528,
+          63.43051489999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Trondheim rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.041290100000001,
+          63.219245399999984
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Selbu rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.919023100000004,
+          63.468616499999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Stjørdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.959067700000002,
+          63.5830455
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Indre Fosen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4964446,
+          64.0130377
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Steinkjer rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2997774,
+          63.745956299999996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Levanger rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.604895817632913,
+          64.86370081701163
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nærøysund rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.207735400000002,
+          65.47355769999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Brønnøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.964408354116811,
+          65.6754451636394
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vega rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377311300000002,
+          65.0878615
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bindal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.159542300000002,
+          64.92885839999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Namsskogan rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.314299599999998,
+          64.4640041
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Grong rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4955928,
+          64.4662906
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Namsos rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.857930100000003,
+          64.4760978
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Overhalla rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.991549800000001,
+          65.59636519999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hattfjelldal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.140005836878919,
+          66.31119138421255
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Rana rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1997711,
+          65.84087339999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vefsn rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38542817470117,
+          65.53856926016921
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Grane rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.486692953925607,
+          66.11424201068945
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Dønna rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0181848,
+          66.1980927
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nesna rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.096450539434606,
+          66.50159500371555
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Træna rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2844964,
+          66.71162459999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Rødøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707180000000001,
+          66.87203
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Meløy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.016513332346248,
+          67.776163898756
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Steigen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.382775600000002,
+          67.2838622
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bodø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.026432026738844,
+          67.03470029670522
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gildeskål rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.573104013990259,
+          67.00730266197917
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Beiarn rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5945949,
+          67.34829709999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sørfold rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39458328385464,
+          67.10141513836543
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Saltdal rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391632200000002,
+          67.2591843
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Fauske - Fuossko rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.115549922441817,
+          67.5173687246857
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Røst rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.693414396550788,
+          67.66386158225829
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Værøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6115747,
+          68.1484766
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vestvågøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5626291,
+          68.23219979999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vågan rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90845020829136,
+          68.56324473671165
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hadsel rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.478991813798753,
+          68.68827597489735
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4051116,
+          68.69588449999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sortland - Suortá rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.615680927054411,
+          68.08375399409654
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hamarøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.087147099999997,
+          68.9148015
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Øksnes rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.767927900000002,
+          69.1143754
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Andøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5414503,
+          68.7986342
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Harstad rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.427261199999997,
+          68.43849839999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Narvik rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3503897,
+          68.8602856
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Bardu rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.788173499999996,
+          68.76234970000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Loabák - Lavangen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.834559348226,
+          68.87442821021132
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Salangen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9553282,
+          69.6514443
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Tromsø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.614990619615384,
+          69.1238201252508
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Målselv rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.98745685052199,
+          69.23233828566106
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Senja rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2609587,
+          69.21711189999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Balsfjord rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.215869376058528,
+          69.57634033087864
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lyngen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8366678,
+          69.49238479999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gáivuotna - Kåfjord - Kaivuono rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.047428994809653,
+          69.93983322212337
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kvænangen rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973745299999997,
+          70.0339919
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Skjervøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.025770508618216,
+          69.76825819386292
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nordreisa rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.348508170171975,
+          70.23946397682496
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Loppa rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1608225,
+          70.4866764
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Hasvik rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.293388,
+          69.97718100000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Alta rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.047039199999993,
+          69.01809119999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Guovdageaidnu - Kautokeino rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.301445800000003,
+          70.38516109999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Porsanger - Porsángu - Porsanki  rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.518802399999995,
+          69.47221109999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Kárásjohka - Karasjok rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66167133587181,
+          70.99657261347771
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Måsøy rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.974970000000003,
+          70.97822
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Nordkapp rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68594649999999,
+          69.75785319999999
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Sør-Varanger rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.107324999999992,
+          70.37008
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vardø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.748118099999992,
+          70.0745056
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Vadsø rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.717845,
+          70.63450120000002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Båtsfjord rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2440669,
+          71.061808
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Gamvik rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.002076699999993,
+          70.57283559999998
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Lebesby rådhus\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.191871200000005,
+          70.1986934
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Rådhusnavn</b>: Deatnu - Tana rådhus\n                 </div>"
+      }
+    }
+  ]
+}
