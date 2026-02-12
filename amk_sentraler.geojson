@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.352561372078137,
+          58.26238091549052
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Sørlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.312475212121667,
+          62.46372601726269
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK og MKA<br><b>Navn</b>: AMK Møre og Romsdal\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417961542680377,
+          59.27240962218734
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Vestfold-Telemark\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.680882956233239,
+          60.802924548080654
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Innlandet\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193850974619796,
+          59.750258716716246
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Buskerud\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73709926969283,
+          59.937093068778445
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK/K-AMK<br><b>Navn</b>: AMK Oslo\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.987780793764884,
+          59.93212665464502
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: MKA<br><b>Navn</b>: MKA Lørenskog\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.359560806595248,
+          60.373388371390085
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Bergen\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.886168583247333,
+          61.45621037414607
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Førde\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73345446294715,
+          58.95307034356369
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK/K-AMK<br><b>Navn</b>: AMK Stavanger\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.280231527344804,
+          59.40966680428065
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Fonna\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.617761851407444,
+          66.01809639537261
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Helgeland\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.386801014005568,
+          63.419875383461324
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK/K-AMK<br><b>Navn</b>: AMK Sør-Trøndelag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.504344487046437,
+          64.47145113500409
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Nord-Trøndelag\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.98055655474191,
+          69.68310595966679
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK/K-AMK, FKS og MKA<br><b>Navn</b>: AMK Tromsø\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.396550898819465,
+          67.28258850270589
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Bodø\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.03344125658927,
+          69.70742945760139
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Type</b>: AMK<br><b>Navn</b>: AMK Kirkenes\n                 </div>"
+      }
+    }
+  ]
+}
