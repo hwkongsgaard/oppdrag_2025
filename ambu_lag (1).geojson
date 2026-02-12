@@ -1,0 +1,3892 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25795818812028,
+          60.14897410139947
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Arnegård<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 44229\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.530889057136108,
+          59.8879358648029
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bjørkelangen Vest<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 19600\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98433063965987,
+          59.929116814813455
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Torshov - Hammer<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 129907\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.838885669983188,
+          60.04207535575823
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Mo<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 33794\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.805485996012793,
+          59.83002769414007
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nedre Prinsdal<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 95006\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8241379428546,
+          59.92793142868755
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordre Hovin<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 249943\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684476422863202,
+          59.94496942026412
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Østre Holmen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 119911\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757318673734193,
+          59.916377103961935
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum 2 /rode 10<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 156581\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741489706878191,
+          59.938343726294434
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lindern rode 4<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 134731\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.844391643720478,
+          59.72475020491969
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vardåsen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 55750\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709909738420341,
+          59.65444677614298
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Holstad - Skoftestad<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 60123\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.509933874486224,
+          59.89933954156329
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Dønski - Rud 01<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 92457\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.438792069707981,
+          59.830464344100335
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bondi<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 81140\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.200076098543366,
+          59.748718851925155
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bragernes Sentrum 6<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 106090\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.515338850895745,
+          59.681571402962675
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sætre Nord<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 17640\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964687462079368,
+          59.91098317911276
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sevals<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 15546\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.884932235968988,
+          59.76374228050472
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Semsmoen - Sundmoen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 35640\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.171114838122651,
+          60.16584587664084
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordbytjern<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 88769\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.469820316225238,
+          60.12549193716895
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Årnes<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 25314\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92769765867278,
+          59.208105649402185
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Aasgård - Nordre Bjølstad<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 82712\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.275976501926534,
+          59.56283522379161
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Slitu Øst<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 55165\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37320187178877,
+          59.12846834615373
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Stangeløkka<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 34035\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.104708893147633,
+          59.28347401107268
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Turkerud<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 67610\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.662941443277504,
+          59.664797789832015
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skinnarberga<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 30575\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.526936856119917,
+          60.01876874184682
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nubberud<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3668\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.64354550906031,
+          60.18925701918868
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Olberg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3870\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.088747012631423,
+          60.008863034764985
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Søndre Veggli<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1928\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.275369922244636,
+          59.55873032924263
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tinne<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 14599\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.114881045944095,
+          59.44278650545305
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Valen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 10035\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.578008270574545,
+          60.358444161458
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vassenden<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 14816\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.078322616390015,
+          60.80569300357348
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nedre Mæhlumsløkka<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 65652\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.681922097100868,
+          60.8009765643687
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordbyen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 50706\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22551955100623,
+          60.38367628777155
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Setre<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 13866\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.555331229446383,
+          60.40697270672903
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sand Øst<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 11294\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.994341912138678,
+          60.195135270090695
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Langeland 1<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 19991\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119011407015158,
+          59.98694317901907
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skotterud<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 6874\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696444562088388,
+          59.44960243828773
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Grindvold<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 66679\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.459165109261079,
+          59.42176134098002
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lillås<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 23235\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.317073114057804,
+          59.47227057993354
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bentsrud<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 34902\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.412985011860792,
+          59.268622651022014
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Byfogdløkken<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 90150\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2116518053894,
+          59.13196526431027
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ekeberg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 57719\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.063348976767271,
+          59.055121283448734
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Byskogen Øst<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 41883\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.149367628057137,
+          60.5271695351448
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ustedalen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3317\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451241984397297,
+          61.10685219759306
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordre Vang<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1951\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.573283468380401,
+          60.88754918624542
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Trøim<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 2536\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57655987310279,
+          60.63941215340501
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sundre<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 5560\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.939279164357329,
+          60.28046681164287
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rødberg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 2221\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.529910378914602,
+          60.81581041227387
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Voll<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4019\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.221268457582052,
+          60.98661875033788
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fagernes Vest - Nes<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 11298\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.091551715738616,
+          60.568298939365
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nesbyen Vest Sentrum<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4257\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928773670812042,
+          60.68593156151176
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Gol Tettstad Vest<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4674\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60932302558478,
+          59.88038120061387
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rjukan Kirke<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 5882\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.645850638168271,
+          59.46577021147205
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Seljord Sentrum - Syd For Riksveg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 5542\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.374741089655217,
+          61.13697019059624
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rena<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4837\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691166591055518,
+          60.91801972178145
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Strand Brænderi<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 26042\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.471940703600266,
+          61.1138551692916
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fylkessykehuset<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 34312\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.184867184772306,
+          61.22851380805562
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fjerdum 3<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 7911\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.388536007865362,
+          60.72328023470173
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hov<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 5334\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046067196950556,
+          60.84131217062312
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Brustuen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 8489\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04210233898383,
+          61.574904126754035
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 2062\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.084491559726283,
+          61.75742553262403
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Otnes<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1688\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.265934385078342,
+          61.324604232135385
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Grindbekken<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 6533\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.022821621112195,
+          60.6170695201727
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Keserud - Toverud<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 14422\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570468789999197,
+          60.877398415175996
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Leiret Sentrum Syd<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 26165\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.971174266385216,
+          59.03224046631462
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Preststranda<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3591\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.263991259477631,
+          59.280711480300546
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ulefoss<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 6310\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.759216268586798,
+          58.97085804714907
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sota<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 13729\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.64693352796861,
+          59.119223464855025
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Klevstrand<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 39874\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.593250615648344,
+          59.19348043804283
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Faret<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 54179\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.415446592452819,
+          58.86998954356379
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hovedbyen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 10303\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.190787213321894,
+          58.70433631215894
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Frivoll<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 7155\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07709981174454,
+          58.81728902109012
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Brokeland<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 8827\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.524526412046665,
+          59.05108774801569
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tveit<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1571\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.119377622502872,
+          59.19712478585834
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1351\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47234649663222,
+          58.756858432098255
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Åmli 2<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3102\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.786339198425578,
+          58.84433144584352
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bygland<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 758\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.898956745741886,
+          59.42627114324697
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vistad<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1428\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.980838521661531,
+          59.57803734753532
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Mannås - Åbø<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4287\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56000259466498,
+          59.18973983126163
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vallebø<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1169\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.38335946775659,
+          59.34625621415052
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bykle<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 931\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.040413114891363,
+          61.88681552152034
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Drevsjø<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1468\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.783575057997004,
+          62.269202369037245
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Holmen 1<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 11162\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989357713022521,
+          62.132098645816725
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Folldal Sentrum<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1665\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.388015026847118,
+          62.57758871207109
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Røros sentrum<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 5539\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.354723541411945,
+          62.828580300651815
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Graftås<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2023\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.649261599679717,
+          62.96626935278711
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kirkvold<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 760\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.558769972370198,
+          61.83915249247249
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lykkja<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4251\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.110968915717297,
+          62.06779566457394
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Dombås Vest<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4463\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.092382616013747,
+          61.92339254217432
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Finntryu<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 3793\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75121040222531,
+          61.59406224862533
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vinstra 1<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 7024\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.531391532005687,
+          61.77336903544421
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ottekren<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 5491\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.134380593263034,
+          61.531164406079405
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vålebru<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 6593\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.68244121879359,
+          62.59511306006769
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Auneveien vest<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 7086\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.020857912294403,
+          62.8357119020389
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Berkåk nord<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3127\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.600363398599056,
+          58.342604417042175
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Biodden 1<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 22538\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75675230932664,
+          58.467418295305
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Klinkenberg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 52040\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.367550497469015,
+          58.256042905401095
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lofthus - Møglestu<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 15669\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.987725601490899,
+          58.15605995548163
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eg<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 106333\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.991633274629773,
+          58.27194354805345
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vennesla<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 22099\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.461890525852329,
+          58.029949735670264
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Øvrebyen<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 22668\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.798696273383346,
+          58.088891196487445
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kjørestad<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 9538\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.664047612908654,
+          58.294422337911
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nedre Sunde<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 13928\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.062828468642231,
+          58.13154808755764
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Alleen - Berge - Rosfjord<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 9900\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.254680044925682,
+          58.493292667781986
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eiken<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4492\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.837665762027942,
+          58.59477836530534
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kyrkjebygda<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 4972\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442406439655007,
+          58.60633989980292
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Forgard<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 925\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.609085453471691,
+          58.69479361103518
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rimestadkrossen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 47369\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7829128444089,
+          58.659247802013105
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tonstad<br><b>HF</b>: Helse SørØst<br><b>Befolkning</b>: 1827\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.016555591373569,
+          58.4652757068337
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lagård<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 18309\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212382310439365,
+          58.37827320099589
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rossland/Åvendal<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6302\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.809223744169104,
+          59.58938711030856
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kyrkjekrinsen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 12600\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.071268923429084,
+          59.012214284423486
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tungland<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 14025\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.738225506906594,
+          58.9501913050713
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Jarlabanen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 154450\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.709490650481348,
+          58.8520201940044
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Stangeland 1<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 121573\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.877005181329062,
+          59.172295739581045
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Judaberg<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6235\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.174719369239833,
+          59.21962193888538
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hjelmen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2488\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.283122954858409,
+          59.46069241354213
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sandsbygda<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 3852\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.342793085014391,
+          59.64946236155241
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fløgstad<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 4701\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.292522945125956,
+          59.4045784716387
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Grønåsen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 69672\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.20746570190569,
+          59.25630667058762
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Grindhaug<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 26149\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5485268426066074,
+          60.06535593211785
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nyland - Bygdabøen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 10413\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.158895980282407,
+          60.37049943820053
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tolo<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 7725\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.745453038688045,
+          60.51189791444005
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Jamne<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 5345\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074276512837621,
+          60.32543678123861
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fjell<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 31820\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331730930206,
+          60.384183597148755
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Johannes Bruns Gate<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 108772\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336511349666639,
+          60.47008211724024
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Litleåsen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 53164\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.350086646983481,
+          60.31667648894143
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nesttun<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 83482\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.203435393830125,
+          60.38198887337064
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Leirvik<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 42032\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.215797157745988,
+          60.4140043700858
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Myrane - Øvre Kleppe<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 29552\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.505773576294216,
+          60.52453467957905
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lonevåg<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 9029\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.293335342693426,
+          60.541155117906975
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Knarvik Senter<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 27148\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.675286438031652,
+          60.071688522644735
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Gripne<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 3722\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746512942410144,
+          59.861691778218294
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tørreshaugen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 11752\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.480302532762543,
+          60.16732151439192
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Moberg Ytre<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 21568\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744167896807286,
+          60.22720248956731
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eikeland<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6069\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.253249016852136,
+          60.09735976104847
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Storebø - Området<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 4530\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.191103541265126,
+          59.79143858040227
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Svortland<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 10062\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5016003863036715,
+          59.78704820330665
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ås<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 25098\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.063001052128245,
+          60.44697047877961
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vik - Lægreid<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2918\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4143196348949445,
+          60.62453435511504
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vangen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 15621\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.490994416822896,
+          61.09512378765768
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lavik<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2432\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933187610099816,
+          60.78730419828742
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sætre<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 8632\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.172239489285442,
+          60.93858885392271
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Dalsøyra<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 3104\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.423607671490909,
+          61.357036213743726
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Dale - Sletteland<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6473\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.033518653467233,
+          61.60040763497257
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 11377\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332812739507101,
+          61.73791810704245
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Svelgen Sentrum<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2017\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1331105882785995,
+          61.92787263466793
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kulen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6167\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.964941279370315,
+          61.855005048030826
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hauge<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 1598\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.295301681507607,
+          62.04662661283014
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Selje - Selja<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2420\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.058273086249698,
+          61.22787196673654
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Høyanger 4<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 4060\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.580266863695257,
+          61.08309531425497
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Viksøyri<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 2618\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9129272689542445,
+          61.44709910614016
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vie<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 19897\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7255000774927565,
+          61.89284899165346
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Visnes<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6629\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.085199614891167,
+          62.14863857873717
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Myrane<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 20896\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99694222560002,
+          61.90874521044751
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lunden - Gjerde - Osnes<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6399\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.213718353156243,
+          61.77364274110642
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sandane Sentrum<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 6916\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5440907419198115,
+          62.10813639287268
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fiskå<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3621\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.587562350068591,
+          62.196103886384854
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Larsnes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2586\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.104066181869018,
+          61.234423574996946
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Leite<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 11470\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312399746369198,
+          61.43034920426669
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Gaupne<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 4502\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533564580154624,
+          61.11293214876216
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lærdalsøyri<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 3814\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72169219177532,
+          61.240519346706755
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vassbugen - Uthagen<br><b>HF</b>: Helse Vest<br><b>Befolkning</b>: 5165\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.675113052953287,
+          62.683484820202835
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Midsund Ytre<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2009\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86418062550227,
+          62.517580499517834
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sjøholt<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 6789\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.063996883699996,
+          62.602741004335876
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Helland/Remmemsvik<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 7601\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.914942478765037,
+          62.80616869274803
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Falkhytta<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2456\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.05190834599523,
+          62.75843299067113
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vorpenes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3581\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.815136109557376,
+          62.60047112056247
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hen<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 6329\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.189487465943726,
+          62.92244431403724
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tingvollvågen nord<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2986\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.233594626492895,
+          62.74144916183713
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kviltorp<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 27185\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.550047515252174,
+          62.849859360669434
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bjerkely<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4037\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.146574175067063,
+          62.87666479418469
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eidem<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 11417\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.995512717893462,
+          63.32998726446036
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ragnes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2123\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.725681035687376,
+          63.108087010547834
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hollahaugen<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 24562\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.600094368891449,
+          63.012504131773305
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vebenstad<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 5912\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561905620721532,
+          62.67044899422852
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Auragata vest<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 6956\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.730680204266456,
+          62.963138113100676
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skei<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 5270\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.116616861033966,
+          63.28193292590362
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bugen<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4419\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.231441482242019,
+          63.0565435513614
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rindal<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3717\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.591044650665697,
+          63.272761440258805
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Aure<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3465\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.338262593784208,
+          63.127100605253
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Liabø<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1950\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.779673277348833,
+          63.724021881038325
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sistranda<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4950\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933840137095757,
+          63.579651900504324
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fillan<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 5043\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.173112718005635,
+          62.10088032308369
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Geiranger<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 326\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159932177190877,
+          62.83583707045835
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Røsok<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1291\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.270057660131036,
+          62.6374232741654
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Austnes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2852\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4492214229539915,
+          62.576326983095925
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Aksla - Håvik<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 6818\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.594762453995649,
+          62.38909640662518
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Aure<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 7420\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.110555232767842,
+          62.52486428615499
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Oksnes/Gjøsundsæther<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 12143\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.358040938072832,
+          62.475246724485956
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Breivika<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 45895\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2826996399752195,
+          62.433671386810225
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rørstad<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 9237\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632594167827136,
+          62.32255941727874
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eggesbønes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 7592\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.889887990874664,
+          62.34230303734281
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Holsekre øvre m/Hofsetmarka<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 14321\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93000235803668,
+          62.30985169013469
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ringstad<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4300\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211663388869347,
+          62.30486608412756
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Muri<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1778\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.793569885861274,
+          63.43334655431638
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Midtbygda<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2536\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.281406475307719,
+          63.040834393472934
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fredheim<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 9828\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02300068071174,
+          63.22270713027931
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Mebonden-vest<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 3947\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.923939448990055,
+          63.470210500244725
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 29486\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.605070362751782,
+          63.66731087790828
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vinnan<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2988\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.846552691193692,
+          63.29470207732496
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Evjen<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 19441\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28740763982018,
+          63.2813397667282
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum øst<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 17359\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.389784978761556,
+          63.42314144563355
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sannan<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 107261\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51587022046942,
+          63.42654504182313
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ranheim 6<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 54717\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.361801102757827,
+          63.34700516374483
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Heimdal 23<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 56131\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.960801480132826,
+          63.58830707091115
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Årnseth<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 6889\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.66797666702957,
+          63.686961879582356
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Brekstad<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 10594\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288592655035142,
+          63.74198666171291
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Levanger sentrum<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 36355\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480721334398227,
+          64.01587732667856
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordsileiret<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 26218\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16605875517031,
+          64.05315012687439
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bratreit<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4558\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.226972860871923,
+          63.9704534216263
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Årnes<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 4098\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01253175057984,
+          64.30757234700289
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bessaker<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1774\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01799595041079,
+          65.61259934802698
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kjul<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1173\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.394859849018259,
+          64.25183197828854
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Snåsa øst<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 2210\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.357974232366466,
+          64.47467256001966
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Mediå<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 5792\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.533823147085542,
+          64.44802093824806
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Spillum<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 15711\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.875090660381707,
+          64.50860246477538
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lauvsnes vestre<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1397\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.763494105848507,
+          65.11087393639802
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skei/Husby<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 616\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.214287829991582,
+          64.86054833257798
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Byåsen<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 9369\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.365456397617624,
+          65.07240285639313
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Terråk<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1373\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.224693101630573,
+          65.36771148718904
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Berg/Klakken<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2476\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.199686334328677,
+          65.45017233308357
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hestvadet/Strømmen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 7665\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.598551076837051,
+          64.47616877273141
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sandvik<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1236\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.126642046757304,
+          64.95661438439049
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lonet<br><b>HF</b>: Helse Midt<br><b>Befolkning</b>: 1340\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.178799603256586,
+          68.74011933093412
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Straumsjøen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2579\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.181835328111292,
+          66.3247175833598
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sykehuset<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 25662\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.974065270716526,
+          65.59923475951533
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hattfjelldal vest<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1295\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.040808857602055,
+          66.20690321504937
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nesna nord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2087\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753938044891536,
+          66.0680531121384
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Korgen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 4756\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.083262113186892,
+          66.49069514312382
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Konsvik<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 700\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60438794199152,
+          66.02556770900016
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Stamnes/Åsen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 9627\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621367973456048,
+          66.10866199644917
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Bjørn/Berfjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3204\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.218173190635383,
+          65.83180926679525
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nyrud<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 12857\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429269761344456,
+          65.52690859123946
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fellingfors<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1498\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.238987921620541,
+          67.76440684875101
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordfold<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2576\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.024238886732059,
+          67.02398176077894
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Inndyr søndre<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1681\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.722468902898104,
+          66.86977483669146
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ørnes/Spildervik<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 4356\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.533060269235827,
+          66.7810660863438
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Enga<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2302\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.738513794173898,
+          66.92701401727194
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Høyforslett<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 986\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.394853226931561,
+          67.10536498260409
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rognan sentrum<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 5062\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.387583967924662,
+          67.2591873988695
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Follaveien<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 11444\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.439472501199218,
+          67.28735418080481
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordland p.sykehus<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 41291\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.735654358297914,
+          67.29324010128691
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tverlandsbyen sentrum<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 10757\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.562290723641828,
+          68.23384889360206
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lilleøya 4<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 9893\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.557164242513263,
+          68.11447374120216
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Buksnes<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 11963\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.355899507725654,
+          67.84366086309252
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Reine<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1745\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.99092684337523,
+          68.41358796282795
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lødingen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2390\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.413774037724146,
+          68.44308648140499
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Storåsen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 16620\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.82668158770062,
+          68.34237658184195
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sentrum<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2473\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.641111835484374,
+          68.66203605523268
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Elvenes<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3499\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.913512291627251,
+          68.55168467520588
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Stokmarknes søndre<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 7418\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415282201079332,
+          68.69607510025119
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sortland<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 11115\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.069954934792053,
+          68.92104015017985
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Myre/Høydal<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 4282\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.633718279539178,
+          68.97212731271317
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Risøyhamn<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1302\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.633907436245973,
+          68.07499163956855
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Oppeid<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1591\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38759461394536,
+          68.09614544084295
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Prestegårdsjordet<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 876\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.029777796538163,
+          68.05681821115246
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Drag<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1199\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.518649727058563,
+          68.79544220006356
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skaret<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 25196\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.603655790971892,
+          68.57631389700877
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skånland - Bø - Elvenes<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 6003\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.19727966770727,
+          68.77860221581047
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hamnvik<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1319\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.973544893280216,
+          69.68311367504319
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Universitetsområdet<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 76113\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.225456405498964,
+          69.4691416854772
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Andenes 2<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3282\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35105920947259,
+          68.84494445202688
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nesmoen - Toftaker<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3958\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.032804208808983,
+          69.24117459610844
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sandvik<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 14437\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.842410196832375,
+          68.88003879976273
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sjøvegan 1<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2902\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.68681490790131,
+          69.08442569822469
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Brøstad<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1614\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.252130261484535,
+          69.10616324548236
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Eidet<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 921\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55959029267147,
+          69.11805509794758
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Fleskmo<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 5168\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.83562351989815,
+          69.02745759393382
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Rundhaug<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1510\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10313160857674,
+          69.35893017304365
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Gryllefjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 573\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.19745275832103,
+          69.58915208951066
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Ersfjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1745\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.982613721351903,
+          69.32571522640967
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Meistervik<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1947\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.521079150143265,
+          69.2325375669958
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordkjosbotn Nord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 5152\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.081641223329868,
+          69.93603932040755
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Burfjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1321\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.64904165977524,
+          69.98361223410444
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hansnes<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1400\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03637959849806,
+          70.06958864892006
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vannvåg<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 799\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04756892282815,
+          69.76217992987223
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Sør - Lenangen Øst<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 752\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.21314645338102,
+          69.58369800292708
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Lyngseidet<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2110\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.334568231376753,
+          69.42235451579049
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Marked<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 802\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.827413081954333,
+          69.50176419407548
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Birtavarre<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1937\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.073955987483885,
+          69.7610403260262
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Storslett Sør<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 4906\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0181411077605,
+          70.06177824718642
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Skjervøy Nord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2923\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949903695892413,
+          70.07637345570907
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Smørstad<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3998\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.27407751689071,
+          69.96571211203992
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Alta Nye Sentrum<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 20577\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.361294840788975,
+          70.28378472166186
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Øksfjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 633\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.281885704925777,
+          70.51172567179503
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Hasvik 2<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 978\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.681906130008148,
+          70.99214953999986
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Strandveien Øst<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1160\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.686803525926596,
+          70.67634154822295
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tåkeheimen<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 11044\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.970869045195197,
+          70.95875226831407
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Nordvågv. - Juledagsnesområdet<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3069\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.021728393957478,
+          69.00822558485328
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kautokeino - Hannumaras<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2899\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.512269129072575,
+          69.45792935838425
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Karasjok Tettsted<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2640\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.252978148828984,
+          70.48337924729572
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Vardø 6<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1951\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.67465201861157,
+          70.05582759683095
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Industriområde - Prestelv Vest<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 5648\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17120768749521,
+          70.19959802946642
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Tana bru<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 3924\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.017505285521974,
+          69.68293705254777
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: A.v.l.<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 9882\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.11478103490627,
+          70.98372800329409
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Kjøllefjord Vestre<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1008\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.93378034264776,
+          71.17464081070037
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Mehamn - Vevikneset<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 1225\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.31296777137193,
+          70.93334951297851
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Revnes<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 923\n                 </div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.02569295115978,
+          70.74381316493162
+        ]
+      },
+      "properties": {
+        "tooltip": "<div>\n                     <b>Navn</b>: Indre Båtsfjord<br><b>HF</b>: Helse Nord<br><b>Befolkning</b>: 2185\n                 </div>"
+      }
+    }
+  ]
+}
