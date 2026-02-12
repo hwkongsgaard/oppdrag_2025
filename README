@@ -1,0 +1,20 @@
+README
+
+Dette prosjektet omhandler geokoding og kartlegging av helsetjenester i Norge.
+
+Geokoding:
+
+Utført med Nominatim
+ og Google Maps API.
+
+Datakilder for helsetjenester:
+
+Adresse Registeret (NHN)
+
+Fastlegeregisteret
+
+Helsepersonellregisteret (HPR)
+
+Legelistene
+
+Tidligere arbeid med akuttmedisin
