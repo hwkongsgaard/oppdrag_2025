@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.460802,
+          63.417871
+        ]
+      },
+      "properties": {
+        "navn": "MYWORKOUT AS",
+        "type": "Dataprogrammeringstjenester",
+        "adresse": "Ingvald Ystgaards veg 23, 7047"
+      }
+    }
+  ]
+}

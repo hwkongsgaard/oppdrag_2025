@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9937353,
+          59.2281753
+        ]
+      },
+      "properties": {
+        "navn": "SCANDOI COMPANY AS",
+        "type": "Uoppgitt",
+        "adresse": "Trykkeriveien 6, 1653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702206,
+          59.914169
+        ]
+      },
+      "properties": {
+        "navn": "TIMON AS",
+        "type": "Uoppgitt",
+        "adresse": "Drammensveien 82B, 271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4287028,
+          59.833796
+        ]
+      },
+      "properties": {
+        "navn": "NICK AS",
+        "type": "Uoppgitt",
+        "adresse": "Kirkeveien 230, 1383"
+      }
+    }
+  ]
+}

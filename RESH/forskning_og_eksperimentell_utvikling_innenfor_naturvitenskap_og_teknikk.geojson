@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6786575,
+          58.9393894
+        ]
+      },
+      "properties": {
+        "navn": "DR KAARE VIGANDER",
+        "type": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+        "adresse": "Ragnhilds gate 60, 4044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745259,
+          59.933949
+        ]
+      },
+      "properties": {
+        "navn": "FOLKEHELSEINSTITUTTET",
+        "type": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+        "adresse": "Lovisenberggata 8, 456"
+      }
+    }
+  ]
+}

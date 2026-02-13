@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.479141,
+          64.015452
+        ]
+      },
+      "properties": {
+        "navn": "TRIVGRUPPEN AS",
+        "type": "Hovedkontortjenester",
+        "adresse": "Seilmakergata 1, 7725"
+      }
+    }
+  ]
+}

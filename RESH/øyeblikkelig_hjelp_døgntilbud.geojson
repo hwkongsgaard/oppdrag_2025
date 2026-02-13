@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3495671,
+          70.2458875
+        ]
+      },
+      "properties": {
+        "navn": "ØKSFJORD HELSESENTER",
+        "type": "Øyeblikkelig hjelp døgntilbud",
+        "adresse": "Hankenbakken 26, 9550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.659339,
+          70.996275
+        ]
+      },
+      "properties": {
+        "navn": "HAVØYSUND HELSESENTER",
+        "type": "Øyeblikkelig hjelp døgntilbud",
+        "adresse": "Søndregata 1, 9690"
+      }
+    }
+  ]
+}

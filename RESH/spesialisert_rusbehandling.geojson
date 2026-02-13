@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.721753,
+          58.829628
+        ]
+      },
+      "properties": {
+        "navn": "TYRILISENTERET I SANDNES",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Snekkerveien 36, 4321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.296782,
+          59.5414286
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN PHOENIX",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Folkenborgveien 198, 1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2766456,
+          59.4067963
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK HAUGALAND AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Haraldsgata 16, 5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.211617,
+          59.413911
+        ]
+      },
+      "properties": {
+        "navn": "OMEGASTIFTELSEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Høgtoppsvingen 17, 3174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4676356,
+          63.4406186
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK LADE SA",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Lade alle 86, 7041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.854072,
+          59.906354
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN TRASOPPKLINIKKEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Trasoppterrassen 25, 672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75932,
+          59.934512
+        ]
+      },
+      "properties": {
+        "navn": "A-SENTERET MARIDALSVEIEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Myrens Verksted 2, 473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.960519,
+          59.115388
+        ]
+      },
+      "properties": {
+        "navn": "FJORDHAGEN DRIFT AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Fiskåvegen 732, 4121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.874602,
+          58.2888523
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK LOLAND AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Lolandsvegen 39, 4715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5021299,
+          60.0066329
+        ]
+      },
+      "properties": {
+        "navn": "MESTRINGSHUSENE TYSNES AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Uggdalsdalen 17, 5685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.211617,
+          59.413911
+        ]
+      },
+      "properties": {
+        "navn": "OMEGASTIFTELSEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Høgtoppsvingen 17, 3174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4719453,
+          60.6609198
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN SOLLIAKOLLEKTIVET",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Sollivegen 403, 2840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.78284,
+          59.911882
+        ]
+      },
+      "properties": {
+        "navn": "TYRILISTIFTELSEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Normannsgata 47, 655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3848586,
+          61.726404
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN RENÅVANGEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Engerdalsveien 1222, 2485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5152428,
+          68.547673
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK TJELDSUND AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Fjelldalsveien 349, 9441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40398,
+          63.434894
+        ]
+      },
+      "properties": {
+        "navn": "LUKAS STIFTELSEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Fjordgata 10, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.859613,
+          59.955846
+        ]
+      },
+      "properties": {
+        "navn": "INCOGNITO KLINIKK STI",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Apalløkkveien 8, 956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0092288,
+          60.8416432
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN RIISBY BEHANDLINGSSENTER",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Nordsinni 356, 2870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7548006,
+          60.5828626
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FEKJÆR",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Fekjarvegen 110, 3528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8402884,
+          59.5480969
+        ]
+      },
+      "properties": {
+        "navn": "SKJELFOSS PSYKIATRISKE SENTER TSB",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Bråteveien 31, 1827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6066203,
+          59.2119618
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK SKIEN AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Kongens gate 33, 3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.418052,
+          60.920144
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN VALDRESKLINIKKEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Søreisvegen 13, 2910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.864717,
+          60.778478
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FREDHEIM",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Baldisholvegen 85, 2350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6785081,
+          58.9937896
+        ]
+      },
+      "properties": {
+        "navn": "ROGALAND A- SENTER AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Dusavikveien 216, 4028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.000297,
+          60.19272
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS ØST AS",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Storgata 38, 182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749339,
+          59.913202
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN CRUX",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Storgata 10B, 155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0127989,
+          59.4213342
+        ]
+      },
+      "properties": {
+        "navn": "ORIGOSENTERET",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Tyritoppen 1, 1593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.790024,
+          59.934687
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN KVINNEKOLLEKTIVET ARKEN",
+        "type": "Spesialisert rusbehandling",
+        "adresse": "Sinsenveien 54, 585"
+      }
+    }
+  ]
+}

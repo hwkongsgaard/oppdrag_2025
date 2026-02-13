@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744603,
+          59.95007
+        ]
+      },
+      "properties": {
+        "navn": "AMD MELINDER",
+        "type": "Bedriftsrådgivning og annen administrativ rådgivning",
+        "adresse": "Humleveien 19, 870"
+      }
+    }
+  ]
+}

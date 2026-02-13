@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6584166,
+          59.1386612
+        ]
+      },
+      "properties": {
+        "navn": "KEOPS ARBEID PORSGRUNN KF",
+        "type": "Arbeidstrening og varig tilrettelagt arbeid",
+        "adresse": "Jernbanegata 15, 3916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4018607,
+          63.3917705
+        ]
+      },
+      "properties": {
+        "navn": "STAVNE ARBEID TRONDHEIM KF",
+        "type": "Arbeidstrening og varig tilrettelagt arbeid",
+        "adresse": "Hornebergvegen 5, 7038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7945525,
+          60.5812179
+        ]
+      },
+      "properties": {
+        "navn": "DREISEN VAKSDAL KF",
+        "type": "Arbeidstrening og varig tilrettelagt arbeid",
+        "adresse": "Dalegarden, 5722"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2368114,
+          60.9853435
+        ]
+      },
+      "properties": {
+        "navn": "NAV VALDRES",
+        "type": "Sosialkontortjenester",
+        "adresse": "Jernbanevegen 22, 2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.887904,
+          62.805449
+        ]
+      },
+      "properties": {
+        "navn": "NAV AUKRA",
+        "type": "Sosialkontortjenester",
+        "adresse": "Aukraringen 9, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6093402,
+          59.2073241
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE - NAV",
+        "type": "Sosialkontortjenester",
+        "adresse": "Rådhusgata 2, 3724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430594,
+          59.4279897
+        ]
+      },
+      "properties": {
+        "navn": "NAV RAKKESTAD",
+        "type": "Sosialkontortjenester",
+        "adresse": "Rådhusveien 8, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1555342,
+          69.1472856
+        ]
+      },
+      "properties": {
+        "navn": "SØRREISA SOSIALKONTOR",
+        "type": "Sosialkontortjenester",
+        "adresse": "Sykehjemsveien 41, 9310"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.64164,
+          59.640883
+        ]
+      },
+      "properties": {
+        "navn": "ALFA RØNTGEN AS",
+        "type": "Medisinske laboratorietjenester og bildediagnostikk",
+        "adresse": "Sandsværveien 228, 3615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.201769,
+          59.740417
+        ]
+      },
+      "properties": {
+        "navn": "UNILABS RØNTGEN DRAMMEN",
+        "type": "Medisinske laboratorietjenester og bildediagnostikk",
+        "adresse": "Strømsø Torg 9, 3044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3476715,
+          62.4645401
+        ]
+      },
+      "properties": {
+        "navn": "SUNNMØRE MR KLINIKK AS",
+        "type": "Medisinske laboratorietjenester og bildediagnostikk",
+        "adresse": "Langelandsvegen 15, 6010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.899479,
+          59.93974
+        ]
+      },
+      "properties": {
+        "navn": "DR FURST MEDISINSK LABORATORIUM AS",
+        "type": "Medisinske laboratorietjenester og bildediagnostikk",
+        "adresse": "Søren Bulls vei 25, 1051"
+      }
+    }
+  ]
+}

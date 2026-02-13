@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.417524,
+          59.826857
+        ]
+      },
+      "properties": {
+        "navn": "SØNDRE BORGEN BARNEHAGE",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Vardefaret 10, 1388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9297508,
+          58.2046595
+        ]
+      },
+      "properties": {
+        "navn": "TORRIDAL SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Hommeren 4, 4618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5288708,
+          60.3915771
+        ]
+      },
+      "properties": {
+        "navn": "DIAKONISTIFTELSEN RØYSUM",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Røysumslinna 41, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6464465,
+          58.7348836
+        ]
+      },
+      "properties": {
+        "navn": "TIME KYRKJELEGE FELLESRÅD",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Erlandsbakken 6, 4340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23247,
+          62.464969
+        ]
+      },
+      "properties": {
+        "navn": "BORGUND SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Borgundgavlen 51, 6015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702594,
+          59.948161
+        ]
+      },
+      "properties": {
+        "navn": "RIS SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Risbakken 1, 374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.802302,
+          59.859479
+        ]
+      },
+      "properties": {
+        "navn": "NORDSTRAND SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Ekebergveien 236, 1166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8460287,
+          62.3438526
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Sjøgata 61, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74264,
+          59.963058
+        ]
+      },
+      "properties": {
+        "navn": "NORDBERG SOKN",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Kringsjågrenda 1, 861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6066203,
+          59.2119618
+        ]
+      },
+      "properties": {
+        "navn": "BLÅ KORS KLINIKK SKIEN AS",
+        "type": "Førskoleundervisning og drift av barnehager",
+        "adresse": "Kongens gate 33, 3717"
+      }
+    }
+  ]
+}

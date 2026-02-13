@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4719453,
+          60.6609198
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN SOLLIAKOLLEKTIVET",
+        "type": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
+        "adresse": "Sollivegen 403, 2840"
+      }
+    }
+  ]
+}

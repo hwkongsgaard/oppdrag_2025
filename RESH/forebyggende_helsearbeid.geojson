@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.201783,
+          60.386386
+        ]
+      },
+      "properties": {
+        "navn": "HELSEBANKEN LEGEKONTOR ANS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Hardangerfjordvegen 615, 5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7815433,
+          58.5626699
+        ]
+      },
+      "properties": {
+        "navn": "EVJEKLINIKKEN AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Jørgen Løvlands veg 5, 4735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73262,
+          59.917839
+        ]
+      },
+      "properties": {
+        "navn": "FALCK NORGE AS AVD OSLO WERGELANDSVEIEN 1",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Wergelandsveien 1, 167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.139159,
+          59.91929
+        ]
+      },
+      "properties": {
+        "navn": "FALCK NORGE AS AVD FETSUND",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "J E Ekornesvei 16, 1900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7668907,
+          58.4644208
+        ]
+      },
+      "properties": {
+        "navn": "AGDER ARBEIDSMILJØ IKS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Ragnvald Blakstads vei 1, 4838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.806075,
+          59.9165
+        ]
+      },
+      "properties": {
+        "navn": "AVONOVA HELSE AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Innspurten 13, 663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401941,
+          58.6700121
+        ]
+      },
+      "properties": {
+        "navn": "STAVNEM HELSE AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Torlandsvegen 4, 4365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9957837,
+          58.1475314
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSAND KOMMUNE INTEGRERING",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Gyldenløves gate 23, 4611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0764047,
+          60.4514484
+        ]
+      },
+      "properties": {
+        "navn": "MILJØRETTET HELSEVERN GRUE ÅSNES OG VÅLER KOMMUNER",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Furubo, 2260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8176603,
+          63.5265019
+        ]
+      },
+      "properties": {
+        "navn": "FRISKGÅRDEN VÆRNES AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Alstadvegen 224, 7510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.60926,
+          59.208617
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE BEDRIFTSHELSETJENESTE",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Torggata 10, 3724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397559,
+          63.405109
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE ENHET FOR PSYKISK HELSE OG RUS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Holtermanns veg 70, 7031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.382154,
+          63.4248727
+        ]
+      },
+      "properties": {
+        "navn": "ULLTVEIT-MOE HELSE",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Øysteins gate 1, 7030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9594511,
+          69.6510011
+        ]
+      },
+      "properties": {
+        "navn": "GYNCONSULT AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Stortorget 2, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564804,
+          62.4735516
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 AS",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Kongens gate 11, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7927577,
+          59.6629983
+        ]
+      },
+      "properties": {
+        "navn": "CARL GØRAN ÅKERBERG",
+        "type": "Forebyggende helsearbeid",
+        "adresse": "Moerveien 6 E, 1430"
+      }
+    }
+  ]
+}

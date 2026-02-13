@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0362523,
+          60.0727448
+        ]
+      },
+      "properties": {
+        "navn": "WECARE OMSORG AS AVD GJERDRUM",
+        "type": "Velferdstjenester til sårbare grupper",
+        "adresse": "Gjerivegen 4, 2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1299391,
+          59.422395
+        ]
+      },
+      "properties": {
+        "navn": "SAMTUN AS",
+        "type": "Velferdstjenester til sårbare grupper",
+        "adresse": "Hørte, 3811"
+      }
+    }
+  ]
+}

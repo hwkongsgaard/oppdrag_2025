@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6529392,
+          58.9532928
+        ]
+      },
+      "properties": {
+        "navn": "DR. NAZIA NIAZ",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Plogveien 6, 679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5672158,
+          62.8035134
+        ]
+      },
+      "properties": {
+        "navn": "AGNES SZEDERA",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Øverbygda 391, 6450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.674232,
+          58.952382
+        ]
+      },
+      "properties": {
+        "navn": "NANNA FIGVED",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Madlastokken 5, 4042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.855407,
+          59.950777
+        ]
+      },
+      "properties": {
+        "navn": "UMARIA KHAWAJA",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kakkelovnskroken 1, 954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764535,
+          59.956532
+        ]
+      },
+      "properties": {
+        "navn": "HODNESDAL SPESIALISTLEGEPRAKSIS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Gjerdrums vei 19, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.793719,
+          59.882472
+        ]
+      },
+      "properties": {
+        "navn": "FAHRES BARNE- OG UNGDOMSPSYKIATRI AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Granveien 18E, 1178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.683323,
+          58.952967
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER SIGNE K. DØRHEIM AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Madlamarkveien 2A, 4041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.78952,
+          59.805905
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER NINA KRONKVIST",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Iver Holters vei 7, 1410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.034804,
+          59.963419
+        ]
+      },
+      "properties": {
+        "navn": "LEGE MONICA MØLNVIK",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Elvegata 83, 2003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563555,
+          62.4738645
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER HELLE MARIE ROALDSET",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Skansegata 20, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.591643,
+          59.201666
+        ]
+      },
+      "properties": {
+        "navn": "SPESIALIST I BARNE OG UNGDOMSPSYKIATRI PRIVATPRAKSIS JORID RENA JOHANSSON",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Eilert Sundts gate 83, 3725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800956,
+          59.861329
+        ]
+      },
+      "properties": {
+        "navn": "VISTER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Ekebergveien 228C, 1162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7525604,
+          59.9272274
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATRISPESIALISTEN ALEXANDER NILSSON ÅHRMAN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Waldemars hage, 175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4309549,
+          59.2763237
+        ]
+      },
+      "properties": {
+        "navn": "RIISNES PSYKIATRI",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kilengaten 18, 3117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867368,
+          59.952359
+        ]
+      },
+      "properties": {
+        "navn": "IRFAN MAHMOOD",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 391, 953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2353407,
+          59.1333408
+        ]
+      },
+      "properties": {
+        "navn": "NORDIC MINDCARE AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Liveien 14, 3216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5481,
+          59.903946
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER RANDI ULBERG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Presteveien 37, 1365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242607,
+          60.3924535
+        ]
+      },
+      "properties": {
+        "navn": "SPESIALIST I PSYKIATRI OG BARNE- OG UNGDOMSPSYKIATRI TARA GILL ANGELVIK",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Starvhusgaten 2A, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER DACE SORTLAND PSYKOTERAPIPRAKSIS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Ekebergveien 1a, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519002,
+          59.891906
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER MARIUS KRISTMOEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Elias Smiths vei 10, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.813095,
+          59.910786
+        ]
+      },
+      "properties": {
+        "navn": "DR. ALLA A.M. PASSENIOUK",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Østensjøveien 36, 667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.650798,
+          59.668622
+        ]
+      },
+      "properties": {
+        "navn": "ANNE-MARIT LANGÅS, PSYKIATER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Storgata 8, 3611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564594,
+          62.4747749
+        ]
+      },
+      "properties": {
+        "navn": "KJELL AKSLEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kongens gate 23, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712417,
+          59.929472
+        ]
+      },
+      "properties": {
+        "navn": "ELSE MARGRETHE BERG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Fridtjof Nansens vei 2, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.954909,
+          69.648373
+        ]
+      },
+      "properties": {
+        "navn": "ELIN FOSHAUG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Storgata 61, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.720681,
+          59.923783
+        ]
+      },
+      "properties": {
+        "navn": "METTE MARITA JOHANSEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Professor Dahls gate 18, 353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.718907,
+          59.918571
+        ]
+      },
+      "properties": {
+        "navn": "PER GØRVELL",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Skovveien 26, 257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835473,
+          59.943242
+        ]
+      },
+      "properties": {
+        "navn": "ASSAF BAR-NATHAN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Erich Mogensøns vei 38, 594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.674232,
+          58.952382
+        ]
+      },
+      "properties": {
+        "navn": "LEGE ANN-MARI HUSE SPESIALIST I PSYKIATRI",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Madlastokken 5, 4042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.000809,
+          60.187429
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER I KONGSVINGER, LEGESPESIALISTEN MENDOZA",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Glommengata 55, 2211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6147037,
+          59.2114752
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATRIPARTNER AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Grønlandsvegen 8, 3715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3764484,
+          62.5741704
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER ILKA DANIEL",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Tollef Bredals vei 13, 7374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.723392,
+          59.929854
+        ]
+      },
+      "properties": {
+        "navn": "MERETE SELSBAKK JOHANSEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Sorgenfrigata 36A, 365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.805972,
+          59.891924
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER HAMANN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Ryensvingen 11, 680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0759758,
+          58.1376567
+        ]
+      },
+      "properties": {
+        "navn": "LEGE ØYSTEIN SEVERINSEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Odderhei terrasse 102, 4639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2851315,
+          62.4604314
+        ]
+      },
+      "properties": {
+        "navn": "HUMMELSUND PIANIST OG PSYKIATER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kvernhusåkeren 28A, 6016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.625744,
+          59.433262
+        ]
+      },
+      "properties": {
+        "navn": "I.E. REIER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Reierbakken 12, 1517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.204229,
+          59.744544
+        ]
+      },
+      "properties": {
+        "navn": "WENCHE LØBBEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Bragernes torg 4, 3017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7460158,
+          59.6011959
+        ]
+      },
+      "properties": {
+        "navn": "AVTALESPESIALIST I PSYKIATRI RAGNHILD HORN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Mølleveien 4, 1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207952,
+          59.743085
+        ]
+      },
+      "properties": {
+        "navn": "ØYSTEIN CHRISTOFFERSEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Nedre Storgate 13, 3015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.949712,
+          59.918654
+        ]
+      },
+      "properties": {
+        "navn": "GORAN MARAVIC SPESIALISTPRAKSIS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Søster Mathildes gate 2, 1461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3966517,
+          58.2623004
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER AMUND ANDENÆS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Senterveien 30, 4790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.232833,
+          58.720609
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATRIKLINIKKEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Storgata 12A, 4950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.392307,
+          63.431176
+        ]
+      },
+      "properties": {
+        "navn": "K.E.BERGERSEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Prinsens gate 39,, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242607,
+          60.3924535
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER AANESEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Starvhusgaten 2A, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4856172,
+          59.4160851
+        ]
+      },
+      "properties": {
+        "navn": "HENNING HUNEIDES PSYKIATRITJENSTER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Langgata 2, 3187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712417,
+          59.929472
+        ]
+      },
+      "properties": {
+        "navn": "ANNE MARIT GLEDITSCH",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Fridtjof Nansens vei 2, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724714,
+          59.925678
+        ]
+      },
+      "properties": {
+        "navn": "SPESIALISTPRAKSIS I PSYKIATRI AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Rosenborggata 3, 356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6529392,
+          58.9532928
+        ]
+      },
+      "properties": {
+        "navn": "TOMAS LINHART",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Plogveien 6, 679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0032728,
+          58.1531172
+        ]
+      },
+      "properties": {
+        "navn": "HELSE ØY AGNE STEINE",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kjøita 17, 4630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.172932,
+          60.139203
+        ]
+      },
+      "properties": {
+        "navn": "IVAR SLÅSTAD SPESIALISTPRAKSIS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Trondheimsvegen - Jessheim 60, 2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1566995,
+          62.7357427
+        ]
+      },
+      "properties": {
+        "navn": "NEVROPSYKOLOG MAGNE OLSEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Storgata 12, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4714997,
+          59.839737
+        ]
+      },
+      "properties": {
+        "navn": "HEGE WILBERG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Leangveien 17, 1387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.413677,
+          63.434457
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER ØYVIND SCHJELDERUP",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Beddingen 2, 7014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73956,
+          59.91466
+        ]
+      },
+      "properties": {
+        "navn": "ANKI CHRISTINE ØSTREM",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Rosenkrantz gate 7, 159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4088501,
+          59.2658679
+        ]
+      },
+      "properties": {
+        "navn": "HALLVARD CEDERKVIST, LEGE, SPESIALIST I PSYKIATRI",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Conradis gate 5, 3126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.83714,
+          59.718084
+        ]
+      },
+      "properties": {
+        "navn": "ANNE IRENE JENSEN, LEGE, SPESIALIST I PSYKIATRI",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Åsenveien 1, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3377877,
+          60.3902196
+        ]
+      },
+      "properties": {
+        "navn": "LIVSVITAMINER DA",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Kalfarveien 10, 5018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0349745,
+          59.9565634
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIN LUND SPESIALISTPRAKSIS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Depotgata 20, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5725346,
+          59.9169856
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER SIMONA HANSEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Tvetermyra 2A, 1344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800956,
+          59.861329
+        ]
+      },
+      "properties": {
+        "navn": "HILDE KRISTIN BÆKKEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Ekebergveien 228C, 1162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5725346,
+          59.9169856
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER SIMONA HANSEN",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Tvetermyra 2A, 1344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9616966,
+          58.1284059
+        ]
+      },
+      "properties": {
+        "navn": "UNIK KLINIKK AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Vågsbygd Ringvei 100B, 4621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724714,
+          59.925678
+        ]
+      },
+      "properties": {
+        "navn": "TERJE FLADVAD",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Rosenborggata 3, 356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764535,
+          59.956532
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER LISA KIØNIG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Gjerdrumsvei 19, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6623889,
+          61.0481036
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER TORHILD T. HOVDAL",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Brukrovegen 341, 2372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749954,
+          59.928624
+        ]
+      },
+      "properties": {
+        "navn": "CELOVIC PSYKISK HELSE",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Uelands gate 53, 175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.813019,
+          59.85952
+        ]
+      },
+      "properties": {
+        "navn": "PSYKIATER RONJA AURORA GLOPPE",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Munkerudtunet 10, 1164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3152046,
+          60.3968761
+        ]
+      },
+      "properties": {
+        "navn": "ISELIN DYRSETH",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "C. Sundts gate 37, 5004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4706977,
+          67.2805591
+        ]
+      },
+      "properties": {
+        "navn": "TONY BAKKEJORD",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Prestmarkveien 162, 8073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867368,
+          59.952359
+        ]
+      },
+      "properties": {
+        "navn": "KALBAKKENKLINIKKEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 391, 953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867368,
+          59.952359
+        ]
+      },
+      "properties": {
+        "navn": "KALBAKKENKLINIKKEN AS",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 391, 953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4691007,
+          59.3909717
+        ]
+      },
+      "properties": {
+        "navn": "EDLY GRAPE PSYKIATER",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Tyriveien 3, 3118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397617,
+          63.433387
+        ]
+      },
+      "properties": {
+        "navn": "KJERSTI MELLAND BRANDTZÆG",
+        "type": "Psykiatriske legetjenester",
+        "adresse": "Olav Tryggvasons gate 24, 7011"
+      }
+    }
+  ]
+}

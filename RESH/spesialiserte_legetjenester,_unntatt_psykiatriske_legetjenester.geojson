@@ -1,0 +1,4685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6297692,
+          59.4811886
+        ]
+      },
+      "properties": {
+        "navn": "ØYENLEGE GRETE MORK",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vekanvegen 2B, 3840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.740497,
+          58.947067
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE SHEILA FEVANG AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gartnerveien 41, 4016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7642078,
+          58.4625751
+        ]
+      },
+      "properties": {
+        "navn": "ØYE DA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Østregate 23, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4337664,
+          59.8349624
+        ]
+      },
+      "properties": {
+        "navn": "A-MEDI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bankveien 1, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3609538,
+          69.9736907
+        ]
+      },
+      "properties": {
+        "navn": "FINNMARK ØYEKLINIKK NUF",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Altaveien 252, 9515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.735303,
+          59.912606
+        ]
+      },
+      "properties": {
+        "navn": "DR. JØRGEN WESTBY AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fridtjof Nansens plass 7, 160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879712,
+          58.1466135
+        ]
+      },
+      "properties": {
+        "navn": "LEGE CHRISTIAN HOYER-SØRENSEN, SPESIALIST I FØDSELSHJELP OG KVINNESYKDOMMER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Strandgate 42, 4612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695326,
+          59.0541766
+        ]
+      },
+      "properties": {
+        "navn": "GYNHARSTAD AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Håkonsgate 4, 9405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4153399,
+          68.6963386
+        ]
+      },
+      "properties": {
+        "navn": "LOFOTEN OG VESTERÅLEN HUDLEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kjøpmannsgata 2B, 8400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.682825,
+          58.952584
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG TONE LUNDE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Madlamarkveien 2, 4041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3946786,
+          63.4332023
+        ]
+      },
+      "properties": {
+        "navn": "VISUS ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Tryggvasons gate 24 B, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397854,
+          63.431345
+        ]
+      },
+      "properties": {
+        "navn": "NIDAROS ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nordre Gate 5, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.771251,
+          59.913906
+        ]
+      },
+      "properties": {
+        "navn": "ETTERSTADSLETTA LEGEKONTOR",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Smedgata 49, 651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7130221,
+          58.4596886
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE SIV TONE JOHANSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stoaveien 5B, 4848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3883194,
+          59.1194938
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGEKONTORET I HALDEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Torget 2, 1767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.731423,
+          59.932542
+        ]
+      },
+      "properties": {
+        "navn": "J H TVEIT",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Pilestredet 94B, 358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1679297,
+          62.4710208
+        ]
+      },
+      "properties": {
+        "navn": "ODDVIN BJØRGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sundgata 12, 6003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1174351,
+          59.2826168
+        ]
+      },
+      "properties": {
+        "navn": "ØSTFOLD INDREMEDISIN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sverres Gate 10, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9527663,
+          59.2236082
+        ]
+      },
+      "properties": {
+        "navn": "FAUST MEDISINSKE SENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Wilbergjordet 2, 1605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.780887,
+          59.910812
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE CAROLINE SCHMITT",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Normannsgata 38A, 655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0280141,
+          63.7474519
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE Anna Grazyna Gajda",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørnesset 74, 7629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.220628,
+          59.130778
+        ]
+      },
+      "properties": {
+        "navn": "SANDEFJORD HUDKLINIKK Torill Formoe",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dronningens gate 6, 3211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.623307,
+          59.916876
+        ]
+      },
+      "properties": {
+        "navn": "WALPLICA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Malurtveien 1, 1369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.999678,
+          59.255286
+        ]
+      },
+      "properties": {
+        "navn": "FREDRIKSTAD ØRE-NESE-HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dikeveien 44, 1661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2716376,
+          59.817279
+        ]
+      },
+      "properties": {
+        "navn": "HÅKON PHARO SKAUG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Haugerudbråtan 40, 3408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.960917,
+          69.65251
+        ]
+      },
+      "properties": {
+        "navn": "INGRID AUNE TVEITA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skippergata 7, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.60926,
+          59.208617
+        ]
+      },
+      "properties": {
+        "navn": "TELEMARK ENDOSKOPIKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Torggata 10, 3724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2158804,
+          61.7766683
+        ]
+      },
+      "properties": {
+        "navn": "SOGN ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørstrandsvegen 9, 6823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.068642,
+          60.795301
+        ]
+      },
+      "properties": {
+        "navn": "ØYEHELSEKLINIKKEN AS AVD ØST",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Torggata 83, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9405317,
+          59.2134935
+        ]
+      },
+      "properties": {
+        "navn": "THERESIA MARIA KASIN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bryggeriveien 6, 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.275991,
+          69.96865
+        ]
+      },
+      "properties": {
+        "navn": "BRODWALL ØRE NESE HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Markveien 31, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.810805,
+          58.095956
+        ]
+      },
+      "properties": {
+        "navn": "SKJEKKELAND ØYELEGEPRAKSIS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Rådhusveien 51, 4640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.574727,
+          59.895905
+        ]
+      },
+      "properties": {
+        "navn": "SVEND AAKHUS, KARDIOLOG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hestenga 19, 1363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.561466,
+          59.911494
+        ]
+      },
+      "properties": {
+        "navn": "OSLOGYNEKOLOGENE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kirkeveien 64 A, 364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.320481,
+          60.398892
+        ]
+      },
+      "properties": {
+        "navn": "TUSETH KARDIO AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bradbenken 1, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.610063,
+          59.208941
+        ]
+      },
+      "properties": {
+        "navn": "GRENLAND ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kongens gate 9, 3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1593674,
+          59.5814217
+        ]
+      },
+      "properties": {
+        "navn": "ASKIM ØYELEGEKONTOR DIANOUSH DIN PARVAR",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hovsveien 8, 1831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835425,
+          59.718776
+        ]
+      },
+      "properties": {
+        "navn": "FOLLO LUNGEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Jernbaneveien 5, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770086,
+          58.45871
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE VEER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Langbryggen 19C, 4841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409066,
+          59.9535899
+        ]
+      },
+      "properties": {
+        "navn": "INGEBJØRG HELENE KINNE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dampsagveien 4, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8498867,
+          62.3424059
+        ]
+      },
+      "properties": {
+        "navn": "AVTALESPESIALISTENE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bjørndalvegen 7, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4262661,
+          68.4305624
+        ]
+      },
+      "properties": {
+        "navn": "ØYEKLINIKKEN I NARVIK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Administrasjonsveien 1, 8514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.360254,
+          62.445061
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE FRODE GAUSTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storevågen 75, 6020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9105804,
+          59.7694506
+        ]
+      },
+      "properties": {
+        "navn": "VIKEN UROLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stasjonsgata 53, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384216,
+          59.131105
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE JOHAN WENDEL AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dyrendalsveien 13C, 1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.810095,
+          59.811579
+        ]
+      },
+      "properties": {
+        "navn": "FOLLO HUDLEGEKONTOR AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Rådyrveien 23, 1413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.849584,
+          63.3050429
+        ]
+      },
+      "properties": {
+        "navn": "ORKDAL ØYE ASTRID MEISTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Orkdalsveien 58, 7300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3735247,
+          60.3685674
+        ]
+      },
+      "properties": {
+        "navn": "REVMATOLOG NYSTAD AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sollien 73A, 5096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8517899,
+          58.9243375
+        ]
+      },
+      "properties": {
+        "navn": "RISKA LEGESENTER Carl Christian Norberg",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hommersåkveien 20, 4311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7037913,
+          59.1242441
+        ]
+      },
+      "properties": {
+        "navn": "VT HELSE AS AVD PORSGRUNN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Moen 12, 3948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.924524,
+          59.962146
+        ]
+      },
+      "properties": {
+        "navn": "ALF KRISTOFFER ØDEGAARD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stovner senter 3, 985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3210933,
+          60.394118
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE VIBEKE BIRKELAND AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Valkendorfsgaten 5, 5012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0396068,
+          59.0662973
+        ]
+      },
+      "properties": {
+        "navn": "NORDBYEN LEGESENTER HAUGVIK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fagerliveien 2, 3269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0022551,
+          58.4594185
+        ]
+      },
+      "properties": {
+        "navn": "ØRE-NESE-HALS SØRVEST AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Lindøyveien 8, 4373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321794,
+          60.3948297
+        ]
+      },
+      "properties": {
+        "navn": "TORE RYGH",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strandkaien 16, 5013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.201213,
+          59.738747
+        ]
+      },
+      "properties": {
+        "navn": "MORTEN JOHANSON SPESIALISTPRAKSIS I NEVROLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Torgeir Vraas plass 4, 3044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679196,
+          60.3563166
+        ]
+      },
+      "properties": {
+        "navn": "VESTLANDSK HJERTESENTER KJETIL DALE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nattlandsveien 89, 5094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.661194,
+          59.954161
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE MYHRE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Aukrusts vei 2E, 785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4062278,
+          59.268636
+        ]
+      },
+      "properties": {
+        "navn": "TØNSBERG ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Øvre Langgate 50, 3110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9378544,
+          59.2064462
+        ]
+      },
+      "properties": {
+        "navn": "FREDRIKSTAD HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kråkerøyveien 2B, 1671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724539,
+          58.92098
+        ]
+      },
+      "properties": {
+        "navn": "HJERTESPESIALIST ERLEND G SINGSAAS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Boganesveien 10, 4020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4092561,
+          59.2489248
+        ]
+      },
+      "properties": {
+        "navn": "DR. FANEBUST AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Thueveien 14, 3121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7037913,
+          59.1242441
+        ]
+      },
+      "properties": {
+        "navn": "VT HELSE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Moen 12, 3948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3231994,
+          60.3907429
+        ]
+      },
+      "properties": {
+        "navn": "BJØRGVIN ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Kyrres gate 33, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.961885,
+          69.673864
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE GRØNLIE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Askeladdsvingen 34, 9010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7341098,
+          58.8516462
+        ]
+      },
+      "properties": {
+        "navn": "ENGELSVOLD ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Langgata 13, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717783,
+          59.925544
+        ]
+      },
+      "properties": {
+        "navn": "PARSENNKLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Majorstuveien 16, 367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2598019,
+          59.5603342
+        ]
+      },
+      "properties": {
+        "navn": "NOTODDEN ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 48, 3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213996,
+          59.747349
+        ]
+      },
+      "properties": {
+        "navn": "KNUT VEGARD LUNGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sommerfrydveien 24, 3014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4420345,
+          67.292269
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE KNUT SALOMONSEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stordalsveien 6, 8011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3770115,
+          67.2830417
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE RAGNHILD MUNKHAUG AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sandgata 5A, 8006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.83714,
+          59.718084
+        ]
+      },
+      "properties": {
+        "navn": "DR. RENNEMO PH.D AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Åsenveien 1, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6407609,
+          59.6578472
+        ]
+      },
+      "properties": {
+        "navn": "TORUN GARMANN CLAUSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sogstiveien 75, 1446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519496,
+          59.890583
+        ]
+      },
+      "properties": {
+        "navn": "SANDVIKA HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Brodtkorbsgate 7, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212794,
+          59.742179
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE LARS ELSRUD NES",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nedre Storgate 22, 3015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3190954,
+          60.3949166
+        ]
+      },
+      "properties": {
+        "navn": "BERTHA STORESUND",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strandgaten 54, 5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.810623,
+          59.926475
+        ]
+      },
+      "properties": {
+        "navn": "OVERLEGE VISTER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ulvenveien 80A, 581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.346762,
+          60.362406
+        ]
+      },
+      "properties": {
+        "navn": "SPESIALISTGRUPPEN GASTRO AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kanalveien 64, 5068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.992187,
+          58.144021
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE ELISABETH BAKKE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Strandgate 27, 4611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6473211,
+          59.6616283
+        ]
+      },
+      "properties": {
+        "navn": "SIDSEL BJERINGS SPESIALISTPRAKSIS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Christian IV. des gate 35E, 3616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687708,
+          60.794291
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET GASTROSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 23, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.611678,
+          59.186242
+        ]
+      },
+      "properties": {
+        "navn": "TELEMARK NEVROSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Infanterivegen 16, 3734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7236837,
+          58.8773474
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE FREDDY HESTHOLM AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Luramyrveien 1, 4313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.713487,
+          58.46039
+        ]
+      },
+      "properties": {
+        "navn": "BARNELEGE OLIVER SCHECK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stoaveien 9B, 4848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8656258,
+          58.0727692
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOGIPRAKSIS ANE CECILIE MUNK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nodenesveien 27, 4643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4032992,
+          63.4239458
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE SUSANNE LINDQVIST AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Teglbrennerveien 84, 7016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.402455,
+          63.430744
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE ARNT-OLE TVENNING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kjøpmannsgata 31, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8490146,
+          61.4519962
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE ANETTE BOLSTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Naustdalsvegen 1A, 6800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.786282,
+          59.94698
+        ]
+      },
+      "properties": {
+        "navn": "DR. HAGBERG AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Lindealléen 12, 487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6722052,
+          60.7897524
+        ]
+      },
+      "properties": {
+        "navn": "TOV RØYSLAND ØNH AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Raufossvegen 40, 2821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4162629,
+          59.2533842
+        ]
+      },
+      "properties": {
+        "navn": "DR SINGH HUDKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Smidsrødveien 6, 3120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357125,
+          60.348453
+        ]
+      },
+      "properties": {
+        "navn": "AFZAL ENDOKRINOLOG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vilhelm Bjerknes' vei 98G, 5081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5501642,
+          60.0588603
+        ]
+      },
+      "properties": {
+        "navn": "HARDANGER ØYELEGEPRAKSIS MARIANN BAUGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjukehusveien 10, 5750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0349745,
+          59.9565634
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE HÅKON ØRITSLAND AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Depotgata 20, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.731677,
+          59.947878
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 OSLO AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sognsveien 70 A, 855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4337664,
+          59.8349624
+        ]
+      },
+      "properties": {
+        "navn": "AGRO ØRE-NESE-HALSKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bankveien 1, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6749939,
+          59.4165237
+        ]
+      },
+      "properties": {
+        "navn": "TT OCULUS MEDICUS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Varnaveien 35, 1526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877809,
+          60.8638119
+        ]
+      },
+      "properties": {
+        "navn": "RAFAL FIRA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ingeborg Torstejnsons veg 34A, 2414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.389783,
+          59.118407
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOGEN HANNE SYNNESTVEDT",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Johan Stangs plass 1, 1767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6362095,
+          59.9709551
+        ]
+      },
+      "properties": {
+        "navn": "CHRISTIANIA REVMATOLOGIPRAKSIS POYAN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørkedalsveien 10C, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.643773,
+          59.938396
+        ]
+      },
+      "properties": {
+        "navn": "JOAKIM HØY DYE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Myrhaugen 29, 752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766714,
+          58.460118
+        ]
+      },
+      "properties": {
+        "navn": "ARENDAL GYNEKOLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Tollbodgaten 1, 4836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399363,
+          63.433836
+        ]
+      },
+      "properties": {
+        "navn": "LEILA MUSLIBEGOVIC",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Carl Johans gate 3, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.475585,
+          59.293187
+        ]
+      },
+      "properties": {
+        "navn": "EYEFIVE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Høvleriveien 1A, 3114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6588588,
+          59.6759456
+        ]
+      },
+      "properties": {
+        "navn": "HJERTESPESIALIST LORETA S. STRØM AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Camilla Colletts vei 18, 258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397617,
+          63.433387
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG TVENNING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Tryggvasons gate 24, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422654,
+          67.2776496
+        ]
+      },
+      "properties": {
+        "navn": "URO-ONCO CARE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stormyrveien 20, 8008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.960387,
+          69.648545
+        ]
+      },
+      "properties": {
+        "navn": "NORDNORSK UROLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kaigata 3, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5925491,
+          58.3405063
+        ]
+      },
+      "properties": {
+        "navn": "MAGE- TARMKLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestregate 1, 4801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516413,
+          59.1388837
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG KRISTIN KLOVNING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 125, 3915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709977,
+          59.943527
+        ]
+      },
+      "properties": {
+        "navn": "STERNOW AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ivar Aasens vei 29, 373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3239587,
+          60.407824
+        ]
+      },
+      "properties": {
+        "navn": "HVAB AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Søndre Allmenningen 2, 5036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.554107,
+          60.8826817
+        ]
+      },
+      "properties": {
+        "navn": "VESTAD ØNH FRODE BERRE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Grindalsvegen 3, 2406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.430585,
+          63.391528
+        ]
+      },
+      "properties": {
+        "navn": "ALLNEVRO AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ingeborg Aas' veg 4, 7036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9965034,
+          60.1922617
+        ]
+      },
+      "properties": {
+        "navn": "KONGSVINGER HUDCENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fjellgata 17, 2212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683435,
+          59.928141
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE BORUD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nedre Silkestrå 21, 375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5602659,
+          60.8822679
+        ]
+      },
+      "properties": {
+        "navn": "HEDMARK HUDLEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Elvarheimgata 10C, 2408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3210933,
+          60.394118
+        ]
+      },
+      "properties": {
+        "navn": "PAUSE1 AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Valkendorfsgaten 5, 5012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697178,
+          59.938636
+        ]
+      },
+      "properties": {
+        "navn": "DR DRAGANA NES, ØYELEGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Tuengveien 3D, 374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3542289,
+          60.3174634
+        ]
+      },
+      "properties": {
+        "navn": "VOLKMANN ØYELEGE OG LASERKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Østre Nesttunvegen 16, 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0636005,
+          60.8091121
+        ]
+      },
+      "properties": {
+        "navn": "DELUCA EYE ANTHONY DE LUCA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fridtjof Nansens gate 51, 2319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9367661,
+          59.2122923
+        ]
+      },
+      "properties": {
+        "navn": "EVA HAUGSET GÜNTHER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 10, 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9394205,
+          59.2092728
+        ]
+      },
+      "properties": {
+        "navn": "NEVROLOG MARIA THERESE KASE-BERG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kirkebrygga 2, 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8504874,
+          63.3120291
+        ]
+      },
+      "properties": {
+        "navn": "VOLVAT MEDISINSKE SENTER AS AVD ORBITA ØYELEGESENTER OSLO",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Grensen 18, 159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767176,
+          59.949695
+        ]
+      },
+      "properties": {
+        "navn": "NYDALEN BARNELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nydalsveien 36B, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463096,
+          61.116771
+        ]
+      },
+      "properties": {
+        "navn": "NYE HUDLEGEKONTORET LILLEHAMMER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nymosvingen 6, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.561466,
+          59.911494
+        ]
+      },
+      "properties": {
+        "navn": "MAJORSTUEN SPESIALISTSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kirkeveien 64A, 364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4137391,
+          63.4339571
+        ]
+      },
+      "properties": {
+        "navn": "ROSENBORG ØNH HOLMESLET",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Innherredsveien 7, 7014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.769454,
+          59.948347
+        ]
+      },
+      "properties": {
+        "navn": "OSLO GASTROKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sandakerveien 116, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708373,
+          59.938797
+        ]
+      },
+      "properties": {
+        "navn": "IDA CROFF",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hafslundveien 6B, 373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9401328,
+          59.2086492
+        ]
+      },
+      "properties": {
+        "navn": "ØSTFOLD HUDLEGEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Tordenskiolds gate 12, 1606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.962161,
+          69.653371
+        ]
+      },
+      "properties": {
+        "navn": "GYN NORD AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skippergata 1, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6628954,
+          59.4357109
+        ]
+      },
+      "properties": {
+        "navn": "DTH DERMA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dronningens gate 17, 1530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.204229,
+          59.744544
+        ]
+      },
+      "properties": {
+        "navn": "DRAMMEN HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bragernes Torg 4, 3017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9597705,
+          69.6497793
+        ]
+      },
+      "properties": {
+        "navn": "QIAO CHEN MYRVOLL AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Killengreens gate 7, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7130221,
+          58.4596886
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE SIGMUND BIRKELAND AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stoaveien 5B, 4848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.763805,
+          59.924927
+        ]
+      },
+      "properties": {
+        "navn": "ANNE MØLLENDAL EIKLAND",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Karlstadgata 29, 553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.726092,
+          59.914206
+        ]
+      },
+      "properties": {
+        "navn": "RAFAEL PIATKOWSKI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Arbins gate 11, 253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1123234,
+          59.286132
+        ]
+      },
+      "properties": {
+        "navn": "FLORA ASADI",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Roald Amundsens gate 16, 1707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.629809,
+          59.66043
+        ]
+      },
+      "properties": {
+        "navn": "ANIMA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 27, 1440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766714,
+          58.460118
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG GRO ANDREA NYLAND",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Tollbodgaten 1, 4836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683228,
+          59.901776
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG VICTORIA HØEG WOHLFAHRT",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fredriksborgveien 27A, 286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.228292,
+          59.743175
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG KNUT MAGNE UV",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Engene 116, 3012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.311775,
+          63.752125
+        ]
+      },
+      "properties": {
+        "navn": "KARDIOLOG SKJETNE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Helge Ingstads veg 1, 7600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9778045,
+          61.9160075
+        ]
+      },
+      "properties": {
+        "navn": "NORDFJORD AUGELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjukehusvegen 14, 6770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679196,
+          60.3563166
+        ]
+      },
+      "properties": {
+        "navn": "HJERTELEGEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nattlandsveien 89, 5094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6216945,
+          59.8806332
+        ]
+      },
+      "properties": {
+        "navn": "MARIA BUNÆS HAFFELD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strømstangveien 17, 1367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.068642,
+          60.795301
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR GYNEKOLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Torggata 83, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3542281,
+          60.3176253
+        ]
+      },
+      "properties": {
+        "navn": "NESTTUN SPESIALISTPRAKSIS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Østre Nesttunvn. 14, 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2728483,
+          59.4132679
+        ]
+      },
+      "properties": {
+        "navn": "GASTRO LEGEGRUPPEN GLAZKOV AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skippergata 14, 5527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.275991,
+          69.96865
+        ]
+      },
+      "properties": {
+        "navn": "ABS ØNH AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Markveien 31, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.268406,
+          59.427973
+        ]
+      },
+      "properties": {
+        "navn": "ANDREASSEN ØNH AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Damvegen 1, 5518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8569774,
+          61.4528481
+        ]
+      },
+      "properties": {
+        "navn": "SUNNFJORD ØYRE NASE HALS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Langebruvegen 15, 6800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3738385,
+          63.3646863
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM ØRE-NESE-HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Rosten 81, 7075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.389783,
+          59.118407
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOGEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Johan Stangs Plass 1, 1767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.992232,
+          59.947126
+        ]
+      },
+      "properties": {
+        "navn": "DR. PEI FANG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bekkeveien 4, 1464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397617,
+          63.433387
+        ]
+      },
+      "properties": {
+        "navn": "MIDTBYEN ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Tryggvasons gate 24, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741045,
+          59.921826
+        ]
+      },
+      "properties": {
+        "navn": "DR. DAG ANDERS RUSTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Pilestredet Park 12A, 176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701672,
+          60.92861
+        ]
+      },
+      "properties": {
+        "navn": "MOELV MAGE OG TARM AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Møllergata 18, 2390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5443722,
+          68.8007837
+        ]
+      },
+      "properties": {
+        "navn": "HJERTEKLINIKKEN I HARSTAD AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjøgata 3, 9405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738509,
+          59.920207
+        ]
+      },
+      "properties": {
+        "navn": "ASKLEPION AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Pilestredet Park 31, 176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8490146,
+          61.4519962
+        ]
+      },
+      "properties": {
+        "navn": "AUGELEGE INGUNN STØFRING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Naustdalsvegen 1A, 6800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8364137,
+          59.7191961
+        ]
+      },
+      "properties": {
+        "navn": "SKI UROLOGISKE SPESIALISTSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Jernbaneveien 6A, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709962,
+          59.930729
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE TERESA LØVOLD BERENTS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørkedalsveien 10, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399363,
+          63.433836
+        ]
+      },
+      "properties": {
+        "navn": "JON HELGE BONESRØNNING",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Carl Johans gate 3, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.466636,
+          61.116873
+        ]
+      },
+      "properties": {
+        "navn": "MESNA HUDKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Elvegata 19, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3651882,
+          63.4211753
+        ]
+      },
+      "properties": {
+        "navn": "KARIN MOSER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Oscar Wistings vei 30, 7020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689261,
+          60.795786
+        ]
+      },
+      "properties": {
+        "navn": "KHOFF AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bakkegata 3, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8629248,
+          62.3473949
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE UNA BJÅSTAD HOVLID",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vikemarkhøgda 11, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5523135,
+          59.9119309
+        ]
+      },
+      "properties": {
+        "navn": "EVEN HOLT KARDIO",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bærumsveien 337B, 1344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.470333,
+          59.413735
+        ]
+      },
+      "properties": {
+        "navn": "KRISTINA KLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Harald Pedersens gate 9, 3182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.858408,
+          59.955441
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE BLØMING",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Apalløkkveien 14, 956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.48608,
+          63.427123
+        ]
+      },
+      "properties": {
+        "navn": "NINA MOE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Churchills veg 12F, 7058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.175813,
+          60.280037
+        ]
+      },
+      "properties": {
+        "navn": "RÅHOLT ØRE NESE HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gladbakkvegen 2A, 2070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6483999,
+          59.137562
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE TÅNES AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kirkebakken 13, 3921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.850228,
+          63.305511
+        ]
+      },
+      "properties": {
+        "navn": "ORKDAL ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Orkdalsveien 54, 7300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.418237,
+          59.261025
+        ]
+      },
+      "properties": {
+        "navn": "VISJON SEBRA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Stensarmen 3A, 3112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.415277,
+          59.282486
+        ]
+      },
+      "properties": {
+        "navn": "REVMA VESTFOLD AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trudvangveien 67, 3117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9893387,
+          58.1472838
+        ]
+      },
+      "properties": {
+        "navn": "UROLOGI SØR AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Markens gate 45, 4612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1577277,
+          59.5806166
+        ]
+      },
+      "properties": {
+        "navn": "ASKIM ØRE-NESE-HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Roald Amundsens gate 16, 1831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778181,
+          59.928767
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KARDIOLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 135, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778021,
+          59.932478
+        ]
+      },
+      "properties": {
+        "navn": "SOLBAKKEN ØRE-NESE-HALS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 184, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9481114,
+          69.6497117
+        ]
+      },
+      "properties": {
+        "navn": "TRIO M TROND BØRVIK",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Håkon den gamles gate 10, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.746584,
+          59.932391
+        ]
+      },
+      "properties": {
+        "navn": "HØRSELSREHABILITERING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Lovisenberggata 15a, 456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1110684,
+          59.2835827
+        ]
+      },
+      "properties": {
+        "navn": "GONGONG DUTLIDANE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "St. Marie gate 117, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.179305,
+          60.1413945
+        ]
+      },
+      "properties": {
+        "navn": "SVAN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dampsaga alle 4C, 2053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291948,
+          60.364052
+        ]
+      },
+      "properties": {
+        "navn": "BETANIEN SYKEHUS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestlundveien 23, 5145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353281,
+          60.318157
+        ]
+      },
+      "properties": {
+        "navn": "NESTTUN DAGKIRURGISK SENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nesttunvegen 98, 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164707,
+          62.473121
+        ]
+      },
+      "properties": {
+        "navn": "LUND-HANSSEN DERMA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gjerdegata 13, 6003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.811147,
+          59.749606
+        ]
+      },
+      "properties": {
+        "navn": "DR LASSE CHRISTENSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Engehaget 1, 1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7347022,
+          58.9700484
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG PRAKSIS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Klubbgata 2B, 4013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8498867,
+          62.3424059
+        ]
+      },
+      "properties": {
+        "navn": "SUNNMØRE ØRE-NESE-HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bjørndalvegen 7, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0014287,
+          60.1931245
+        ]
+      },
+      "properties": {
+        "navn": "BEK CONSULTING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 44, 2212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384216,
+          59.131105
+        ]
+      },
+      "properties": {
+        "navn": "KULLBERG AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dyrendalsveien 13C, 1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4148206,
+          68.6936044
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE A. WISTHUS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kjøpmannsgata 22, 8400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1110684,
+          59.2835827
+        ]
+      },
+      "properties": {
+        "navn": "GLADTVET ØYELEGE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "St. Marie gate 117, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.992187,
+          58.144021
+        ]
+      },
+      "properties": {
+        "navn": "BIRGITT HAUGEBERG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Strandgate 27, 4611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73202,
+          59.927163
+        ]
+      },
+      "properties": {
+        "navn": "BISLETT ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Thereses gate 40, 168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4347567,
+          59.8368287
+        ]
+      },
+      "properties": {
+        "navn": "SCOPHELP AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Knud Askersvei 28b, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1567662,
+          62.4738112
+        ]
+      },
+      "properties": {
+        "navn": "ÅLESUND LUNGEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kongens gate 13, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3244195,
+          60.4656842
+        ]
+      },
+      "properties": {
+        "navn": "GLIMT ØYEKLINIKK ÅSANE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Åsane Senter 41, 5116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.059931,
+          59.29863
+        ]
+      },
+      "properties": {
+        "navn": "K5 KLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kalnesveien 5, 1712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5247677,
+          59.894206
+        ]
+      },
+      "properties": {
+        "navn": "SANDVIKA REUMATOLOGIPRAKSIS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Engervannsveien 25 a, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384216,
+          59.131105
+        ]
+      },
+      "properties": {
+        "navn": "HALDEN ØRE NESE HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dyrendalsveien 13C, 1778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4192833,
+          63.4242799
+        ]
+      },
+      "properties": {
+        "navn": "K. DALE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ankers gate 13, 7052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750901,
+          59.947948
+        ]
+      },
+      "properties": {
+        "navn": "EIDEMACPHERSON AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Michel Nielsens vei 4, 871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.798846,
+          59.94953
+        ]
+      },
+      "properties": {
+        "navn": "VINDEREN ORTOPEDI - GISLE BERGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Frennings vei 45, 588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.324623,
+          60.3892364
+        ]
+      },
+      "properties": {
+        "navn": "HILLAND ØRE-NESE-HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nygårdsgaten 4, 5015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.636921,
+          68.6539471
+        ]
+      },
+      "properties": {
+        "navn": "RINGSTAD KLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ringstadveien 28, 8475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.408851,
+          59.267997
+        ]
+      },
+      "properties": {
+        "navn": "TØNSBERG LUNGEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Øvre Langgate 57, 3110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5035886,
+          59.7832315
+        ]
+      },
+      "properties": {
+        "navn": "SUNNHORDLAND GYNEKOLOGISKE KLINIKK ALDA URTANE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Borggata 57, 5417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.732823,
+          59.948558
+        ]
+      },
+      "properties": {
+        "navn": "ANTRUM AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sognsveien 75A, 855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5243032,
+          59.8920254
+        ]
+      },
+      "properties": {
+        "navn": "KONKOI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Rådmann Halmrasts vei 18, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.468535,
+          61.1101989
+        ]
+      },
+      "properties": {
+        "navn": "HELGESEN CONSULT AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kroken 6, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4082096,
+          59.1729243
+        ]
+      },
+      "properties": {
+        "navn": "LEGESPESIALIST MORTEN HEKNEBY",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strengsdalveien 135, 3135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.654743,
+          59.959545
+        ]
+      },
+      "properties": {
+        "navn": "DERMADOC GURO SUNNIVA BRANDSÆTER BJØRNEVAAGEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ryghs vei 32, 785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5443722,
+          68.8007837
+        ]
+      },
+      "properties": {
+        "navn": "SMIL KARDIOLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjøgata 3, 9405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.405327,
+          58.8797229
+        ]
+      },
+      "properties": {
+        "navn": "KRAGERØ ØRE NESE HALS CHRISTIAN KJELLERØD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gamle Kragerøvei 32, 3770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.466651,
+          61.116011
+        ]
+      },
+      "properties": {
+        "navn": "NYE HUDLEGEKLINIKKEN INNLANDET AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bryggerigata 8, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6784675,
+          59.4181618
+        ]
+      },
+      "properties": {
+        "navn": "COLOSSEUM FAUST AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Lilleengveien 8, 1523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.625209,
+          59.920778
+        ]
+      },
+      "properties": {
+        "navn": "OLA M. RYGH SPESIALIST I ØYESYKDOMMER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vollsveien 44, 1358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.376499,
+          58.249226
+        ]
+      },
+      "properties": {
+        "navn": "AGDER ØYELEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 2E, 4790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3214621,
+          60.392942
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Markevn 4c, 5012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2484215,
+          60.1465732
+        ]
+      },
+      "properties": {
+        "navn": "VIKEN ØRE-NESE-HALS & HØRSELSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kartverksveien 7, 3511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.585431,
+          60.8598143
+        ]
+      },
+      "properties": {
+        "navn": "FREDRIK ENG HELSETJENESTER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Åsmund Sveens veg 19, 2407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778021,
+          59.932478
+        ]
+      },
+      "properties": {
+        "navn": "LEGE ASAD ALI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 184, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5042084,
+          61.1416024
+        ]
+      },
+      "properties": {
+        "navn": "LEGE LINE KVANNLI",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Rustadvegen 10, 2618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9589091,
+          69.6504474
+        ]
+      },
+      "properties": {
+        "navn": "SØRLIE ØRE NESE HALS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjøgata 31, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5971999,
+          59.2016883
+        ]
+      },
+      "properties": {
+        "navn": "ELIN MYRVOLL",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Oscars gate 32, 258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3210933,
+          60.394118
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE SOLVEIG OTTEREN ULVIK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Valkendorfsgaten 5, 5012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9376349,
+          59.2118574
+        ]
+      },
+      "properties": {
+        "navn": "ØYEKLINIKK MAJLINGER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 4, 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867368,
+          59.952359
+        ]
+      },
+      "properties": {
+        "navn": "LEGE USMAN NIAZ",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 391, 953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.175813,
+          60.280037
+        ]
+      },
+      "properties": {
+        "navn": "NIAZMED AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gladbakkvegen 2A, 2070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519496,
+          59.890583
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM LUNGEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Brodtkorbsgate 7, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4087746,
+          59.2708453
+        ]
+      },
+      "properties": {
+        "navn": "VT HELSE AS AVD TØNSBERG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Grev Wedels gate 10, 3111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7298613,
+          58.9665941
+        ]
+      },
+      "properties": {
+        "navn": "STAVANGER-GYNEKOLOGENE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "St Olavsgate 2, 4005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6609586,
+          58.296822
+        ]
+      },
+      "properties": {
+        "navn": "FLEKKEFJORD ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kirkestredet 4, 4400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.663438,
+          59.137109
+        ]
+      },
+      "properties": {
+        "navn": "ADRIAN HALLAND AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "C.E. Berg-Hanssens gate 26, 3917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.516551,
+          59.891309
+        ]
+      },
+      "properties": {
+        "navn": "SANDVIKA SPESIALISTSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Elias Smiths vei 24, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.162926,
+          62.736997
+        ]
+      },
+      "properties": {
+        "navn": "KLAR ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Rektor Brinchmanns gate 1, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649717,
+          58.372775
+        ]
+      },
+      "properties": {
+        "navn": "PETTER HÆRE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Moåsen 92, 4870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724322,
+          58.921583
+        ]
+      },
+      "properties": {
+        "navn": "PÅL BJERGA ØYELEGE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hinnasvingene 55, 4020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1546955,
+          60.0919584
+        ]
+      },
+      "properties": {
+        "navn": "Bogstadveien Øre Nese Hals AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "BOGSTADVEIEN 36, 366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9605918,
+          59.2263432
+        ]
+      },
+      "properties": {
+        "navn": "PNEUMOLOGISK SERVICE FREDRIKSTAD Sabine Sandewg-Zähler",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sigrid Undsets vei 18, 1619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0061381,
+          58.1506887
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG ODRUN KLEGGETVEIT",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nedre Lundsvei 1, 4630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4236044,
+          67.2873509
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE OLE NILS TVENNING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gjerdet 22, 8010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1400304,
+          66.3150405
+        ]
+      },
+      "properties": {
+        "navn": "OCULI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Johan Nygaardsvolds gate 3, 8622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7655038,
+          59.2956193
+        ]
+      },
+      "properties": {
+        "navn": "ROBERT MAGNUSSON LEGETJENESTE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Spetalen/Spetalenveien, 1642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9318207,
+          59.2205667
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE HANS PETTER VALNES JØRGENSEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Vestre Frydenbergvei 4, 1612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94195,
+          59.207853
+        ]
+      },
+      "properties": {
+        "navn": "DAHLE RAGNAR",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nygaardsgata 3, 1606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692796,
+          59.472895
+        ]
+      },
+      "properties": {
+        "navn": "VIBEKE DONS WANKEL",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kamboveien 1, 1538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.648778,
+          59.67067
+        ]
+      },
+      "properties": {
+        "navn": "REINHARD FRANZ KULKE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skolegata 7, 3611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0956321,
+          61.2311153
+        ]
+      },
+      "properties": {
+        "navn": "ØYENLEGE THOR HERMAN IVERSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dalavegen 2D, 6856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0395179,
+          61.5992801
+        ]
+      },
+      "properties": {
+        "navn": "ØYENLEGEKLINIKKEN NABOULSI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hans Blomgate 39, 6900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7953396,
+          58.4681512
+        ]
+      },
+      "properties": {
+        "navn": "SØRLANDSKLINIKKEN ØRE NESE HALS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kystveien 154, 4842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5926032,
+          58.340237
+        ]
+      },
+      "properties": {
+        "navn": "WOIE ÅDNE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Pharosv 2, 4876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7644747,
+          58.4617399
+        ]
+      },
+      "properties": {
+        "navn": "GUDMUND WOIE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Østregate 7, 4790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7772055,
+          62.2765495
+        ]
+      },
+      "properties": {
+        "navn": "TYNSET ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Alfarheimgata 4, 2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.802725,
+          62.277063
+        ]
+      },
+      "properties": {
+        "navn": "TYNSET NEVROLOGISKE KLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Parkvegen 10, 2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.066271,
+          60.794668
+        ]
+      },
+      "properties": {
+        "navn": "STORTORGET ØRE NESE HALS KLINIKK MORTEN MOEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storhamargata 21, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0258357,
+          60.8102261
+        ]
+      },
+      "properties": {
+        "navn": "HORGMO JÆGER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Fargovegen 6, 2316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740227,
+          60.8990547
+        ]
+      },
+      "properties": {
+        "navn": "SIGNE ERIKSEN HELSE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Einervegen 3, 2409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701672,
+          60.92861
+        ]
+      },
+      "properties": {
+        "navn": "MOELV SPESIALISTSENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Møllergata 18, 2390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.017582,
+          58.465045
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG KJELL OVE ELVE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sjukehusveien 38, 4373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6460117,
+          58.8851948
+        ]
+      },
+      "properties": {
+        "navn": "ARVID RYGG KAADA Privatprak. lege",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Solakrossen 15, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.563508,
+          68.2326054
+        ]
+      },
+      "properties": {
+        "navn": "DR. SIGRID OMLAND",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 32, 4302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.740497,
+          58.947067
+        ]
+      },
+      "properties": {
+        "navn": "GASTRO NOVA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gartnerveien 41, 4016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1654723,
+          62.7376882
+        ]
+      },
+      "properties": {
+        "navn": "MOLDE INDREMEDISINSKE KONTOR AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strandgata 3, 6415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.161197,
+          62.736878
+        ]
+      },
+      "properties": {
+        "navn": "HARALD JANBU",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hamnegata 39, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564804,
+          62.4735516
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kongens gate 11, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.195011,
+          62.738924
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE STEIN ARILD KJØRSVIK",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Verftsgata 10, 6416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052989,
+          64.4706907
+        ]
+      },
+      "properties": {
+        "navn": "ØNH-PRAKSIS Tom A. Julsrud",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Havikvegen 8, 7801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.485664,
+          64.468016
+        ]
+      },
+      "properties": {
+        "navn": "ROBRYGGA ØYE AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Canninggata 4, 7800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4572101,
+          63.4357249
+        ]
+      },
+      "properties": {
+        "navn": "NEVROLOG DURAJ AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Falkenborgvegen 9, 7044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0687634,
+          59.0400306
+        ]
+      },
+      "properties": {
+        "navn": "HERLOF HARSTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gloppeskogen 24, 3260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212466,
+          59.135105
+        ]
+      },
+      "properties": {
+        "navn": "OLE KRISTIAN VATNE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skiringssalveien 20, 3208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2190292,
+          59.131558
+        ]
+      },
+      "properties": {
+        "navn": "VESTFOLD HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Aagaards plass 5, 3211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.011106,
+          59.9480998
+        ]
+      },
+      "properties": {
+        "navn": "CBRA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strømsveien 70, 2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0417961,
+          59.953346
+        ]
+      },
+      "properties": {
+        "navn": "LILLESTRØM GYN KLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dampsagveien 2A, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.798359,
+          59.810729
+        ]
+      },
+      "properties": {
+        "navn": "VIDAR GUSTAVSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Kolbotnveien 33, 1410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1893339,
+          60.2577064
+        ]
+      },
+      "properties": {
+        "navn": "JØRN BECKRØGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 82, 2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.175813,
+          60.280037
+        ]
+      },
+      "properties": {
+        "navn": "UVULA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Gladbakkvegen 2A, 2070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5247677,
+          59.894206
+        ]
+      },
+      "properties": {
+        "navn": "SANDVIKA REUMATOLOGI PRAKSIS Bente Minet",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Engervannsveien 25 A, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.586857,
+          59.917244
+        ]
+      },
+      "properties": {
+        "navn": "PETTER LORENTZ LARSEN",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bærumsveien 205, 1357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4189661,
+          60.6284418
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGE DANIELSEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skulegata 11A, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321794,
+          60.3948297
+        ]
+      },
+      "properties": {
+        "navn": "SIRI SKULSTAD",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Strandkaien 16, 5013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3526985,
+          60.3176914
+        ]
+      },
+      "properties": {
+        "navn": "ÅSA HUSEBØ LEGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nesttunvegen 109, 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3915501,
+          63.4334672
+        ]
+      },
+      "properties": {
+        "navn": "SENTRUM ØYEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Prinsens gate 67, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399363,
+          63.433836
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM HUDLEGESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Carl Johans gate 3, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403661,
+          63.4405749
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM HJERTESENTER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Havnegata 7, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.412802,
+          63.434941
+        ]
+      },
+      "properties": {
+        "navn": "MEDICUS TRONDHEIM AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Beddingen 8, 7042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.723799,
+          63.108447
+        ]
+      },
+      "properties": {
+        "navn": "HELIX AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Herman Døhlens vei 1, 6508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463096,
+          61.116771
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGEKONTORET LILLEHAMMER AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Nymosvingen 6, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687708,
+          60.794291
+        ]
+      },
+      "properties": {
+        "navn": "OLE BREDER",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 23, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.509088,
+          69.467339
+        ]
+      },
+      "properties": {
+        "navn": "NORMEDISIN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Markangeaidnu 12, 9730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6362095,
+          59.9709551
+        ]
+      },
+      "properties": {
+        "navn": "CLAUS LÜTZOW-HOLM",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørkedalsveien 10B, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5354914,
+          61.7708301
+        ]
+      },
+      "properties": {
+        "navn": "ØYVIND MURI",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 23 C, 184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.760004,
+          59.939312
+        ]
+      },
+      "properties": {
+        "navn": "OLAV BEITO LIAVÅG",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Bentsebrugata 29, 469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835473,
+          59.943242
+        ]
+      },
+      "properties": {
+        "navn": "LEGE NILS EGGE",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Erich Mogensøns vei 38, 594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683487,
+          59.936898
+        ]
+      },
+      "properties": {
+        "navn": "KLINIKK FOR SMERTEBEHANDLING AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Hoffsveien 92, 377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709962,
+          59.930729
+        ]
+      },
+      "properties": {
+        "navn": "Oslo Øyelegesenter AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Sørkedalsveien 10 A, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74882,
+          59.912517
+        ]
+      },
+      "properties": {
+        "navn": "BØRGE-ASK THEIS ØRE-NESE-HALSSPESIALIST",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Dronningens gate 40, 154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749333,
+          59.912744
+        ]
+      },
+      "properties": {
+        "navn": "OMI-KLINIKKEN DA",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Skippergata 33, 154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.813095,
+          59.910786
+        ]
+      },
+      "properties": {
+        "navn": "SOFINA RACA AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Østensjøveien 36, 667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7323856,
+          59.9139285
+        ]
+      },
+      "properties": {
+        "navn": "OSLO HJERTEKLINIKK AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Olav Vs gate 1, 161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.085981,
+          68.915092
+        ]
+      },
+      "properties": {
+        "navn": "RUNE FLAA ØNH AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Storgata 36, 8430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778181,
+          59.928767
+        ]
+      },
+      "properties": {
+        "navn": "OSLO DERMATOLOGI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 135, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9597705,
+          69.6497793
+        ]
+      },
+      "properties": {
+        "navn": "ØYELEGE MARCO FILIPPONI AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Killengreens gate 7, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867368,
+          59.952359
+        ]
+      },
+      "properties": {
+        "navn": "KALBAKKENKLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Trondheimsveien 391, 953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.494626,
+          59.875784
+        ]
+      },
+      "properties": {
+        "navn": "SIRRAS AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Billingstadsletta 19 A, 1396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2287947,
+          59.1275795
+        ]
+      },
+      "properties": {
+        "navn": "HUDLEGEKLINIKKEN AS",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Thor Dahls gate 1, 3210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.697573,
+          59.946705
+        ]
+      },
+      "properties": {
+        "navn": "HUMERFELT SJUR",
+        "type": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester",
+        "adresse": "Ekelyveien 12B, 374"
+      }
+    }
+  ]
+}

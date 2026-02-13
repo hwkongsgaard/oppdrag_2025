@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908526,
+          59.7711172
+        ]
+      },
+      "properties": {
+        "navn": "ØVRE EIKER KOMMUNE SEKSJON KULTUR OG SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Stasjonsgata 24, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387204,
+          59.122379
+        ]
+      },
+      "properties": {
+        "navn": "HALDEN KOMMUNE TEKNISK",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Storgata 8, 1771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086876,
+          68.914634
+        ]
+      },
+      "properties": {
+        "navn": "ØKSNES KOMMUNE PLAN- OG UTBYGGINGSETAT",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Storgata 27, 8430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3944548,
+          63.4290443
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE BYUTVIKLING, NÆRING, SAMFERDSEL, KLIMA OG MILJØ",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Erling Skakkes gate 14, 7013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.865498,
+          59.488501
+        ]
+      },
+      "properties": {
+        "navn": "VÅLER KOMMUNE PLAN OG MILJØ",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Kjosveien 1, 1592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523271,
+          59.889001
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE EIENDOM",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Arnold Haukelands plass 10, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5927674,
+          64.4638595
+        ]
+      },
+      "properties": {
+        "navn": "LIERNE KOMMUNE - SAMFUNN OG UTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Heggvollveien 6, 7882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.854947,
+          58.764852
+        ]
+      },
+      "properties": {
+        "navn": "GJESDAL KOMMUNE KULTUR OG SAMFUNN",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Rettedalen 1, 4330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7050938,
+          65.0923794
+        ]
+      },
+      "properties": {
+        "navn": "LEKA KOMMUNE TEKNISK, LANDBRUK OG MILJØ",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Leknesveien 67, 7994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7335529,
+          59.2825241
+        ]
+      },
+      "properties": {
+        "navn": "SILJAN KOMMUNE AVD FOR SAMFUNN",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Sentrumsveien 105, 3748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647777,
+          58.887936
+        ]
+      },
+      "properties": {
+        "navn": "SOLA KOMMUNE SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Rådhusvegen 21, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6528323,
+          58.7362964
+        ]
+      },
+      "properties": {
+        "navn": "TIME KOMMUNE TENESTEOMRÅDE SAMFUNN",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Arne Garborgs veg 30, 4344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523271,
+          59.889001
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE MILJØTEKNISK",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Arnold Haukelands plass 10, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0621411,
+          59.0975503
+        ]
+      },
+      "properties": {
+        "navn": "DRANGEDAL KOMMUNE SEKTOR FOR BYGG EIENDOM OG KOMMUNALTEKNIKK",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Gudbrandsveien 7, 3750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0257679,
+          69.7682493
+        ]
+      },
+      "properties": {
+        "navn": "NORDREISA KOMMUNE DRIFT OG UTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Sentrum 17, 9151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9737769,
+          70.4990893
+        ]
+      },
+      "properties": {
+        "navn": "HAMMERFEST KOMMUNE SEKTOR FOR TEKNISK DRIFT OG EIENDOM",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Rådhusvegen 18, 9620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0034435,
+          58.4519062
+        ]
+      },
+      "properties": {
+        "navn": "EIGERSUND KOMMUNE TEKNISK AVDELING",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Nytorget 9, 4370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7993449,
+          59.9276571
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYMILJØETATEN",
+        "type": "Offentlig administrasjon tilknyttet næringsvirksomhet og arbeidsmarked",
+        "adresse": "Karvesvingen 3, 579"
+      }
+    }
+  ]
+}

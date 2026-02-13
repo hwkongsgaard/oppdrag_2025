@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704092,
+          59.936546
+        ]
+      },
+      "properties": {
+        "navn": "DIAKONHJEMMET SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Diakonveien 12, 370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.942823,
+          59.967712
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN MODUM BAD",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Badeveien 287, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.451763,
+          68.8170501
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN VIKEN SENTER",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Vikenveien 66, 9360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8402884,
+          59.5480969
+        ]
+      },
+      "properties": {
+        "navn": "SKJELFOSS PSYKIATRISKE SENTER PSYKISK HELSE",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Bråteveien 31, 1827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79605,
+          59.94982
+        ]
+      },
+      "properties": {
+        "navn": "N.K.S. GREFSENLIA AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Aschehougs vei 37, 587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2254478,
+          60.4561241
+        ]
+      },
+      "properties": {
+        "navn": "NKS OLAVIKEN ALDERSPSYKIATRISKE SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Askvegen 150, 5306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083644,
+          60.4025693
+        ]
+      },
+      "properties": {
+        "navn": "RECOVERY BO OG OMSORG AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Dalsætervegen 3, 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4462358,
+          67.2872601
+        ]
+      },
+      "properties": {
+        "navn": "N.K.S. KLØVERÅSEN AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Junkerveien 67, 8076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74691,
+          59.933352
+        ]
+      },
+      "properties": {
+        "navn": "LOVISENBERG DIAKONALE SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Lovisenberggata 17, 456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3719682,
+          59.7374493
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Hyggenveien 25, 3440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.496401,
+          60.115268
+        ]
+      },
+      "properties": {
+        "navn": "FURUKOLLEN PSYKIATRISKE SENTER AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Svarverudvegen 200, 2150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3566848,
+          60.3115272
+        ]
+      },
+      "properties": {
+        "navn": "SOLLI DPS AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Osvegen 15, 5228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4291672,
+          60.63287
+        ]
+      },
+      "properties": {
+        "navn": "VOSS DPS NKS BJØRKELI AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Bjørkelivegen 27, 5705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.496401,
+          60.115268
+        ]
+      },
+      "properties": {
+        "navn": "FURUKOLLEN PSYKIATRISKE SENTER AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "SVARVERUDVEIEN 200, 2150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291948,
+          60.364052
+        ]
+      },
+      "properties": {
+        "navn": "BETANIEN SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Vestlundveien 23, 5145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40398,
+          63.434894
+        ]
+      },
+      "properties": {
+        "navn": "LUKAS STIFTELSEN",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Fjordgata 10, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6445258,
+          58.7284943
+        ]
+      },
+      "properties": {
+        "navn": "NKS JÆREN DISTRIKTSPSYKIATRISKE SENTER AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Austbøvegen 16, 4340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7548006,
+          60.5828626
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FEKJÆR",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Fekjarvegen 110, 3528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4462358,
+          67.2872601
+        ]
+      },
+      "properties": {
+        "navn": "N K S KLØVERÅSEN AS",
+        "type": "Psykiatriske sykehustjenester for voksne",
+        "adresse": "Junkerveien 67, 8076"
+      }
+    }
+  ]
+}

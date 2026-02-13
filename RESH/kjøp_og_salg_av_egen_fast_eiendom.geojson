@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.98828,
+          59.98005
+        ]
+      },
+      "properties": {
+        "navn": "NSL EIENDOM AS",
+        "type": "Kjøp og salg av egen fast eiendom",
+        "adresse": "Trondheimsveien 42, 560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384216,
+          59.131105
+        ]
+      },
+      "properties": {
+        "navn": "MEYER MED AS",
+        "type": "Kjøp og salg av egen fast eiendom",
+        "adresse": "Dyrendalsveien 13C, 1778"
+      }
+    }
+  ]
+}

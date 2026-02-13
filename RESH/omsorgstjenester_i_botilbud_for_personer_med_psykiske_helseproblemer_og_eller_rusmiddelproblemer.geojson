@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2735044,
+          59.7246551
+        ]
+      },
+      "properties": {
+        "navn": "MESTRINGSHUSENE ALLOS AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Follsjøvegen 1280, 3680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.638435,
+          59.915412
+        ]
+      },
+      "properties": {
+        "navn": "STENDI AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Lilleakerveien 2A, 283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6948309,
+          60.0129043
+        ]
+      },
+      "properties": {
+        "navn": "HEIMEN VEST AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Hovlandsstrando 140, 5694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3124551,
+          59.4706023
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN HIIMSMOENKOLLEKTIVET",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Him 63, 4230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.424854,
+          60.263744
+        ]
+      },
+      "properties": {
+        "navn": "VANGSETER AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Prestmovegen 50, 3520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083644,
+          60.4025693
+        ]
+      },
+      "properties": {
+        "navn": "RECOVERY BO OG OMSORG AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Dalsætervegen 3, 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2786473,
+          59.3598028
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN KARMSUND ABR-SENTER",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Uvikstrand 21, 4262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.424854,
+          60.263744
+        ]
+      },
+      "properties": {
+        "navn": "VANGSETER AS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Prestmovegen 50, 3520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.205482,
+          59.735771
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN GUTS",
+        "type": "Omsorgstjenester i botilbud for personer med psykiske helseproblemer og/eller rusmiddelproblemer",
+        "adresse": "Bjørnstjerne Bjørnsons gate 53, 3044"
+      }
+    }
+  ]
+}

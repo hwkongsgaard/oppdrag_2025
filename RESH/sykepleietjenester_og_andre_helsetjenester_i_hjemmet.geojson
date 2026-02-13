@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8264847,
+          61.2092175
+        ]
+      },
+      "properties": {
+        "navn": "MERÅKER KURBAD AS",
+        "type": "Sykepleietjenester og andre helsetjenester i hjemmet",
+        "adresse": "Sanitetstunet, 7530"
+      }
+    }
+  ]
+}

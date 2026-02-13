@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6146015,
+          59.8971652
+        ]
+      },
+      "properties": {
+        "navn": "KOMMUNALT TOLKESAMARBEID PÅ ROMERIKE",
+        "type": "Oversettelses- og tolkevirksomhet",
+        "adresse": "Festplassen 1, 1473"
+      }
+    }
+  ]
+}

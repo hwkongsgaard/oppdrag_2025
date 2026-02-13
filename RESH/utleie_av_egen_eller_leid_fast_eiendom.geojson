@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3858137,
+          60.2406051
+        ]
+      },
+      "properties": {
+        "navn": "LEGE SAJID ARAIN",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Kirkegata 6, 3520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5739979,
+          60.3599243
+        ]
+      },
+      "properties": {
+        "navn": "GRAN HELSESENTER AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Hovsvegen 4, 2750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.799704,
+          68.775475
+        ]
+      },
+      "properties": {
+        "navn": "UTSIKTEN SOLØY VED PETTERSEN",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Liaveien 10, 9357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4219879,
+          60.6385082
+        ]
+      },
+      "properties": {
+        "navn": "HAGAHAUGEN AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Hagahaugvegen 30, 5705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6495467,
+          59.135347
+        ]
+      },
+      "properties": {
+        "navn": "SØSTERHJEMMET AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Gamlevegen 19, 3922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9910752,
+          59.9649558
+        ]
+      },
+      "properties": {
+        "navn": "NOREHEIM EIENDOM AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Badeveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212134,
+          59.742616
+        ]
+      },
+      "properties": {
+        "navn": "SILDNES HELSE AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Nedre Storgate 31, 3015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.002492,
+          58.451026
+        ]
+      },
+      "properties": {
+        "navn": "RENT-MEDICO AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Storgaten 35, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.479141,
+          64.015452
+        ]
+      },
+      "properties": {
+        "navn": "TRIVGRUPPEN AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Seilmakergata 1, 7725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9675649,
+          59.1919114
+        ]
+      },
+      "properties": {
+        "navn": "TONE CECILIE GRIMSTAD",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Kveldevn 246, 3282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.391475,
+          59.1116639
+        ]
+      },
+      "properties": {
+        "navn": "LEGEKONTORET PÅ TJØME",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Rød, 3145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207132,
+          59.586215
+        ]
+      },
+      "properties": {
+        "navn": "SANDE LEGESENTER EIENDOM DA",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Revåveien 18, 3070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4725425,
+          59.6111719
+        ]
+      },
+      "properties": {
+        "navn": "FØRDE LEGESENTER AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Leirskarvegen 10, 5555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8626204,
+          69.6928213
+        ]
+      },
+      "properties": {
+        "navn": "KVALØYSLETTA LEGEKONTOR AS",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Blåmannsveien 10, 9100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.773147,
+          59.942415
+        ]
+      },
+      "properties": {
+        "navn": "IBRAHIM ASIM",
+        "type": "Utleie av egen eller leid fast eiendom",
+        "adresse": "Grefsenveien 19, 482"
+      }
+    }
+  ]
+}

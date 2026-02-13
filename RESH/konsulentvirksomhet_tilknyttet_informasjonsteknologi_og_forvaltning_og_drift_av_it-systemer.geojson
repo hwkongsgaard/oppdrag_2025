@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.831787,
+          59.932306
+        ]
+      },
+      "properties": {
+        "navn": "ATTEND IT AS",
+        "type": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+        "adresse": "Brobekkveien 80, 582"
+      }
+    }
+  ]
+}

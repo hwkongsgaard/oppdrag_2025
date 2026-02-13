@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7364569,
+          58.8695257
+        ]
+      },
+      "properties": {
+        "navn": "JÆREN FRILUFTSRÅD KOMMUNALT OPPGAVEFELLESSKAP",
+        "type": "Drift av campingplasser",
+        "adresse": "Nikkelveien 4, 4313"
+      }
+    }
+  ]
+}

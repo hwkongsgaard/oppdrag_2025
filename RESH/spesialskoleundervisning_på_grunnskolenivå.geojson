@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5638508,
+          58.3213433
+        ]
+      },
+      "properties": {
+        "navn": "LANGEMYR SKOLE OG RESSURSSENTER",
+        "type": "Spesialskoleundervisning på grunnskolenivå",
+        "adresse": "Østerhusmonen 15, 4879"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5060 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8715316,
+          59.3517489
+        ]
+      },
+      "properties": {
+        "navn": "RÅDE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skråtorpveien 2A, 1640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6599483,
+          59.4337321
+        ]
+      },
+      "properties": {
+        "navn": "KVÆNANGEN KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 9161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0109181,
+          60.2164948
+        ]
+      },
+      "properties": {
+        "navn": "NANNESTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Teiealleen 31, 2030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9553561,
+          69.6515325
+        ]
+      },
+      "properties": {
+        "navn": "BALSFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 11, 9050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3050212,
+          59.2808853
+        ]
+      },
+      "properties": {
+        "navn": "KARMØY KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Statsråd Vinjes gate 25, 4250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494619,
+          59.4019616
+        ]
+      },
+      "properties": {
+        "navn": "KVITESEID KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kviteseidgata 13, 3850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "SØRFOLD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 8226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.914916,
+          60.5679256
+        ]
+      },
+      "properties": {
+        "navn": "ULVIK HERAD KOMMUNEDIREKTØRENS STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skeiesvegen 3, 5730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.295733,
+          69.976659
+        ]
+      },
+      "properties": {
+        "navn": "ALTA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sandfallveien 1, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.04934,
+          69.938882
+        ]
+      },
+      "properties": {
+        "navn": "KVÆNANGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gargu 8, 9161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "GJEMNES KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 6631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.090423,
+          67.932131
+        ]
+      },
+      "properties": {
+        "navn": "MOSKENES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Reineveien 67, 8390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8448893,
+          62.3441613
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sjøgata 63, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1872938,
+          60.9055643
+        ]
+      },
+      "properties": {
+        "navn": "AURLAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vangen 1, 5745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571701,
+          61.1256326
+        ]
+      },
+      "properties": {
+        "navn": "VANG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tyinvegen 5161, 2975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.428541,
+          68.439034
+        ]
+      },
+      "properties": {
+        "navn": "PORSANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 9712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.734843,
+          70.081475
+        ]
+      },
+      "properties": {
+        "navn": "FINNMARK FYLKESKOMMUNE SENTRALADMINISTRASJONEN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Henry Karlsens plass 1, 9800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7480669,
+          61.5954699
+        ]
+      },
+      "properties": {
+        "navn": "NORD-FRON KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nedregata 50, 2640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.990148,
+          68.4099779
+        ]
+      },
+      "properties": {
+        "navn": "LØDINGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 27, 8410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "GJERSTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 4980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2611686,
+          60.3289725
+        ]
+      },
+      "properties": {
+        "navn": "EIDSVOLL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 1, 2080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.160951,
+          59.58448
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE HR",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 22, 1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.353846,
+          59.543077
+        ]
+      },
+      "properties": {
+        "navn": "SVEIO KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sveiogata 70, 5550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5633004,
+          60.8815008
+        ]
+      },
+      "properties": {
+        "navn": "ELVERUM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 18, 2406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8851771,
+          62.8057491
+        ]
+      },
+      "properties": {
+        "navn": "AUKRA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Aukraringen 25, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.118987,
+          69.314179
+        ]
+      },
+      "properties": {
+        "navn": "ANDØY KOMMUNE - STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 68, 8480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6862737,
+          62.5682454
+        ]
+      },
+      "properties": {
+        "navn": "RAUMA KOMMUNE STAB STØTTE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vollan 8A, 6300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9630398,
+          58.3159641
+        ]
+      },
+      "properties": {
+        "navn": "KVINESDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nesgata 11, 4480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1555342,
+          69.1472856
+        ]
+      },
+      "properties": {
+        "navn": "SØRREISA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sykehjemsveien 41, 9310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0089103,
+          68.5234571
+        ]
+      },
+      "properties": {
+        "navn": "EVENES KOMMUNE / EVENÁSSI SUOHKAN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bergvikveien 11, 8533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE KOMMUNEDIREKTØRENS LEDERGRUPPE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.720949,
+          70.635069
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hindberggata 18, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746078,
+          59.001439
+        ]
+      },
+      "properties": {
+        "navn": "BAMBLE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkeveien 12, 3970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0669427,
+          60.4352263
+        ]
+      },
+      "properties": {
+        "navn": "HURDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Minneåsvegen 3, 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.043322,
+          69.011797
+        ]
+      },
+      "properties": {
+        "navn": "GUOVDAGEAINNU SUOHKAN / KAUTOKEINO KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bredbuktnesveien 6, 9520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "MODUM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9182068,
+          58.4572062
+        ]
+      },
+      "properties": {
+        "navn": "IVELAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Frikstadveien 20, 4724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.564758,
+          59.883114
+        ]
+      },
+      "properties": {
+        "navn": "AURSKOG-HØLAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 3, 1940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562055,
+          62.674611
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE KOMMUNEDIREKTØRENS STABER",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Romsdalsvegen 2, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.625772,
+          60.180248
+        ]
+      },
+      "properties": {
+        "navn": "KRØDSHERAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Krøderfjordveien 1677, 3536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.418188,
+          67.2788956
+        ]
+      },
+      "properties": {
+        "navn": "HELSE- OG MILJØTILSYN SALTEN IKS",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Verkstedveien 1, 8008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3506656,
+          68.8604227
+        ]
+      },
+      "properties": {
+        "navn": "BARDU KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Altevannsveien 16, 9360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "NAMSSKOGAN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 7890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387204,
+          59.122379
+        ]
+      },
+      "properties": {
+        "navn": "HALDEN KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 8, 1771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.466009,
+          60.121953
+        ]
+      },
+      "properties": {
+        "navn": "NES KOMMUNE ADMINISTRASJON OG STYRING",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 2, 2150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430594,
+          59.4279897
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 8, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350721,
+          60.699262
+        ]
+      },
+      "properties": {
+        "navn": "SØNDRE LAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hovsbakken 1, 2860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3419071,
+          59.4278935
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE ADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 1, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9599024,
+          61.7576237
+        ]
+      },
+      "properties": {
+        "navn": "ENGERDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Engerdalsveien 1794, 2440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662074,
+          59.855652
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kongleveien 2, 1450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0257679,
+          69.7682493
+        ]
+      },
+      "properties": {
+        "navn": "NORDREISA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrum 17, 9151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7197172,
+          60.778785
+        ]
+      },
+      "properties": {
+        "navn": "FEDJE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Stormarkvegen 49, 5947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.2192613,
+          69.5745207
+        ]
+      },
+      "properties": {
+        "navn": "LYNGEN KOMMUNE IVGU SUOHKAN YYKEÄN KUNTA",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Strandveien 24, 9060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4047766,
+          63.4228693
+        ]
+      },
+      "properties": {
+        "navn": "LOPPA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Parkveien 1-3, 9550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.160951,
+          59.58448
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE ADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 22, 1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.040725,
+          59.0218988
+        ]
+      },
+      "properties": {
+        "navn": "TYSVÆR KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgaten 1, 5570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221329,
+          61.226842
+        ]
+      },
+      "properties": {
+        "navn": "GAUSDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vestringsvegen 6, 2651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7335529,
+          59.2825241
+        ]
+      },
+      "properties": {
+        "navn": "SILJAN KOMMUNE AVDELING FOR ADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrumsveien 105, 3748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9598646,
+          69.2707384
+        ]
+      },
+      "properties": {
+        "navn": "STORFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hatteng, 9046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "SKAUN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 7353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2260192,
+          60.4090274
+        ]
+      },
+      "properties": {
+        "navn": "ASKØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Klampavikvegen 1, 5300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "DIELDDANUORI SUOHKAN - TJELDSUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 9440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.243225,
+          59.786784
+        ]
+      },
+      "properties": {
+        "navn": "LIER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vestsideveien 2, 3403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0847836,
+          70.8577803
+        ]
+      },
+      "properties": {
+        "navn": "BERLEVÅG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torget 4, 9980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.636002,
+          60.045317
+        ]
+      },
+      "properties": {
+        "navn": "SIGDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Borgestubakken 2, 3350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.851915,
+          71.040618
+        ]
+      },
+      "properties": {
+        "navn": "GAMVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vevikveien 6, 9770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1246784,
+          59.9855646
+        ]
+      },
+      "properties": {
+        "navn": "EIDSKOG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 11, 2230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.410928,
+          58.867976
+        ]
+      },
+      "properties": {
+        "navn": "KRAGERØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 5, 3770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288743,
+          63.87605
+        ]
+      },
+      "properties": {
+        "navn": "INDERØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vennalivegen 7, 7670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.212067,
+          58.718527
+        ]
+      },
+      "properties": {
+        "navn": "RISØR KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Furumoveien 1, 4950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.964714,
+          70.0276334
+        ]
+      },
+      "properties": {
+        "navn": "HJELMELAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vågen, 4130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2704926,
+          69.9667713
+        ]
+      },
+      "properties": {
+        "navn": "ALTA KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Løkkeveien 35, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5027289,
+          64.4680584
+        ]
+      },
+      "properties": {
+        "navn": "NAMSOS KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Stasjonsgata 3, 7800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8030685,
+          58.0954427
+        ]
+      },
+      "properties": {
+        "navn": "FARSUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Brogaten 7, 4550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6827,
+          60.253604
+        ]
+      },
+      "properties": {
+        "navn": "SØR-ODAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Øgardsvegen 2, 2100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278573,
+          60.0802721
+        ]
+      },
+      "properties": {
+        "navn": "HOLE KOMMUNE ADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Viksveien 30, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0049158,
+          62.8286983
+        ]
+      },
+      "properties": {
+        "navn": "RENNEBU KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Myrveien 1, 7391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.302783,
+          70.59154
+        ]
+      },
+      "properties": {
+        "navn": "HASVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Fjellveien 6, 9593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0659977,
+          59.9255233
+        ]
+      },
+      "properties": {
+        "navn": "RÆLINGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bjørnholthagan 6, 2008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438829,
+          60.8174553
+        ]
+      },
+      "properties": {
+        "navn": "LØTEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kildevegen 1, 2340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5604211,
+          60.3929532
+        ]
+      },
+      "properties": {
+        "navn": "GRAN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 39, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731758,
+          63.111576
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kaibakken 2, 6509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "TRÆNA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.134904,
+          62.500551
+        ]
+      },
+      "properties": {
+        "navn": "GISKE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Valderhaug 4, 6050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765178,
+          58.461171
+        ]
+      },
+      "properties": {
+        "navn": "LILLESAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Østregate 2, 4790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541605,
+          60.3919805
+        ]
+      },
+      "properties": {
+        "navn": "NORD-ODAL KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Herredsvegen 2, 2120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039243,
+          63.217788
+        ]
+      },
+      "properties": {
+        "navn": "SELBU KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gjelbakken 15, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.107574,
+          70.370429
+        ]
+      },
+      "properties": {
+        "navn": "VARDØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkegata 4, 9950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3928701,
+          67.2606778
+        ]
+      },
+      "properties": {
+        "navn": "FAUSKE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torggata 21, 8200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9320831,
+          60.7832268
+        ]
+      },
+      "properties": {
+        "navn": "AUSTRHEIM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sætremarka 2, 5943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746078,
+          59.001439
+        ]
+      },
+      "properties": {
+        "navn": "BAMBLE KOMMUNE STABENE HR OG ØKONOMI",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkeveien 12, 3970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998088,
+          61.091223
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE SLIDRE KOMMUNE ADMINISTRASJONSAVDELINGEN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Slidrevegen 16, 2966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "SMØLA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 6570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "VALLE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "KOMMUNEHUSET, 4747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2215106,
+          58.3756747
+        ]
+      },
+      "properties": {
+        "navn": "HÆGEBOSTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Birkeland, 4595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4362129,
+          59.8370821
+        ]
+      },
+      "properties": {
+        "navn": "ASKER KOMMUNE ADMINISTRASJON OG LEDELSE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Knud Askers vei 25, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.720949,
+          70.635069
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hindberggata 18, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3280035,
+          60.3921075
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgaten 10, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571701,
+          61.1256326
+        ]
+      },
+      "properties": {
+        "navn": "VANG KOMMUNE STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tyinvegen 5161, 2975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.908844,
+          60.565533
+        ]
+      },
+      "properties": {
+        "navn": "ULVIK HERAD",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storøyni 30, 5730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6832554,
+          70.6625165
+        ]
+      },
+      "properties": {
+        "navn": "HAMMERFEST KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 1, 9600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.534011,
+          61.7726474
+        ]
+      },
+      "properties": {
+        "navn": "SEL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Botten Hansens gate 9, 2670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270821,
+          59.2793873
+        ]
+      },
+      "properties": {
+        "navn": "NOME KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Ringsevja 30, 3830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "VÆRØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4863774,
+          59.4157571
+        ]
+      },
+      "properties": {
+        "navn": "NOTODDEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Teatergata 3, 3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035596,
+          60.071666
+        ]
+      },
+      "properties": {
+        "navn": "GJERDRUM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gjerivegen 1, 2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93923,
+          60.885957
+        ]
+      },
+      "properties": {
+        "navn": "RINGSAKER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Brugata 2, 2380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.748287,
+          60.23949
+        ]
+      },
+      "properties": {
+        "navn": "BJØRNAFJORDEN KOMMUNE KOMMUNEDIREKTØREN SIN STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Leiro 31, 5640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.426247,
+          63.395273
+        ]
+      },
+      "properties": {
+        "navn": "GRONG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Administrasjonsbygget, 7870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.856015,
+          58.764923
+        ]
+      },
+      "properties": {
+        "navn": "GJESDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rettedalen 7, 4330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3280035,
+          60.3921075
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KOMMUNE BYRÅDSAVDELING FOR FINANS",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgaten 10, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5318806,
+          68.6927285
+        ]
+      },
+      "properties": {
+        "navn": "GRATANGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nergårdveien 2, 9470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4183776,
+          60.6278384
+        ]
+      },
+      "properties": {
+        "navn": "VOSS HERAD",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Uttrågata 9, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3967921,
+          63.4280522
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Munkegata 1, 7013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "BIRKENES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "KOMMUNEHUSET, 4760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5484966,
+          60.8225348
+        ]
+      },
+      "properties": {
+        "navn": "SØR-AURDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tingvollbakkin 15, 2930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4851,
+          59.415177
+        ]
+      },
+      "properties": {
+        "navn": "HORTEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Teatergata 11, 3187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.534728,
+          69.604046
+        ]
+      },
+      "properties": {
+        "navn": "GAIVUONA SUOHKAN KÅFJORD KOMMUNE KAIVUONON KOMUUNI",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Øvervegen 2, 9146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6316737,
+          62.3417616
+        ]
+      },
+      "properties": {
+        "navn": "HERØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 5, 6090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332315,
+          60.386563
+        ]
+      },
+      "properties": {
+        "navn": "VESTLAND FYLKESKOMMUNE ORGANISASJON OG ØKONOMI",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Agnes Mowinckels gate 5, 5008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7283528,
+          58.9693191
+        ]
+      },
+      "properties": {
+        "navn": "STAVANGER KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Olav Kyrres gate 19, 4005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9494484,
+          59.6127985
+        ]
+      },
+      "properties": {
+        "navn": "HJARTDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Saulandsvegen 414, 3692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7481462,
+          59.6022902
+        ]
+      },
+      "properties": {
+        "navn": "VESTBY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 1, 1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3728319,
+          61.1318617
+        ]
+      },
+      "properties": {
+        "navn": "ÅMOT KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torget 1, 2450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.608794,
+          60.294661
+        ]
+      },
+      "properties": {
+        "navn": "LUNNER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sandsvegen 1, 2740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1692231,
+          59.4706126
+        ]
+      },
+      "properties": {
+        "navn": "SKIPTVET KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sollia 1, 1816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6862737,
+          62.5682454
+        ]
+      },
+      "properties": {
+        "navn": "RAUMA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vollan 8A, 6300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4833641,
+          58.7659538
+        ]
+      },
+      "properties": {
+        "navn": "ÅMLI KOMMUNE STØTTEFUNKSJONER",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gata 5, 4865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647777,
+          58.887936
+        ]
+      },
+      "properties": {
+        "navn": "SOLA KOMMUNE RÅDMANNENS STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 21, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7621631,
+          60.3774668
+        ]
+      },
+      "properties": {
+        "navn": "SAMNANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tyssevegen 217, 5650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0743572,
+          60.9819329
+        ]
+      },
+      "properties": {
+        "navn": "GULEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Eivindvikvegen 1119, 5966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "AURE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 6690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51908,
+          69.4718011
+        ]
+      },
+      "properties": {
+        "navn": "KARASJOGA GIELDA / KARASJOK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Raddeviessogeaidnu 4, 9730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.172768,
+          68.772117
+        ]
+      },
+      "properties": {
+        "navn": "KVÆFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bygdevegen 26, 9475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "AUSTEVOLL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 5392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6293165,
+          58.5072343
+        ]
+      },
+      "properties": {
+        "navn": "FROLAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Frolandsveien 995, 4820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.15888,
+          62.737984
+        ]
+      },
+      "properties": {
+        "navn": "MOLDE KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 1, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "KARLSØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 9130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.286844,
+          61.76853
+        ]
+      },
+      "properties": {
+        "navn": "BREMANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Granden 1, 6723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.926549,
+          58.626142
+        ]
+      },
+      "properties": {
+        "navn": "TVEDESTRAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tjennaveien 30, 4900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.075645,
+          60.8343938
+        ]
+      },
+      "properties": {
+        "navn": "NORDRE LAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 28, 2870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5483753,
+          58.4571569
+        ]
+      },
+      "properties": {
+        "navn": "LUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Moiveien 9, 4460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5392797,
+          68.7988295
+        ]
+      },
+      "properties": {
+        "navn": "HARSTAD KOMMUNE / HÁRSTTÁID SUOHKAN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Asbjørn Selsbanes gate 9, 9405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707657,
+          66.872039
+        ]
+      },
+      "properties": {
+        "navn": "MELØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gammelveien 5, 8150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4112407,
+          58.6174296
+        ]
+      },
+      "properties": {
+        "navn": "ÅSERAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gardsvegen 68, 4540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7157176,
+          58.6651891
+        ]
+      },
+      "properties": {
+        "navn": "SIRDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tonstadvegen 28, 4440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1997711,
+          65.8408735
+        ]
+      },
+      "properties": {
+        "navn": "VEFSN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skjervgata 34, 8657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "FLAKSTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.427509,
+          68.438954
+        ]
+      },
+      "properties": {
+        "navn": "NARVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kongens gate 45, 8514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.936694,
+          66.06348
+        ]
+      },
+      "properties": {
+        "navn": "LEIRFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skoledalsveien 39, 8890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960302,
+          65.678637
+        ]
+      },
+      "properties": {
+        "navn": "VEGA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torvåsmyra 1, 8983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "VEVELSTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "RØST KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.026051,
+          67.034056
+        ]
+      },
+      "properties": {
+        "navn": "GILDESKÅL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Inndyrveien 72, 8140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3944991,
+          67.1014781
+        ]
+      },
+      "properties": {
+        "navn": "SALTDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkegata 23, 8250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.118987,
+          69.314179
+        ]
+      },
+      "properties": {
+        "navn": "ANDØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 68, 8480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.908478,
+          68.563392
+        ]
+      },
+      "properties": {
+        "navn": "HADSEL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 5, 8450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6114322,
+          68.1482977
+        ]
+      },
+      "properties": {
+        "navn": "VESTVÅGØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 37, 8370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.56252,
+          68.232238
+        ]
+      },
+      "properties": {
+        "navn": "VÅGAN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 29, 8300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.832696,
+          66.397591
+        ]
+      },
+      "properties": {
+        "navn": "LURØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Onøyveien 14, 8766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3656687,
+          68.0951911
+        ]
+      },
+      "properties": {
+        "navn": "SØMNA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hovedveien 12, 8920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377303,
+          65.087855
+        ]
+      },
+      "properties": {
+        "navn": "BINDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Oldervikveien 5, 7980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "RØDØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 8185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.383164,
+          67.283186
+        ]
+      },
+      "properties": {
+        "navn": "BODØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kongens gate 23, 8006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01709,
+          66.1991777
+        ]
+      },
+      "properties": {
+        "navn": "NESNA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Movegen 24, 8700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.113332,
+          70.375015
+        ]
+      },
+      "properties": {
+        "navn": "ALSTAHAUG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Strandgata 52, 8805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086876,
+          68.914634
+        ]
+      },
+      "properties": {
+        "navn": "ØKSNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 27, 8430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5764523,
+          67.0067966
+        ]
+      },
+      "properties": {
+        "navn": "BEIARN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "MOLDJORD, 8110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4807649,
+          66.1058195
+        ]
+      },
+      "properties": {
+        "navn": "DØNNA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Krunhaugen 1, 8820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.140006,
+          66.311191
+        ]
+      },
+      "properties": {
+        "navn": "RANA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 2, 8622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.98952,
+          65.597657
+        ]
+      },
+      "properties": {
+        "navn": "HATTFJELLDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "O.T.Olsens vei 3 A, 8692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.206807,
+          65.464758
+        ]
+      },
+      "properties": {
+        "navn": "BRØNNØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skules vei 13, 8904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1446468,
+          59.7639044
+        ]
+      },
+      "properties": {
+        "navn": "HAMARØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 8294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4118838,
+          68.6961677
+        ]
+      },
+      "properties": {
+        "navn": "SORTLAND KOMMUNE / SUORTTÁ SOUHKAN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vesterålsgata 57, 8400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "MOSKENES KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385447,
+          65.538576
+        ]
+      },
+      "properties": {
+        "navn": "GRANE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Industriveien 2, 8682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8229473,
+          66.0764005
+        ]
+      },
+      "properties": {
+        "navn": "HEMNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrumsveien 1, 8646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.119092,
+          69.313987
+        ]
+      },
+      "properties": {
+        "navn": "STEIGEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 8283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.206617,
+          65.468305
+        ]
+      },
+      "properties": {
+        "navn": "AREMARK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 1798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.865498,
+          59.488501
+        ]
+      },
+      "properties": {
+        "navn": "VÅLER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kjosveien 1, 1592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.031204,
+          59.028148
+        ]
+      },
+      "properties": {
+        "navn": "HVALER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storveien 32, 1680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6591221,
+          59.4795243
+        ]
+      },
+      "properties": {
+        "navn": "MARKER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 60, 1870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387204,
+          59.122379
+        ]
+      },
+      "properties": {
+        "navn": "HALDEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 8, 1771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.111505,
+          59.281586
+        ]
+      },
+      "properties": {
+        "navn": "SARPSBORG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Glengsgata 38, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.565828,
+          60.861258
+        ]
+      },
+      "properties": {
+        "navn": "HEMSEDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hemsedalsvegen 2889, 3560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9468433,
+          60.2670429
+        ]
+      },
+      "properties": {
+        "navn": "NORE OG UVDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrum 16, 3630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.294703,
+          59.9842222
+        ]
+      },
+      "properties": {
+        "navn": "ROLLAG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vrågåvegen 10, 3626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908526,
+          59.7711172
+        ]
+      },
+      "properties": {
+        "navn": "ØVRE EIKER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Stasjonsgata 24, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561088,
+          60.630286
+        ]
+      },
+      "properties": {
+        "navn": "ÅL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torget 1, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4626303,
+          60.4296782
+        ]
+      },
+      "properties": {
+        "navn": "FLÅ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrumsvegen 24, 3539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.938129,
+          59.20407
+        ]
+      },
+      "properties": {
+        "navn": "FLESBERG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 3623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3023134,
+          60.6152323
+        ]
+      },
+      "properties": {
+        "navn": "HOL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Ålmannvegen 8, 3576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9501983,
+          60.6995982
+        ]
+      },
+      "properties": {
+        "navn": "GOL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gamlevegen 4, 3550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278573,
+          60.0802721
+        ]
+      },
+      "properties": {
+        "navn": "HOLE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Viksveien 30, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "LUSTER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhuset, 6868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.481023,
+          61.098318
+        ]
+      },
+      "properties": {
+        "navn": "LÆRDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Øyraplassen 7, 6887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.215703,
+          61.777229
+        ]
+      },
+      "properties": {
+        "navn": "GLOPPEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Grandavegen 9, 6823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3981505,
+          61.3634826
+        ]
+      },
+      "properties": {
+        "navn": "FJALER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "FJALERHUSET, 6963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2930602,
+          61.1708359
+        ]
+      },
+      "properties": {
+        "navn": "HYLLESTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hyllestad kommunehus, 6957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.073017,
+          61.218794
+        ]
+      },
+      "properties": {
+        "navn": "HØYANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "August Gunnarskogs gate 1, 6993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.062751,
+          61.345381
+        ]
+      },
+      "properties": {
+        "navn": "ASKVOLL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Askvollvegen 426 A, 6988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7190612,
+          61.9033608
+        ]
+      },
+      "properties": {
+        "navn": "STRYN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tonningsgata 4, 6783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "VIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 6893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3372682,
+          60.3766157
+        ]
+      },
+      "properties": {
+        "navn": "VEGÅRSHEI KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "ADMINISTRASJONSBYGGET, 4985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4833641,
+          58.7659538
+        ]
+      },
+      "properties": {
+        "navn": "ÅMLI KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gata 5, 4865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9986581,
+          58.1641402
+        ]
+      },
+      "properties": {
+        "navn": "EVJE OG HORNNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kasernevegen 19, 4735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.596988,
+          58.346174
+        ]
+      },
+      "properties": {
+        "navn": "GRIMSTAD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Arendalsveien 23, 4878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7649826,
+          58.460303
+        ]
+      },
+      "properties": {
+        "navn": "ARENDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sam Eydes plass 2, 4836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1908699,
+          60.7157981
+        ]
+      },
+      "properties": {
+        "navn": "STANGE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 45, 2335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.077164,
+          61.890078
+        ]
+      },
+      "properties": {
+        "navn": "RENDALEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hanestadveien 1, 2485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541605,
+          60.3919805
+        ]
+      },
+      "properties": {
+        "navn": "NORD-ODAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Herredsvegen 2, 2120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7767469,
+          62.2739869
+        ]
+      },
+      "properties": {
+        "navn": "TYNSET KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torvgata 1, 2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2280641,
+          62.4953825
+        ]
+      },
+      "properties": {
+        "navn": "OS KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rytrøa 14, 2550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2638835,
+          61.3154133
+        ]
+      },
+      "properties": {
+        "navn": "TRYSIL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storvegen 5, 2420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0469148,
+          61.5740488
+        ]
+      },
+      "properties": {
+        "navn": "STOR-ELVDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Granheimveien 3, 2480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0784633,
+          60.794468
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vangsvegen 51, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "TOLGA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 2540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6392408,
+          59.9262508
+        ]
+      },
+      "properties": {
+        "navn": "ALVDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nyborg, 2560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9988951,
+          60.1911676
+        ]
+      },
+      "properties": {
+        "navn": "KONGSVINGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 2, 2212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.829171,
+          60.6891536
+        ]
+      },
+      "properties": {
+        "navn": "VÅLER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vålgutua 252, 2436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6417277,
+          60.9447
+        ]
+      },
+      "properties": {
+        "navn": "FOLLDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nyberg, 2580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0119944,
+          60.6134007
+        ]
+      },
+      "properties": {
+        "navn": "ÅSNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 1, 2270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.053257,
+          60.451205
+        ]
+      },
+      "properties": {
+        "navn": "GRUE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Grue rådhus, 2260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.252247,
+          59.485687
+        ]
+      },
+      "properties": {
+        "navn": "SULDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Eidsvegen 7, 4230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.042846,
+          59.023582
+        ]
+      },
+      "properties": {
+        "navn": "STRAND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgaten 2, 4100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6450579,
+          58.6160444
+        ]
+      },
+      "properties": {
+        "navn": "HÅ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 8, 4360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.003105,
+          58.452234
+        ]
+      },
+      "properties": {
+        "navn": "EIGERSUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bøckmans gate 2, 4370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647777,
+          58.887936
+        ]
+      },
+      "properties": {
+        "navn": "SOLA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 21, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6528323,
+          58.7362964
+        ]
+      },
+      "properties": {
+        "navn": "TIME KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Arne Garborgs veg 30, 4344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0813667,
+          58.630426
+        ]
+      },
+      "properties": {
+        "navn": "BJERKREIM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nesjane 1, 4389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3531647,
+          59.6506777
+        ]
+      },
+      "properties": {
+        "navn": "SAUDA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 32, 4200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.741242,
+          58.853305
+        ]
+      },
+      "properties": {
+        "navn": "SANDNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 1, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2755538,
+          59.410154
+        ]
+      },
+      "properties": {
+        "navn": "HAUGESUND KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 66, 5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4357939,
+          59.2306551
+        ]
+      },
+      "properties": {
+        "navn": "BOKN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Boknatunvegen 37, 5561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8113636,
+          59.6041008
+        ]
+      },
+      "properties": {
+        "navn": "VINDAFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 1, 5580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.296411,
+          58.345153
+        ]
+      },
+      "properties": {
+        "navn": "SOKNDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Solbøveien 1, 4380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4054482,
+          59.0647033
+        ]
+      },
+      "properties": {
+        "navn": "KVITSØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehusveien 6, 4180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.697543,
+          58.785419
+        ]
+      },
+      "properties": {
+        "navn": "KLEPP KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bedriftsvegen 4, 4353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7288013,
+          58.9689574
+        ]
+      },
+      "properties": {
+        "navn": "STAVANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Øvre Kleivegate 15, 4005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6314975,
+          63.0527257
+        ]
+      },
+      "properties": {
+        "navn": "AVERØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bruhagen, 6530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2068549,
+          62.9119473
+        ]
+      },
+      "properties": {
+        "navn": "TINGVOLL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Midtvågvegen 2, 6630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0681145,
+          62.1468508
+        ]
+      },
+      "properties": {
+        "navn": "VOLDA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Stormyra 2, 6100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9444066,
+          62.3077185
+        ]
+      },
+      "properties": {
+        "navn": "STRANDA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Øyna 13, 6200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7255948,
+          62.9752521
+        ]
+      },
+      "properties": {
+        "navn": "SURNADAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bårdshaugvegen 1, 6650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "GJEMNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 6631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57828,
+          62.389633
+        ]
+      },
+      "properties": {
+        "navn": "SYKKYLVEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kyrkjevegen 62, 6230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562055,
+          62.674611
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Romsdalsvegen 2, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.131062,
+          62.199205
+        ]
+      },
+      "properties": {
+        "navn": "ØRSTA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Dalevegen 6, 6153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.192242,
+          62.4401251
+        ]
+      },
+      "properties": {
+        "navn": "SULA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sloghaugvegen 13, 6030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0296613,
+          62.3690447
+        ]
+      },
+      "properties": {
+        "navn": "HAREID KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 5, 6060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.212714,
+          63.055078
+        ]
+      },
+      "properties": {
+        "navn": "RINDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rindalsvegen 17, 6657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.567839,
+          62.207686
+        ]
+      },
+      "properties": {
+        "navn": "SANDE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rønnebergplassen 17, 6084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.089847,
+          62.62137
+        ]
+      },
+      "properties": {
+        "navn": "VESTNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Brugata 10, 6390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "VANYLVEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 6143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4811448,
+          63.793647
+        ]
+      },
+      "properties": {
+        "navn": "VERDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Johannes Bruns gate 2, 7650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5636049,
+          64.8844871
+        ]
+      },
+      "properties": {
+        "navn": "RØYRVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bergveien 10, 7898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3442369,
+          62.045374
+        ]
+      },
+      "properties": {
+        "navn": "FROSTA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "KOMMUNEHUSET, 7633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5927674,
+          64.4638595
+        ]
+      },
+      "properties": {
+        "navn": "LIERNE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Heggvollveien 6, 7882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7050938,
+          65.0923794
+        ]
+      },
+      "properties": {
+        "navn": "LEKA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Leknesveien 67, 7994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2997835,
+          63.7459565
+        ]
+      },
+      "properties": {
+        "navn": "LEVANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Håkon den godes gate 30, 7600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.918579,
+          63.468384
+        ]
+      },
+      "properties": {
+        "navn": "STJØRDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kjøpmannsgata 9, 7500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "MERÅKER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 7530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561088,
+          60.630286
+        ]
+      },
+      "properties": {
+        "navn": "TINN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torget 1, 3660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0859652,
+          59.185654
+        ]
+      },
+      "properties": {
+        "navn": "FYRESDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Landstadvegen 35, 3870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6555913,
+          59.1417015
+        ]
+      },
+      "properties": {
+        "navn": "PORSGRUNN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storgata 153, 3915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5191297,
+          59.0274058
+        ]
+      },
+      "properties": {
+        "navn": "NISSEDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sollivegen 2, 3855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494619,
+          59.4019616
+        ]
+      },
+      "properties": {
+        "navn": "KVITESEID KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kviteseidgata 13, 3850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6105155,
+          59.207471
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 2, 3724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6266284,
+          59.4827507
+        ]
+      },
+      "properties": {
+        "navn": "SELJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Brøløsvegen 13A, 3840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0621411,
+          59.0975503
+        ]
+      },
+      "properties": {
+        "navn": "DRANGEDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gudbrandsveien 7, 3750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270821,
+          59.2793873
+        ]
+      },
+      "properties": {
+        "navn": "NOME KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Ringsevja 30, 3830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7282509,
+          59.2791325
+        ]
+      },
+      "properties": {
+        "navn": "SILJAN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sentrumsveien 22, 3748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.988984,
+          59.569163
+        ]
+      },
+      "properties": {
+        "navn": "VINJE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vinjevegen 192, 3890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0138039,
+          59.4456808
+        ]
+      },
+      "properties": {
+        "navn": "TOKKE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Storvegen 60, 3880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1448818,
+          59.7643935
+        ]
+      },
+      "properties": {
+        "navn": "ENEBAKK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Prestegårdsveien 4, 1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0742533,
+          60.2103608
+        ]
+      },
+      "properties": {
+        "navn": "LØRENSKOG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hasselveien 6, 1470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.635604,
+          59.666724
+        ]
+      },
+      "properties": {
+        "navn": "FROGN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 6, 1443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79105,
+          59.663605
+        ]
+      },
+      "properties": {
+        "navn": "ÅS KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skoleveien 1, 1430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1747978,
+          60.1435178
+        ]
+      },
+      "properties": {
+        "navn": "ULLENSAKER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Furusethgata 12, 2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523271,
+          59.889001
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Arnold Haukelands plass 10, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1018997,
+          60.5679453
+        ]
+      },
+      "properties": {
+        "navn": "NESBYEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rukkedalsvegen 46, 3540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.505512,
+          59.7850041
+        ]
+      },
+      "properties": {
+        "navn": "STORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Borggata, 5417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3188639,
+          59.9202053
+        ]
+      },
+      "properties": {
+        "navn": "FITJAR KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gamle havnavegen 23, 5419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9344281,
+          59.6647067
+        ]
+      },
+      "properties": {
+        "navn": "ETNE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "ETNE TINGHUS, 5590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8031995,
+          60.814479
+        ]
+      },
+      "properties": {
+        "navn": "MODALEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Mo 3, 5729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.505636,
+          60.524159
+        ]
+      },
+      "properties": {
+        "navn": "OSTERØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Geitaryggen 8, 5282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4698473,
+          60.1854597
+        ]
+      },
+      "properties": {
+        "navn": "BJØRNAFJORDEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torggata 7, 5200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8227477,
+          60.5903087
+        ]
+      },
+      "properties": {
+        "navn": "VAKSDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Konsul Jebsensgata 16, 5722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.070009,
+          60.467404
+        ]
+      },
+      "properties": {
+        "navn": "EIDFJORD KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Simadalsvegen 1, 5783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433541,
+          60.3698216
+        ]
+      },
+      "properties": {
+        "navn": "KVAM HERAD",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Grovagjelet 16, 5600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5000316,
+          60.0058097
+        ]
+      },
+      "properties": {
+        "navn": "TYSNES KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Uggdalsvegen 301, 5685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3003385,
+          60.7995615
+        ]
+      },
+      "properties": {
+        "navn": "MASFJORDEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Austfjordvegen 2724, 5981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973669,
+          70.033776
+        ]
+      },
+      "properties": {
+        "navn": "SKJERVØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Skoleveien 6, 9180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80515,
+          68.747532
+        ]
+      },
+      "properties": {
+        "navn": "LAVANGEN KOMMUNE LOABÁGA SUOHKAN",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Nessveien 7, 9357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9552987,
+          69.6514363
+        ]
+      },
+      "properties": {
+        "navn": "TROMSØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 2, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6899603,
+          69.0917505
+        ]
+      },
+      "properties": {
+        "navn": "DYRØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Dyrøytunet 1, 9311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "MÅLSELV KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunehuset, 9321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "MIDTRE GAULDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 7290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039243,
+          63.217788
+        ]
+      },
+      "properties": {
+        "navn": "SELBU KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Gjelbakken 15, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.974405,
+          63.601704
+        ]
+      },
+      "properties": {
+        "navn": "HITRA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 1, 7240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3509715,
+          59.2940131
+        ]
+      },
+      "properties": {
+        "navn": "TYDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "ÅS, 7590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958854,
+          63.583018
+        ]
+      },
+      "properties": {
+        "navn": "INDRE FOSEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 13, 7100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1744033,
+          60.1410457
+        ]
+      },
+      "properties": {
+        "navn": "FRØYA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Herredshuset, 7260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.276512,
+          63.28747
+        ]
+      },
+      "properties": {
+        "navn": "MELHUS KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusvegen 2, 7224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2989353,
+          62.8437921
+        ]
+      },
+      "properties": {
+        "navn": "HOLTÅLEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Helsetunet 7, 7380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7936822,
+          63.4110917
+        ]
+      },
+      "properties": {
+        "navn": "MALVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torggata 2, 7550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3967921,
+          63.4280522
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Munkegata 1, 7013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387933,
+          62.5753573
+        ]
+      },
+      "properties": {
+        "navn": "RØROS KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bergmannsgata 19, 7374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5131745,
+          64.2987606
+        ]
+      },
+      "properties": {
+        "navn": "OSEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 17, 7740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6875701,
+          62.5951017
+        ]
+      },
+      "properties": {
+        "navn": "OPPDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Inge Krokanns veg 2, 7340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2371991,
+          60.985433
+        ]
+      },
+      "properties": {
+        "navn": "NORD-AURDAL KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Jernbanevegen 24, 2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1417859,
+          61.5298085
+        ]
+      },
+      "properties": {
+        "navn": "RINGEBU KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Hanstadgata 4, 2630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8172571,
+          60.6770486
+        ]
+      },
+      "properties": {
+        "navn": "ØSTRE TOTEN KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusgata 20, 2850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9394052,
+          61.5565247
+        ]
+      },
+      "properties": {
+        "navn": "SØR-FRON KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kommunevegen 1, 2647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2911093,
+          61.3209649
+        ]
+      },
+      "properties": {
+        "navn": "DOVRE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "BÅTSTO, 2662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998088,
+          61.091223
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE SLIDRE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Slidrevegen 16, 2966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.265669,
+          61.883091
+        ]
+      },
+      "properties": {
+        "navn": "SKJÅK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Moavegen 30, 2690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.412881,
+          61.264972
+        ]
+      },
+      "properties": {
+        "navn": "ØYER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kongsvegen 325, 2636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.095617,
+          61.875709
+        ]
+      },
+      "properties": {
+        "navn": "VÅGÅ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Edvard Storms veg 2, 2680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8629168,
+          62.1181897
+        ]
+      },
+      "properties": {
+        "navn": "LESJA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Jakup B. Klukstads veg 32, 2665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.692375,
+          60.794774
+        ]
+      },
+      "properties": {
+        "navn": "GJØVIK KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kauffeldts plass 1, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5697977,
+          61.8371376
+        ]
+      },
+      "properties": {
+        "navn": "LOM KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sognefjellsvegen 6, 2686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0792078,
+          61.1336446
+        ]
+      },
+      "properties": {
+        "navn": "ØYSTRE SLIDRE KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bygdinvegen 1989, 2940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.185401,
+          70.199465
+        ]
+      },
+      "properties": {
+        "navn": "DEANU GIELDA / TANA KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusveien 24, 9845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.748602,
+          70.074227
+        ]
+      },
+      "properties": {
+        "navn": "VADSØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Tollbugata 14, 9800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "UNJARGGA GIELDA / NESSEBY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "RÅDHUSET, 9840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9850516,
+          70.9770382
+        ]
+      },
+      "properties": {
+        "navn": "NORDKAPP KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Sykehusveien 16 B, 9750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.041952,
+          69.728623
+        ]
+      },
+      "properties": {
+        "navn": "SØR-VARANGER KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Rådhusplassen 3, 9900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6616609,
+          70.9965624
+        ]
+      },
+      "properties": {
+        "navn": "MÅSØY KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Torget 1, 9690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01709,
+          66.1991777
+        ]
+      },
+      "properties": {
+        "navn": "NESNA KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Movegen 24, 8700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4680561,
+          68.6806709
+        ]
+      },
+      "properties": {
+        "navn": "BØ KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Bøheimen 2, 8475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0784633,
+          60.794468
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR KOMMUNE KOMMUNEDIREKTØR OG STAB",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Vangsvegen 51, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6466467,
+          59.665113
+        ]
+      },
+      "properties": {
+        "navn": "KONGSBERG KOMMUNE",
+        "type": "Generell offentlig administrasjon",
+        "adresse": "Kirkegata 1, 3616"
+      }
+    }
+  ]
+}

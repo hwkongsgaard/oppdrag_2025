@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1641984,
+          60.1657804
+        ]
+      },
+      "properties": {
+        "navn": "LHL, LANDSFORENINGEN FOR HJERTE, LUNGE OG HJERNESLAG",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Ragnar Strøms vei 10, 2051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2395832,
+          63.67047
+        ]
+      },
+      "properties": {
+        "navn": "ALLOS STIFTELSEN",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Bjørnangvegen 27, 7620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2395832,
+          63.67047
+        ]
+      },
+      "properties": {
+        "navn": "ALLOS STIFTELSEN",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Bjørnangvegen 27, 7620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0421946,
+          61.5940427
+        ]
+      },
+      "properties": {
+        "navn": "KINN UTDANNINGS- OG RESSURSSENTER KF",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Professor Gjelsvikveg 20, 6906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7451906,
+          59.9127766
+        ]
+      },
+      "properties": {
+        "navn": "NORSK FOLKEHJELP",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Stortorvet 10, 155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74728,
+          59.909762
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN KIRKENS BYMISJON",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Tollbugata 3, 152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1641984,
+          60.1657804
+        ]
+      },
+      "properties": {
+        "navn": "LOVISENBERG REHABILITERING AS",
+        "type": "Andre sosialtjenester uten botilbud ellers",
+        "adresse": "Ragnar Strøms veg 10, 2051"
+      }
+    }
+  ]
+}

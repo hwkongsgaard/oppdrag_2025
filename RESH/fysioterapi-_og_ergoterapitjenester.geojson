@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33612,
+          60.377761
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN BARNAS FYSIOTERAPISENTER",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Solheimsgaten 9, 5058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0278755,
+          58.1717459
+        ]
+      },
+      "properties": {
+        "navn": "ODD SNERTHAMMER",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Tretjønnveien 47, 4633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6471651,
+          58.9920373
+        ]
+      },
+      "properties": {
+        "navn": "RAFT-KLINIKKEN AS",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Randabergveien 300, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2290294,
+          58.461193
+        ]
+      },
+      "properties": {
+        "navn": "SØRLANDETS REHABILITERINGSSENTER EIKEN AS",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Ola Garsons vei 1, 4596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0485673,
+          58.1373115
+        ]
+      },
+      "properties": {
+        "navn": "SØRLANDETS REHABILITERINGSSENTER EIKEN AS REHABILITERINGSENHET - DAGTILBUD",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Nye Monoddveien 7, 4580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0278755,
+          58.1717459
+        ]
+      },
+      "properties": {
+        "navn": "ODD SNERTHAMMER",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Tretjønnveien 47, 4633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1653592,
+          60.1658064
+        ]
+      },
+      "properties": {
+        "navn": "PTØ NORGE",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Ragnar Strøms veg 4, 2067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7541371,
+          59.6033426
+        ]
+      },
+      "properties": {
+        "navn": "BEHANDLERVERKET SKI AS",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Idrettsveien 16, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.304617,
+          58.082182
+        ]
+      },
+      "properties": {
+        "navn": "LEGE HELGE TYTLANDSVIK",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Gamleveien 37, 4520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2529904,
+          62.2975716
+        ]
+      },
+      "properties": {
+        "navn": "MURITUNET AS",
+        "type": "Fysioterapi- og ergoterapitjenester",
+        "adresse": "Grandegata 58, 6210"
+      }
+    }
+  ]
+}

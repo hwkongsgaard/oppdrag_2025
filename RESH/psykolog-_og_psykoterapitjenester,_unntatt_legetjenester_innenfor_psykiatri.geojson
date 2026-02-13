@@ -1,0 +1,2825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3253303,
+          60.3979384
+        ]
+      },
+      "properties": {
+        "navn": "RANDI LINDTNER AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Øvregaten 25, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9827785,
+          60.1823725
+        ]
+      },
+      "properties": {
+        "navn": "ELSETHS PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nøkkerosevegen 1, 2208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9543164,
+          59.9260045
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG EINAR HAAVE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Skårersletta 18, 1473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683743,
+          62.594721
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST CHRISTINE KVELLO",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Russervegen 5B, 7340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3232679,
+          60.3972254
+        ]
+      },
+      "properties": {
+        "navn": "SENTER FOR PERSONLIG UTVIKLING AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bryggen 31, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.810969,
+          59.854995
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG INGRID KOLFLAATH AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Munkerudveien 58, 1165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564594,
+          62.4747749
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ØYVIND STØYLEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kongens gate 23, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6634564,
+          59.4325145
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MONICA ALVESTRAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Det Gule Huset, 1532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5741368,
+          59.8975901
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG STEFFEN HOLTHE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Sandviksveien 26, 1363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8506082,
+          61.4521195
+        ]
+      },
+      "properties": {
+        "navn": "NEVROPSYKOLOG TORJUS ØDELIEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storehagen 9, 6800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7365957,
+          63.1141964
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST EVA PAULINE ARNØY",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Astrups gate 9, 6509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3309652,
+          60.389034
+        ]
+      },
+      "properties": {
+        "navn": "MENTA HELSE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vestre Strømkaien 1, 5008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.951998,
+          69.653676
+        ]
+      },
+      "properties": {
+        "navn": "ALMUT IRMTRAUD PRAHL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Petersborggata 67, 9009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387505,
+          59.12286
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG SIV JOHANSON",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 9, 1771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7755748,
+          63.4165078
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HEIDI STEEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Butikkvegen 4, 7550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.765797,
+          59.935472
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST SISSEL HÅLAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vogts gate 57A, 477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736468,
+          58.853126
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG MARIT ORRE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langgata 41, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28115,
+          63.735919
+        ]
+      },
+      "properties": {
+        "navn": "SNUOM PSYKISK HELSE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Moafjæra 8A, 7606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.960176,
+          69.653779
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ELLEN D. MARTINSEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 128, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4347567,
+          59.8368287
+        ]
+      },
+      "properties": {
+        "navn": "ANNE-GRO HELLAND PSYKOLOGSPESIALIST",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Knud Askers vei 28B, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4556572,
+          59.8169309
+        ]
+      },
+      "properties": {
+        "navn": "GURO DAHL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Husejordet 104, 1386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.794718,
+          59.83458
+        ]
+      },
+      "properties": {
+        "navn": "BIRGITTE JAKOBSEN PSYKOLOGTJENESTER.",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Holmlia Senter vei 12, 1255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.674232,
+          58.952382
+        ]
+      },
+      "properties": {
+        "navn": "TONE PEDERSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Madlastokken 5, 4042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4181946,
+          67.275939
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST KRISTIN SALOMONSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Gidsken Jakobsens vei 22, 8008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "MARIANNE ØSTBY",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4178452,
+          60.629463
+        ]
+      },
+      "properties": {
+        "navn": "THORSETH KIRSTEN MØEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Stallgata 15, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.759596,
+          59.921139
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST INGEBORG H. EGEBJERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Schous plass 1, 552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.957327,
+          69.650696
+        ]
+      },
+      "properties": {
+        "navn": "HILL BRUUN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 81, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4883029,
+          59.8543757
+        ]
+      },
+      "properties": {
+        "navn": "ELISABETH MORIN HERSKEDAL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vogellund 6, 1394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764535,
+          59.956532
+        ]
+      },
+      "properties": {
+        "navn": "KARI BEKKEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Gjerdrums vei 19, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3636692,
+          60.3690531
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MARIANNE VINJEVOLL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vognstølen 5, 5096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6385244,
+          59.9124323
+        ]
+      },
+      "properties": {
+        "navn": "HAGEN PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Strandveien 8, 1366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8806964,
+          59.9608798
+        ]
+      },
+      "properties": {
+        "navn": "CECILIE MEYER, PSYKOLOGSPESIALIST, PSYKOLOGISK RÅDGIVNING, VEILEDNING OG TERAPI",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Rosenbergveien 15 B, 963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242607,
+          60.3924535
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG JORUN MARGRETE LILLØY",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Starvhusgaten 2A, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564804,
+          62.4735516
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 AS AVD ÅLESUND PSYKISK HELSEVERN B & U",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kongens gate 11, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4813835,
+          64.0238545
+        ]
+      },
+      "properties": {
+        "navn": "EGGE PSYKOLOGSERVICE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Høvdingvegen 10, 7725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3247321,
+          60.3922954
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ROAR STAV",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Starvhusgaten 2B, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3092344,
+          59.4945765
+        ]
+      },
+      "properties": {
+        "navn": "SILJE GJESDAL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langgaten 41, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5221682,
+          59.7907348
+        ]
+      },
+      "properties": {
+        "navn": "BODIL VIK PSYKIATRI PSYKOTERAPI",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Valevegen 26, 5416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712417,
+          59.929472
+        ]
+      },
+      "properties": {
+        "navn": "KROG PSYKOTERAPI Dag Arne Krog",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fridtjof Nansens vei 2, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9532581,
+          59.202892
+        ]
+      },
+      "properties": {
+        "navn": "PER ROAR HOLEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kasernegaten 47, 1632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.815884,
+          59.926537
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST HILDE HOLTHE-BERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kabelgata 1, 580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7962434,
+          59.8091136
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ARILD HAFSTAD",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kolbotnveien 25, 1410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3966517,
+          58.2623004
+        ]
+      },
+      "properties": {
+        "navn": "ESPEN HÅLAND PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Senterveien 30, 4790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.392307,
+          63.431176
+        ]
+      },
+      "properties": {
+        "navn": "INGUNN STEDJE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Prinsens gate 39, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1570332,
+          62.4743045
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST LISBETH ERTESVÅG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kongens gate 20, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.392307,
+          63.431176
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG METTE KVISTEN STEINAN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Prinsens gate 39, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3245768,
+          60.3965607
+        ]
+      },
+      "properties": {
+        "navn": "S. GRØNBECH",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bryggen 13, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.424329,
+          60.628944
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HJETLAND AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Sverresplassen 4, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712598,
+          59.916244
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG MARIANNE BØRSTAD",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bygdøy Allé 21, 262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5166688,
+          60.4163855
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HANNE SKOGLUND. SPESIALIST I KLINISK VOKSENPSYKOLOGI.",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storlinna 73, 2760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6605486,
+          58.2954414
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ANNE MARIE SAND BAKKEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kirkegaten 5, 4400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4189661,
+          60.6284418
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MARI STRAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Skulegata 11A, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.996849,
+          60.1924879
+        ]
+      },
+      "properties": {
+        "navn": "KLINIKK FOR PSYKOLOGBEHANDLING AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fjellgata 14, 2212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724714,
+          59.925678
+        ]
+      },
+      "properties": {
+        "navn": "IRENE DUNDAS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Rosenborggata 3, 356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9905224,
+          58.1470347
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ØYSTEIN KLEV",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Markensgate 42, 4612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4364324,
+          59.8338915
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST DAG TRAAVIK",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Alfheim 7, 1384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.126012,
+          60.359792
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST SVEIN OLAV MELBERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "GRØNAMYRVEGEN 6, 5341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724714,
+          59.925678
+        ]
+      },
+      "properties": {
+        "navn": "OLSEN PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Rosenborggata 3, 356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.205254,
+          59.737345
+        ]
+      },
+      "properties": {
+        "navn": "EINAR HJERTØ",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langes gate 7, 3044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "RIEKELES VIK AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.572011,
+          60.870187
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG F. GRIFFITHS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Håvard Skirbekks veg 20, 2414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8504874,
+          63.3120291
+        ]
+      },
+      "properties": {
+        "navn": "SENTER FOR STRESS OG TRAUMEPSYKOLOGI AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Grensen 18, 159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.759833,
+          59.906823
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ANNE MARIE FRØKEDAL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Dronning Eufemias gate 51, 194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68798,
+          60.795563
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MARIT KRISTIN SØRLIE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Øvre Torvgate 3, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.440176,
+          59.813168
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG JON MAGNUS WÆRSTAD",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Korpåsen 47A, 1386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.842007,
+          59.894173
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST BENTE BREKNE KARLSØEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vetlandsveien 99, 685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2813412,
+          59.4311652
+        ]
+      },
+      "properties": {
+        "navn": "ARNE ANDREAS PEDERSEN DØSKE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Stemhaugmarka 48, 5518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.805972,
+          59.891924
+        ]
+      },
+      "properties": {
+        "navn": "KJETIL RØNNINGEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ryensvingen 11, 680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.737492,
+          58.9930253
+        ]
+      },
+      "properties": {
+        "navn": "JANVINS PSYKOLOGKONTOR",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Settegarnsveien 25, 4085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3253303,
+          60.3979384
+        ]
+      },
+      "properties": {
+        "navn": "CATHRINE MEYER AMUNDSEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Øvregaten 25, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3245768,
+          60.3965607
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG SILJE KRISTINE FLOEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bryggen 13, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76434,
+          59.947464
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG OLE JOHAN FINNØY AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nydalsveien 15, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1398318,
+          59.7506181
+        ]
+      },
+      "properties": {
+        "navn": "CATHRINE LIMA",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Buskerudveien 67, 3024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.554107,
+          60.8826817
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST GURO M. SKULBERG AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Grindalsvegen 3, 2406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "HOLMEN PRAKSIS FOR SKJEMATERAPI",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43111,
+          60.627311
+        ]
+      },
+      "properties": {
+        "navn": "BENTE IREN JANSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Svingen 15, 196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242607,
+          60.3924535
+        ]
+      },
+      "properties": {
+        "navn": "SIVI E. HAUGEN ROSENDAHL, SPESIALIST I PSYKIATRI",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Starvhusgaten 2A, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1149673,
+          60.3494584
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST NINA BJERKE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Steinsvikvegen 14, 5353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1733843,
+          59.49413
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG MERETE HYLLSETH LIEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Gjøgriveien 24, 3089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9895017,
+          59.9413673
+        ]
+      },
+      "properties": {
+        "navn": "ANETTE BERGLUND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fjellhamarveien 46, 1472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3187948,
+          60.3951695
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST Gunnar Larsen",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Strandgaten 59, 5004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7516569,
+          59.6037081
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG PER-CHRISTIAN VANEM",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vestheimveien 33, 1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6435446,
+          59.9464401
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG LINE LUNDBO",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Tore Hals Mejdells vei 8, 751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9662815,
+          69.6556441
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG SIV KJERSTI PEDERSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Seminarbakken 4, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST TERJE JØRAAS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1569835,
+          62.7360421
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE COPERIO MOLDE VOP",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 18, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.680728,
+          58.952472
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG IVAR TYSLAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Madlakrossen 7, 4042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.501,
+          59.88612
+        ]
+      },
+      "properties": {
+        "navn": "STRANDALLO PSYKOLOGTJENESTER ANNE LOVISE STRAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fjelltunveien 5, 1341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1634511,
+          59.5839715
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST KIRSTEN TORBJØRNSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Trøgstadveien 1, 1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1373129,
+          66.31036
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST GERTH ENGSTRØM",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nordahl Griegs gt 6, 8622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3882892,
+          59.1178058
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HANNE-SOFIE JOHNSEN DAHL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Skippergata 6, 1767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3230069,
+          60.3938929
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ARILD EIKENÆS L. VENGEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Strandgaten 6, 5013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3247321,
+          60.3922954
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG KJELL GRØNNEVIK",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Starvhusgaten 2B, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3230069,
+          60.3938929
+        ]
+      },
+      "properties": {
+        "navn": "TRENGEREID PSYKOLOGPRAKSIS AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Strandgaten 6, 5013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6565058,
+          59.4009515
+        ]
+      },
+      "properties": {
+        "navn": "INGEBORG SNILSBERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Baugsåsen 9, 1525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.561466,
+          59.911494
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG EIRIK JOHANNESSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kirkeveien 64A, 364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463402,
+          61.118698
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST TOLLAN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 100, 2615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691373,
+          59.929745
+        ]
+      },
+      "properties": {
+        "navn": "ANDERS SKOGEN WENNEBERG - PSYKOLOGISKE TJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Skøyensvingen 14D, 375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1178135,
+          59.2816401
+        ]
+      },
+      "properties": {
+        "navn": "MAJA HANSSON KOGNITIV TERAPI OG UTVIKLING",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "St. Marie gate 71, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0346282,
+          59.0296609
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MARIANNE S. THORESEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kristinelia 14, 1680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "HEIDI HUSBY",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80555,
+          59.930254
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG KARI TENMANN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Økern torgvei 1, 580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.200071,
+          59.731987
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST EVEN ROGNAN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Harald Hårfagres gate 3A, 3046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.397532,
+          59.284611
+        ]
+      },
+      "properties": {
+        "navn": "SPEARE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kjellengveien 2A, 3125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.674232,
+          58.952382
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ANNE TOVE ØYDNA",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Madlastokken 5, 4042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0721248,
+          60.7947994
+        ]
+      },
+      "properties": {
+        "navn": "KLINISK PSYKOLOGSENTER HAMAR SOLRUN IVARA BRUVOLD",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Torggata 55, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7175,
+          59.929427
+        ]
+      },
+      "properties": {
+        "navn": "KASK PSYKIATRI,PSYKOTERAPI,TRAUMETERAPI OG PSYKOANALYSE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kirkeveien 61, 364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.274104,
+          59.563062
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG OLE CHR. JOHNSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Gamle Hvålavei 3, 3681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74381,
+          59.925085
+        ]
+      },
+      "properties": {
+        "navn": "INGEBORG SJØLIE DAVIK",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Waldemar Thranes gate 19A, 171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2994604,
+          59.2219463
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST HEGE PRESTBY LINDGREN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nygaards Alle 4, 3160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409066,
+          59.9535899
+        ]
+      },
+      "properties": {
+        "navn": "NINA HASSELBERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Dampsagveien 4, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.856397,
+          59.922677
+        ]
+      },
+      "properties": {
+        "navn": "MORTEN RØED ROSSELAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Haugerudsenteret 1, 673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.123074,
+          60.7869712
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET NEVROPSYKOLOGI SØRENSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ingrid Semmingsens veg 6, 2312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4347567,
+          59.8368287
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST INGRID EIDE CHRISTIANSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Knud Askers vei 28B, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5637783,
+          68.2323729
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST RACHEL HAGEN WAHL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Torget 1, 8300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.820658,
+          59.226141
+        ]
+      },
+      "properties": {
+        "navn": "GHILDAL AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Lillengveien 8, 1523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800956,
+          59.861329
+        ]
+      },
+      "properties": {
+        "navn": "HILDE KRISTIN BÆKKEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 228C, 1162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.262223,
+          60.164143
+        ]
+      },
+      "properties": {
+        "navn": "INGA MEDNE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bloms gate 19, 3510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6605486,
+          58.2954414
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ANNE MARIE SAND BAKKEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kirkegaten 5, 4400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.805202,
+          59.898
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST GINE MEKJAN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ryenstubben 3, 679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65457,
+          59.140351
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST GRY HOLMERN HALVORSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 141, 3915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.556068,
+          60.620269
+        ]
+      },
+      "properties": {
+        "navn": "ODD LEIV LARSSON FJØRTOFT",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Øvre Kolbotn 5, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST WINTHER SØRENSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1a, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.272427,
+          69.9684745
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIN DAHN, PSYKOLOGSPESIALIST",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Løkkeveien 2, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.552955,
+          60.8830359
+        ]
+      },
+      "properties": {
+        "navn": "ELVERUM PSYKOTERAPISENTER V/EIRIK ULVESETH",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Grindalsvegen 5, 2406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1044252,
+          59.7540812
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG INGER E B KARLSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Elveveien 19, 3057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.737238,
+          58.853604
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ANNE TURID SALVESEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Olav Kyrres gate 2, 4307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778021,
+          59.932478
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ANNE KRISTIN NOER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Trondheimsveien 184, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9789263,
+          60.4895355
+        ]
+      },
+      "properties": {
+        "navn": "GJERMUND NYSVEEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Hansemyrveien 4, 880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3972018,
+          63.4319118
+        ]
+      },
+      "properties": {
+        "navn": "MARI-METTE GUNNES",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Dronningens gate 9, 7011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736468,
+          58.853126
+        ]
+      },
+      "properties": {
+        "navn": "KJERSTI TOLO HAUSBERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langgata 41, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6465381,
+          59.6726371
+        ]
+      },
+      "properties": {
+        "navn": "LAAGENPSYKOLOGEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Reins gate 5A, 3611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5168265,
+          59.7274883
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HANNE STRØMME",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Høvikskogen 44, 3477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.838979,
+          59.885962
+        ]
+      },
+      "properties": {
+        "navn": "OLAUG HELENE ORBAN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Protonveien 27B, 690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.642526,
+          59.927028
+        ]
+      },
+      "properties": {
+        "navn": "RAGNHILD KJØSNES",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ullern allè 28, 381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4178452,
+          60.629463
+        ]
+      },
+      "properties": {
+        "navn": "LINDA HJELTNES",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Stallgata 15, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.786932,
+          59.921472
+        ]
+      },
+      "properties": {
+        "navn": "RANDI SKJERVE PSYKOLOGPRAKSIS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Tore Hunds vei 55, 576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.768601,
+          58.4519935
+        ]
+      },
+      "properties": {
+        "navn": "TERAPIROMMET AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Noroddveien 2, 4816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9196602,
+          63.4667714
+        ]
+      },
+      "properties": {
+        "navn": "LINE I. MELAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Værnesgata 9, 7503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9396724,
+          59.2093658
+        ]
+      },
+      "properties": {
+        "navn": "TERAPEUT & PSYKIATER KAMERE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kirkebrygga 4, 1607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3088029,
+          63.7437205
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG HENRIK LUNDH",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ringvegen 26, 7604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9895017,
+          59.9413673
+        ]
+      },
+      "properties": {
+        "navn": "ISELIN SÆTRE PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fjellhamarveien 46, 1472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65457,
+          59.140351
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST AGATA STRENG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 141, 3915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2110165,
+          59.1231806
+        ]
+      },
+      "properties": {
+        "navn": "ALEXANDER AARVIK",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Virikskogen 10, 3212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736468,
+          58.853126
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG KRISTIAN NYBORG JOHANSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langgata 41, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721382,
+          59.921105
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG BARBRO ANDERSEN AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Josefines gate 40, 258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1569835,
+          62.7360421
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG OLE BJØRN KOLFLÅTH SPESIALIST I KLINISK PSYKOLOGI MNPF",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 18, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3032652,
+          60.2984572
+        ]
+      },
+      "properties": {
+        "navn": "VIGDIS SLOTTERØY PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Indre Steinsvik 15A, 5237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675994,
+          59.948344
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST MARIANNE SKAR",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Holmenkollveien 38, 376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2917456,
+          59.4067322
+        ]
+      },
+      "properties": {
+        "navn": "INGER JOHANNE STORESUND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Johan Svendsens gate 4B, 5531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73901,
+          59.744632
+        ]
+      },
+      "properties": {
+        "navn": "MARIT GUNNARSHAUG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ekebergveien 1A, 192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.464573,
+          61.118027
+        ]
+      },
+      "properties": {
+        "navn": "HEIDI FEREN KALTENBORN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "storgata 89, 2615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.233689,
+          59.787677
+        ]
+      },
+      "properties": {
+        "navn": "GEIR Ø. HAUGEN SPESIALIST I KLINISK PSYKOLOGI",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Saueveien 48, 3404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564804,
+          62.4735516
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 AS AVD ÅLESUND PSYKISK HELSEVERN VOKSN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kongens gate 11, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.759693,
+          59.939173
+        ]
+      },
+      "properties": {
+        "navn": "MONICA MOEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bentsebrugata 29A, 469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6498972,
+          59.8454354
+        ]
+      },
+      "properties": {
+        "navn": "HELENE HØYE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vardeveien 111, 1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1922239,
+          59.5756509
+        ]
+      },
+      "properties": {
+        "navn": "RØNNAUG LYSNE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Vangsveien 10, 1814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4724486,
+          59.4032206
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGKONSULT IDÅS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Rustadgata 81, 3186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0909833,
+          60.801055
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ARNE JAN HJEMSÆTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Gerhard Munthes gate 55, 2318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3245768,
+          60.3965607
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ØYVIND NYGAARD RINGDAL",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bryggen 13, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.919884,
+          59.940837
+        ]
+      },
+      "properties": {
+        "navn": "ARNE HOLEN PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Karihaugveien 89, 1086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6328646,
+          59.1319632
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST NINA HAGA AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Holbergsgate 15, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.729397,
+          59.941397
+        ]
+      },
+      "properties": {
+        "navn": "ERIK STANICKE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Sognsveien 16, 851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778021,
+          59.932478
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST GRY KVAMME",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Trondheimsveien 184, 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.839187,
+          59.719516
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST WILBERG",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Idrettsveien 7, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7338472,
+          58.8514868
+        ]
+      },
+      "properties": {
+        "navn": "ANNE DORTE LYKEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Langgata 11, 4306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3245768,
+          60.3965607
+        ]
+      },
+      "properties": {
+        "navn": "METTE JENTOFT PSYKOLOGTJENESTER",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bryggen 13, 5003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4723781,
+          60.183747
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST SUNNIVA BARMAN TEIGE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Hamnevegen 48, 5200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.724714,
+          59.925678
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ANNETTE STRAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Rosenborggata 3, 356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.070789,
+          59.293094
+        ]
+      },
+      "properties": {
+        "navn": "NORSK ARBEIDSHELSE AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Tuneveien 89, 1712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.972732,
+          59.942033
+        ]
+      },
+      "properties": {
+        "navn": "LINDA JOHANNE ROLFSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fridtjof Nansens vei 17, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7708297,
+          59.9420178
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG RUNE AAEN JØRGENSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Sandakerveien 73, 482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4852496,
+          61.097584
+        ]
+      },
+      "properties": {
+        "navn": "MADS REKVE",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Øyragata 63, 6887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.811282,
+          59.926176
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG MONICA BRULAND",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Ulvenveien 80B, 581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6026294,
+          59.1842935
+        ]
+      },
+      "properties": {
+        "navn": "KAREN RASMUSSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Pelotongvegen 15, 3734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835473,
+          59.943242
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGTERAPI AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Erich Mogensøns vei 38, 594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916146,
+          59.765919
+        ]
+      },
+      "properties": {
+        "navn": "METTE AXELSON",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Loesmoveien 79, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.972732,
+          59.942033
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG LENA IVERSEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Fridtjof Nansens vei 17, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1564804,
+          62.4735516
+        ]
+      },
+      "properties": {
+        "navn": "MEDI 3 AS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Kongens gate 11, 6002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7317561,
+          58.8514069
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST UDESH ANDA",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Storgata 32, 4307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.759693,
+          59.939173
+        ]
+      },
+      "properties": {
+        "navn": "HAUKEBØ AVTALEPRAKSIS",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Bentsebrugata 29A, 469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.720681,
+          59.923783
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG BÅRD JOSTEIN LID",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Professor Dahls gate 18, 353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4673599,
+          60.1211078
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG ERIK HOGFELDT-ESKEVIK",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Seterstøavegen 2C, 2150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1334644,
+          59.2750869
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG PALLE JOHANSSON NUF",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Statsminister Torps vei 1 A, 1738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751804,
+          59.915522
+        ]
+      },
+      "properties": {
+        "navn": "ABC PSYKOLOGSPESIALIST Rune Forsmo",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Arbeidersamfunnets plass 1, 181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.207952,
+          59.743085
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST HILDE BÆKKEN",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nedre Storgate 13, 3015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.730361,
+          63.110543
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOG THOMAS AMUNDSGÅRD",
+        "type": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+        "adresse": "Nedre Enggate 5, 6509"
+      }
+    }
+  ]
+}

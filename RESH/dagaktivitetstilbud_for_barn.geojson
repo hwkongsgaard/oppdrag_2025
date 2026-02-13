@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4459498,
+          62.5991509
+        ]
+      },
+      "properties": {
+        "navn": "INGEBRIGT DAVIK-HUSET HARAM KF",
+        "type": "Dagaktivitetstilbud for barn",
+        "adresse": "Bernt Hildre vegen 2, 6270"
+      }
+    }
+  ]
+}

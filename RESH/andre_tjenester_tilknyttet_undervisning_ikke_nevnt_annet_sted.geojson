@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.790057,
+          59.860229
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN SIGNO",
+        "type": "Andre tjenester tilknyttet undervisning ikke nevnt annet sted",
+        "adresse": "Solveien 119E, 1170"
+      }
+    }
+  ]
+}

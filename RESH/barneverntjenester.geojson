@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "MIDT-BUSKERUD BARNEVERNTJENESTE",
+        "type": "Barneverntjenester",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5651468,
+          60.631833
+        ]
+      },
+      "properties": {
+        "navn": "HALLINGDAL BARNEVERNSTENESTE",
+        "type": "Barneverntjenester",
+        "adresse": "Sundrevegen 95, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2371991,
+          60.985433
+        ]
+      },
+      "properties": {
+        "navn": "FELLES BARNEVERNSTJENESTE I VALDRES",
+        "type": "Barneverntjenester",
+        "adresse": "Jernbanevegen 24, 2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.534011,
+          61.7726474
+        ]
+      },
+      "properties": {
+        "navn": "BARNEVERNSTJENESTEN FOR KOMMUNENE SEL, VÅGÅ, LOM OG SKJÅK",
+        "type": "Barneverntjenester",
+        "adresse": "Botten Hansens gate 9, 2670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0379462,
+          59.9550984
+        ]
+      },
+      "properties": {
+        "navn": "BARNEVERNVAKTEN ROMERIKE - ØST POLITIDISTRIKT",
+        "type": "Barneverntjenester",
+        "adresse": "Jonas Lies gate 20, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749339,
+          59.913202
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN CRUX",
+        "type": "Barneverntjenester",
+        "adresse": "Storgata 10B, 155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3883669,
+          62.5759068
+        ]
+      },
+      "properties": {
+        "navn": "HOLTÅLEN, RØROS OG OS INTERKOMMUNALE BARNEVERN",
+        "type": "Barneverntjenester",
+        "adresse": "Bergmannsgata 23, 7374"
+      }
+    }
+  ]
+}

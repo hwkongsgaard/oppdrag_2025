@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.790057,
+          59.860229
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN SIGNO",
+        "type": "Omsorgstjenester i botilbud for eldre eller personer med fysisk funksjonsnedsettelse",
+        "adresse": "Solveien 119E, 1170"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704092,
+          59.936546
+        ]
+      },
+      "properties": {
+        "navn": "DIAKONHJEMMET SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Diakonveien 12, 370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.997277,
+          59.924489
+        ]
+      },
+      "properties": {
+        "navn": "N.K.S. ØSTBYTUNET, SENTER FOR BEHANDLING OG FAGUTVIKLING AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Østbyveien 27, 1474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.997277,
+          59.924489
+        ]
+      },
+      "properties": {
+        "navn": "N.K.S. ØSTBYTUNET, SENTER FOR BEHANDLING OG FAGUTVIKLING AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Østbyveien 27, 1472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5953946,
+          59.1948877
+        ]
+      },
+      "properties": {
+        "navn": "SYKEHUSET TELEMARK HF BUP UPS DØGN SKIEN",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Ulefossvegen 52, 3730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74691,
+          59.933352
+        ]
+      },
+      "properties": {
+        "navn": "LOVISENBERG DIAKONALE SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Lovisenberggata 17, 456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74691,
+          59.933352
+        ]
+      },
+      "properties": {
+        "navn": "LOVISENBERG DIAKONALE SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Lovisenberggata 17, 456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291948,
+          60.364052
+        ]
+      },
+      "properties": {
+        "navn": "BETANIEN SYKEHUS AS",
+        "type": "Psykiatriske sykehustjenester for barn og ungdom",
+        "adresse": "Vestlundveien 23, 5145"
+      }
+    }
+  ]
+}

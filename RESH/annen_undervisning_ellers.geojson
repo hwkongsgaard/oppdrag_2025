@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1641984,
+          60.1657804
+        ]
+      },
+      "properties": {
+        "navn": "LHL, LANDSFORENINGEN FOR HJERTE, LUNGE OG HJERNESLAG",
+        "type": "Annen undervisning ellers",
+        "adresse": "Ragnar Strøms vei 10, 2051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8176603,
+          63.5265019
+        ]
+      },
+      "properties": {
+        "navn": "FRISKGÅRDEN VÆRNES AS",
+        "type": "Annen undervisning ellers",
+        "adresse": "Alstadvegen 224, 7510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3738385,
+          63.3646863
+        ]
+      },
+      "properties": {
+        "navn": "FRISKGÅRDEN TRONDHEIM AS",
+        "type": "Annen undervisning ellers",
+        "adresse": "Vestre Rosten 81, 7075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.670583,
+          59.961456
+        ]
+      },
+      "properties": {
+        "navn": "AFFECTA PSYKOLOGTJENESTER O. A. SOLBAKKEN",
+        "type": "Annen undervisning ellers",
+        "adresse": "Holmenkollveien 127F, 787"
+      }
+    }
+  ]
+}

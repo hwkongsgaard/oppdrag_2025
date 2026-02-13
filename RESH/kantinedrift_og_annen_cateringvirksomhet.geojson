@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.036468,
+          61.598827
+        ]
+      },
+      "properties": {
+        "navn": "BORDGLEDER KINN KOMMUNE KF",
+        "type": "Kantinedrift og annen cateringvirksomhet",
+        "adresse": "Hans Blomgate 32, 6905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.712407,
+          70.634903
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE HELSESENTER AVD KJØKKEN",
+        "type": "Kantinedrift og annen cateringvirksomhet",
+        "adresse": "Helsevegen 1, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2930519,
+          60.6152284
+        ]
+      },
+      "properties": {
+        "navn": "HOL OG ÅL FELLESKJØKKEN",
+        "type": "Kantinedrift og annen cateringvirksomhet",
+        "adresse": "Nesheimvegen 1, 3576"
+      }
+    }
+  ]
+}

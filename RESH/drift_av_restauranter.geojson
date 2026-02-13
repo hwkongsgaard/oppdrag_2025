@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0774791,
+          59.6187611
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FOSSUM-KOLLEKTIVET",
+        "type": "Drift av restauranter",
+        "adresse": "Stasjonsgata 30, 1820"
+      }
+    }
+  ]
+}

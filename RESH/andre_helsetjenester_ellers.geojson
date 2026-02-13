@@ -1,0 +1,470 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6435446,
+          59.9464401
+        ]
+      },
+      "properties": {
+        "navn": "KLINIKK RØA AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Tore Hals Mejdellsv 8, 751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562387,
+          60.884876
+        ]
+      },
+      "properties": {
+        "navn": "COLOSSEUMKLINIKKEN MEDISINSKE SENTER AS AVD ELVERUM",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Torggata 3, 2408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.793194,
+          59.891631
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIN JENSEN",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Vardeveien 47B, 1182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.688035,
+          59.921455
+        ]
+      },
+      "properties": {
+        "navn": "MAGNAT CORPUS HOLDING AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Drammensveien 130, 277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.808532,
+          59.917221
+        ]
+      },
+      "properties": {
+        "navn": "PMG AS KLINIKK FOR ALLE INNSPURTEN",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Innspurten 15, 663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708001,
+          59.919734
+        ]
+      },
+      "properties": {
+        "navn": "GYNEKOLOG GRY WARSLA",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Frognerveien 42A, 266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.617148,
+          59.208928
+        ]
+      },
+      "properties": {
+        "navn": "IMED AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Christian Michelsens gate nord 2, 3715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588099,
+          59.917419
+        ]
+      },
+      "properties": {
+        "navn": "BEKKESTUA ØYELEGESENTER PETER R LANE",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Bærumsveien 210, 1357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6819947,
+          58.9514747
+        ]
+      },
+      "properties": {
+        "navn": "T-PLAIPETCH",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Rappveien 4B, 4041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.256261,
+          60.165822
+        ]
+      },
+      "properties": {
+        "navn": "RINGERIKE SPESIALISTSENTER AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Søndre torv 1, 3510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3498556,
+          63.7240945
+        ]
+      },
+      "properties": {
+        "navn": "FRISKGÅRDEN NAMDAL AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Bergsmo, 7870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3309931,
+          60.3923421
+        ]
+      },
+      "properties": {
+        "navn": "HARTWIG VANDELAY AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Veversmauet 8, 5017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6362095,
+          59.9709551
+        ]
+      },
+      "properties": {
+        "navn": "COLOSSEUMKLINIKKEN MEDISINSKE SENTER AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Sørkedalsveien 10C, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.264522,
+          60.170598
+        ]
+      },
+      "properties": {
+        "navn": "VMS SAMEIE",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Vesterngata 5B, 3513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.962633,
+          58.897164
+        ]
+      },
+      "properties": {
+        "navn": "VITALIS HELSE KRAGERØ AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Trydalsveien 112, 4980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.638656,
+          59.958371
+        ]
+      },
+      "properties": {
+        "navn": "PER BJØRN STORDAHL AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Nordengveien 72B, 755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.806075,
+          59.9165
+        ]
+      },
+      "properties": {
+        "navn": "AVONOVA HELSE AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Innspurten 13, 663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0865698,
+          60.2720332
+        ]
+      },
+      "properties": {
+        "navn": "YELENA SALDINA",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Paradisvegen 42, 5382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.624752,
+          60.018222
+        ]
+      },
+      "properties": {
+        "navn": "MARKADOKTORN AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Sakariasveien 17, 758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6362095,
+          59.9709551
+        ]
+      },
+      "properties": {
+        "navn": "COLOSSEUMKLINIKKEN ALLMENNSEKSJONEN AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Sørkedalsveien 10 C, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1624553,
+          59.9281266
+        ]
+      },
+      "properties": {
+        "navn": "FET LEGESENTER AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Gamle Fetvei 13, 1900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6421833,
+          59.6614903
+        ]
+      },
+      "properties": {
+        "navn": "MEDISENSE Øystein Eskeland",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Tussefaret 22, 1446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.675133,
+          59.924215
+        ]
+      },
+      "properties": {
+        "navn": "OSLO NEVROLOGI SENTER AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Harbitzallèen 2A, 275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.515226,
+          59.950627
+        ]
+      },
+      "properties": {
+        "navn": "L B HOLDING AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Lesterudkroken 37, 1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331912,
+          58.9639859
+        ]
+      },
+      "properties": {
+        "navn": "CLINIQUE BELLEVUE AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Muségata 18, 4010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6362095,
+          59.9709551
+        ]
+      },
+      "properties": {
+        "navn": "OSLO SMERTEKLINIKK AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Sørkedalsveien 10D, 369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.786627,
+          59.880512
+        ]
+      },
+      "properties": {
+        "navn": "BEST HELSE AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Kongsveien 104 A, 1177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.996824,
+          60.191156
+        ]
+      },
+      "properties": {
+        "navn": "KONGSVINGER ØRE NESE HALS AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Brugata 10, 2212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2027,
+          59.743978
+        ]
+      },
+      "properties": {
+        "navn": "DR. WILLUMSENS KVINNEKLINIKK AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Øvre Storgate 4, 3018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4562323,
+          59.2476977
+        ]
+      },
+      "properties": {
+        "navn": "MEDOC TØNSBERG AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Husvikveien 115, 3124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.813985,
+          59.911026
+        ]
+      },
+      "properties": {
+        "navn": "BRYNSENGLEGENE AS",
+        "type": "Andre helsetjenester ellers",
+        "adresse": "Brynsengveien 2, 667"
+      }
+    }
+  ]
+}

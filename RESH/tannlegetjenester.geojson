@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7310909,
+          58.9648496
+        ]
+      },
+      "properties": {
+        "navn": "FYLKESTANNLEGEKONTORET ROGALAND",
+        "type": "Tannlegetjenester",
+        "adresse": "Arkitekt Eckhoffs gate 1, 4010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7310909,
+          58.9648496
+        ]
+      },
+      "properties": {
+        "navn": "TANNHELSE ROGALAND FKF",
+        "type": "Tannlegetjenester",
+        "adresse": "Arkitekt Eckhoffs gate 1, 4010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2369045,
+          58.7201254
+        ]
+      },
+      "properties": {
+        "navn": "RISØR TANNLEGESENTER ANS",
+        "type": "Tannlegetjenester",
+        "adresse": "Strandgata 15, 4950"
+      }
+    }
+  ]
+}

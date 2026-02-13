@@ -1,0 +1,620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7046818,
+          61.1030809
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN MONTEBELLO-SENTERET",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Kurstedvegen 5, 2610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.559419,
+          58.681947
+        ]
+      },
+      "properties": {
+        "navn": "REHABILITERINGSKLINIKKENE AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Grensevegen 12, 4365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.263009,
+          69.388331
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE SKIBOTN",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Gammelveien 29, 9143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.326523,
+          66.989949
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN RIBO",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Holmen 15, 8255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.460802,
+          63.417871
+        ]
+      },
+      "properties": {
+        "navn": "VEKT OG HELSEKLINIKKEN",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Ingvald Ystgaards veg 23, 7047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4961999,
+          66.791839
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN NORDTUN HELSEREHAB",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Nordtunveien 15, 8170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3110096,
+          60.8297454
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE LANDAASEN AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Landåsvegen 747, 2861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7022003,
+          59.0303743
+        ]
+      },
+      "properties": {
+        "navn": "FRISK BRIS BAMBLE KF",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Tønderveien 9, 3961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.789933,
+          59.860857
+        ]
+      },
+      "properties": {
+        "navn": "SIGNO CONRAD SVENDSEN SENTER",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Solveien 119A, 1170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2254478,
+          60.4561241
+        ]
+      },
+      "properties": {
+        "navn": "NKS OLAVIKEN ALDERSPSYKIATRISKE SYKEHUS AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Askvegen 150, 5306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5288708,
+          60.3915771
+        ]
+      },
+      "properties": {
+        "navn": "DIAKONISTIFTELSEN RØYSUM",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Røysumslinna 41, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4045824,
+          60.1670577
+        ]
+      },
+      "properties": {
+        "navn": "RAVNEBERGHAUGEN SENTER FOR MESTRING OG REHABILITERING STI",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Nordstølen 55, 5217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.559419,
+          58.681947
+        ]
+      },
+      "properties": {
+        "navn": "REHABILITERINGSKLINIKKENE AS AVD NÆRLAND",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Grensevegen 12, 4365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.460802,
+          63.417871
+        ]
+      },
+      "properties": {
+        "navn": "TRENINGSKLINIKKEN AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Ingvald Ystgaards veg 23, 7047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2792279,
+          59.4099353
+        ]
+      },
+      "properties": {
+        "navn": "REHABILITERING VEST AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Karmsundgata 134, 5528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2275105,
+          60.1133611
+        ]
+      },
+      "properties": {
+        "navn": "VIKER HELSE AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Kapteinveien 9, 3512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2909632,
+          60.0933167
+        ]
+      },
+      "properties": {
+        "navn": "HØYENHALL HELSE OG REHABILITERING AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Åsheims vei 3, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.354026,
+          60.319811
+        ]
+      },
+      "properties": {
+        "navn": "REHABILITERINGSKLINIKKENE AS AVD BERGEN",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Nesttunvegen 92, 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.553376,
+          59.92873
+        ]
+      },
+      "properties": {
+        "navn": "GODTHAAB HELSE OG REHABILITERING STI",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Gamle Ringeriksvei 148, 1356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.951044,
+          69.664807
+        ]
+      },
+      "properties": {
+        "navn": "VIGØR REHABILITERINGSSYKEHUS AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Conrad Holmboes veg 95, 9011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.494235,
+          64.016613
+        ]
+      },
+      "properties": {
+        "navn": "FRISKGÅRDEN STOD AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Brugata 2, 7715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.931082,
+          61.234406
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN BEITOSTØLEN HELSESPORTSENTER",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Sentervegen 4, 2953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706301,
+          60.6815325
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE STEFFENSRUD AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Vestre Totenveg 1530, 2846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.603794,
+          60.975986
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN HERNES INSTITUTT",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Instituttvegen 34, 2410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.295733,
+          69.976659
+        ]
+      },
+      "properties": {
+        "navn": "ALTA KOMMUNE TJENESTEOMRÅDE FOR HELSE OG SOSIAL",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Sandfallveien 1, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2290294,
+          58.461193
+        ]
+      },
+      "properties": {
+        "navn": "SØRLANDETS REHABILITERINGSSENTER EIKEN AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Ola Garsons vei 1, 4596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.460802,
+          63.417871
+        ]
+      },
+      "properties": {
+        "navn": "TRENINGSKLINIKKEN",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Ingvald Ystgaards veg 23, 7047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79447,
+          59.914616
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE NORGE AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Fyrstikkalléen 19, 661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9984969,
+          59.9726483
+        ]
+      },
+      "properties": {
+        "navn": "VIKER HELSE AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Haaviks vei 25, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.305577,
+          64.629362
+        ]
+      },
+      "properties": {
+        "navn": "NAMDAL REHABILITERING IKS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Gartlandsvegen 10, 7877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.361342,
+          67.391338
+        ]
+      },
+      "properties": {
+        "navn": "VALNESFJORD HELSESPORTSSENTER STI",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Østerkløftveien 249, 8215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6324313,
+          59.4277606
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE JELØY AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Bråtengata 94, 1517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916146,
+          59.765919
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE HOKKSUND AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Loesmoveien 79, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9984969,
+          59.9726483
+        ]
+      },
+      "properties": {
+        "navn": "VIKERSUND BAD REHABILITERINGSSENTER AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Haaviks vei 25, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5840128,
+          61.0339432
+        ]
+      },
+      "properties": {
+        "navn": "RINGEN REHABILITERINGSSENTER AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Ringen, 2390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8264847,
+          61.2092175
+        ]
+      },
+      "properties": {
+        "navn": "MERÅKER KURBAD AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Sanitetstunet, 7530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046704,
+          59.701949
+        ]
+      },
+      "properties": {
+        "navn": "REHABILITERINGSSENTERET AIR AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Haddlandsvegen 20, 3864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6905946,
+          59.5102189
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN CATOSENTERET",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Kvartsveien 2, 1555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6565256,
+          63.435976
+        ]
+      },
+      "properties": {
+        "navn": "BETANIA MALVIK REHABILITERING",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Betaniavegen 15, 7563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.630972,
+          59.923018
+        ]
+      },
+      "properties": {
+        "navn": "NORSK DIABETESSENTER FOR BEHANDLING OG OPPLÆRING STI",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Sponhoggveien 19, 284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.334644,
+          61.334215
+        ]
+      },
+      "properties": {
+        "navn": "RØDE KORS HAUGLAND REHABILITERINGSSENTER AS",
+        "type": "Tjenester i spesialinstitusjon innenfor helse- og omsorg",
+        "adresse": "Hauglandsvegen 308, 6968"
+      }
+    }
+  ]
+}

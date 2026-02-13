@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.668235,
+          70.6715341
+        ]
+      },
+      "properties": {
+        "navn": "HAMMERFEST KOMMUNE VEST-FINNMARK KRISESENTER",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Meridiangata 7, 9601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.052994,
+          69.729215
+        ]
+      },
+      "properties": {
+        "navn": "NORASENTERET SENTER MOT VOLD OG SEKSUELLE OVERGREP I ØST-FINNMARK IKS",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Henrik Lunds gate 4, 9900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5768137,
+          59.2023725
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE - KRISESENTERET I TELEMARK",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Skotfossvegen 39, 3720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.161945,
+          62.738643
+        ]
+      },
+      "properties": {
+        "navn": "KRISESENTERET FOR MOLDE OG OMEGN IKS",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Fridtjof Nansens gate 5, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7959436,
+          59.6678138
+        ]
+      },
+      "properties": {
+        "navn": "KRISE- OG INCESTSENTERET I FOLLO IKS",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Langbakken 9, 1434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909715,
+          60.7951567
+        ]
+      },
+      "properties": {
+        "navn": "NOK. GJØVIK. IKS",
+        "type": "Andre botilbud innenfor sosiale tjenester ikke nevnt annet sted",
+        "adresse": "Glassverksgata 5, 2815"
+      }
+    }
+  ]
+}

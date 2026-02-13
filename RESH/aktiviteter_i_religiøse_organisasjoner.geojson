@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970474,
+          58.276144
+        ]
+      },
+      "properties": {
+        "navn": "VENNESLA SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Venneslavegen 282A, 4700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778869,
+          59.9542164
+        ]
+      },
+      "properties": {
+        "navn": "GREFSEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Glads vei 45, 489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4680633,
+          60.418603
+        ]
+      },
+      "properties": {
+        "navn": "ARNA SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lakslia 21, 5261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4039992,
+          59.2687509
+        ]
+      },
+      "properties": {
+        "navn": "TØNSBERG KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Storgaten 52, 3126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1545083,
+          59.5900358
+        ]
+      },
+      "properties": {
+        "navn": "ASKIM SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kirkegata 31, 1814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2984642,
+          60.4246063
+        ]
+      },
+      "properties": {
+        "navn": "BISKOPSHAVN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Skuldveien 2, 5043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4826518,
+          59.8762272
+        ]
+      },
+      "properties": {
+        "navn": "RØA SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Nordengveien 7B, 755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1860341,
+          59.7441565
+        ]
+      },
+      "properties": {
+        "navn": "STRØMSGODSET SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Grønland 101, 3045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9220362,
+          58.1480098
+        ]
+      },
+      "properties": {
+        "navn": "HELLEMYR SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Bydalsveien 19, 4628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4353909,
+          59.8424411
+        ]
+      },
+      "properties": {
+        "navn": "ASKER KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kirkelia 5, 1384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9297508,
+          58.2046595
+        ]
+      },
+      "properties": {
+        "navn": "TORRIDAL SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Hommeren 4, 4618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2436575,
+          60.3243014
+        ]
+      },
+      "properties": {
+        "navn": "EIDSVOLL SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Eidsvollbakken 26, 2080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1713393,
+          59.1330818
+        ]
+      },
+      "properties": {
+        "navn": "MANGLERUD SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Byggveien 10, 680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.748962,
+          58.968536
+        ]
+      },
+      "properties": {
+        "navn": "ST. JOHANNES SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Høgsfjordgata 8, 4014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4396156,
+          60.4578213
+        ]
+      },
+      "properties": {
+        "navn": "YTRE ARNA SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Peter Jebsens veg 39, 5265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743315,
+          59.917368
+        ]
+      },
+      "properties": {
+        "navn": "FRELSESARMEEN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kommandør T I Øgrims Plass 4, 165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.785181,
+          59.845889
+        ]
+      },
+      "properties": {
+        "navn": "LJAN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Furumoen 18D, 1168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.69099,
+          60.792217
+        ]
+      },
+      "properties": {
+        "navn": "GJØVIK KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Niels Ødegaards gate 6A, 2815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.757922,
+          59.926353
+        ]
+      },
+      "properties": {
+        "navn": "PAULUS SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Thorvald Meyers gate 31, 555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0346732,
+          60.0713202
+        ]
+      },
+      "properties": {
+        "navn": "GJERDRUM OG HENI SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Ask 62, 2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.048701,
+          59.959009
+        ]
+      },
+      "properties": {
+        "navn": "SKEDSMO KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Storgata 32, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6464465,
+          58.7348836
+        ]
+      },
+      "properties": {
+        "navn": "TIME KYRKJELEGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Erlandsbakken 6, 4340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7132459,
+          58.8208477
+        ]
+      },
+      "properties": {
+        "navn": "SANDNES KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lundegeilen 16, 4323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648088,
+          58.888781
+        ]
+      },
+      "properties": {
+        "navn": "SOLA SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kongshaugvegen 20, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23247,
+          62.464969
+        ]
+      },
+      "properties": {
+        "navn": "BORGUND SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Borgundgavlen 51, 6015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.654721,
+          59.92465
+        ]
+      },
+      "properties": {
+        "navn": "ULLERN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Holgerslystveien 22, 280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.744544,
+          59.923046
+        ]
+      },
+      "properties": {
+        "navn": "KIRKELIG FELLESRÅD I OSLO",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Akersbakken 32, 172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.830761,
+          59.719487
+        ]
+      },
+      "properties": {
+        "navn": "SKI SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Birkelunden 7, 1423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746708,
+          58.820519
+        ]
+      },
+      "properties": {
+        "navn": "BOGAFJELL SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lyngholen 3, 4324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197249,
+          65.837478
+        ]
+      },
+      "properties": {
+        "navn": "VEFSN KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Fearnleys gate 17, 8656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321887,
+          60.466989
+        ]
+      },
+      "properties": {
+        "navn": "ÅSANE SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Åsane Senter 44, 5116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702594,
+          59.948161
+        ]
+      },
+      "properties": {
+        "navn": "RIS SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Risbakken 1, 374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7773553,
+          58.4711572
+        ]
+      },
+      "properties": {
+        "navn": "BARBU SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Nyli terrasse 4, 4844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.605474,
+          59.21236
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Schweigaards gate 11, 3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.802302,
+          59.859479
+        ]
+      },
+      "properties": {
+        "navn": "NORDSTRAND SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Ekebergveien 236, 1166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2188984,
+          60.3786492
+        ]
+      },
+      "properties": {
+        "navn": "OLSVIK SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Olsvikåsen 109, 5183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2276783,
+          59.1337928
+        ]
+      },
+      "properties": {
+        "navn": "SANDEFJORD KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Bjerggata 56, 3210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.333088,
+          60.305943
+        ]
+      },
+      "properties": {
+        "navn": "SKJOLD SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Skjoldlia 55, 5236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.787624,
+          59.932007
+        ]
+      },
+      "properties": {
+        "navn": "SINSEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lørenveien 13, 585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.29637,
+          60.3529305
+        ]
+      },
+      "properties": {
+        "navn": "FYLLINGSDALEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Nebbeveien 20, 5144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.501155,
+          59.95079
+        ]
+      },
+      "properties": {
+        "navn": "LOMMEDALEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lommedalsveien 221, 1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4676775,
+          59.7980159
+        ]
+      },
+      "properties": {
+        "navn": "LØKEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Haldenveien 1246, 1960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3317231,
+          60.3913382
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Marken 34, 5017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6771324,
+          58.9124057
+        ]
+      },
+      "properties": {
+        "navn": "SØRNES SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Mortensarmen 1, 4052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3854281,
+          63.3601892
+        ]
+      },
+      "properties": {
+        "navn": "TILLER SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Romemyra 66, 7091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4292206,
+          63.3977307
+        ]
+      },
+      "properties": {
+        "navn": "NIDELVEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Nordre Risvolltun 2, 7036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3561751,
+          63.350354
+        ]
+      },
+      "properties": {
+        "navn": "HEIMDAL SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Heimdalsvegen 4, 7080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6298236,
+          59.1680797
+        ]
+      },
+      "properties": {
+        "navn": "GIMSØY OG NENSET SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kirkevegen 13, 3736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7022784,
+          58.4173836
+        ]
+      },
+      "properties": {
+        "navn": "ØYESTAD SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Vesterveien 721, 4823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8460287,
+          62.3438526
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Sjøgata 61, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.174965,
+          60.144702
+        ]
+      },
+      "properties": {
+        "navn": "JESSHEIM OG HOVIN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Rådhusvegen 5, 2066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.654835,
+          59.139458
+        ]
+      },
+      "properties": {
+        "navn": "PORSGRUNN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Jernbanegata 3, 3916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647818,
+          58.619827
+        ]
+      },
+      "properties": {
+        "navn": "HÅ KYRKJELEGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Ånestadvegen 12, 4360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3561728,
+          60.3628889
+        ]
+      },
+      "properties": {
+        "navn": "FRIDALEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Roald Amundsens vei 100, 5067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1897368,
+          60.4014936
+        ]
+      },
+      "properties": {
+        "navn": "ASK SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Lyngneset 26, 5302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.788116,
+          59.884955
+        ]
+      },
+      "properties": {
+        "navn": "BEKKELAGET OG ORMØY SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Sandstuveien 15, 1178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.805008,
+          59.942997
+        ]
+      },
+      "properties": {
+        "navn": "TONSEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Traverveien 16, 588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2712084,
+          60.6161165
+        ]
+      },
+      "properties": {
+        "navn": "TANGEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Espavegen 3, 2337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.681354,
+          58.9425981
+        ]
+      },
+      "properties": {
+        "navn": "MADLAMARK SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Madlamarkveien 135, 4041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.840451,
+          59.882735
+        ]
+      },
+      "properties": {
+        "navn": "BØLER SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "General Ruges vei 51, 691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.357185,
+          60.352819
+        ]
+      },
+      "properties": {
+        "navn": "SLETTEBAKKEN SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Vilhelm Bjerknes' vei 31, 5081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1916856,
+          60.7148595
+        ]
+      },
+      "properties": {
+        "navn": "STANGE SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Vollasvingen 1, 2335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.591665,
+          58.335626
+        ]
+      },
+      "properties": {
+        "navn": "GRIMSTAD KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Bark Silas' vei 5, 4876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708211,
+          59.598919
+        ]
+      },
+      "properties": {
+        "navn": "VESTBY SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Risilveien 71, 1542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74264,
+          59.963058
+        ]
+      },
+      "properties": {
+        "navn": "NORDBERG SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kringsjågrenda 1, 861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.469129,
+          61.135397
+        ]
+      },
+      "properties": {
+        "navn": "NORDRE ÅL SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Blestervegen 1, 2618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3317231,
+          60.3913382
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN DOMKIRKE SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Marken 34, 5017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035594,
+          59.9467991
+        ]
+      },
+      "properties": {
+        "navn": "RÆLINGEN KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Øvre Rælingsveg 36, 2005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6032343,
+          58.9352102
+        ]
+      },
+      "properties": {
+        "navn": "TANANGER SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Risavika Havnering 100, 4056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2715112,
+          62.4923225
+        ]
+      },
+      "properties": {
+        "navn": "ELLINGSØY SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Kvalsteinvegen 2, 6057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9724228,
+          58.1480967
+        ]
+      },
+      "properties": {
+        "navn": "GRIM SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Møllevannsveien 44, 4617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74728,
+          59.909762
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN KIRKENS BYMISJON",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Tollbugata 3, 152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.204947,
+          59.746112
+        ]
+      },
+      "properties": {
+        "navn": "DRAMMEN KIRKELIGE FELLESRÅD",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Albums gate 8, 3016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706803,
+          59.917657
+        ]
+      },
+      "properties": {
+        "navn": "FROGNER SOKN",
+        "type": "Aktiviteter i religiøse organisasjoner",
+        "adresse": "Bygdøy allé 36, 265"
+      }
+    }
+  ]
+}

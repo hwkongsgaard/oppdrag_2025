@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.656819,
+          59.944048
+        ]
+      },
+      "properties": {
+        "navn": "HUSEBYSKOGEN MEDISINSKE SENTER AS",
+        "type": "Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted",
+        "adresse": "Sørkedalsveien 148, 754"
+      }
+    }
+  ]
+}

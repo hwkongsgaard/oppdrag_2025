@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.692437,
+          62.598757
+        ]
+      },
+      "properties": {
+        "navn": "OPPDAL HELSESENTER SYKEHJEM",
+        "type": "Sykehjemstjenester",
+        "adresse": "Seljevegen 6, 7340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0015741,
+          67.1186834
+        ]
+      },
+      "properties": {
+        "navn": "FURUMOEN SYKEHJEM",
+        "type": "Sykehjemstjenester",
+        "adresse": "Furumoen 6, 8100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.712407,
+          70.634903
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE HELSESENTER AVD KJØKKEN",
+        "type": "Sykehjemstjenester",
+        "adresse": "Helsevegen 1, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3495671,
+          70.2458875
+        ]
+      },
+      "properties": {
+        "navn": "ØKSFJORD HELSESENTER",
+        "type": "Sykehjemstjenester",
+        "adresse": "Hankenbakken 26, 9550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2930519,
+          60.6152284
+        ]
+      },
+      "properties": {
+        "navn": "HOL OG ÅL FELLESKJØKKEN",
+        "type": "Sykehjemstjenester",
+        "adresse": "Nesheimvegen 1, 3576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744541,
+          59.855065
+        ]
+      },
+      "properties": {
+        "navn": "HUSNESTUNET",
+        "type": "Sykehjemstjenester",
+        "adresse": "Stølshaugvegen 5, 5460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.659339,
+          70.996275
+        ]
+      },
+      "properties": {
+        "navn": "HAVØYSUND HELSESENTER",
+        "type": "Sykehjemstjenester",
+        "adresse": "Søndregata 1, 9690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8156967,
+          63.768897
+        ]
+      },
+      "properties": {
+        "navn": "BJUGN SYKEHJEM",
+        "type": "Sykehjemstjenester",
+        "adresse": "Dr. Sauers vei 10, 7160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.010657,
+          69.234162
+        ]
+      },
+      "properties": {
+        "navn": "SENJA KOMMUNE DISTRIKTSMEDISINSK SENTER",
+        "type": "Sykehjemstjenester",
+        "adresse": "Helsesenterveien 30, 9300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40398,
+          63.434894
+        ]
+      },
+      "properties": {
+        "navn": "LUKAS STIFTELSEN",
+        "type": "Sykehjemstjenester",
+        "adresse": "Fjordgata 10, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40398,
+          63.434894
+        ]
+      },
+      "properties": {
+        "navn": "LUKAS STIFTELSEN",
+        "type": "Sykehjemstjenester",
+        "adresse": "Fjordgata 10, 7010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291948,
+          60.364052
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN BETANIEN",
+        "type": "Sykehjemstjenester",
+        "adresse": "Vestlundveien 23, 5145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74728,
+          59.909762
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN KIRKENS BYMISJON",
+        "type": "Sykehjemstjenester",
+        "adresse": "Tollbugata 3, 152"
+      }
+    }
+  ]
+}

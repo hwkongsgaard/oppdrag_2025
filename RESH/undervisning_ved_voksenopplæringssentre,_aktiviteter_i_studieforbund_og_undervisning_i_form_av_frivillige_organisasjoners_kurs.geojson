@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.942823,
+          59.967712
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN MODUM BAD",
+        "type": "Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
+        "adresse": "Badeveien 287, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.790057,
+          59.860229
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN SIGNO",
+        "type": "Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
+        "adresse": "Solveien 119E, 1170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0421946,
+          61.5940427
+        ]
+      },
+      "properties": {
+        "navn": "KINN UTDANNINGS- OG RESSURSSENTER KF",
+        "type": "Undervisning ved voksenopplæringssentre, aktiviteter i studieforbund og undervisning i form av frivillige organisasjoners kurs",
+        "adresse": "Professor Gjelsvikveg 20, 6906"
+      }
+    }
+  ]
+}

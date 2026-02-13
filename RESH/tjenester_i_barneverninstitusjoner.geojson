@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7434905,
+          59.6792286
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FOSSUM-KOLLEKTIVET AVD PRIMÆREN",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Osloveien 180, 1433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.638435,
+          59.915412
+        ]
+      },
+      "properties": {
+        "navn": "STENDI AS",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Lilleakerveien 2A, 283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3124551,
+          59.4706023
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN HIIMSMOENKOLLEKTIVET",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Him 63, 4230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743315,
+          59.917368
+        ]
+      },
+      "properties": {
+        "navn": "FRELSESARMEEN",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Kommandør T I Øgrims Plass 4, 165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0774791,
+          59.6187611
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN FOSSUM-KOLLEKTIVET",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Stasjonsgata 30, 1820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4323342,
+          63.3710075
+        ]
+      },
+      "properties": {
+        "navn": "N.K.S. KVAMSGRIND AS",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Bratsbergveien 255, 7036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749339,
+          59.913202
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN CRUX",
+        "type": "Tjenester i barneverninstitusjoner",
+        "adresse": "Storgata 10B, 155"
+      }
+    }
+  ]
+}

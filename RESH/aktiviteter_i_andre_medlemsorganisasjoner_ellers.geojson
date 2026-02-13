@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61175,
+          59.9412891
+        ]
+      },
+      "properties": {
+        "navn": "EIKSMARKA SANITETSFORENING",
+        "type": "Aktiviteter i andre medlemsorganisasjoner ellers",
+        "adresse": "Eiksveien 90, 1361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291948,
+          60.364052
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN BETANIEN",
+        "type": "Aktiviteter i andre medlemsorganisasjoner ellers",
+        "adresse": "Vestlundveien 23, 5145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7397475,
+          58.9586869
+        ]
+      },
+      "properties": {
+        "navn": "PARADIS LEGESENTER INTERESSEFELLESSKAP",
+        "type": "Aktiviteter i andre medlemsorganisasjoner ellers",
+        "adresse": "Lagårdsveien 73, 4010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.534011,
+          61.7726474
+        ]
+      },
+      "properties": {
+        "navn": "PPT NORD-GUDBRANDSDAL",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Botten Hansens gate 9, 2670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.974405,
+          63.601704
+        ]
+      },
+      "properties": {
+        "navn": "PP-TJENESTEN FOR FRØYA OG HITRA",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Rådhusveien 1, 7240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "INTERKOMMUNAL PP-TJENESTE FOR MODUM, SIGDAL OG KRØDSHERAD",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.941933,
+          60.701884
+        ]
+      },
+      "properties": {
+        "navn": "HALLINGDAL PEDAGOGISK-PSYKOLOGISK TJENESTE OG OPPFØLGINGSTJENESTEN IKS",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Sentrumsvegen 93, 3550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6114322,
+          68.1482977
+        ]
+      },
+      "properties": {
+        "navn": "PPT VEST-LOFOTEN",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Storgata 37, 8370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.561775,
+          69.218499
+        ]
+      },
+      "properties": {
+        "navn": "PEDAGOGISK PSYKOLOGISK TJENESTE I BALSFJORD, LYNGEN OG STORFJORD",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Torgveien 6, 9040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32297,
+          60.393415
+        ]
+      },
+      "properties": {
+        "navn": "AS INSTITUTT FOR PSYKOLOGISK RÅDGIVNING",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Christian Michelsens gate 4, 5012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619978,
+          59.000553
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG INTERKOMMUNALT PPT",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Torvmyrveien 4, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5651468,
+          60.631833
+        ]
+      },
+      "properties": {
+        "navn": "PEDAGOGISK-PSYKOLOGISK RÅDGIVNINGSKONTOR FOR ÅL OG HOL",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Sundrevegen 95, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2368114,
+          60.9853435
+        ]
+      },
+      "properties": {
+        "navn": "PEDAGOGISK-PSYKOLOGISK TJENESTE FOR VALDRES",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Jernbanevegen 22, 2900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039243,
+          63.217788
+        ]
+      },
+      "properties": {
+        "navn": "PEDAGOGISK-PSYKOLOGISK TJENESTE TYDAL OG SELBU",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Gjelbakken 15, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.024158,
+          69.765529
+        ]
+      },
+      "properties": {
+        "navn": "PPT FOR NORD-TROMS",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Lyngsmark 8, 9151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2246279,
+          63.9620254
+        ]
+      },
+      "properties": {
+        "navn": "PEDAGOGISK-PSYKOLOGISK TJENESTE FOR NORD-FOSEN",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Øvre Årnes 3B, 7170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416344,
+          68.697278
+        ]
+      },
+      "properties": {
+        "navn": "KOMMUNALT OPPGAVEFELLESSKAP PEDAGOGISK-PSYKOLOGISK DISTRIKTSTJENESTE FOR VESTERÅLEN OG LØDINGEN",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Havnegata 1, 8400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.428541,
+          68.439034
+        ]
+      },
+      "properties": {
+        "navn": "PPD MIDT-FINNMARK IKS",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Rådhuset, 9712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9394052,
+          61.5565247
+        ]
+      },
+      "properties": {
+        "navn": "MIDT-GUDBRANDSDAL PEDAGOGISK PSYKOLOGISK RÅDGJEVINGSTENESTE",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Kommunevegen 1, 2647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.638792,
+          66.023856
+        ]
+      },
+      "properties": {
+        "navn": "PP-TJENESTEN FOR YTRE HELGELAND",
+        "type": "Pedagogisk-psykologisk rådgivningstjeneste",
+        "adresse": "Torolv Kveldulvsons gate 7, 8800"
+      }
+    }
+  ]
+}

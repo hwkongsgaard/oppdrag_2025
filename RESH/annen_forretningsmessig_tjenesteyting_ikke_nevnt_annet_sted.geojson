@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.666083,
+          59.438159
+        ]
+      },
+      "properties": {
+        "navn": "PSYKOLOGSPESIALIST ØYSTEIN FØRRE",
+        "type": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+        "adresse": "Henrich Gerners gate 11, 1530"
+      }
+    }
+  ]
+}

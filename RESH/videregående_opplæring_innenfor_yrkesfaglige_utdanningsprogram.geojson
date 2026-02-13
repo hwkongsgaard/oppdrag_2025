@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3124551,
+          59.4706023
+        ]
+      },
+      "properties": {
+        "navn": "STIFTELSEN HIIMSMOENKOLLEKTIVET",
+        "type": "Videregående opplæring innenfor yrkesfaglige utdanningsprogram",
+        "adresse": "Him 63, 4230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2876415,
+          60.2229476
+        ]
+      },
+      "properties": {
+        "navn": "KROKEIDE VIDEREGÅENDE SKOLE AS",
+        "type": "Videregående opplæring innenfor yrkesfaglige utdanningsprogram",
+        "adresse": "Korsnesvegen 70, 5244"
+      }
+    }
+  ]
+}

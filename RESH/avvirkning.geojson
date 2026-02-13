@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0032162,
+          60.1942216
+        ]
+      },
+      "properties": {
+        "navn": "INGER NOER",
+        "type": "Avvirkning",
+        "adresse": "Storgata 55, 2212"
+      }
+    }
+  ]
+}

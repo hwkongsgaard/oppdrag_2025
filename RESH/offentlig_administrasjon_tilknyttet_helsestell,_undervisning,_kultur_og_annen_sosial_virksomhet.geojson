@@ -1,0 +1,6110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7403378,
+          63.5875078
+        ]
+      },
+      "properties": {
+        "navn": "FROSTA KOMMUNE VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Alstad, 7633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7403378,
+          63.5875078
+        ]
+      },
+      "properties": {
+        "navn": "FROSTA KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Alstad, 7633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.435877,
+          59.2305879
+        ]
+      },
+      "properties": {
+        "navn": "BOKN KOMMUNE KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Boknatun, 5561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7157176,
+          58.6651891
+        ]
+      },
+      "properties": {
+        "navn": "SIRDAL KOMMUNE SEKTOR FOR OPPVEKST OG LEVEKÅR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tonstadveien 28, 4440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.697543,
+          58.785419
+        ]
+      },
+      "properties": {
+        "navn": "KLEPP KOMMUNE TENESTEOMRÅDE BARN OG UNGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Bedriftsvegen 4, 4353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.565828,
+          60.861258
+        ]
+      },
+      "properties": {
+        "navn": "OPPVEKSTETATEN HEMSEDAL KOMMUNE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hemsedalsvegen 2889, 3560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80515,
+          68.747532
+        ]
+      },
+      "properties": {
+        "navn": "LAVANGEN KOMMUNE LOABÁGA SUOHKAN HELSE OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nessveien 7, 9357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.120305,
+          59.280383
+        ]
+      },
+      "properties": {
+        "navn": "SARPSBORG KOMMUNE SEKSJON KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "St. Marie gate 38, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350721,
+          60.699262
+        ]
+      },
+      "properties": {
+        "navn": "SØNDRE LAND KOMMUNE - KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hovsbakken 1, 2860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6449342,
+          59.139106
+        ]
+      },
+      "properties": {
+        "navn": "GEA NORVEGICA GEOPARK IKS",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skomværgata 14, 3921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79105,
+          59.663605
+        ]
+      },
+      "properties": {
+        "navn": "ÅS KOMMUNE OPPVEKST OG OPPLÆRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skoleveien 1, 1430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270821,
+          59.2793873
+        ]
+      },
+      "properties": {
+        "navn": "NOME KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ringsevja 30, 3830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6599483,
+          59.4337321
+        ]
+      },
+      "properties": {
+        "navn": "FITJAR KOMMUNE OPPVEKST OG SKULESEKTOREN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 5419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.335849,
+          59.551425
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ordfører Voldens vei 1, 1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278573,
+          60.0802721
+        ]
+      },
+      "properties": {
+        "navn": "HOLE KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Viksveien 30, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.221305,
+          60.414159
+        ]
+      },
+      "properties": {
+        "navn": "ASKØY KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Søre Myrane 19, 5300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746078,
+          59.001439
+        ]
+      },
+      "properties": {
+        "navn": "BAMBLE KOMMUNE ENHET FOR VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkeveien 12, 3970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.596988,
+          58.346174
+        ]
+      },
+      "properties": {
+        "navn": "GRIMSTAD KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arendalsveien 23, 4878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.897874,
+          59.94097
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 12 ALNA",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Trygve Lies plass 6, 1051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6114322,
+          68.1482977
+        ]
+      },
+      "properties": {
+        "navn": "VESTVÅGØY KOMMUNE - OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 37, 8370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64264,
+          59.8376135
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE FOREBYGGENDE OG BEHANDLENDE TJENESTER FOR VOKSNE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkonskastet 25, 1453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE HELSEFREMMENDE OG FOREBYGGENDE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.119092,
+          69.313987
+        ]
+      },
+      "properties": {
+        "navn": "STEIGEN KOMMUNE KULTUR OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 8283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "RØDØY KOMMUNE HELSESEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunehuset, 8195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6316737,
+          62.3417616
+        ]
+      },
+      "properties": {
+        "navn": "HERØY KOMMUNE SEKTOR HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 5, 6090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6146015,
+          59.8971652
+        ]
+      },
+      "properties": {
+        "navn": "LØRENSKOG KOMMUNE KULTURSEKTOREN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Festplassen 1, 1473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433541,
+          60.3698216
+        ]
+      },
+      "properties": {
+        "navn": "KVAM HERAD EINING FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grovagjelet 16, 5600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.607321,
+          59.210962
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE - HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kverndalsgata 10, 3717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6881441,
+          62.5616025
+        ]
+      },
+      "properties": {
+        "navn": "RAUMA KOMMUNE HJEMMEBASERT HELSE- OG OMSORSTJENESTE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vangstun 6, 6300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE PLEIE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.996535,
+          58.145428
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSAND KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 11C, 4611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8950299,
+          64.5013755
+        ]
+      },
+      "properties": {
+        "navn": "FLATANGER KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Miljøbygget, Lauvsnes, 7770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562055,
+          62.674611
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE KULTUR OG SAMFUNNSTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Romsdalsvegen 2, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8448893,
+          62.3441613
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sjøgata 63, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741058,
+          59.910814
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE SYKEHJEMSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nedre Slottsgate 3, 157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707657,
+          66.872039
+        ]
+      },
+      "properties": {
+        "navn": "MELØY KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gammelveien 5, 8150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4362129,
+          59.8370821
+        ]
+      },
+      "properties": {
+        "navn": "ASKER KOMMUNE VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Knud Askers vei 25, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.206617,
+          65.468305
+        ]
+      },
+      "properties": {
+        "navn": "AREMARK KOMMUNE HELSE, SOSIAL OG BARNEVERN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 1798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6466467,
+          59.665113
+        ]
+      },
+      "properties": {
+        "navn": "KONGSBERG KOMMUNE ENHET FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 1, 3616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.630788,
+          66.021636
+        ]
+      },
+      "properties": {
+        "navn": "KOMMUNALT OPPGAVEFELLESSKAP STUDIESENTER RKK YTRE HELGELAND",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torolv Kveldulvsons gate 45, 8800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3967921,
+          63.4280522
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE KULTUR OG IDRETT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Munkegata 1, 7013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4622853,
+          61.1163181
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET FYLKESKOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 76, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.608794,
+          60.294661
+        ]
+      },
+      "properties": {
+        "navn": "LUNNER KOMMUNE BARNEHAGER SKOLER OG SKOLEFRITIDSORDNINGER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandsvegen 1, 2740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.302783,
+          70.59154
+        ]
+      },
+      "properties": {
+        "navn": "HASVIK KOMMUNE BARNEHAGER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Fjellveien 6, 9593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0212046,
+          58.4733945
+        ]
+      },
+      "properties": {
+        "navn": "DALANE FRILUFTSRÅD KOMMUNALT OPPGAVEFELLESSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kiss og Leiv Tveits vei 11, 4373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.335849,
+          59.551425
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE PLEIE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ordfører Voldens vei 1, 1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5211988,
+          59.0196639
+        ]
+      },
+      "properties": {
+        "navn": "NISSEDAL KOMMUNE EINING FOR OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Treungvegen 398, 3855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270821,
+          59.2793873
+        ]
+      },
+      "properties": {
+        "navn": "NOME KOMMUNE HELSE- OG OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ringsevja 30, 3830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.775439,
+          59.914421
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 1 GAMLE OSLO",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hagegata 22, 653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8448893,
+          62.3441613
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sjøgata 63, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350721,
+          60.699262
+        ]
+      },
+      "properties": {
+        "navn": "SØNDRE LAND KOMMUNE - UNDERVISNING/OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hovsbakken 1, 2860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.996535,
+          58.145428
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSAND KOMMUNE KULTUR OG INNBYGGERDIALOG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 11C, 4611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8557569,
+          61.4520115
+        ]
+      },
+      "properties": {
+        "navn": "VESTLAND FYLKESKOMMUNE KULTUR OG FOLKEHELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storehagen 1B, 6800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.938129,
+          59.20407
+        ]
+      },
+      "properties": {
+        "navn": "FLESBERG KOMMUNE OPPVEKST- OG KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunehuset, 3623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9552987,
+          69.6514363
+        ]
+      },
+      "properties": {
+        "navn": "ISHAVSKYSTEN FRILUFTSRÅD KOMMUNALT OPPGAVEFELLESSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 2, 9008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2997835,
+          63.7459565
+        ]
+      },
+      "properties": {
+        "navn": "LEVANGER KOMMUNE OPPVEKST OG UTDANNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkon den godes gate 30, 7600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332266,
+          60.386657
+        ]
+      },
+      "properties": {
+        "navn": "VESTLAND TANNHELSETENESTE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Lars Hilles gate 22, 5008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4362129,
+          59.8370821
+        ]
+      },
+      "properties": {
+        "navn": "ASKER KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Knud Askers vei 25, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8448893,
+          62.3441613
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sjøgata 63, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.507949,
+          64.46691
+        ]
+      },
+      "properties": {
+        "navn": "NAMSOS KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Søren R Thornæs veg 10, 7800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.746078,
+          59.001439
+        ]
+      },
+      "properties": {
+        "navn": "BAMBLE KOMMUNE ENHET FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkeveien 12, 3970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707529,
+          59.929446
+        ]
+      },
+      "properties": {
+        "navn": "NORSK PASIENTSKADEERSTATNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Middelthuns gate 29, 368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.185401,
+          70.199465
+        ]
+      },
+      "properties": {
+        "navn": "TANA KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 24, 9845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4940856,
+          58.7732053
+        ]
+      },
+      "properties": {
+        "navn": "ÅMLI KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skulekleiva, 4865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741087,
+          59.916003
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BARNE- OG FAMILIEETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "C. J. Hambros plass 2, 164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51908,
+          69.4718011
+        ]
+      },
+      "properties": {
+        "navn": "KARASJOK KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Raddeviessogeaidnu 4, 9730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7621631,
+          60.3774668
+        ]
+      },
+      "properties": {
+        "navn": "SAMNANGER KOMMUNE EINING FOR HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tyssevegen 217, 5650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377303,
+          65.087855
+        ]
+      },
+      "properties": {
+        "navn": "BINDAL KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Oldervikveien 5, 7980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562055,
+          62.674611
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE BARNEHAGETJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Romsdalsvegen 2, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.335849,
+          59.551425
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE LIVSMESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ordfører Voldens vei 1, 1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE NAV",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9494484,
+          59.6127985
+        ]
+      },
+      "properties": {
+        "navn": "HJARTDAL KOMMUNE KULTUR OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Saulandsvegen 414, 3692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5023187,
+          64.4676664
+        ]
+      },
+      "properties": {
+        "navn": "NAMSOS KOMMUNE KULTUR, SAMFUNN OG ORGANISASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stasjonsgata 1, 7800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6114322,
+          68.1482977
+        ]
+      },
+      "properties": {
+        "navn": "VESTVÅGØY KOMMUNE - HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 37, 8370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0784633,
+          60.794468
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR KOMMUNE KULTUR OG FRIVILLIGHET",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vangsvegen 51, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39088,
+          67.2586213
+        ]
+      },
+      "properties": {
+        "navn": "REGIONALT KONTOR FOR KOMPETANSEUTVIKLING SALTEN KO",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgaten 52, 8200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.219574,
+          59.128679
+        ]
+      },
+      "properties": {
+        "navn": "SANDEFJORD KOMMUNE KUNNSKAP, BARN OG UNGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandefjordsveien 3, 3208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7282509,
+          59.2791325
+        ]
+      },
+      "properties": {
+        "navn": "SILJAN KOMMUNE AVD FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sentrumsveien 22, 3748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.465823,
+          60.122481
+        ]
+      },
+      "properties": {
+        "navn": "NES KOMMUNE OPPVEKST OG UTDANNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 4, 2150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7481462,
+          59.6022902
+        ]
+      },
+      "properties": {
+        "navn": "VESTBY KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 1, 1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0138039,
+          59.4456808
+        ]
+      },
+      "properties": {
+        "navn": "TOKKE KOMMUNE HELSE OG OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storvegen 60, 3880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523271,
+          59.889001
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE HELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arnold Haukelands plass 10, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430594,
+          59.4279897
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE BARNEHAGER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 8, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79105,
+          59.663605
+        ]
+      },
+      "properties": {
+        "navn": "ÅS KOMMUNE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skoleveien 1, 1430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3944991,
+          67.1014781
+        ]
+      },
+      "properties": {
+        "navn": "SALTDAL KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 23, 8250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562055,
+          62.674611
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE GRUNNSKOLETJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Romsdalsvegen 2, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5483753,
+          58.4571569
+        ]
+      },
+      "properties": {
+        "navn": "LUND KOMMUNE OPPVEKST- OG KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Moiveien 9, 4460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80515,
+          68.747532
+        ]
+      },
+      "properties": {
+        "navn": "LAVANGEN KOMMUNE LOABÁGA SUOHKAN KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nessveien 7, 9357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7767469,
+          62.2739869
+        ]
+      },
+      "properties": {
+        "navn": "TYNSET KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torvgata 1, 2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0049158,
+          62.8286983
+        ]
+      },
+      "properties": {
+        "navn": "RENNEBU KOMMUNE KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Myrveien 1, 7391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37639,
+          67.2804378
+        ]
+      },
+      "properties": {
+        "navn": "NORDLAND FYLKESKOMMUNE UTDANNING OG KOMPETANSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Prinsens gate 100, 8005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7621631,
+          60.3774668
+        ]
+      },
+      "properties": {
+        "navn": "SAMNANGER KOMMUNE SKULEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tyssevegen 217, 5650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4883395,
+          63.7937298
+        ]
+      },
+      "properties": {
+        "navn": "VERDAL KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 4, 7650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7050938,
+          65.0923794
+        ]
+      },
+      "properties": {
+        "navn": "LEKA KOMMUNE OPPVEKST, UNDERVISNING OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Leknesveien 67, 7994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662074,
+          59.855652
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE SKOLER, BARNEHAGER OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongleveien 2, 1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4863774,
+          59.4157571
+        ]
+      },
+      "properties": {
+        "navn": "NOTODDEN KOMMUNE SEKSJON FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Teatergata 3, 3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.918579,
+          63.468384
+        ]
+      },
+      "properties": {
+        "navn": "STJØRDAL KOMMUNE SEKTOR FOREBYGGING OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kjøpmannsgata 9, 7500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.914916,
+          60.5679256
+        ]
+      },
+      "properties": {
+        "navn": "ULVIK HERAD OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skeiesvegen 3, 5730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "BØ KOMMUNE KULTURAVDELING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 8475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "MODUM KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101166,
+          60.567969
+        ]
+      },
+      "properties": {
+        "navn": "NESBYEN KOMMUNE OPPVEKSTADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Alfarvegen 117, 3540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4847903,
+          58.7665027
+        ]
+      },
+      "properties": {
+        "navn": "ÅMLI KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gata 10, 4865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1997711,
+          65.8408735
+        ]
+      },
+      "properties": {
+        "navn": "REGIONALT KURS- OG KOMPETANSESENTER FOR VEFSN, GRANE OG HATTFJELLDAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skjervgata 34, 8657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5211988,
+          59.0196639
+        ]
+      },
+      "properties": {
+        "navn": "NISSEDAL KOMMUNE EINING FOR VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Treungvegen 398, 3855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998088,
+          61.091223
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE SLIDRE KOMMUNE OPPVEKST OG INTEGRERING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Slidrevegen 16, 2966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.040188,
+          69.728498
+        ]
+      },
+      "properties": {
+        "navn": "SØR-VARANGER KOMMUNE HELSE- OG OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 1, 9900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.733787,
+          70.083437
+        ]
+      },
+      "properties": {
+        "navn": "MOSKENES KOMMUNE HELSE- OG SOSIALETAT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Helsesenteret, 8390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4479439,
+          59.4215643
+        ]
+      },
+      "properties": {
+        "navn": "TYSVÆR KOMMUNE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 9, 5570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6616609,
+          70.9965624
+        ]
+      },
+      "properties": {
+        "navn": "MÅSØY KOMMUNE KULTUR- OG OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 1, 9690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.776182,
+          59.945728
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 3 SAGENE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vitaminveien 4, 483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039652,
+          59.954485
+        ]
+      },
+      "properties": {
+        "navn": "LILLESTRØM KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Jonas Lies gate 18, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6608247,
+          59.8559228
+        ]
+      },
+      "properties": {
+        "navn": "NAV NESODDEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vestveien 51, 1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1448818,
+          59.7643935
+        ]
+      },
+      "properties": {
+        "navn": "ENEBAKK KOMMUNE KOMMUNALOMRÅDE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Prestegårdsveien 4, 1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6283188,
+          59.0042727
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torvmyrveien 24, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE BU- OG MILJØTENESTA",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9444066,
+          62.3077185
+        ]
+      },
+      "properties": {
+        "navn": "STRANDA KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Øyna 13, 6200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64264,
+          59.8376135
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkonskastet 25, 1453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.65483,
+          59.941702
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 7 VESTRE AKER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sørkedalsveien 150A, 754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.249657,
+          61.985693
+        ]
+      },
+      "properties": {
+        "navn": "DOVRE KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongsvegen 4, 2662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0329507,
+          61.5998523
+        ]
+      },
+      "properties": {
+        "navn": "KINN KOMMUNE OPPVEKST OG UNDERVISNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Magnus Thingnesgate 1, 6905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958854,
+          63.583018
+        ]
+      },
+      "properties": {
+        "navn": "INDRE FOSEN KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 13, 7100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2309483,
+          60.4127624
+        ]
+      },
+      "properties": {
+        "navn": "ASKØY KOMMUNE SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Florvågvegen 6, 5300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6862737,
+          62.5682454
+        ]
+      },
+      "properties": {
+        "navn": "RAUMA KOMMUNE SKOLE OG SFO",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vollan 8A, 6300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.35099,
+          70.945353
+        ]
+      },
+      "properties": {
+        "navn": "LEBESBY KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandveien 152, 9790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.49646,
+          64.013036
+        ]
+      },
+      "properties": {
+        "navn": "STEINKJER KOMMUNE - ETAT OPPVEKST OG INKLUDERING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongens gate 39, 7713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9453845,
+          69.6444816
+        ]
+      },
+      "properties": {
+        "navn": "TROMS FYLKESKOMMUNE SAMFUNN, NÆRING OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandvegen 13, 9007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.992907,
+          62.773353
+        ]
+      },
+      "properties": {
+        "navn": "BERGETIPPEN BARNEHAGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vollskaret 4, 6409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9453845,
+          69.6444816
+        ]
+      },
+      "properties": {
+        "navn": "TROMS FYLKESKOMMUNE KOMPETANSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandvegen 13, 9007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7190612,
+          61.9033608
+        ]
+      },
+      "properties": {
+        "navn": "STRYN KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tonningsgata 4, 6783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541605,
+          60.3919805
+        ]
+      },
+      "properties": {
+        "navn": "NORD-ODAL KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Herredsvegen 2, 2120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561088,
+          60.630286
+        ]
+      },
+      "properties": {
+        "navn": "ÅL KOMMUNE KULTURSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 1, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3050212,
+          59.2808853
+        ]
+      },
+      "properties": {
+        "navn": "KARMØY KOMMUNE OPPVEKST- OG KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Vinjes gate 25, 4250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE SKOLER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.589403,
+          58.29539
+        ]
+      },
+      "properties": {
+        "navn": "IVELAND KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Frigstadveien 20, 4724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4896495,
+          63.7938327
+        ]
+      },
+      "properties": {
+        "navn": "VERDAL KOMMUNE VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nordgata 51, 7650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.315143,
+          59.48979
+        ]
+      },
+      "properties": {
+        "navn": "HOLMESTRAND KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgaten 11, 3080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7197172,
+          60.778785
+        ]
+      },
+      "properties": {
+        "navn": "FEDJE KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stormarkvegen 49, 5947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.383164,
+          67.283186
+        ]
+      },
+      "properties": {
+        "navn": "BODØ KOMMUNE AVDELING FOR OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongens gate 23, 8006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.150693,
+          62.73428
+        ]
+      },
+      "properties": {
+        "navn": "MØRE OG ROMSDAL FYLKESKOMMUNE KULTUROMRÅDET",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Julsundvegen 15, 6412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.998088,
+          61.091223
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE SLIDRE KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Slidrevegen 16, 2966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.192242,
+          62.4401251
+        ]
+      },
+      "properties": {
+        "navn": "SULA KOMMUNE KULTUR OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sloghaugvegen 13, 6030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6100485,
+          59.2077612
+        ]
+      },
+      "properties": {
+        "navn": "SKIEN KOMMUNE - OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torggata 4, 3724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5723803,
+          62.6727374
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE HELSE- OG OMSORGSTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ringvegen 13, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2565235,
+          60.1601915
+        ]
+      },
+      "properties": {
+        "navn": "RINGERIKE KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Osloveien 1, 3511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4790144,
+          68.6882253
+        ]
+      },
+      "properties": {
+        "navn": "BØ KOMMUNE HELSE- OG SOSIALAVDELING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Veaveien 50, 8475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6316737,
+          62.3417616
+        ]
+      },
+      "properties": {
+        "navn": "HERØY KOMMUNE SEKTOR KULTUR OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 5, 6090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3023134,
+          60.6152323
+        ]
+      },
+      "properties": {
+        "navn": "HOL KOMMUNE KULTUR- OG OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ålmannvegen 8, 3576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.082696,
+          60.795145
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET FYLKESKOMMUNE KOMPETANSE OG TANNHELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkgata 64, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494619,
+          59.4019616
+        ]
+      },
+      "properties": {
+        "navn": "KVITESEID KOMMUNE SEKTOR FOR SKULE OG BARNEHAGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kviteseidgata 13, 3850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.111505,
+          59.281586
+        ]
+      },
+      "properties": {
+        "navn": "SARPSBORG KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Glengsgata 38, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "KARLSØY KOMMUNE HELSE- OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 9130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57044,
+          58.339035
+        ]
+      },
+      "properties": {
+        "navn": "GRIMSTAD KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grøm Næringspark 19, 4887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662074,
+          59.855652
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE KULTUR, NÆRING OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongleveien 2, 1452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE GRUNNSKOLETJENESTE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.687108,
+          60.794142
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 25, 184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6450579,
+          58.6160444
+        ]
+      },
+      "properties": {
+        "navn": "HÅ KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 8, 4360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446696,
+          59.4278469
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE BO OG AKTIVITETSTJENESTE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skogveien 9, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908526,
+          59.7711172
+        ]
+      },
+      "properties": {
+        "navn": "ØVRE EIKER KOMMUNE KULTUR, IDRETT OG BIBLIOTEK",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stasjonsgata 24, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NAV NITTEDAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541605,
+          60.3919805
+        ]
+      },
+      "properties": {
+        "navn": "NORD-ODAL KOMMUNE OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Herredsvegen 2, 2120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0419724,
+          69.7286174
+        ]
+      },
+      "properties": {
+        "navn": "KARLSØY KOMMUNE KULTUR- OG OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 9130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "BØ KOMMUNE OPPVEKSTAVDELING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 8475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647777,
+          58.887936
+        ]
+      },
+      "properties": {
+        "navn": "SOLA KOMMUNE TJENESTEOMRÅDE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 21, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0848386,
+          70.858094
+        ]
+      },
+      "properties": {
+        "navn": "BERLEVÅG KOMMUNE HELSE- OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 2, 9980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.673934,
+          59.933454
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 6 ULLERN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hoffsveien 48, 377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3280035,
+          60.3921075
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KOMMUNE BYRÅDSAVDELING FOR BARNEHAGE OG SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgaten 10, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3929965,
+          67.1029799
+        ]
+      },
+      "properties": {
+        "navn": "SALTDAL KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Jernbanegata 3, 8250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6899603,
+          69.0917505
+        ]
+      },
+      "properties": {
+        "navn": "DYRØY KOMMUNE SKOLE- OG KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Dyrøytunet 1, 9311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5604211,
+          60.3929532
+        ]
+      },
+      "properties": {
+        "navn": "GRAN KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 39, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4183776,
+          60.6278384
+        ]
+      },
+      "properties": {
+        "navn": "VOSS HERAD KOMMUNALAVDELING OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Uttrågata 9, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.811988,
+          59.873212
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 14 NORDSTRAND",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Langbølgen 1, 1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035596,
+          60.071666
+        ]
+      },
+      "properties": {
+        "navn": "GJERDRUM KOMMUNE OPPVEKST OG PSYKISK HELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gjerivegen 1, 2022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039652,
+          59.954485
+        ]
+      },
+      "properties": {
+        "navn": "LILLESTRØM KOMMUNE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Jonas Lies gate 18, 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94016,
+          59.210208
+        ]
+      },
+      "properties": {
+        "navn": "FREDRIKSTAD KOMMUNE KOMMUNEOMRÅDE SAMFUNN OG BYUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nygaardsgata 16, 1606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0681145,
+          62.1468508
+        ]
+      },
+      "properties": {
+        "navn": "VOLDA KOMMUNE SEKTOR FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stormyra 2, 6100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.507949,
+          64.46691
+        ]
+      },
+      "properties": {
+        "navn": "NAMSOS KOMMUNE OPPLÆRING OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Søren R Thornæs veg 10, 7800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0945195,
+          66.5025626
+        ]
+      },
+      "properties": {
+        "navn": "TRÆNA KOMMUNE SEKTOR FOR UNDERVISNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Husøy skole, 8770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086876,
+          68.914634
+        ]
+      },
+      "properties": {
+        "navn": "ØKSNES KOMMUNE KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 27, 8430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9468433,
+          60.2670429
+        ]
+      },
+      "properties": {
+        "navn": "NORE OG UVDAL KOMMUNE SKOLE, BARNEHAGE OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sentrum 16, 3630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729581,
+          58.9637
+        ]
+      },
+      "properties": {
+        "navn": "ROGALAND FYLKESKOMMUNE OPPLÆRINGSAVDELINGEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Peder Klows gate 27, 4010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7310909,
+          58.9648496
+        ]
+      },
+      "properties": {
+        "navn": "ROGALAND FYLKESKOMMUNE REGIONALPLANAVDELINGEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arkitekt Eckhoffs gate 1, 4010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602244,
+          66.019302
+        ]
+      },
+      "properties": {
+        "navn": "ALSTAHAUG KOMMUNE UNDERVISNING OG BARNEHAGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandgata 52, 8800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3430594,
+          59.4279897
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 8, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.249657,
+          61.985693
+        ]
+      },
+      "properties": {
+        "navn": "DOVRE KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongsvegen 4, 2662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.712407,
+          70.634903
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Helsevegen 1, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707657,
+          66.872039
+        ]
+      },
+      "properties": {
+        "navn": "MELØY KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gammelveien 5, 8150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.523271,
+          59.889001
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE HJEMMEBASERTE TJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arnold Haukelands plass 10, 1338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.409002,
+          59.224075
+        ]
+      },
+      "properties": {
+        "navn": "FÆRDER KOMMUNE OPPVEKST OG KUNNSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tinghaugveien 18, 3140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.697543,
+          58.785419
+        ]
+      },
+      "properties": {
+        "navn": "KLEPP KOMMUNE TJENESTEOMRÅDE SAMFUNN OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Bedriftsvegen 4, 4353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6439995,
+          59.6646853
+        ]
+      },
+      "properties": {
+        "navn": "KONGSBERG KOMMUNE KULTUR- OG VELFERDSTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hasbergs vei 36, 3616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0784633,
+          60.794468
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vangsvegen 51, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.111505,
+          59.281586
+        ]
+      },
+      "properties": {
+        "navn": "SARPSBORG KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Glengsgata 38, 1706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.740908,
+          59.913744
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE PASIENT- OG BRUKEROMBUDET I OSLO OG AKERSHUS SOSIAL OG ELDREOMBUDET I OSLO",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Lille Grensen 7, 159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.409002,
+          59.224075
+        ]
+      },
+      "properties": {
+        "navn": "FÆRDER KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tinghaugveien 18, 3140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2598341,
+          59.5599485
+        ]
+      },
+      "properties": {
+        "navn": "NOTODDEN KOMMUNE SEKSJON FOR HELSE- OG OMSORGSTJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 39, 3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "NAV RANDABERG KOMMUNE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0784633,
+          60.794468
+        ]
+      },
+      "properties": {
+        "navn": "HAMAR KOMMUNE OPPLÆRING OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vangsvegen 51, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1617459,
+          59.4774949
+        ]
+      },
+      "properties": {
+        "navn": "SKIPTVET KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storveien 28, 1816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.534728,
+          69.604046
+        ]
+      },
+      "properties": {
+        "navn": "KÅFJORD KOMMUNE UTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Øverveien 2, 9146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE BARNEHAGER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6316737,
+          62.3417616
+        ]
+      },
+      "properties": {
+        "navn": "HERØY KOMMUNE VERKSEMDSTYRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 5, 6090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.295733,
+          69.976659
+        ]
+      },
+      "properties": {
+        "navn": "ALTA KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandfallveien 1, 9510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7481462,
+          59.6022902
+        ]
+      },
+      "properties": {
+        "navn": "VESTBY KOMMUNE SKOLER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgata 1, 1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9288597,
+          59.9617145
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 11 STOVNER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Karl Fossums vei 30, 985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "MODUM KOMMUNE FAMILIE OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.556617,
+          62.100104
+        ]
+      },
+      "properties": {
+        "navn": "VANYLVEN KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 3, 6143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973669,
+          70.033776
+        ]
+      },
+      "properties": {
+        "navn": "SKJERVØY KOMMUNE KULTUR- OG UNDERVISNINGSETAT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skoleveien 6, 9180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5483753,
+          58.4571569
+        ]
+      },
+      "properties": {
+        "navn": "LUND KOMMUNE HELSE- OG OMSORGSADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Moiveien 9, 4460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278573,
+          60.0802721
+        ]
+      },
+      "properties": {
+        "navn": "HOLE KOMMUNE PLEIE, REHABILITERING OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Viksveien 30, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9444066,
+          62.3077185
+        ]
+      },
+      "properties": {
+        "navn": "STRANDA KOMMUNE KULTUR/IDRETT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Øyna 13, 6200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.215703,
+          61.777229
+        ]
+      },
+      "properties": {
+        "navn": "GLOPPEN KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grandavegen 9, 6823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3458,
+          70.945912
+        ]
+      },
+      "properties": {
+        "navn": "LEBESBY KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandveien 175, 9790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.769214,
+          59.926721
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 2 GRUNERLØKKA",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Marstrandgata 6, 566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3286268,
+          60.3914907
+        ]
+      },
+      "properties": {
+        "navn": "ØSTRE TOTEN KOMMUNALMEDISINSKE TJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 2850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1617459,
+          59.4774949
+        ]
+      },
+      "properties": {
+        "navn": "SKIPTVET KOMMUNE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storveien 28, 1816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0518668,
+          69.9378704
+        ]
+      },
+      "properties": {
+        "navn": "KVÆNANGEN KOMMUNE ETAT FOR OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Burfjord, 9161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.718902,
+          59.915115
+        ]
+      },
+      "properties": {
+        "navn": "STATPED",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sommerrogata 13, 255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.286844,
+          61.76853
+        ]
+      },
+      "properties": {
+        "navn": "BREMANGER KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Granden 1, 6723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7293086,
+          58.9676257
+        ]
+      },
+      "properties": {
+        "navn": "STAVANGER KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arne Rettedals gate 12, 4008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94016,
+          59.210208
+        ]
+      },
+      "properties": {
+        "navn": "FREDRIKSTAD KOMMUNE KOMMUNEOMRÅDE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nygaardsgata 16, 1606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076435,
+          60.7258758
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE OMSORGSAVDELINGEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkevegen 8, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0669427,
+          60.4352263
+        ]
+      },
+      "properties": {
+        "navn": "HURDAL KOMMUNE OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Minneåsvegen 3, 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9773747,
+          70.9783653
+        ]
+      },
+      "properties": {
+        "navn": "NORDKAPP KOMMUNE OPPVEKST- OG KULTURSEKTOREN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 1, 9750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474816,
+          58.8866891
+        ]
+      },
+      "properties": {
+        "navn": "SOLA KOMMUNE TJENESTEOMRÅDE LEVEKÅR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 30, 4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64264,
+          59.8376135
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE HJEMMEBASERTE TJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkonskastet 25, 1453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3023134,
+          60.6152323
+        ]
+      },
+      "properties": {
+        "navn": "HOL KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ålmannvegen 8, 3576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278573,
+          60.0802721
+        ]
+      },
+      "properties": {
+        "navn": "HOLE KOMMUNE UNDERVISNING OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Viksveien 30, 3530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.15888,
+          62.737984
+        ]
+      },
+      "properties": {
+        "navn": "MOLDE KOMMUNE SEKTOR FOR OPPVEKST, KULTUR OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 1, 6413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.755205,
+          59.916923
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE VELFERDSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hausmanns gate 21, 182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9001024,
+          62.7909926
+        ]
+      },
+      "properties": {
+        "navn": "BARNEBO BARNEHAGE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hjertvikvegen 10, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.560178,
+          62.674227
+        ]
+      },
+      "properties": {
+        "navn": "SUNNDAL KOMMUNE VELFERDSTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Mongstugata 5, 6600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.696204,
+          60.9370668
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE HELSEETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 51, 182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1670966,
+          65.3140322
+        ]
+      },
+      "properties": {
+        "navn": "SØMNA KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kystveien 84A, 8920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.082696,
+          60.795145
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET FYLKESKOMMUNE SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkgata 64, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561088,
+          60.630286
+        ]
+      },
+      "properties": {
+        "navn": "ÅL KOMMUNE OPPVEKSTSEKTOREN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 1, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0813667,
+          58.630426
+        ]
+      },
+      "properties": {
+        "navn": "BJERKREIM KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nesjane 1, 4389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE TILRETTELAGTE TJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.857065,
+          59.95087
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 10 GRORUD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kakkelovnskroken 3A, 954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3488622,
+          59.4267437
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Granveien 11, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "OSTERØY KOMMUNE SEKTOR FOR OPPVEKST, UNDERVISNING OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "RÅDHUSET, 5282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64264,
+          59.8376135
+        ]
+      },
+      "properties": {
+        "navn": "NESODDEN KOMMUNE MILJØTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkonskastet 25, 1453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1555342,
+          69.1472856
+        ]
+      },
+      "properties": {
+        "navn": "SØRREISA KOMMUNE KULTUR OG IDRETT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sykehjemsveien 41, 9310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.799464,
+          59.913403
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE UTDANNINGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grensesvingen 6, 663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.810623,
+          59.926475
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 9 BJERKE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ulvenveien 80A, 581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6439995,
+          59.6646853
+        ]
+      },
+      "properties": {
+        "navn": "KONGSBERG KOMMUNE HELSE- OG OMSORGSTJENESTEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hasbergs vei 36, 3616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.335849,
+          59.551425
+        ]
+      },
+      "properties": {
+        "navn": "INDRE ØSTFOLD KOMMUNE BO OG HABILITERING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ordfører Voldens vei 1, 1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.031204,
+          59.028148
+        ]
+      },
+      "properties": {
+        "navn": "HVALER KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storveien 32, 1680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7197172,
+          60.778785
+        ]
+      },
+      "properties": {
+        "navn": "FEDJE KOMMUNE HELSE- OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stormarkvegen 49, 5947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433541,
+          60.3698216
+        ]
+      },
+      "properties": {
+        "navn": "KVAM HERAD EINING FOR HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grovagjelet 16, 5600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2943222,
+          58.3427451
+        ]
+      },
+      "properties": {
+        "navn": "SOKNDAL KOMMUNE OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gamleveien 20, 4380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5000316,
+          60.0058097
+        ]
+      },
+      "properties": {
+        "navn": "TYSNES KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Uggdalsvegen 301, 5685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.571701,
+          61.1256326
+        ]
+      },
+      "properties": {
+        "navn": "VANG KOMMUNE HELSE- OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tyinvegen 5161, 2975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.107574,
+          70.370429
+        ]
+      },
+      "properties": {
+        "navn": "VARDØ KOMMUNE ENHET FOR GRUNNSKOLE, BARNEHAGE OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kirkegata 4, 9950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7190612,
+          61.9033608
+        ]
+      },
+      "properties": {
+        "navn": "STRYN KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tonningsgata 4, 6783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0681145,
+          62.1468508
+        ]
+      },
+      "properties": {
+        "navn": "VOLDA KOMMUNE SEKTOR FOR HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stormyra 2, 6100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3967921,
+          63.4280522
+        ]
+      },
+      "properties": {
+        "navn": "TRONDHEIM KOMMUNE OPPVEKST OG UTDANNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Munkegata 1, 7013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.185401,
+          70.199465
+        ]
+      },
+      "properties": {
+        "navn": "TANA KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 24, 9845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5355836,
+          61.771839
+        ]
+      },
+      "properties": {
+        "navn": "SEKRETARIATET FOR KONTROLLUTVALA I NORD-GUDBRANDSDAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ola Dahls gate 3A, 2670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0049158,
+          62.8286983
+        ]
+      },
+      "properties": {
+        "navn": "RENNEBU KOMMUNE SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Myrveien 1, 7391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5318806,
+          68.6927285
+        ]
+      },
+      "properties": {
+        "navn": "GRATANGEN KOMMUNE OPPVEKST- OG KULTURETAT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nergårdveien 2, 9470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.332266,
+          60.386657
+        ]
+      },
+      "properties": {
+        "navn": "VESTLAND FYLKESKOMMUNE OPPLÆRING OG KOMPETANSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Lars Hilles gate 22, 5008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8333851,
+          59.8541037
+        ]
+      },
+      "properties": {
+        "navn": "LONGYEARBYEN LOKALSTYRE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vei 227 6, 9170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.854947,
+          58.764852
+        ]
+      },
+      "properties": {
+        "navn": "GJESDAL KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rettedalen 1, 4330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.082696,
+          60.795145
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET FYLKESKOMMUNE NÆRING OG INTERNASJONALT SAMARBEID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkgata 64, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662961,
+          60.15865
+        ]
+      },
+      "properties": {
+        "navn": "KRØDSHERAD KOMMUNE SEKTOR FOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunehuset, 3536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.105899,
+          59.275028
+        ]
+      },
+      "properties": {
+        "navn": "ØSTFOLD FYLKESKOMMUNE TANNHELSESEKTOR UNDER SLETTING FRA 01.01.2020",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Oscar Pedersens vei 39, 1721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046775,
+          59.9734487
+        ]
+      },
+      "properties": {
+        "navn": "MODUM KOMMUNE KULTUR OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973669,
+          70.033776
+        ]
+      },
+      "properties": {
+        "navn": "SKJERVØY KOMMUNE HELSE- OG OMSORGSETAT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skoleveien 6, 9180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822913,
+          63.266966
+        ]
+      },
+      "properties": {
+        "navn": "ORKLAND KOMMUNE INSTITUSJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Fannremsvegen 22, 7320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5257645,
+          59.8901395
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE BARNEHAGER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhustorget 4, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602244,
+          66.019302
+        ]
+      },
+      "properties": {
+        "navn": "ALSTAHAUG KOMMUNE SEKTOR FOR KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Strandgata 52, 8800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4698473,
+          60.1854597
+        ]
+      },
+      "properties": {
+        "navn": "BJØRNAFJORDEN KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torggata 7, 5200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7621631,
+          60.3774668
+        ]
+      },
+      "properties": {
+        "navn": "SAMNANGER KOMMUNE EINING FOR KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Tyssevegen 217, 5650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881589,
+          60.042881
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE BARNEHAGER OG FORBYGGENDE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 1, 1482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6806258,
+          70.6630659
+        ]
+      },
+      "properties": {
+        "navn": "HAMMERFEST KOMMUNE SEKTOR FOR OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 17, 9600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.215703,
+          61.777229
+        ]
+      },
+      "properties": {
+        "navn": "GLOPPEN KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grandavegen 9, 6823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9438365,
+          59.9838466
+        ]
+      },
+      "properties": {
+        "navn": "NITTEDAL KOMMUNE INSTITUSJONER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stamveien 6, 1481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3280035,
+          60.3921075
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KOMMUNE BYRÅDSAVDELING FOR NÆRING, KULTUR OG IDRETT",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgaten 10, 5014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.185401,
+          70.199465
+        ]
+      },
+      "properties": {
+        "navn": "DEANU GJELDA KULTUVRA JA VALLJODAT/ TANA KOMMUNE KULTUR OG MANGFOLD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 24, 9845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.302783,
+          70.59154
+        ]
+      },
+      "properties": {
+        "navn": "HASVIK KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Fjellveien 6, 9593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.285171,
+          66.711906
+        ]
+      },
+      "properties": {
+        "navn": "RØDØY KOMMUNE OMSORGSSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vågaveien 100, 8185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.011824,
+          67.7744503
+        ]
+      },
+      "properties": {
+        "navn": "STEIGEN KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Steigentunet, 8283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.286844,
+          61.76853
+        ]
+      },
+      "properties": {
+        "navn": "BREMANGER KOMMUNE KULTURTENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Granden 1, 6723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0847836,
+          70.8577803
+        ]
+      },
+      "properties": {
+        "navn": "BERLEVÅG KOMMUNE UNDERVISNING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 4, 9980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6205971,
+          58.9986983
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Randabergveien 370, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5000316,
+          60.0058097
+        ]
+      },
+      "properties": {
+        "navn": "TYSNES KOMMUNE SKULEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Uggdalsvegen 301, 5685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0329507,
+          61.5998523
+        ]
+      },
+      "properties": {
+        "navn": "KINN KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Magnus Thingnesgate 1, 6905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8305649,
+          62.3482194
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE HELSEETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Osbergvegen 45, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37639,
+          67.2804378
+        ]
+      },
+      "properties": {
+        "navn": "NORDLAND FYLKESKOMMUNE AVDELING FOR SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Prinsens gate 100, 8005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3570499,
+          59.3557004
+        ]
+      },
+      "properties": {
+        "navn": "BYKLE KOMMUNE KULTUR OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sarvsvegen 14, 4754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73644,
+          59.617886
+        ]
+      },
+      "properties": {
+        "navn": "VESTBY KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kleverveien 6, 1543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9156616,
+          60.5679647
+        ]
+      },
+      "properties": {
+        "navn": "ULVIK HERAD HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skeiesvegen 7, 5730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.531057,
+          63.267885
+        ]
+      },
+      "properties": {
+        "navn": "AURE KOMMUNE ENHET HELSE OG FAMILIE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Aurdalsvegen 7, 6690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8448893,
+          62.3441613
+        ]
+      },
+      "properties": {
+        "navn": "ULSTEIN KOMMUNE SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sjøgata 63, 6065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1448818,
+          59.7643935
+        ]
+      },
+      "properties": {
+        "navn": "ENEBAKK KOMMUNE KULTUR-, OPPVEKST- OG SKOLEAVDELING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Prestegårdsveien 4, 1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.118987,
+          69.314179
+        ]
+      },
+      "properties": {
+        "navn": "ANDØY KOMMUNE - HELSE OG MESTRING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 68, 8480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.140006,
+          66.311191
+        ]
+      },
+      "properties": {
+        "navn": "RANA KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 2, 8622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "SØRFOLD KOMMUNE SOSIAL- OG OMSORGSADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 8226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4863774,
+          59.4157571
+        ]
+      },
+      "properties": {
+        "navn": "NOTODDEN KOMMUNE SEKSJON FOR KULTUR OG STEDSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Teatergata 3, 3674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6283188,
+          59.0042727
+        ]
+      },
+      "properties": {
+        "navn": "RANDABERG KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torvmyrveien 24, 4070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1555342,
+          69.1472856
+        ]
+      },
+      "properties": {
+        "navn": "SØRREISA KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sykehjemsveien 41, 9310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4047766,
+          63.4228693
+        ]
+      },
+      "properties": {
+        "navn": "LOPPA KOMMUNE LEVEKÅRSSEKSJONEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkveien 1-3, 9550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.438614,
+          58.017206
+        ]
+      },
+      "properties": {
+        "navn": "RISØBANK INTERKOMMUNALE SELSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Risøbank 3, 4514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2565235,
+          60.1601915
+        ]
+      },
+      "properties": {
+        "navn": "RINGERIKE KOMMUNE UTDANNING OG FAMILIE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Osloveien 1, 3511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0800788,
+          60.793877
+        ]
+      },
+      "properties": {
+        "navn": "HELSE SØR-ØST RHF",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkgata 36, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.561088,
+          60.630286
+        ]
+      },
+      "properties": {
+        "navn": "ÅL KOMMUNE HELSE OG SOSIALSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 1, 3570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.219574,
+          59.128679
+        ]
+      },
+      "properties": {
+        "navn": "SANDEFJORD KOMMUNE KULTUR, IDRETT OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandefjordsveien 3, 3208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039243,
+          63.217788
+        ]
+      },
+      "properties": {
+        "navn": "SELBU KOMMUNE SEKTOR OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gjelbakken 15, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.350721,
+          60.699262
+        ]
+      },
+      "properties": {
+        "navn": "SØNDRE LAND KOMMUNE - HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hovsbakken 1, 2860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6528323,
+          58.7362964
+        ]
+      },
+      "properties": {
+        "navn": "TIME KOMMUNE TENESTEOMRÅDE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arne Garborgs veg 30, 4344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.15085,
+          62.734578
+        ]
+      },
+      "properties": {
+        "navn": "MØRE OG ROMSDAL FYLKESKOMMUNE KOMPETANSE- OG NÆRINGSOMRÅDET",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Julsundvegen 9, 6412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE BARNEHAGAR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4183776,
+          60.6278384
+        ]
+      },
+      "properties": {
+        "navn": "VOSS HERAD KOMMUNALAVDELING KULTUR OG FRITID",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Uttrågata 9, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086876,
+          68.914634
+        ]
+      },
+      "properties": {
+        "navn": "ØKSNES KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 27, 8430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4350001,
+          59.8366822
+        ]
+      },
+      "properties": {
+        "navn": "ASKER KOMMUNE MEDBORGERSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Knud Askers vei 24, 1383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9468433,
+          60.2670429
+        ]
+      },
+      "properties": {
+        "navn": "NORE OG UVDAL KOMMUNE PLEIE- OG OMSORGSAVDELINGEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sentrum 16, 3630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6528323,
+          58.7362964
+        ]
+      },
+      "properties": {
+        "navn": "TIME KOMMUNE TENESTEOMRÅDE OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Arne Garborgs veg 30, 4344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.712432,
+          59.912613
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 5 FROGNER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Drammensveien 60, 271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.608794,
+          60.294661
+        ]
+      },
+      "properties": {
+        "navn": "LUNNER KOMMUNE OMSORGSSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandsvegen 1, 2740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9468433,
+          60.2670429
+        ]
+      },
+      "properties": {
+        "navn": "NORE OG UVDAL KOMMUNE HELSE- OG SOSIALAVDELINGEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sentrum 16, 3630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.082696,
+          60.795145
+        ]
+      },
+      "properties": {
+        "navn": "INNLANDET FYLKESKOMMUNE SAMFERDSEL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Parkgata 64, 2317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01709,
+          66.1991777
+        ]
+      },
+      "properties": {
+        "navn": "NESNA KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Movegen 24, 8700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.285171,
+          66.711906
+        ]
+      },
+      "properties": {
+        "navn": "RØDØY KOMMUNE SOSIALSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vågaveien 100, 8185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557186,
+          62.099685
+        ]
+      },
+      "properties": {
+        "navn": "VEST KONTROLL KOMMUNALT OPPGÅVEFELLESSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 1, 6143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2997835,
+          63.7459565
+        ]
+      },
+      "properties": {
+        "navn": "LEVANGER KOMMUNE HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Håkon den godes gate 30, 7600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039243,
+          63.217788
+        ]
+      },
+      "properties": {
+        "navn": "SELBU KOMMUNE SEKTOR SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gjelbakken 15, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0296613,
+          62.3690447
+        ]
+      },
+      "properties": {
+        "navn": "HAREID KOMMUNE SEKTOR FOR VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 5, 6060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7364569,
+          58.8695257
+        ]
+      },
+      "properties": {
+        "navn": "JÆREN FRILUFTSRÅD KOMMUNALT OPPGAVEFELLESSKAP",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nikkelveien 4, 4313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6824784,
+          70.6619376
+        ]
+      },
+      "properties": {
+        "navn": "HAMMERFEST KOMMUNE SEKTOR FOR HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Salsgata 16, 9600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.732806,
+          59.91342
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE, BYRÅDSAVDELING FOR HELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Olav Vs gate 4, 161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.84169,
+          59.865204
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 13 ØSTENSJØ",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Olaf Helsets vei 6, 694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3409719,
+          59.4286466
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Johs C Liens gate 5, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51908,
+          69.4718011
+        ]
+      },
+      "properties": {
+        "navn": "KARASJOK KOMMUNE OPPVEKSTSEKTOR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Raddeviessogeaidnu 4, 9730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE SOSIALTENESTA",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.702038,
+          61.236371
+        ]
+      },
+      "properties": {
+        "navn": "ÅRDAL KOMMUNE GRUNNSKULAR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Statsråd Evensens veg 4, 6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5257645,
+          59.8901395
+        ]
+      },
+      "properties": {
+        "navn": "BÆRUM KOMMUNE OPPVEKST SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhustorget 4, 1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9394052,
+          61.5565247
+        ]
+      },
+      "properties": {
+        "navn": "SØR-FRON KOMMUNE PERSONAL OG ORGANISASJON/ RÅDMANNSSTAB",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunevegen 1, 2647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0296613,
+          62.3690447
+        ]
+      },
+      "properties": {
+        "navn": "HAREID KOMMUNE SEKTOR FOR LÆRING OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 5, 6060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908526,
+          59.7711172
+        ]
+      },
+      "properties": {
+        "navn": "ØVRE EIKER KOMMUNE SEKSJON OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Stasjonsgata 24, 3300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101166,
+          60.567969
+        ]
+      },
+      "properties": {
+        "navn": "NESBYEN KOMMUNE HELSETJENESTER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Alfarvegen 117, 3540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.865498,
+          59.488501
+        ]
+      },
+      "properties": {
+        "navn": "VÅLER KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kjosveien 1, 1592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.172768,
+          68.772117
+        ]
+      },
+      "properties": {
+        "navn": "KVÆFJORD KOMMUNE KULTUR- OG OPPVEKSTAVDELING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Bygdeveien 26, 9475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6932542,
+          67.6637433
+        ]
+      },
+      "properties": {
+        "navn": "VÆRØY KOMMUNE SKOLEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sørland 33, 8063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1945579,
+          59.749189
+        ]
+      },
+      "properties": {
+        "navn": "HELSEFREMMENDE TJENESTER 0-100 AVD ADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Wergelands gate 10, 3019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0039662,
+          58.4523217
+        ]
+      },
+      "properties": {
+        "navn": "VANYLVEN KOMMUNE KULTUR OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 6143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7282509,
+          59.2791325
+        ]
+      },
+      "properties": {
+        "navn": "SILJAN KOMMUNE AVD FOR HELSE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sentrumsveien 22, 3748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5604211,
+          60.3929532
+        ]
+      },
+      "properties": {
+        "navn": "GRAN KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 39, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2943222,
+          58.3427451
+        ]
+      },
+      "properties": {
+        "navn": "SOKNDAL KOMMUNE OPPVEKST- OG KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gamleveien 20, 4380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6149485,
+          60.7238476
+        ]
+      },
+      "properties": {
+        "navn": "VESTRE TOTEN KOMMUNE BARN OG FAMILIE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sigurd Østliens veg 4, 2830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9022163,
+          63.4721994
+        ]
+      },
+      "properties": {
+        "navn": "HELSE MIDT-NORGE RHF",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Wessels veg 75, 7502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.242116,
+          64.863536
+        ]
+      },
+      "properties": {
+        "navn": "NÆRØYSUND KOMMUNE OPPVEKST OG FAMILIE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Engasvegen 27, 7900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.608794,
+          60.294661
+        ]
+      },
+      "properties": {
+        "navn": "LUNNER KOMMUNE FAMILIE OG OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandsvegen 1, 2740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1555342,
+          69.1472856
+        ]
+      },
+      "properties": {
+        "navn": "SØRREISA KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sykehjemsveien 41, 9310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.219574,
+          59.128679
+        ]
+      },
+      "properties": {
+        "navn": "SANDEFJORD KOMMUNE HELSE, SOSIAL OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sandefjordsveien 3, 3208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3446696,
+          59.4278469
+        ]
+      },
+      "properties": {
+        "navn": "RAKKESTAD KOMMUNE VELFERD OG LEVEKÅR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skogveien 9, 1890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0329507,
+          61.5998523
+        ]
+      },
+      "properties": {
+        "navn": "KINN KOMMUNE SAMFUNN, KULTUR OG MILJØ",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Magnus Thingnesgate 1, 6905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5604211,
+          60.3929532
+        ]
+      },
+      "properties": {
+        "navn": "KULTURKONTORET FOR LUNNER OG GRAN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusvegen 39, 2770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197386,
+          65.839938
+        ]
+      },
+      "properties": {
+        "navn": "SØRFOLD KOMMUNE KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "RÅDHUSET, 8226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.973966,
+          58.1546599
+        ]
+      },
+      "properties": {
+        "navn": "VERDAL KOMMUNE NÆRING OG SAMFUNNSUTVIKLING",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vektergata, 7650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433541,
+          60.3698216
+        ]
+      },
+      "properties": {
+        "navn": "KVAM HERAD KULTURADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Grovagjelet 16, 5600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.795965,
+          59.837991
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 15 SØNDRE NORDSTRAND",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ravnåsveien 1, 1254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.118987,
+          69.314179
+        ]
+      },
+      "properties": {
+        "navn": "ANDØY KOMMUNE - OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 68, 8480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0048256,
+          62.8286955
+        ]
+      },
+      "properties": {
+        "navn": "VANG KOMMUNE SKULE- OG KULTURETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunehuset, 2975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.883778,
+          62.805308
+        ]
+      },
+      "properties": {
+        "navn": "AUKRA KOMMUNE PLEIE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Aukraringen 14, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.80515,
+          68.747532
+        ]
+      },
+      "properties": {
+        "navn": "LAVANGEN KOMMUNE LOABÁGA SUOHKAN OPPVEKSTETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nessveien 7, 9357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1670966,
+          65.3140322
+        ]
+      },
+      "properties": {
+        "navn": "SØMNA KOMMUNE SENTRALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kystveien 84A, 8920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0742533,
+          60.2103608
+        ]
+      },
+      "properties": {
+        "navn": "LØRENSKOG KOMMUNE BARN, UNGE OG FAMILIE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hasselveien 6, 1470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0138039,
+          59.4456808
+        ]
+      },
+      "properties": {
+        "navn": "TOKKE KOMMUNE - OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storvegen 60, 3880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8877191,
+          62.8059
+        ]
+      },
+      "properties": {
+        "navn": "AUKRA KOMMUNE KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Aukraringen 3, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.206617,
+          65.468305
+        ]
+      },
+      "properties": {
+        "navn": "AREMARK KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhuset, 1798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.865498,
+          59.488501
+        ]
+      },
+      "properties": {
+        "navn": "VÅLER KOMMUNE HELSE- OG SOSIALETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kjosveien 1, 1592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6616609,
+          70.9965624
+        ]
+      },
+      "properties": {
+        "navn": "MÅSØY KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Torget 1, 9690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958854,
+          63.583018
+        ]
+      },
+      "properties": {
+        "navn": "INDRE FOSEN KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusveien 13, 7100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0669427,
+          60.4352263
+        ]
+      },
+      "properties": {
+        "navn": "HURDAL KOMMUNE HELSE- OG OMSORGSETATEN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Minneåsvegen 3, 2090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51908,
+          69.4718011
+        ]
+      },
+      "properties": {
+        "navn": "KARASJOK KOMMUNE SPRÅK OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Raddeviessogeaidnu 4, 9730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.405327,
+          58.8797229
+        ]
+      },
+      "properties": {
+        "navn": "KRAGERØ KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gamle Kragerøvei 32, 3770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0621411,
+          59.0975503
+        ]
+      },
+      "properties": {
+        "navn": "DRANGEDAL KOMMUNE SEKTOR FOR HELSE OG VELFERD",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gudbrandsveien 7, 3750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387204,
+          59.122379
+        ]
+      },
+      "properties": {
+        "navn": "HALDEN KOMMUNE UNDERVISNING OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 8, 1771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.729419,
+          63.11001
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSUND KOMMUNE BARNEHAGE, SKOLE OG BARNEVERN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kongens plass 1, 6509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764415,
+          59.94854
+        ]
+      },
+      "properties": {
+        "navn": "OSLO KOMMUNE BYDEL 8 NORDRE AKER",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nydalsveien 21, 484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9850516,
+          70.9770382
+        ]
+      },
+      "properties": {
+        "navn": "NORDKAPP KOMMUNE HELSE- OG SOSIALSEKTOREN",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sykehusveien 16, 9750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0621411,
+          59.0975503
+        ]
+      },
+      "properties": {
+        "navn": "DRANGEDAL KOMMUNE SEKTOR FOR KUNNSKAP MANGFOLD OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Gudbrandsveien 7, 3750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01709,
+          66.1991777
+        ]
+      },
+      "properties": {
+        "navn": "NESNA KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Movegen 24, 8700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73224,
+          63.115474
+        ]
+      },
+      "properties": {
+        "navn": "KRISTIANSUND KOMMUNE HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Fosnagata 13, 6509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.315143,
+          59.48979
+        ]
+      },
+      "properties": {
+        "navn": "HOLMESTRAND KOMMUNE HELSE, SOSIAL OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgaten 11, 3080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9494484,
+          59.6127985
+        ]
+      },
+      "properties": {
+        "navn": "HJARTDAL KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Saulandsvegen 414, 3692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4183776,
+          60.6278384
+        ]
+      },
+      "properties": {
+        "navn": "VOSS HERAD KOMMUNALAVDELING HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Uttrågata 9, 5700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3143718,
+          59.4899596
+        ]
+      },
+      "properties": {
+        "navn": "BERGEN KOMMUNE BYRÅDSAVDELING FOR ELDRE, HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusgaten 10, 5020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0357997,
+          69.7663922
+        ]
+      },
+      "properties": {
+        "navn": "NORDREISA KOMMUNE OPPVEKST OG KULTUR",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Sonjatunvn 21, 9151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.534728,
+          69.604046
+        ]
+      },
+      "properties": {
+        "navn": "KÅFJORD KOMMUNE OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Øvervegen 2, 9146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006455,
+          62.834434
+        ]
+      },
+      "properties": {
+        "navn": "RENNEBU KOMMUNE HELSEADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Vassliveien 83, 7391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.038082,
+          63.218036
+        ]
+      },
+      "properties": {
+        "navn": "SELBU KOMMUNE SEKTOR HELSE OG SOSIAL",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Nestansringen 16, 7580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1670966,
+          65.3140322
+        ]
+      },
+      "properties": {
+        "navn": "SØMNA KOMMUNE HELSE- OG SOSIALADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kystveien 84A, 8920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.415705,
+          58.870001
+        ]
+      },
+      "properties": {
+        "navn": "KRAGERØ KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Ytre Strandvei 15, 3770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.719683,
+          70.634384
+        ]
+      },
+      "properties": {
+        "navn": "BÅTSFJORD KOMMUNE SAMORDNET HJELPETJENESTE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hindberggata 8, 9990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.140006,
+          66.311191
+        ]
+      },
+      "properties": {
+        "navn": "RANA KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rådhusplassen 2, 8622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.565828,
+          60.861258
+        ]
+      },
+      "properties": {
+        "navn": "HELSE- OG OMSORGSETATEN HEMSEDAL KOMMUNE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Hemsedalsvegen 2889, 3560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9394052,
+          61.5565247
+        ]
+      },
+      "properties": {
+        "navn": "SØR-FRON KOMMUNE HELSE OG OMSORG",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Kommunevegen 1, 2647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.992862,
+          62.77263
+        ]
+      },
+      "properties": {
+        "navn": "JULSUNDET SKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skolebakken 7, 6409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8823217,
+          62.8066891
+        ]
+      },
+      "properties": {
+        "navn": "GOSSEN BARNE- OG UNGDOMSSKOLE",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Skolevegen 24, 6480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9460835,
+          62.3082911
+        ]
+      },
+      "properties": {
+        "navn": "STRANDA KOMMUNE OPPVEKSTADMINISTRASJON",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Storgata 4, 6200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.854947,
+          58.764852
+        ]
+      },
+      "properties": {
+        "navn": "GJESDAL KOMMUNE OPPVEKST",
+        "type": "Offentlig administrasjon tilknyttet helsestell, undervisning, kultur og annen sosial virksomhet",
+        "adresse": "Rettedalen 1, 4330"
+      }
+    }
+  ]
+}

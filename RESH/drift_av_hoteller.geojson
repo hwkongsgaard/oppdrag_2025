@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743315,
+          59.917368
+        ]
+      },
+      "properties": {
+        "navn": "FRELSESARMEEN",
+        "type": "Drift av hoteller",
+        "adresse": "Kommandør T I Øgrims Plass 4, 165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.706301,
+          60.6815325
+        ]
+      },
+      "properties": {
+        "navn": "UNICARE STEFFENSRUD AS",
+        "type": "Drift av hoteller",
+        "adresse": "Vestre Totenveg 1530, 2846"
+      }
+    }
+  ]
+}

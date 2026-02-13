@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704092,
+          59.936546
+        ]
+      },
+      "properties": {
+        "navn": "DIAKONHJEMMET SYKEHUS AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Diakonveien 12, 370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8364137,
+          59.7191961
+        ]
+      },
+      "properties": {
+        "navn": "CMEDICAL AS AVD SKI",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Jernbaneveien 6A, 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.361557,
+          60.379188
+        ]
+      },
+      "properties": {
+        "navn": "HARALDSPLASS DIAKONALE SYKEHUS AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Ulriksdal 8, 5009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.312838,
+          63.963964
+        ]
+      },
+      "properties": {
+        "navn": "KASTVOLLEN REHABILITERINGSSENTER AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Kastvollvegen 11, 7670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1263211,
+          58.1712817
+        ]
+      },
+      "properties": {
+        "navn": "SØRLANDET PRIVATSYKEHUS AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Barstølveien 34, 4636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2275105,
+          60.1133611
+        ]
+      },
+      "properties": {
+        "navn": "VIKER HELSE AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Kapteinveien 9, 3512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74691,
+          59.933352
+        ]
+      },
+      "properties": {
+        "navn": "LOVISENBERG DIAKONALE SYKEHUS AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Lovisenberggata 17, 456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.196594,
+          59.742417
+        ]
+      },
+      "properties": {
+        "navn": "SYKEHUSPARTNER HF",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Grønland 34, 3045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.475979,
+          61.112255
+        ]
+      },
+      "properties": {
+        "navn": "REVMATISMESYKEHUSET AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Margrethe Grundtvigs veg 6, 2609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9022163,
+          63.4721994
+        ]
+      },
+      "properties": {
+        "navn": "HELSE MIDT-NORGE RHF",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Wessels veg 75, 7502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.360338,
+          60.377761
+        ]
+      },
+      "properties": {
+        "navn": "VOLVAT MEDISINSKE SENTER AS BERGEN - ULRIKSDAL",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Ulriksdal 2, 5009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9984969,
+          59.9726483
+        ]
+      },
+      "properties": {
+        "navn": "VIKER HELSE AS",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Haaviks vei 25, 3370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.994434,
+          59.932868
+        ]
+      },
+      "properties": {
+        "navn": "AHUS NORDBYHAGEN SOMATIKK",
+        "type": "Somatiske sykehustjenester",
+        "adresse": "Sykehusveien 25, 1474"
+      }
+    }
+  ]
+}

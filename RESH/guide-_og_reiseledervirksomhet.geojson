@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0587964,
+          60.4584374
+        ]
+      },
+      "properties": {
+        "navn": "ARNALDO LERNER",
+        "type": "Guide- og reiseledervirksomhet",
+        "adresse": "Solørvegen 1071, 2260"
+      }
+    }
+  ]
+}

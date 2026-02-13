@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8642546,
+          58.7492718
+        ]
+      },
+      "properties": {
+        "navn": "MYRA HÅRSTUDIO AS",
+        "type": "Frisering og barbering",
+        "adresse": "Hovlandsveien 1, 4985"
+      }
+    }
+  ]
+}

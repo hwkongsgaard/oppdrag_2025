@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.638435,
+          59.915412
+        ]
+      },
+      "properties": {
+        "navn": "STENDI AS",
+        "type": "Helse- og omsorgstjenester i bofelleskap, samlokaliserte omsorgsboliger og lignende",
+        "adresse": "Lilleakerveien 2A, 283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083644,
+          60.4025693
+        ]
+      },
+      "properties": {
+        "navn": "RECOVERY BO OG OMSORG AS",
+        "type": "Helse- og omsorgstjenester i bofelleskap, samlokaliserte omsorgsboliger og lignende",
+        "adresse": "Dalsætervegen 3, 2090"
+      }
+    }
+  ]
+}
