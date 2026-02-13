@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0413677,
+          59.9534221
+        ]
+      },
+      "properties": {
+        "name": "Jan Glasø",
+        "profession": "Allmennlegespesialist, hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "AllmennmedisinHjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon - Lege (1990)Autorisasjon (1980)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15348-jan-glaso",
+        "address": "Dampsagveien 2 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4723823,
+          60.1837509
+        ]
+      },
+      "properties": {
+        "name": "Endre Hodneland",
+        "profession": "Allmennlegespesialist, hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "AllmennmedisinHjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15442-endre-hodneland",
+        "address": "Hamnevegen 48 5200 Os"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1615793,
+          59.5873423
+        ]
+      },
+      "properties": {
+        "name": "Dalles Anthony Dalima",
+        "profession": "Allmennlegespesialist, hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "AllmennmedisinHjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27351-dalles-anthony-dalima",
+        "address": "Sykehusgata 2 1807 Askim"
+      }
+    }
+  ]
+}

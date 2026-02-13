@@ -1,0 +1,4709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9543161,
+          59.9260062
+        ]
+      },
+      "properties": {
+        "name": "Aleksander Zuba",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16503-aleksander-zuba",
+        "address": "Skårersletta 18 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3965446,
+          58.2618525
+        ]
+      },
+      "properties": {
+        "name": "Amund  Andenæs",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16509-amund-andenaes",
+        "address": "Senterveien 30 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833915,
+          58.9530884
+        ]
+      },
+      "properties": {
+        "name": "Ann-Mari Huse",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16518-ann-mari-huse",
+        "address": "Madlamarkveien 2 A 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3172996,
+          59.4692909
+        ]
+      },
+      "properties": {
+        "name": "Anne Rolighed",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16520-anne-rolighed",
+        "address": "Bentsrudveien 8 B 3083 Holmestrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461293,
+          59.6011971
+        ]
+      },
+      "properties": {
+        "name": "Anne Opsahl",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16521-anne-opsahl",
+        "address": "Mølleveien 4, Vestbytorget 1540 Vestby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4640686,
+          61.1177107
+        ]
+      },
+      "properties": {
+        "name": "Anne Cecilie Harvei",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16522-anne-cecilie-harvei",
+        "address": "Storgt. 86 2615 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7396293,
+          59.9148054
+        ]
+      },
+      "properties": {
+        "name": "Anki Christine Østrem",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16523-anki-christine-ostrem",
+        "address": "Rosenkrantz gate 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8371642,
+          59.718037
+        ]
+      },
+      "properties": {
+        "name": "Anne Irene Jensen",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16525-anne-irene-jensen",
+        "address": "Åsenveien 1 1401 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7123861,
+          59.9293997
+        ]
+      },
+      "properties": {
+        "name": "Anne Marit Gleditsch",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "73 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16529-anne-marit-gleditsch",
+        "address": "Fridtjof Nansens vei 2 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Anne Mediaas Faanes",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16530-anne-mediaas-faanes",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.918072,
+          59.99711
+        ]
+      },
+      "properties": {
+        "name": "Anne-Maija Brenna",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "72 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16532-anne-maija-brenna",
+        "address": "Hellinga 8 1481 Hagan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7396293,
+          59.9148054
+        ]
+      },
+      "properties": {
+        "name": "Annikken Olsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16536-annikken-olsen",
+        "address": "Rosenkrantzgate 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7388201,
+          58.9490135
+        ]
+      },
+      "properties": {
+        "name": "Asgeir Medhus",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16558-asgeir-medhus",
+        "address": "Torgveien 15 C 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Astrid Birkenæs",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16561-astrid-birkenaes",
+        "address": "Munchs gate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7396293,
+          59.9148054
+        ]
+      },
+      "properties": {
+        "name": "Bente Øvensen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16580-bente-ovensen",
+        "address": "Rosenkrantzgate 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2641452,
+          59.4150226
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Bøe",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16596-bjorn-boe",
+        "address": "Møllervegen 22 5525 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0710933,
+          58.1379361
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Brekne Nielsen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16600-bjorn-brekne-nielsen",
+        "address": "Stasjonsgt. 5 4576 Lyngdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.27106,
+          59.4105959
+        ]
+      },
+      "properties": {
+        "name": "Bjørn E Brekke",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (1982)Autorisasjon - Sykepleier (1975)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16602-bjorn-e-brekke",
+        "address": "Strandgata 94 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.522917,
+          60.9053065
+        ]
+      },
+      "properties": {
+        "name": "Bjørn-Magnus Simonsen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16610-bjorn-magnus-simonsen",
+        "address": "Trondheimsvegen 278 2411 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Bo Skagen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16612-bo-skagen",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2125407,
+          59.135053
+        ]
+      },
+      "properties": {
+        "name": "Brit Hunstad",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16615-brit-hunstad",
+        "address": "Skiringssalveien 20 3208 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1742212,
+          60.1415783
+        ]
+      },
+      "properties": {
+        "name": "Britt Louise Børven",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16617-britt-louise-borven",
+        "address": "Storgata 11B 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3764116,
+          67.2840709
+        ]
+      },
+      "properties": {
+        "name": "Christopher Aune",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16636-christopher-aune",
+        "address": "Tollbugata 10 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3616449,
+          59.2643116
+        ]
+      },
+      "properties": {
+        "name": "Claes Wettby",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16637-claes-wettby",
+        "address": "Steinbruddveien 8 3173 Vear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3463571,
+          60.3369294
+        ]
+      },
+      "properties": {
+        "name": "Dag Oulie",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16640-dag-oulie",
+        "address": "Paradisleitet 1 5828 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7236262,
+          59.9238351
+        ]
+      },
+      "properties": {
+        "name": "Einar Jakob Gudjonsson",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16656-einar-jakob-gudjonsson",
+        "address": "Prof. Dahlsgt 8 0355 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707079,
+          59.931107
+        ]
+      },
+      "properties": {
+        "name": "Eivind Thuve",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16664-eivind-thuve",
+        "address": "Fridtjof Nansens vei 17 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9549087,
+          69.6483725
+        ]
+      },
+      "properties": {
+        "name": "Elin Foshaug",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16670-elin-foshaug",
+        "address": "Storgata 61 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6561918,
+          59.1497039
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Grønvold",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "74 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (1986)Autorisasjon - Tannlege (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16675-elisabeth-gronvold",
+        "address": "Skiensgt.18 3939 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4882962,
+          59.8543715
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth  Herskedal",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16678-elisabeth-herskedal",
+        "address": "Vogellund 6 1394 Nesbru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707079,
+          59.931107
+        ]
+      },
+      "properties": {
+        "name": "Evelina Ciapaite",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16706-evelina-ciapaite",
+        "address": "Fridtjof Nansensv. 17 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Gintare Bubenaite",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16748-gintare-bubenaite",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Gunnar  Cramer",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16765-gunnar-cramer",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4088496,
+          59.2658714
+        ]
+      },
+      "properties": {
+        "name": "Hallvard Cederkvist",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja. Har avtale vedHallvard Cederkvist",
+        "url": "https://www.legelisten.no/spesialister/16776-hallvard-cederkvist",
+        "address": "Conradisgate 5 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7139566,
+          59.9153619
+        ]
+      },
+      "properties": {
+        "name": "Hanne Bygholm",
+        "profession": "Psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16779-hanne-bygholm",
+        "address": "Bygdøy Allé 4 0257 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7677461,
+          59.9032729
+        ]
+      },
+      "properties": {
+        "name": "Hege Wilberg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16812-hege-wilberg",
+        "address": "Ekebergveien 1 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0349675,
+          59.9565623
+        ]
+      },
+      "properties": {
+        "name": "Helene Cecilie Hedemark",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16817-helene-cecilie-hedemark",
+        "address": "Depotgt. 20 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2034956,
+          59.7444644
+        ]
+      },
+      "properties": {
+        "name": "Hrefna Runarsdottir",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16841-hrefna-runarsdottir",
+        "address": "Øvre Torggate 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3538331,
+          60.3189236
+        ]
+      },
+      "properties": {
+        "name": "Inger Marie Waage",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16848-inger-marie-waage",
+        "address": "Østre Nesttunvei 4-6 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6583833,
+          59.4340914
+        ]
+      },
+      "properties": {
+        "name": "Inger Marie Bua",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16849-inger-marie-bua",
+        "address": "Henrik Gernersgt.11 1502 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2328297,
+          58.7206104
+        ]
+      },
+      "properties": {
+        "name": "Iulia Ekeberg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16859-iulia-ekeberg",
+        "address": "Storgata 12A 4950 Risør"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3867577,
+          59.1202269
+        ]
+      },
+      "properties": {
+        "name": "Ivar-Jørgen Moss",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16862-ivar-jorgen-moss",
+        "address": "Storgt. 4C 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242504,
+          60.3924554
+        ]
+      },
+      "properties": {
+        "name": "Jan Wimpelmann",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16867-jan-wimpelmann",
+        "address": "Starvhusgaten 2 A 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7646401,
+          59.9475825
+        ]
+      },
+      "properties": {
+        "name": "Jan Ole Røvik",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16876-jan-ole-rovik",
+        "address": "Nydalsveien 15 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683493,
+          59.9369294
+        ]
+      },
+      "properties": {
+        "name": "Johan Bratholm",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16895-johan-bratholm",
+        "address": "Hoffsveien 92 0377 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "John William Glad",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16902-john-william-glad",
+        "address": "Frederik Stangsgt.11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9110845,
+          68.5666901
+        ]
+      },
+      "properties": {
+        "name": "John William Danenbarger",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16903-john-william-danenbarger",
+        "address": "Richard Withs gate 9 8450 Stokmarknes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4645812,
+          61.1180247
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Brabrand",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16913-jorgen-brabrand",
+        "address": "Storgt. 89 2615 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7645045,
+          59.9564836
+        ]
+      },
+      "properties": {
+        "name": "Karsten Hytten",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16937-karsten-hytten",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7251699,
+          58.9634428
+        ]
+      },
+      "properties": {
+        "name": "Kirsten Høbye",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16942-kirsten-hobye",
+        "address": "Schiøtz gate 5 - 7, Ryfylke DPS, Jonsokberget 4008 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3152081,
+          60.3968763
+        ]
+      },
+      "properties": {
+        "name": "Kirsten Elizabeth Magerøy",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16945-kirsten-elizabeth-mageroy",
+        "address": "C. Sundts gate 37 5004 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Kjell Petter Bøgwald",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16966-kjell-petter-bogwald",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5746019,
+          59.8977752
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Pedersen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16967-kjersti-pedersen",
+        "address": "Sandviksveien 26 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7645045,
+          59.9564836
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Solberg Lyngstad",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16968-kjersti-solberg-lyngstad",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7193738,
+          59.9493603
+        ]
+      },
+      "properties": {
+        "name": "Lars Mehlum",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17001-lars-mehlum",
+        "address": "Sognsvannvn. 21, Bygg 12 0372 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095731,
+          59.9309416
+        ]
+      },
+      "properties": {
+        "name": "Lars Tanum",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Klinisk farmakologiPsykiatri",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17002-lars-tanum",
+        "address": "Sørkedalsveien 10D 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7370589,
+          58.8534882
+        ]
+      },
+      "properties": {
+        "name": "Lars Gunnar Dahle",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17007-lars-gunnar-dahle",
+        "address": "Langgata 51 4301 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0072633,
+          59.9457645
+        ]
+      },
+      "properties": {
+        "name": "Leif Roar Falkum",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17019-leif-roar-falkum",
+        "address": "Gml.Strømsv.8c 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0008152,
+          60.1874301
+        ]
+      },
+      "properties": {
+        "name": "Manuel  Mendoza",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17041-manuel-mendoza",
+        "address": "Glommengata 55 2211 Kongsvinger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8131795,
+          59.9108343
+        ]
+      },
+      "properties": {
+        "name": "Maria Julia Lagomarsino",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17048-maria-julia-lagomarsino",
+        "address": "Østensjøveien 36 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508712,
+          59.926841
+        ]
+      },
+      "properties": {
+        "name": "Marianne Rud Hatle",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17050-marianne-rud-hatle",
+        "address": "Silurveien 2 0380 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7394672,
+          59.9148255
+        ]
+      },
+      "properties": {
+        "name": "Marit Haave",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17054-marit-haave",
+        "address": "Rosenkrantz gate 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7396293,
+          59.9148054
+        ]
+      },
+      "properties": {
+        "name": "Marit Sæbø",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17055-marit-saebo",
+        "address": "Rosenkrantz' gate 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042377,
+          59.7445484
+        ]
+      },
+      "properties": {
+        "name": "Marit Helene Rud",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17058-marit-helene-rud",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246191,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Merete Sæbø Torvanger",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17071-merete-saebo-torvanger",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Mette Marita Johansen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17073-mette-marita-johansen",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4088496,
+          59.2658714
+        ]
+      },
+      "properties": {
+        "name": "Morten Hekneby",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja. Har avtale vedPsykolog-PsykiaterGruppen",
+        "url": "https://www.legelisten.no/spesialister/17086-morten-hekneby",
+        "address": "Conradisgate 5 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.497384,
+          59.8586851
+        ]
+      },
+      "properties": {
+        "name": "Morten Christian Vanberg",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17088-morten-christian-vanberg",
+        "address": "Landøyveien 27 1394 Nesbru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7032673,
+          59.9136352
+        ]
+      },
+      "properties": {
+        "name": "Nanuli Bulatova",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17091-nanuli-bulatova",
+        "address": " 0271 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5711592,
+          60.3585378
+        ]
+      },
+      "properties": {
+        "name": "Odd G. Heitun",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1974)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17111-odd-g-heitun",
+        "address": "Storgt. 35-37 2750 Gran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2816024,
+          63.7361832
+        ]
+      },
+      "properties": {
+        "name": "Ottar Bjerkeset",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17153-ottar-bjerkeset",
+        "address": "Moafjæra 8C 7606 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2079784,
+          59.7430804
+        ]
+      },
+      "properties": {
+        "name": "Øystein Christoffersen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17155-oystein-christoffersen",
+        "address": "Nedre Storgt. 13 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545168,
+          60.8804691
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Tjeldnes",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17159-oyvind-tjeldnes",
+        "address": "Gammelbruvegen 15 2406 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4136232,
+          63.4344299
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Schjelderup",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17169-oyvind-schjelderup",
+        "address": "Beddingen 2 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Per Håkon Eikeseth",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17197-per-hakon-eikeseth",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3683947,
+          60.3503727
+        ]
+      },
+      "properties": {
+        "name": "Per M Isaksen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17201-per-m-isaksen",
+        "address": "Kolstien 2 A 5097 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7383304,
+          59.9185726
+        ]
+      },
+      "properties": {
+        "name": "Peter Kjær Gravgaard",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17206-peter-kjaer-gravgaard",
+        "address": "Nordahl Bruns gate 22 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7155323,
+          59.9472956
+        ]
+      },
+      "properties": {
+        "name": "Reidar Tyssen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17226-reidar-tyssen",
+        "address": "Sognsvannveien 9 0365 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7126015,
+          59.9162435
+        ]
+      },
+      "properties": {
+        "name": "Roger Raaen Pettersen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17238-roger-raaen-pettersen",
+        "address": "Bygdøy Allé 21 0262 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8905198,
+          69.7030661
+        ]
+      },
+      "properties": {
+        "name": "Rolf Wynn",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17239-rolf-wynn",
+        "address": "Tusenfrydvegen 30 9102 Kvaløysletta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0490634,
+          59.9572644
+        ]
+      },
+      "properties": {
+        "name": "Shahram Shaygani",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17252-shahram-shaygani",
+        "address": "Storgata 25B 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0721766,
+          60.7948697
+        ]
+      },
+      "properties": {
+        "name": "Sten Owe Rune Hanssen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (1996)Autorisasjon - Sykepleier (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17297-sten-owe-rune-hanssen",
+        "address": "Torggata 55 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7116058,
+          58.8354419
+        ]
+      },
+      "properties": {
+        "name": "Svein Skårland",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17304-svein-skarland",
+        "address": "Diamentveien 12 4321 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4183177,
+          59.2679685
+        ]
+      },
+      "properties": {
+        "name": "Svein Dittmann",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17305-svein-dittmann",
+        "address": "St. Olavs gate 22 3112 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7315871,
+          59.9278909
+        ]
+      },
+      "properties": {
+        "name": "Sverre Varvin",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17317-sverre-varvin",
+        "address": "Theresesgt. 31 C 0354 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Svetlana Mitic",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (1997)Autorisasjon - Sykepleier (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17318-svetlana-mitic",
+        "address": "Gjerdrumsvei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6492344,
+          59.6711815
+        ]
+      },
+      "properties": {
+        "name": "Tarja Ollila",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17323-tarja-ollila",
+        "address": "Skolegata 15 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Terje Fladvad",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17326-terje-fladvad",
+        "address": "Rosenborgata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232327,
+          59.7437867
+        ]
+      },
+      "properties": {
+        "name": "Tor Lie",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (2002)Autorisasjon - Sykepleier (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17368-tor-lie",
+        "address": "Solbakken 1, Helhetssenter 3011 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.409046,
+          59.2675423
+        ]
+      },
+      "properties": {
+        "name": "Torgeir Lindvig",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17376-torgeir-lindvig",
+        "address": "Øvre Langgt. 40 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7190803,
+          59.9275256
+        ]
+      },
+      "properties": {
+        "name": "Tormod Huseby",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "PsykiatriPsykoterapiveileder psykiatri",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17383-tormod-huseby",
+        "address": "Bogstadveien 50 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4475726,
+          59.792189
+        ]
+      },
+      "properties": {
+        "name": "Valborg Helene Helseth",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17403-valborg-helene-helseth",
+        "address": "Heggedalsveien 350 1389 Heggedal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35426,
+          60.3179915
+        ]
+      },
+      "properties": {
+        "name": "Vesna Puzic",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17406-vesna-puzic",
+        "address": "Østre Nesttunvegen 10 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042377,
+          59.7445484
+        ]
+      },
+      "properties": {
+        "name": "Wenche Løbben",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17418-wenche-lobben",
+        "address": "Bragernes torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0707306,
+          60.7951738
+        ]
+      },
+      "properties": {
+        "name": "Almina Vilimiene",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17737-almina-vilimiene",
+        "address": "Torggata 71 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767746,
+          59.903273
+        ]
+      },
+      "properties": {
+        "name": "Dace Sortland",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17739-dace-sortland",
+        "address": "Ekebergveien 1A 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767746,
+          59.903273
+        ]
+      },
+      "properties": {
+        "name": "Heidi Husby",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17743-heidi-husby",
+        "address": "Ekebergveien 1A 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3880759,
+          67.2853178
+        ]
+      },
+      "properties": {
+        "name": "Birgit Johanne Rydså",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17746-birgit-johanne-rydsa",
+        "address": "Storgate 23A 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.497967,
+          59.8765656
+        ]
+      },
+      "properties": {
+        "name": "Thor Kvakkestad",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17752-thor-kvakkestad",
+        "address": "Billingstadsletta 13B 1396 Billingstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9562273,
+          69.650463
+        ]
+      },
+      "properties": {
+        "name": "Greta Siv Gabrielsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon med vilkår (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17870-greta-siv-gabrielsen",
+        "address": "Cora Sandels gate 2, Tromsø 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7388777,
+          59.9211695
+        ]
+      },
+      "properties": {
+        "name": "Raimundas  Alekna",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18072-raimundas-alekna",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7680697,
+          59.9505424
+        ]
+      },
+      "properties": {
+        "name": "Eirik Auning",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21478-eirik-auning",
+        "address": "Sandakerveien 128 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4342063,
+          59.8354246
+        ]
+      },
+      "properties": {
+        "name": "Jan Olaf Olafsen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21722-jan-olaf-olafsen",
+        "address": "Strøket 7 1372 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.996692,
+          59.2115992
+        ]
+      },
+      "properties": {
+        "name": "Mazin Sabri",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21799-mazin-sabri",
+        "address": "Helneveien 1C 1639 Gamle Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7148496,
+          59.9291615
+        ]
+      },
+      "properties": {
+        "name": "Espen Anker",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22589-espen-anker",
+        "address": "Kirkeveien 64B 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928174,
+          63.4317336
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Assar Mortensen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23073-jorgen-assar-mortensen",
+        "address": "Dronningensgate 15, 2. etg. 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Pål Wiktor",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23459-pal-wiktor",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8393436,
+          59.9138265
+        ]
+      },
+      "properties": {
+        "name": "Christopher Hatto",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23685-christopher-hatto",
+        "address": "Tvetenveien 150 0671 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767746,
+          59.903273
+        ]
+      },
+      "properties": {
+        "name": "Kay Behrens",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23686-kay-behrens",
+        "address": "Ekebergveien 1A 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109663,
+          59.9263878
+        ]
+      },
+      "properties": {
+        "name": "Torunn Landrø",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23698-torunn-landro",
+        "address": "Ulvenveien 80B 0581 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Kristin Mack-Borander",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23699-kristin-mack-borander",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8551098,
+          59.9506723
+        ]
+      },
+      "properties": {
+        "name": "Bilal Masaud",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23700-bilal-masaud",
+        "address": "Kakkelovnskroken 1 0954 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8131795,
+          59.9108343
+        ]
+      },
+      "properties": {
+        "name": "Alexandra  Passeniouk",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23701-alexandra-passeniouk",
+        "address": "Østensjøveien 36 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Valjbona Preljevic",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23702-valjbona-preljevic",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7843703,
+          59.8819064
+        ]
+      },
+      "properties": {
+        "name": "Line Reykdal",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23704-line-reykdal",
+        "address": "Kongsveien 94 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Mimi Sramek",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23705-mimi-sramek",
+        "address": "Gjerdrumsvei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7948778,
+          59.8343814
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Arshad",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23835-mohammad-arshad",
+        "address": "Holmlia senter 12 1255 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7780605,
+          59.9325614
+        ]
+      },
+      "properties": {
+        "name": "Kristine Akseth",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24220-kristine-akseth",
+        "address": "Trondheimsveien 184 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3813852,
+          63.4295925
+        ]
+      },
+      "properties": {
+        "name": "Daniel Molyneux",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24441-daniel-molyneux",
+        "address": "Erling Skakkes gate 66 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0779198,
+          60.7921692
+        ]
+      },
+      "properties": {
+        "name": "Marzenna Falkowska-Sleszynska",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24984-marzenna-falkowska-sleszynska",
+        "address": "Grandsenteret, 2 etg. 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8151253,
+          58.0972062
+        ]
+      },
+      "properties": {
+        "name": "Agne Steine",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25119-agne-steine",
+        "address": "Rådhusveien 2 4630 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Anders Korsmo",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25152-anders-korsmo",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8570568,
+          59.9530698
+        ]
+      },
+      "properties": {
+        "name": "Goran Maravic",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25153-goran-maravic",
+        "address": "Sandåsveien 8 0581 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5714642,
+          60.3587425
+        ]
+      },
+      "properties": {
+        "name": "Alexandra N. Naletova",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25288-alexandra-n-naletova",
+        "address": "Storgata 35 2750 Gran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9893804,
+          59.9413831
+        ]
+      },
+      "properties": {
+        "name": "Camilla Grimseth  Søgaard",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25504-camilla-grimseth-sogaard",
+        "address": "Fjellhamarveien 46 1472 Fjellhamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7477845,
+          58.4547205
+        ]
+      },
+      "properties": {
+        "name": "Tatiana Olsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25529-tatiana-olsen",
+        "address": "Vesterveien 44 4839 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7953439,
+          58.4682185
+        ]
+      },
+      "properties": {
+        "name": "Lindy Elida Riisnes",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25530-lindy-elida-riisnes",
+        "address": "Kystveien 154 4842 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9898079,
+          58.1457107
+        ]
+      },
+      "properties": {
+        "name": "Øystein Røsstad Severinsen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25531-oystein-rosstad-severinsen",
+        "address": "Vestre Strandgate 32 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8131795,
+          59.9108343
+        ]
+      },
+      "properties": {
+        "name": "Küllike Kask",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27137-kullike-kask",
+        "address": "Østensjøveien 36 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3960301,
+          63.4336421
+        ]
+      },
+      "properties": {
+        "name": "Solveig Klæbo Reitan",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27520-solveig-klaebo-reitan",
+        "address": "Olav Tryggvasons Gate 28 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0278188,
+          59.0538722
+        ]
+      },
+      "properties": {
+        "name": "Linda E Huneide",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29095-linda-e-huneide",
+        "address": "Sigurdsgate 4 3256 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9734953,
+          58.2672398
+        ]
+      },
+      "properties": {
+        "name": "Servet Öner",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29099-servet-oner",
+        "address": "Sentrumsvegen 41 4700 Vennesla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8354704,
+          59.9427801
+        ]
+      },
+      "properties": {
+        "name": "Assaf Bar-Nathan",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29103-assaf-bar-nathan",
+        "address": "Erich Mogensøns vei 38 0594 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Kari Bekken",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29104-kari-bekken",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8551098,
+          59.9506723
+        ]
+      },
+      "properties": {
+        "name": "Victoria Berg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29105-victoria-berg",
+        "address": "Kakkelovnskroken 1 0954 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8674396,
+          59.952412
+        ]
+      },
+      "properties": {
+        "name": "Draginja Brdar",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29106-draginja-brdar",
+        "address": "Trondheimsveien 391 0956 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767746,
+          59.903273
+        ]
+      },
+      "properties": {
+        "name": "Tonje Gjerdrum Emorsten",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29107-tonje-gjerdrum-emorsten",
+        "address": "Ekebergveien 1A 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7780605,
+          59.9325614
+        ]
+      },
+      "properties": {
+        "name": "Petter Andreas Flesjø",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29108-petter-andreas-flesjo",
+        "address": "Trondheimsveien 184 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8056674,
+          59.9302796
+        ]
+      },
+      "properties": {
+        "name": "Michael Friedel",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29109-michael-friedel",
+        "address": "Økern Torgvei 1 0580 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8060801,
+          59.8916883
+        ]
+      },
+      "properties": {
+        "name": "Maira Hamann",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29110-maira-hamann",
+        "address": "Ryensvingen 11 0680 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8923332,
+          59.9636544
+        ]
+      },
+      "properties": {
+        "name": "Hussein Saleh Hammady",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29111-hussein-saleh-hammady",
+        "address": "Romsås Senter 1 0970 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9250495,
+          59.9608841
+        ]
+      },
+      "properties": {
+        "name": "Hamdullah Khan",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29113-hamdullah-khan",
+        "address": "Stovner Senter 3 0985 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8551098,
+          59.9506723
+        ]
+      },
+      "properties": {
+        "name": "Umaria Khawaja",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29114-umaria-khawaja",
+        "address": "Kakkelovnskroken 1 0954 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8907064,
+          59.9634825
+        ]
+      },
+      "properties": {
+        "name": "Irfan Mahmood",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29116-irfan-mahmood",
+        "address": "Kalbakken senter, Trondheimsveien 391 0953 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8674396,
+          59.952412
+        ]
+      },
+      "properties": {
+        "name": "Thamayanthi Nahuleswarathas",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29118-thamayanthi-nahuleswarathas",
+        "address": "Trondheimsveien 391 0985 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8907064,
+          59.9634825
+        ]
+      },
+      "properties": {
+        "name": "Usman  Niaz",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29120-usman-niaz",
+        "address": "Kalbakken senter, Trondheimsveien 391 0953 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.767746,
+          59.903273
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Langmark Svaar",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29121-kjetil-langmark-svaar",
+        "address": "Ekebergveien 1A 0192 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4088496,
+          59.2658714
+        ]
+      },
+      "properties": {
+        "name": "Andre Blaauw",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29122-andre-blaauw",
+        "address": "Conradis gate 5 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4088496,
+          59.2658714
+        ]
+      },
+      "properties": {
+        "name": "Vaida Medisauskaite",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja. Har avtale vedVaida Medisauskaite",
+        "url": "https://www.legelisten.no/spesialister/29124-vaida-medisauskaite",
+        "address": "Conradisgate 5 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0687489,
+          59.03999
+        ]
+      },
+      "properties": {
+        "name": "Johanna Molin",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29125-johanna-molin",
+        "address": "Gloppeskogen 24 3260 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5913007,
+          59.2017562
+        ]
+      },
+      "properties": {
+        "name": "Erik Waale Næss",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29126-erik-waale-naess",
+        "address": "Eilert Sundts gate 83 3725 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6386319,
+          59.1403967
+        ]
+      },
+      "properties": {
+        "name": "Espen Zondag",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29128-espen-zondag",
+        "address": "Porselensveien 14 3920 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6451208,
+          59.8394495
+        ]
+      },
+      "properties": {
+        "name": "Svetlana Celovic",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon - Lege (2005)Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29129-svetlana-celovic",
+        "address": "Håkonkastet 5, 2. etg. 1453 Bjørnemyr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4884542,
+          59.8542883
+        ]
+      },
+      "properties": {
+        "name": "Inger Elise Danneborg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29130-inger-elise-danneborg",
+        "address": "Vogellund 6 1394 Nesbru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8206721,
+          59.2261228
+        ]
+      },
+      "properties": {
+        "name": "Erik Koch-Bakken",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29134-erik-koch-bakken",
+        "address": "Lillengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8369189,
+          59.7190613
+        ]
+      },
+      "properties": {
+        "name": "Solveig Marianne Lindgren",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29135-solveig-marianne-lindgren",
+        "address": "Torgveien 2 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1733429,
+          60.1386339
+        ]
+      },
+      "properties": {
+        "name": "Ivar Slåstad",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29137-ivar-slastad",
+        "address": "Trondheimsvegen 60 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0363498,
+          59.0251084
+        ]
+      },
+      "properties": {
+        "name": "Ingeborg Snilsberg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29138-ingeborg-snilsberg",
+        "address": "Torvet 5-7 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042563,
+          59.7444228
+        ]
+      },
+      "properties": {
+        "name": "Agnieszka Tomiak",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29139-agnieszka-tomiak",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4183626,
+          67.2759398
+        ]
+      },
+      "properties": {
+        "name": "Tony  Bakkejord",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29150-tony-bakkejord",
+        "address": "Gidsken Jakobsensvei 22 8008 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3765857,
+          67.2840824
+        ]
+      },
+      "properties": {
+        "name": "Merete Isachsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29151-merete-isachsen",
+        "address": "Tollbugata 10 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1568677,
+          62.7356789
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Bjerkelund",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29171-fredrik-bjerkelund",
+        "address": "Storgata 12/14 6412 Molde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6834082,
+          58.9530635
+        ]
+      },
+      "properties": {
+        "name": "Signe Karen Dørheim",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29193-signe-karen-dorheim",
+        "address": "Madlamarkveien 2A 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.272355,
+          59.4102726
+        ]
+      },
+      "properties": {
+        "name": "Randi Engløkk",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29194-randi-englokk",
+        "address": "Haraldsgata 90 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6745583,
+          58.9524637
+        ]
+      },
+      "properties": {
+        "name": "Nanna​​​ Figved",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29195-nanna-figved",
+        "address": "Madlastokken 5, inngang B 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6745583,
+          58.9524637
+        ]
+      },
+      "properties": {
+        "name": "Ida​​​ Gummedal",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29196-ida-gummedal",
+        "address": "Madlastokken 5 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7387625,
+          58.9489995
+        ]
+      },
+      "properties": {
+        "name": "Lilian Mortensen  Stokkeland",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29197-lilian-mortensen-stokkeland",
+        "address": "Torgveien 15 C 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3378029,
+          60.3902002
+        ]
+      },
+      "properties": {
+        "name": "Øystein Elgen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29215-oystein-elgen",
+        "address": "Kalfarveien 10​ 5018 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242762,
+          60.392503
+        ]
+      },
+      "properties": {
+        "name": "Ingolf Freitag",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29217-ingolf-freitag",
+        "address": "Starvhusgaten 2 A 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242762,
+          60.392503
+        ]
+      },
+      "properties": {
+        "name": "Sigrid Sørbø Johnsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29219-sigrid-sorbo-johnsen",
+        "address": "Starvhusgaten 2 A 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35426,
+          60.3179915
+        ]
+      },
+      "properties": {
+        "name": "Semir Puzic",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29220-semir-puzic",
+        "address": "Østre Nesttunvegen 10 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Ellen Sofie  Wessel",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29266-ellen-sofie-wessel",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Ragni Helene Mørch",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "43 årTilbyr videokonsultasjon",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29297-ragni-helene-morch",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3544879,
+          63.3515917
+        ]
+      },
+      "properties": {
+        "name": "Aleksandar  Brankovic",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29298-aleksandar-brankovic",
+        "address": "Ringvålvegen 3 7080 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Chiman Hardy",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29379-chiman-hardy",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Sissel Lygren",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "Medisinsk mikrobiologiPsykiatri",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30217-sissel-lygren",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Gunhild Melleby",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30421-gunhild-melleby",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461293,
+          59.6011971
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Horn",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30652-kjetil-horn",
+        "address": "Mølleveien 4, 1540 Vestby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734942,
+          59.9188224
+        ]
+      },
+      "properties": {
+        "name": "Simona Eskeland",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30733-simona-eskeland",
+        "address": "Tullins gate 2 0166 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4639964,
+          61.1177773
+        ]
+      },
+      "properties": {
+        "name": "Torhild Torjussen Hovdal",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30749-torhild-torjussen-hovdal",
+        "address": "Storgata 86 2615 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7299442,
+          58.9661961
+        ]
+      },
+      "properties": {
+        "name": "Anja Hansgaard",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30832-anja-hansgaard",
+        "address": "St. Olavs gate 13 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Bente Børresen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31157-bente-borresen",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9250495,
+          59.9608841
+        ]
+      },
+      "properties": {
+        "name": "Areej Haddal",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31186-areej-haddal",
+        "address": "Stovner senter 3 0985 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0687489,
+          59.03999
+        ]
+      },
+      "properties": {
+        "name": "Marit Osland",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31190-marit-osland",
+        "address": "Gloppeskogen 24 3260 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4287775,
+          59.8338425
+        ]
+      },
+      "properties": {
+        "name": "Aina Bergseth",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31201-aina-bergseth",
+        "address": "Kirkeveien 230, 4. etg 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461293,
+          59.6011971
+        ]
+      },
+      "properties": {
+        "name": "Ragnhild Horn",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31244-ragnhild-horn",
+        "address": "Mølleveien 4 1540 Vestby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3891855,
+          59.1184882
+        ]
+      },
+      "properties": {
+        "name": "Hanne Karoline Knutsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31245-hanne-karoline-knutsen",
+        "address": "Johan Stangs plass 2 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6659171,
+          59.4381371
+        ]
+      },
+      "properties": {
+        "name": "Inger Elisabeth Reier",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31246-inger-elisabeth-reier",
+        "address": "Henrich Gerners gate 11 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5002013,
+          59.7802069
+        ]
+      },
+      "properties": {
+        "name": "Anne Cathrin Handeland",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31296-anne-cathrin-handeland",
+        "address": "Torgbakken 2 5401 Stord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2724125,
+          59.4119909
+        ]
+      },
+      "properties": {
+        "name": "Arvid Rongve",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31297-arvid-rongve",
+        "address": "Skåregata 112 5501 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Hina Shafiq",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31354-hina-shafiq",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Hafsah Khan",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31355-hafsah-khan",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7251696,
+          58.9634427
+        ]
+      },
+      "properties": {
+        "name": "Magdalena Elwira Kaczmarkiewicz-Fass",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32106-magdalena-elwira-kaczmarkiewicz-fass",
+        "address": "Schiøtz gate 5 4008 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3614812,
+          63.3559314
+        ]
+      },
+      "properties": {
+        "name": "Geir-Inge Marøy Østensen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32111-geir-inge-maroy-ostensen",
+        "address": "Sivert Thonstads Vei 7 7072 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Marius Kristmoen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32221-marius-kristmoen",
+        "address": "Elias Smiths vei 10 1387 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6946954,
+          59.9517794
+        ]
+      },
+      "properties": {
+        "name": "Eva Bonsaksen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32225-eva-bonsaksen",
+        "address": "Tennisveien 2G 0777 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8129971,
+          59.8595786
+        ]
+      },
+      "properties": {
+        "name": "Aurora Gloppe",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32226-aurora-gloppe",
+        "address": "Munkerudtunet 10 1164 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7845223,
+          59.881884
+        ]
+      },
+      "properties": {
+        "name": "Nina Kronkvist",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (2007)Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32227-nina-kronkvist",
+        "address": "Kongsveien 94 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7948778,
+          59.8343814
+        ]
+      },
+      "properties": {
+        "name": "Sofia Ibrar Naqvi",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32228-sofia-ibrar-naqvi",
+        "address": "Holmlia senter vei 12 1255 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9397495,
+          59.209315
+        ]
+      },
+      "properties": {
+        "name": "Joseph Kamere",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32238-joseph-kamere",
+        "address": "Kirkebrygga 2-4 1606 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2724125,
+          59.4119909
+        ]
+      },
+      "properties": {
+        "name": "Marit Katrine Myklebust",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32273-marit-katrine-myklebust",
+        "address": "Skåregata 112 5501 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3430123,
+          60.3875615
+        ]
+      },
+      "properties": {
+        "name": "Camilla Jebsen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32571-camilla-jebsen",
+        "address": "Kalfarveien 37 5022 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109663,
+          59.9263878
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Suleman Akram",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33246-mohammad-suleman-akram",
+        "address": "Ulvenveien 80B 0581 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3813236,
+          63.4296318
+        ]
+      },
+      "properties": {
+        "name": "Farzaneh S. Sardahaee",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34721-farzaneh-s-sardahaee",
+        "address": "Erling Skakkes gate 66 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Atle Skattebøl",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34797-atle-skattebol",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4333388,
+          59.8351267
+        ]
+      },
+      "properties": {
+        "name": "Gordana  Sladovic-Misund",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon - Lege (2006)Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85983-gordana-sladovic-misund",
+        "address": "Smuget 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109663,
+          59.9263878
+        ]
+      },
+      "properties": {
+        "name": "Simona Daniela Mazur Hansen",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86113-simona-daniela-mazur-hansen",
+        "address": "Ulvenveien 80 0581 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800927,
+          59.8613676
+        ]
+      },
+      "properties": {
+        "name": "Trond Bjarne Vister",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86114-trond-bjarne-vister",
+        "address": "Ekebergveien 228 C 1161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4857146,
+          59.4160396
+        ]
+      },
+      "properties": {
+        "name": "Livia-Mihaela Taran",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86116-livia-mihaela-taran",
+        "address": "Langgate 2 3187 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.315227,
+          60.3968753
+        ]
+      },
+      "properties": {
+        "name": "Iselin Anne Gravelsæter Dyrseth",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86117-iselin-anne-gravelsaeter-dyrseth",
+        "address": "C Sundtsgate 37 5004 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7658526,
+          59.9491031
+        ]
+      },
+      "properties": {
+        "name": "Mirjana Klepsvik",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon - Lege (2006)Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86234-mirjana-klepsvik",
+        "address": "Nydalsveien 33 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8057193,
+          59.9302617
+        ]
+      },
+      "properties": {
+        "name": "Rehan-Bin Nawaz",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86248-rehan-bin-nawaz",
+        "address": "Økern Torgvei 1 0580 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0387734,
+          60.7991078
+        ]
+      },
+      "properties": {
+        "name": "Antoniya Ivanova Anastasova",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86313-antoniya-ivanova-anastasova",
+        "address": "Nordvikvegen 291 2316 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8372645,
+          59.7180639
+        ]
+      },
+      "properties": {
+        "name": "Hamad Khan",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "PsykiatriRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86318-hamad-khan",
+        "address": "Åsenveien 1 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7484358,
+          58.9416156
+        ]
+      },
+      "properties": {
+        "name": "Natalia Marie Nawrat",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86489-natalia-marie-nawrat",
+        "address": "Sjøhagen 3 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474236,
+          58.8867141
+        ]
+      },
+      "properties": {
+        "name": "Theodora Apostolaki",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86494-theodora-apostolaki",
+        "address": "Rådhusvegen 30 4050 Sola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Kristine Sverdrup",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86514-kristine-sverdrup",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928924,
+          63.4312578
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Castberg",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Klinisk farmakologiPsykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87063-ingrid-castberg",
+        "address": "Prinsens gate 39 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928924,
+          63.4312578
+        ]
+      },
+      "properties": {
+        "name": "Pål Sandvik",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Klinisk farmakologiPsykiatri",
+        "godkjenning": "Autorisasjon - Lege (1988)Autorisasjon - Sykepleier (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87065-pal-sandvik",
+        "address": "Prinsens gate 39 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7667538,
+          58.4606446
+        ]
+      },
+      "properties": {
+        "name": "Philip Nissen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87070-philip-nissen",
+        "address": "Tollbodgaten 2 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9845582,
+          59.2449344
+        ]
+      },
+      "properties": {
+        "name": "Knut Arne Martinsen",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87128-knut-arne-martinsen",
+        "address": "Dikeveien 8 1661 Rolvsøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9845582,
+          59.2449344
+        ]
+      },
+      "properties": {
+        "name": "Guttorm Storvestre",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87129-guttorm-storvestre",
+        "address": "Dikeveien 8 1661 Rolvsøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9365578,
+          59.2135233
+        ]
+      },
+      "properties": {
+        "name": "Astrid Haram",
+        "profession": "Psykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87130-astrid-haram",
+        "address": "Stortorvet 5 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3209553,
+          60.3943492
+        ]
+      },
+      "properties": {
+        "name": "Terje William Dahl",
+        "profession": "Psykiater",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Psykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87304-terje-william-dahl",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    }
+  ]
+}

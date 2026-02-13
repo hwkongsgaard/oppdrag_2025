@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Christian Fredrik Kroepelien",
+        "profession": "Anestesilege og gastroenterologisk kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "AnestesiologiGastroenterologisk kirurgi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23460-christian-fredrik-kroepelien",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    }
+  ]
+}

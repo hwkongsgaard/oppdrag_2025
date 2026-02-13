@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4024487,
+          63.4307433
+        ]
+      },
+      "properties": {
+        "name": "Alf Magne Heggli",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15334-alf-magne-heggli",
+        "address": "Kjøpmannsgt. 31 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9589089,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Ronald Opdahl",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15341-ronald-opdahl",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Lars Morland",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15357-lars-morland",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Knut Vegard",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15364-knut-vegard",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3759466,
+          58.2488157
+        ]
+      },
+      "properties": {
+        "name": "Heidi C Berg Rolke",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15368-heidi-c-berg-rolke",
+        "address": "Storgata 2 E 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865743,
+          59.8804723
+        ]
+      },
+      "properties": {
+        "name": "Anne Frostad",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15382-anne-frostad",
+        "address": "Kongsveien 104 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Sjur Humerfelt",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15386-sjur-humerfelt",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676936,
+          59.41878
+        ]
+      },
+      "properties": {
+        "name": "Stein-Øyvind Jørstad",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15404-stein-oyvind-jorstad",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9384794,
+          59.205568
+        ]
+      },
+      "properties": {
+        "name": "Sabine Sandweg-Zähler",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15408-sabine-sandweg-zahler",
+        "address": "Kråkerøyveien 2A 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9343076,
+          59.2146028
+        ]
+      },
+      "properties": {
+        "name": "Wlodzimierz Sypula",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15410-wlodzimierz-sypula",
+        "address": "Farmannsgate 16 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Clemens Gross-Maurer",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15412-clemens-gross-maurer",
+        "address": "Storgata 125 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Jon Andrew Hardie",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15441-jon-andrew-hardie",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Karin Stang Volden",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15450-karin-stang-volden",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Syed Nadeem  Hussain",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17750-syed-nadeem-hussain",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5205397,
+          59.8899514
+        ]
+      },
+      "properties": {
+        "name": "Saeed Boroujeni Vahedi",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24815-saeed-boroujeni-vahedi",
+        "address": "Brodtkorbsgate 7 1338 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Ying Wang",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25225-ying-wang",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1566556,
+          62.4737864
+        ]
+      },
+      "properties": {
+        "name": "Erik Dyb Liaaen",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25519-erik-dyb-liaaen",
+        "address": "Kongens gate 13 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7999975,
+          59.9144606
+        ]
+      },
+      "properties": {
+        "name": "Magnus Qvarfort",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25571-magnus-qvarfort",
+        "address": "Grenseveien 107 0663 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9898079,
+          58.1457107
+        ]
+      },
+      "properties": {
+        "name": "Dan Lærum",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27197-dan-laerum",
+        "address": "Vestre Strandgate 32 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835374,
+          59.7186905
+        ]
+      },
+      "properties": {
+        "name": "Øyvor Mathisen Grotli",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27307-oyvor-mathisen-grotli",
+        "address": "Jernbaneveien 5 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2065697,
+          59.7433806
+        ]
+      },
+      "properties": {
+        "name": "Duc Hoa Nguyen",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27308-duc-hoa-nguyen",
+        "address": "Nedre Storgate 7 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9589089,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "​​​Per Christian  Moe",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29147-per-christian-moe",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0348955,
+          59.9565316
+        ]
+      },
+      "properties": {
+        "name": "Eivind  Borna",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29265-eivind-borna",
+        "address": "Depotgata 20 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Mensur  Dumisic",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2010)Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29282-mensur-dumisic",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Svein G. Sivertsen",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29364-svein-g-sivertsen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Elena Markova",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29369-elena-markova",
+        "address": "Åsane senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Torgeir Tidemandsen",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29529-torgeir-tidemandsen",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Per Gustaf Sven Jönsson",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29558-per-gustaf-sven-jonsson",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Sigurd Aarrestad",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": null,
+        "age": null,
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29559-sigurd-aarrestad",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Hildegunn S. Nordeng",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29560-hildegunn-s-nordeng",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4285153,
+          68.4376408
+        ]
+      },
+      "properties": {
+        "name": "Trond Børvik",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31309-trond-borvik",
+        "address": "Dronningens gate 45 8514 Narvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9343076,
+          59.2146028
+        ]
+      },
+      "properties": {
+        "name": "Anna Maria Sypula Nordlie",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31546-anna-maria-sypula-nordlie",
+        "address": "Farmannsgate 16 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Marit Thorsen",
+        "profession": "Indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "IndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33240-marit-thorsen",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3203443,
+          60.3945446
+        ]
+      },
+      "properties": {
+        "name": "Anne Kjørsvik Bertelsen",
+        "profession": "Nevrolog",
+        "gender": null,
+        "age": null,
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16526-anne-kjorsvik-bertelsen",
+        "address": "Valkendorfsgate 9 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Aud Nome Dueland",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "72 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16569-aud-nome-dueland",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.939674,
+          59.2093517
+        ]
+      },
+      "properties": {
+        "name": "Bente Bjørnstad",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16577-bente-bjornstad",
+        "address": "Kirkebrygga 4 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4573946,
+          63.4363277
+        ]
+      },
+      "properties": {
+        "name": "Dusan Duraj",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16648-dusan-duraj",
+        "address": "Falkenborgvegen 9 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Elena  Pedersen",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16668-elena-pedersen",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6879999,
+          59.9214798
+        ]
+      },
+      "properties": {
+        "name": "Geir Slapø",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16741-geir-slapo",
+        "address": "Drammensveien 130 0277 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7364036,
+          58.9347017
+        ]
+      },
+      "properties": {
+        "name": "Gry Klevan",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16760-gry-klevan",
+        "address": "Breidablikkveien 20A 4017 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Hanne Marie Bøe Lunde",
+        "profession": "Nevrolog",
+        "gender": null,
+        "age": null,
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16781-hanne-marie-boe-lunde",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "John Anker Zwart",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16900-john-anker-zwart",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Jolanta V. Vingen",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Klinisk nevrofysiologiNevrologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16904-jolanta-v-vingen",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7303491,
+          58.8503276
+        ]
+      },
+      "properties": {
+        "name": "Julie Sønnervik",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16924-julie-sonnervik",
+        "address": "Jærveien 20 4319 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7129094,
+          58.4598091
+        ]
+      },
+      "properties": {
+        "name": "Karen Herlofson",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16929-karen-herlofson",
+        "address": "Stoaveien 5 B 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Kirsti M. Alvik",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16948-kirsti-m-alvik",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Kjell Heuser",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16952-kjell-heuser",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Kristine Bodding Gjendemsjø",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16991-kristine-bodding-gjendemsjo",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Marina Manske",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17051-marina-manske",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7175559,
+          59.9294323
+        ]
+      },
+      "properties": {
+        "name": "Neshat Golparian",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Klinisk nevrofysiologiNevrologi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17092-neshat-golparian",
+        "address": "Kirkeveien 61 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3227874,
+          60.3062643
+        ]
+      },
+      "properties": {
+        "name": "Ole-Bjørn Tysnes",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17146-ole-bjorn-tysnes",
+        "address": "Søråshøgda 9 5235 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Rune Wiggo Hviding",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17248-rune-wiggo-hviding",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7799994,
+          62.2759594
+        ]
+      },
+      "properties": {
+        "name": "Sascha Mitrovic",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17250-sascha-mitrovic",
+        "address": "Parkveien 10 2500 Tynset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Siri Skulstad",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17268-siri-skulstad",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6766112,
+          59.9276666
+        ]
+      },
+      "properties": {
+        "name": "Monica Drottning-Rønne",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17517-monica-drottning-ronne",
+        "address": "Engebretsvei 3 0275 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6879999,
+          59.9214798
+        ]
+      },
+      "properties": {
+        "name": "Dalius Bansevicius",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17524-dalius-bansevicius",
+        "address": "Drammensveien 130 0277 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Bjørn  Norderhus",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/18067-bjorn-norderhus",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7487992,
+          59.9125174
+        ]
+      },
+      "properties": {
+        "name": "Stein Bror  Strandquist",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18082-stein-bror-strandquist",
+        "address": "Dronningens gate 40 0154 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Jone Furlund Owe",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/21676-jone-furlund-owe",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Michael Hollinger",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21930-michael-hollinger",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6749901,
+          59.9240802
+        ]
+      },
+      "properties": {
+        "name": "Marjan M Mikkelsen",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/22382-marjan-m-mikkelsen",
+        "address": "Harbitzalléen 2A 0275 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7493635,
+          59.9128165
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Langård",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23392-gunnar-langard",
+        "address": "Skippergata 33 0154 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20122,
+          59.738751
+        ]
+      },
+      "properties": {
+        "name": "Ola Johansen",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23423-ola-johansen",
+        "address": "Torgeir Vraas Plass 4 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7524883,
+          59.9125418
+        ]
+      },
+      "properties": {
+        "name": "Leif-Andre Oksum",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Klinisk nevrofysiologiNevrologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23541-leif-andre-oksum",
+        "address": "Stenersgata 1 0050 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Narpinder Singh",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24816-narpinder-singh",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9924355,
+          58.1437632
+        ]
+      },
+      "properties": {
+        "name": "Atle Eidet Hansen",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25228-atle-eidet-hansen",
+        "address": "Vestre Strandgate 23 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20122,
+          59.738751
+        ]
+      },
+      "properties": {
+        "name": "Morten Johanson",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25513-morten-johanson",
+        "address": "Torgeir Vraas Plass 4 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Egil Røsjø",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27178-egil-rosjo",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Kristin Gran Olsen",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27183-kristin-gran-olsen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Abdullah Mohammud",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja. Har avtale vedSmerteklinikken",
+        "url": "https://www.legelisten.no/spesialister/27225-abdullah-mohammud",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6113941,
+          59.1860744
+        ]
+      },
+      "properties": {
+        "name": "Håkon Tobro",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27284-hakon-tobro",
+        "address": "Infanteriveien 16 3734 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Fakhira Khalid",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29269-fakhira-khalid",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Geir Olve  Skeie",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29324-geir-olve-skeie",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Tiina Rekand",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29365-tiina-rekand",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0877475,
+          60.7963545
+        ]
+      },
+      "properties": {
+        "name": "Ola  Nordby",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29376-ola-nordby",
+        "address": "Vangsveien 121 2318 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Azhar Abbas",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29378-azhar-abbas",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Roxana Kian",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29432-roxana-kian",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Mirza Jusufovic",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29434-mirza-jusufovic",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Gjefsen",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29449-elisabeth-gjefsen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Beenish Nawaz",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29474-beenish-nawaz",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Brage Brakedal",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29477-brage-brakedal",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Christopher Elnan Kvistad",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29478-christopher-elnan-kvistad",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Tor S. Haugstad",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29500-tor-s-haugstad",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Gøril Rolfseng Grøntvedt",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29507-goril-rolfseng-grontvedt",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Agnes Balint Bjørke",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29704-agnes-balint-bjorke",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Henning Kristian Olberg",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Klinisk nevrofysiologiNevrologi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29706-henning-kristian-olberg",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Simran Sandhu",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29707-simran-sandhu",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8555108,
+          61.4503248
+        ]
+      },
+      "properties": {
+        "name": "Kristoffer Noszka",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30293-kristoffer-noszka",
+        "address": "Hafstadvegen 39 6800 Førde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7972924,
+          59.9126627
+        ]
+      },
+      "properties": {
+        "name": "Helene Engstrand Lier",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30417-helene-engstrand-lier",
+        "address": "Fyrstikkallèen 3b 0661 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6305498,
+          59.6592713
+        ]
+      },
+      "properties": {
+        "name": "Homayoun Roshanisefat",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30756-homayoun-roshanisefat",
+        "address": "Storgata 38 1440 Drøbak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Veslemøy Krohn Kjærvik",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31437-veslemoy-krohn-kjaervik",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Maria Bovim-Rabey",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32022-maria-bovim-rabey",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Zhilwan Gadan",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32023-zhilwan-gadan",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7265089,
+          59.9124127
+        ]
+      },
+      "properties": {
+        "name": "Gabriela Fortes",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32164-gabriela-fortes",
+        "address": "Ruseløkkveien 26 0251 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Brit Blaauw",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32171-brit-blaauw",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4125537,
+          63.4348859
+        ]
+      },
+      "properties": {
+        "name": "Maryam Shirzadi",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33259-maryam-shirzadi",
+        "address": "Beddingen 8 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Marion Wangui Jim",
+        "profession": "Nevrolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Nevrologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33263-marion-wangui-jim",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0968695,
+          59.2901394
+        ]
+      },
+      "properties": {
+        "name": "Kamaldeep Chudasama",
+        "profession": "Nevrolog",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "NevrologiSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34668-kamaldeep-chudasama",
+        "address": "Vestrevei 4 1710 Sarpsborg"
+      }
+    }
+  ]
+}

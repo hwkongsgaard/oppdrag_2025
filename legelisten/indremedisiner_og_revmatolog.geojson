@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2731587,
+          59.4086662
+        ]
+      },
+      "properties": {
+        "name": "Bertha Storesund",
+        "profession": "Indremedisiner og revmatolog",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "IndremedisinRevmatologi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15464-bertha-storesund",
+        "address": "Strandgata 54 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4153946,
+          59.2829367
+        ]
+      },
+      "properties": {
+        "name": "Ole Gard Knudsrød",
+        "profession": "Indremedisiner og revmatolog",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "IndremedisinRevmatologi",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja. Har avtale vedOle Gard Knudsrød",
+        "url": "https://www.legelisten.no/spesialister/17138-ole-gard-knudsrod",
+        "address": "Trudvangveien 67 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Birgir Gudbrandsson",
+        "profession": "Indremedisiner og revmatolog",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "IndremedisinRevmatologi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22501-birgir-gudbrandsson",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Inge-Margrethe Gilboe",
+        "profession": "Indremedisiner og revmatolog",
+        "gender": "Kvinne",
+        "age": "76 år",
+        "specialization": "IndremedisinRevmatologi",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29455-inge-margrethe-gilboe",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Joanna Majak Gundersen",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23487-joanna-majak-gundersen",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "David Rabib",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26952-david-rabib",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Turid Aas",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Kvinne",
+        "age": "74 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29366-turid-aas",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Laurens Reitsma",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29460-laurens-reitsma",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7075796,
+          59.9178719
+        ]
+      },
+      "properties": {
+        "name": "Mariam  Løfwander",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30903-mariam-lofwander",
+        "address": "Bygdøy Allé 51A 0256 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Joel Touma",
+        "profession": "Bryst- og endokrinkirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Bryst- og endokrinkirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30946-joel-touma",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6373378,
+          59.9124013
+        ]
+      },
+      "properties": {
+        "name": "Sølve H. Danielsen",
+        "profession": "Gastroenterologisk kirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Gastroenterologisk kirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30839-solve-h-danielsen",
+        "address": "Lysaker Torg 5 1366 Lysaker"
+      }
+    }
+  ]
+}

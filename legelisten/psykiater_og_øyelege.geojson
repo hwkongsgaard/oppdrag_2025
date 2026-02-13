@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.962165,
+          58.1293203
+        ]
+      },
+      "properties": {
+        "name": "Elena Sleire",
+        "profession": "Psykiater og øyelege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "PsykiatriØyesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2013)Autorisasjon - Sykepleier (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16667-elena-sleire",
+        "address": "Vågsbygd Ringvei 100B 4621 Kristiansand S"
+      }
+    }
+  ]
+}

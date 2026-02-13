@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7524883,
+          59.9125418
+        ]
+      },
+      "properties": {
+        "name": "Linda Johansen",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": null,
+        "godkjenning": "Lisens (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17966-linda-johansen",
+        "address": "Stenersgata 1 0050 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Sindre Ekren",
+        "profession": "Lege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Samfunnsmedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29646-sindre-ekren",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0452705,
+          59.9538331
+        ]
+      },
+      "properties": {
+        "name": "Nathan Wayne",
+        "profession": "Lege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Nukleærmedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30786-nathan-wayne",
+        "address": "Jonas Lies gate 2 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3192742,
+          60.3948201
+        ]
+      },
+      "properties": {
+        "name": "Petter Thornam",
+        "profession": "Lege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Samfunnsmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32277-petter-thornam",
+        "address": "Strandgaten 6 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7229537,
+          58.880819
+        ]
+      },
+      "properties": {
+        "name": "Stein Indseth Modahl",
+        "profession": "Lege",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Arbeidsmedisin",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32280-stein-indseth-modahl",
+        "address": "Luramyrveien 40, Tvillinggården bygg 1 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.852512,
+          62.3413517
+        ]
+      },
+      "properties": {
+        "name": "Håvard Norvik Hanch-Hansen",
+        "profession": "Lege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Arbeidsmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32406-havard-norvik-hanch-hansen",
+        "address": "Bjørndalvegen 14a 6065 Ulsteinvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3209553,
+          60.3943492
+        ]
+      },
+      "properties": {
+        "name": "Rebecca Louise Hilland",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Arbeidsmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32412-rebecca-louise-hilland",
+        "address": "Strandgaten 18 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Hjelle",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Arbeidsmedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32413-kjersti-hjelle",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6027134,
+          59.911199
+        ]
+      },
+      "properties": {
+        "name": "Solveig Thorp Holmsen",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Samfunnsmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85869-solveig-thorp-holmsen",
+        "address": "Ringsveien 3 1368 Stabekk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Camilla-Charlotte Langrusten Langhus",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Arbeidsmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85951-camilla-charlotte-langrusten-langhus",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734942,
+          59.9188224
+        ]
+      },
+      "properties": {
+        "name": "Hina  Sarwar Anjum",
+        "profession": "Lege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Rus- og avhengighetsmedisinSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86002-hina-sarwar-anjum",
+        "address": "Tullins gate 2 0166 Oslo"
+      }
+    }
+  ]
+}

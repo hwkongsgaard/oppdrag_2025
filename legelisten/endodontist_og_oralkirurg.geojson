@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7183085,
+          59.9284569
+        ]
+      },
+      "properties": {
+        "name": "Rafael Marques Da Silva",
+        "profession": "Endodontist og oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "EndodontiOral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10400-rafael-marques-da-silva",
+        "address": "Valkyriegata 5 0366 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2017522,
+          59.745589
+        ]
+      },
+      "properties": {
+        "name": "Edly Grape",
+        "profession": "Psykiater og radiolog",
+        "gender": null,
+        "age": null,
+        "specialization": "PsykiatriRadiologi",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16650-edly-grape",
+        "address": "Haugesgt. 24 3019 Drammen"
+      }
+    }
+  ]
+}

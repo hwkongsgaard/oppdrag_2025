@@ -1,0 +1,4100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2349911,
+          60.3631158
+        ]
+      },
+      "properties": {
+        "name": "Eric Roman",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10040-eric-roman",
+        "address": "Lyderhornsveien 353 5171 Loddefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0407676,
+          59.9536718
+        ]
+      },
+      "properties": {
+        "name": "Anders Christian Hvoslef",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10051-anders-christian-hvoslef",
+        "address": "Dampsagveien 4 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321436,
+          60.3928098
+        ]
+      },
+      "properties": {
+        "name": "Eirik Torjuul Halvorsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10056-eirik-torjuul-halvorsen",
+        "address": "Markeveien 4C 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5402989,
+          68.799633
+        ]
+      },
+      "properties": {
+        "name": "Helge Einar Pettersen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1971)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10199-helge-einar-pettersen",
+        "address": "Asbjørn Selsbanes Gate 2 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8005261,
+          59.8606246
+        ]
+      },
+      "properties": {
+        "name": "Vesna Obradovic",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10202-vesna-obradovic",
+        "address": "Ekebergveien 237 1166 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1197493,
+          62.202096
+        ]
+      },
+      "properties": {
+        "name": "Marit Ramsli Gjethammer",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10277-marit-ramsli-gjethammer",
+        "address": "Strandgata 5 A 6150 Ørsta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1027427,
+          60.5680861
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Harald Barstad",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1974)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10318-gunnar-harald-barstad",
+        "address": "Beiag 7 3540 Nesbyen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6900973,
+          60.7949529
+        ]
+      },
+      "properties": {
+        "name": "Parandosh Afnan",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10361-parandosh-afnan",
+        "address": "Storgata 10 2815 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589288,
+          60.3806884
+        ]
+      },
+      "properties": {
+        "name": "Eli Lisbeth Brinck",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10368-eli-lisbeth-brinck",
+        "address": "Årstadveien 19 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5231304,
+          59.8914522
+        ]
+      },
+      "properties": {
+        "name": "Tonje Myklebust Sommerfelt",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10383-tonje-myklebust-sommerfelt",
+        "address": "Løkketangen 20A 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7339705,
+          58.8518211
+        ]
+      },
+      "properties": {
+        "name": "Jorunn Karine Skaaland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10424-jorunn-karine-skaaland",
+        "address": "Langgata 18 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Jan Perry Finnøy",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10558-jan-perry-finnoy",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7668088,
+          58.4576985
+        ]
+      },
+      "properties": {
+        "name": "Lars Axel Bergman",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10618-lars-axel-bergman",
+        "address": "Teaterplassen 3, 3. etg. 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Marko Scepanovic",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10657-marko-scepanovic",
+        "address": "Åsane Senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.122857,
+          60.3575539
+        ]
+      },
+      "properties": {
+        "name": "Kari Nordås",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10853-kari-nordas",
+        "address": "Bildøyvegen 11C 5353 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7307249,
+          58.9692641
+        ]
+      },
+      "properties": {
+        "name": "Ole Christian Amundsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10897-ole-christian-amundsen",
+        "address": "Haakon Vii Gate 17 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3314026,
+          60.3913888
+        ]
+      },
+      "properties": {
+        "name": "Paul Kåre Sæle",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10943-paul-kare-saele",
+        "address": "Marken 21 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3527647,
+          62.4655697
+        ]
+      },
+      "properties": {
+        "name": "Nils Jørgen Selliseth",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10966-nils-jorgen-selliseth",
+        "address": "Langelandsveien 35 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4323261,
+          68.4422304
+        ]
+      },
+      "properties": {
+        "name": "Iris Hergot Berglund",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11003-iris-hergot-berglund",
+        "address": "Frydenlundgate 52 8517 Narvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3066409,
+          59.3774156
+        ]
+      },
+      "properties": {
+        "name": "Jóhann Vilhjálmsson",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11023-johann-vilhjalmsson",
+        "address": "Austbøvegen 16 5542 Karmsund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4333835,
+          59.8351712
+        ]
+      },
+      "properties": {
+        "name": "Cathrine Earl Haugland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11077-cathrine-earl-haugland",
+        "address": "Smuget 1B 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0063065,
+          59.9450792
+        ]
+      },
+      "properties": {
+        "name": "Marianne Jentoft Stuge",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11079-marianne-jentoft-stuge",
+        "address": "Strømsveien 48 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8005261,
+          59.8606246
+        ]
+      },
+      "properties": {
+        "name": "Anne Christine Bache",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11113-anne-christine-bache",
+        "address": "Ekebergveien 237 1166 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2026056,
+          59.7440492
+        ]
+      },
+      "properties": {
+        "name": "Maren Adam",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11235-maren-adam",
+        "address": "Øvre Storgate 4-6 3018 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8346978,
+          59.7189747
+        ]
+      },
+      "properties": {
+        "name": "Stine Merete Nerland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11330-stine-merete-nerland",
+        "address": "Idrettsv 7 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9515972,
+          69.6473602
+        ]
+      },
+      "properties": {
+        "name": "Kristin Grethe Leth Sandvik",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11356-kristin-grethe-leth-sandvik",
+        "address": "Grønnegata 32 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0501316,
+          59.9535655
+        ]
+      },
+      "properties": {
+        "name": "Payam Ruhi",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11367-payam-ruhi",
+        "address": "Stillverksveien 1 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3177294,
+          59.4885007
+        ]
+      },
+      "properties": {
+        "name": "David James Orieux Clarke",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11368-david-james-orieux-clarke",
+        "address": "Havnegaten 7 3080 Holmestrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.348501,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "Gry Prytz Berset",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11445-gry-prytz-berset",
+        "address": "Langelandsvegen 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0759376,
+          60.7941652
+        ]
+      },
+      "properties": {
+        "name": "Inge Slette",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11478-inge-slette",
+        "address": "Østregate 23 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9991872,
+          60.1904392
+        ]
+      },
+      "properties": {
+        "name": "Ronny Carl-Johan Fors",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11486-ronny-carl-johan-fors",
+        "address": "Storgata 26 2212 Kongsvinger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881103,
+          60.0453465
+        ]
+      },
+      "properties": {
+        "name": "Ida Grunnan Fostad",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11495-ida-grunnan-fostad",
+        "address": "Mattias Skytters vei 173 1482 Nittedal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3901169,
+          63.4320181
+        ]
+      },
+      "properties": {
+        "name": "Siri Vaslag",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11501-siri-vaslag",
+        "address": "Dronningens Gate 50 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6938617,
+          59.9503859
+        ]
+      },
+      "properties": {
+        "name": "Gisela Mafalda Sa Pereira de Vasconcelos",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11572-gisela-mafalda-sa-pereira-de-vasconcelos",
+        "address": "Stasjonsveien 4 0776 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.732004,
+          58.9717493
+        ]
+      },
+      "properties": {
+        "name": "Mark Noel Lowey",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11597-mark-noel-lowey",
+        "address": "Kirkegata 28 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7756224,
+          62.2753856
+        ]
+      },
+      "properties": {
+        "name": "Anne Gro Helgesen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon - Tannlege (2003)Autorisasjon - Bioingeniør (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11631-anne-gro-helgesen",
+        "address": "Brugata 2 B 2500 Tynset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8296063,
+          59.8483132
+        ]
+      },
+      "properties": {
+        "name": "Hassan Zarbakhsh Movahhed",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11692-hassan-zarbakhsh-movahhed",
+        "address": "Lofsrudveien 6 1281 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6493264,
+          59.6706907
+        ]
+      },
+      "properties": {
+        "name": "Silje Enersen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11720-silje-enersen",
+        "address": "Skolegata 8 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8296063,
+          59.8483132
+        ]
+      },
+      "properties": {
+        "name": "Siv Myrlund",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11744-siv-myrlund",
+        "address": "Lofsrudveien 6 1281 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8291937,
+          59.8484188
+        ]
+      },
+      "properties": {
+        "name": "Johnny Lars Gunnar Comstedt",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11763-johnny-lars-gunnar-comstedt",
+        "address": "Lofsrudveien 6 1281 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8291937,
+          59.8484188
+        ]
+      },
+      "properties": {
+        "name": "Anne-Marie Elsa Comstedt",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "75 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11765-anne-marie-elsa-comstedt",
+        "address": "Lofsrudveien 6 1281 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6585128,
+          59.4335309
+        ]
+      },
+      "properties": {
+        "name": "Anders Tvete",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11862-anders-tvete",
+        "address": "Kransen 18 1531 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0273876,
+          59.0534795
+        ]
+      },
+      "properties": {
+        "name": "Jon Myrebøe",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11894-jon-myreboe",
+        "address": "Torget 3 3256 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8116627,
+          59.942422
+        ]
+      },
+      "properties": {
+        "name": "Lise Nyøygard",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11897-lise-nyoygard",
+        "address": "Refstadveien 64 0589 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9079208,
+          59.7720991
+        ]
+      },
+      "properties": {
+        "name": "Stefan Shaughnessy",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11967-stefan-shaughnessy",
+        "address": "Vestre Brugate 5 3300 Hokksund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2079784,
+          59.7430804
+        ]
+      },
+      "properties": {
+        "name": "Jon Petter Evensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11985-jon-petter-evensen",
+        "address": "Nedre Storgate 13 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9557118,
+          69.6497739
+        ]
+      },
+      "properties": {
+        "name": "Anette Oddveig Andreassen Haseid",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12028-anette-oddveig-andreassen-haseid",
+        "address": "Storgata 70 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Ahmad Reza Gharessi",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12128-ahmad-reza-gharessi",
+        "address": "Sørkedalsveien 10 C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4071183,
+          59.267636
+        ]
+      },
+      "properties": {
+        "name": "Vincenzo Macri",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12158-vincenzo-macri",
+        "address": "Storgata 38 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6477171,
+          58.8834064
+        ]
+      },
+      "properties": {
+        "name": "Inken Ivi Kramper",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12162-inken-ivi-kramper",
+        "address": "Vingvegen 2 4050 Sola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8216052,
+          59.9034898
+        ]
+      },
+      "properties": {
+        "name": "Tanya Jeanette Franzen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12171-tanya-jeanette-franzen",
+        "address": "Østensjøveien 79 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9372431,
+          59.2139331
+        ]
+      },
+      "properties": {
+        "name": "Marie Susanna Grönstad",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12175-marie-susanna-gronstad",
+        "address": "Farmanns gate 2 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6031631,
+          59.2099864
+        ]
+      },
+      "properties": {
+        "name": "Maria Lucete Martinho Fernandes Færøvig",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12231-maria-lucete-martinho-fernandes-faerovig",
+        "address": "Cappelens gate 15 3722 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325659,
+          59.3955752
+        ]
+      },
+      "properties": {
+        "name": "Bård Armand Berstad",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12240-bard-armand-berstad",
+        "address": "Longhammarvegen 7 5536 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6482442,
+          58.7355302
+        ]
+      },
+      "properties": {
+        "name": "Mari Dubland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12248-mari-dubland",
+        "address": "Torget 1 4340 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7733339,
+          59.9479885
+        ]
+      },
+      "properties": {
+        "name": "Karim Amin Mobarak",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12297-karim-amin-mobarak",
+        "address": "Nydalen allé 71 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7981354,
+          59.8108518
+        ]
+      },
+      "properties": {
+        "name": "Sara Birgitta Kumar",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12378-sara-birgitta-kumar",
+        "address": "Kolbotnveien 33 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325659,
+          59.3955752
+        ]
+      },
+      "properties": {
+        "name": "Marit Gramstad",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12449-marit-gramstad",
+        "address": "Longhammarvegen 7 5536 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Sigurd Hadler-Olsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12450-sigurd-hadler-olsen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3765277,
+          67.2836814
+        ]
+      },
+      "properties": {
+        "name": "Kristoffer Evjen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12535-kristoffer-evjen",
+        "address": "Sjøgata 6 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6585421,
+          59.6727851
+        ]
+      },
+      "properties": {
+        "name": "Lukas Moser",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12537-lukas-moser",
+        "address": "Holterveien 3 1442 Drøbak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8055319,
+          59.8878586
+        ]
+      },
+      "properties": {
+        "name": "Stefanie Steinhäuser-Andresen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12554-stefanie-steinhauser-andresen",
+        "address": "Sandstuveien 60A 1184 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879243,
+          58.1466415
+        ]
+      },
+      "properties": {
+        "name": "Kawa Alzahawi",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12570-kawa-alzahawi",
+        "address": "Vestre Strandgate 42, 2. etg. 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6272217,
+          66.0207454
+        ]
+      },
+      "properties": {
+        "name": "Henriette Tostrup Aas",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12602-henriette-tostrup-aas",
+        "address": "Torolv Kveldulvsons Gate 63 8800 Sandnessjøen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.496615,
+          64.4651285
+        ]
+      },
+      "properties": {
+        "name": "Geir Kristian Skistad",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12604-geir-kristian-skistad",
+        "address": "Carl Gulbransons gate 7 7800 Namsos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.596634,
+          59.9143114
+        ]
+      },
+      "properties": {
+        "name": "Morten Gahre Fjeld",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12631-morten-gahre-fjeld",
+        "address": "Gamle Ringeriksvei 14 1368 Stabekk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7344006,
+          59.9329212
+        ]
+      },
+      "properties": {
+        "name": "Dorita Preza",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12694-dorita-preza",
+        "address": "Ullevålsveien 82 B 0454 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9063125,
+          59.9624547
+        ]
+      },
+      "properties": {
+        "name": "Kim Christian Johansen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12712-kim-christian-johansen",
+        "address": "Nedre Rommen 5 C 0988 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Magnhild Lerstøl",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12715-magnhild-lerstol",
+        "address": "Sørkedalsveien 10d 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9345998,
+          59.2141387
+        ]
+      },
+      "properties": {
+        "name": "Glenn Joar Slette",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12729-glenn-joar-slette",
+        "address": "Farmanns Gate 13 B 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588213,
+          59.9162626
+        ]
+      },
+      "properties": {
+        "name": "Nor Mohammed Shahab",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12852-nor-mohammed-shahab",
+        "address": "Gamle Ringeriksvei 34 1318 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1994395,
+          59.1363145
+        ]
+      },
+      "properties": {
+        "name": "Andreas Järvinen Larssen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12876-andreas-jarvinen-larssen",
+        "address": "Nygårdsveien 14 3214 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7580827,
+          59.9535397
+        ]
+      },
+      "properties": {
+        "name": "Tone Olsen Enger",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12893-tone-olsen-enger",
+        "address": "Bergrådveien 13 0873 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2026056,
+          59.7440492
+        ]
+      },
+      "properties": {
+        "name": "Trond Anders Kristensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12956-trond-anders-kristensen",
+        "address": "Øvre Storgate 4-6 3018 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1780817,
+          59.3048624
+        ]
+      },
+      "properties": {
+        "name": "Geir Bjørnum Kristiansen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12961-geir-bjornum-kristiansen",
+        "address": "Andebu Sentrum 23 3158 Andebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6031631,
+          59.2099864
+        ]
+      },
+      "properties": {
+        "name": "Nima Tehrani",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12992-nima-tehrani",
+        "address": "Cappelens gate 15 3722 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7312054,
+          59.9146531
+        ]
+      },
+      "properties": {
+        "name": "Tor Edmund Torbjørnsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1972)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13050-tor-edmund-torbjornsen",
+        "address": "Ruseløkkveien 6 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4884896,
+          59.8624743
+        ]
+      },
+      "properties": {
+        "name": "Kristin Aanderud-Larsen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13132-kristin-aanderud-larsen",
+        "address": "Holmquistveien 1 1394 Nesbru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3177294,
+          59.4885007
+        ]
+      },
+      "properties": {
+        "name": "Anders Pekka Frithiof Stenhagen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13153-anders-pekka-frithiof-stenhagen",
+        "address": "Havnegaten 7 3080 Holmestrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3851188,
+          59.1183009
+        ]
+      },
+      "properties": {
+        "name": "Elzbieta Robakowska",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13171-elzbieta-robakowska",
+        "address": "Langbrygga 7 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4236414,
+          58.0318107
+        ]
+      },
+      "properties": {
+        "name": "Michel Roger Lascombe",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13205-michel-roger-lascombe",
+        "address": "Leirvollen 1a 4513 Mandal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4987171,
+          59.7795406
+        ]
+      },
+      "properties": {
+        "name": "Per Magne Djupvik",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13218-per-magne-djupvik",
+        "address": "Hamnegata 2 5412 Stord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0799913,
+          60.7961733
+        ]
+      },
+      "properties": {
+        "name": "Jon Olav Aabakken",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13251-jon-olav-aabakken",
+        "address": "Vangsveien 62 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7101755,
+          59.9303044
+        ]
+      },
+      "properties": {
+        "name": "Nina Ellen Torgersbråten",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13435-nina-ellen-torgersbraten",
+        "address": "Sørkedalsveien 10B 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588213,
+          59.9162626
+        ]
+      },
+      "properties": {
+        "name": "Nils Thomas Westerlund",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13441-nils-thomas-westerlund",
+        "address": "Gamle Ringeriksvei 34 1318 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9230794,
+          63.4679323
+        ]
+      },
+      "properties": {
+        "name": "Bernt Johan Berg Nielsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13460-bernt-johan-berg-nielsen",
+        "address": "Kjøpmannsgata 28 7500 Stjørdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2351485,
+          59.1270109
+        ]
+      },
+      "properties": {
+        "name": "Ella Aasrum",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13569-ella-aasrum",
+        "address": "Kilgata 9 3217 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6469127,
+          59.9473679
+        ]
+      },
+      "properties": {
+        "name": "Turid Støle",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "74 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13571-turid-stole",
+        "address": "Sørkedalsv 179 0754 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3765277,
+          67.2836814
+        ]
+      },
+      "properties": {
+        "name": "Hilmar Olav Jensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13587-hilmar-olav-jensen",
+        "address": "Sjøgata 6 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6630358,
+          58.2952888
+        ]
+      },
+      "properties": {
+        "name": "Jannike Jørnung Finn",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13755-jannike-jornung-finn",
+        "address": "Sundegaten 5 C 4400 Flekkefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7155809,
+          58.9781575
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Gramstad Skeie",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14234-ingrid-gramstad-skeie",
+        "address": "Tastagata 30-32 4027 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.596634,
+          59.9143114
+        ]
+      },
+      "properties": {
+        "name": "Emeline Mandal",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14315-emeline-mandal",
+        "address": "Gamle Ringeriksvei 14 1368 Stabekk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3564874,
+          63.3503461
+        ]
+      },
+      "properties": {
+        "name": "Hibatul Hai Bint Muslim",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14409-hibatul-hai-bint-muslim",
+        "address": "Heimdalsveien 4 7080 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3564874,
+          63.3503461
+        ]
+      },
+      "properties": {
+        "name": "George Al Noore",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14411-george-al-noore",
+        "address": "Heimdalsveien 4 7080 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833915,
+          58.9530884
+        ]
+      },
+      "properties": {
+        "name": "Kasper Dahl Kristensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14444-kasper-dahl-kristensen",
+        "address": "Madlamarkveien 2a 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331481,
+          58.8510455
+        ]
+      },
+      "properties": {
+        "name": "Jane van Boven",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14460-jane-van-boven",
+        "address": "Langgata 3 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7195463,
+          59.9276445
+        ]
+      },
+      "properties": {
+        "name": "Luis Manuel Montero Sanchez",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14615-luis-manuel-montero-sanchez",
+        "address": "Bogstadveien 43A 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7958483,
+          59.8109668
+        ]
+      },
+      "properties": {
+        "name": "Gunvor Askjem Barstad",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "33 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/18222-gunvor-askjem-barstad",
+        "address": "Ingierveien 6 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461293,
+          59.6011971
+        ]
+      },
+      "properties": {
+        "name": "Ann Marie Möller",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/21685-ann-marie-moller",
+        "address": "Mølleveien 4 1540 Vestby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7145288,
+          58.8263575
+        ]
+      },
+      "properties": {
+        "name": "Mohammedreza Sefidroodi",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "31 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23488-mohammedreza-sefidroodi",
+        "address": "Olabakken 5 4322 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.496615,
+          64.4651285
+        ]
+      },
+      "properties": {
+        "name": "Sándor Jancsó",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23550-sandor-jancso",
+        "address": "Carl Gulbransons gate 7 7800 Namsos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8035242,
+          59.7741061
+        ]
+      },
+      "properties": {
+        "name": "Sreeram Kumar",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23833-sreeram-kumar",
+        "address": "Flåtestadveien 3 1415 Oppegård"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8540697,
+          58.7648449
+        ]
+      },
+      "properties": {
+        "name": "Spyridon Psonis",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24374-spyridon-psonis",
+        "address": "Krambugata 1 4330 Ålgård"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4555616,
+          63.4361474
+        ]
+      },
+      "properties": {
+        "name": "Amelia Shams",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24987-amelia-shams",
+        "address": "Falkenborgveien 9, Sirkus shopping 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881103,
+          60.0453465
+        ]
+      },
+      "properties": {
+        "name": "Anshu Mala Shokeen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/25514-anshu-mala-shokeen",
+        "address": "Mattias Skytters vei 173 1482 Nittedal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6588323,
+          59.4333797
+        ]
+      },
+      "properties": {
+        "name": "Juan-Mauricio Diaz Plata",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/25577-juan-mauricio-diaz-plata",
+        "address": "Kransen 16 1531 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0635822,
+          59.4141132
+        ]
+      },
+      "properties": {
+        "name": "Beatrix Mariana Rednik-Deutschlander",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/25578-beatrix-mariana-rednik-deutschlander",
+        "address": "Bøgata 32 3800 Bø i Telemark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7918147,
+          59.9299441
+        ]
+      },
+      "properties": {
+        "name": "Leva Ghorban Pour",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/25585-leva-ghorban-pour",
+        "address": "Peter Møllers vei 2B 0585 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7461293,
+          59.6011971
+        ]
+      },
+      "properties": {
+        "name": "Agneta Elisabeth Hagman",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27564-agneta-elisabeth-hagman",
+        "address": "Mølleveien 4 1540 Vestby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7694483,
+          59.9483484
+        ]
+      },
+      "properties": {
+        "name": "Marija Ristic",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2022)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27680-marija-ristic",
+        "address": "Sandakerveien 116 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.323012,
+          60.3938942
+        ]
+      },
+      "properties": {
+        "name": "Christian Mouzouros Magureanu",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27726-christian-mouzouros-magureanu",
+        "address": "Strandgaten 6 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4672122,
+          60.1211063
+        ]
+      },
+      "properties": {
+        "name": "Michal Pawel Wiaderny",
+        "profession": "Kjeveortoped",
+        "gender": null,
+        "age": null,
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27736-michal-pawel-wiaderny",
+        "address": "Seterstøavegen 2A 2150 Årnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9541359,
+          59.9270436
+        ]
+      },
+      "properties": {
+        "name": "Snezhana Dimitroska",
+        "profession": "Kjeveortoped",
+        "gender": null,
+        "age": null,
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27747-snezhana-dimitroska",
+        "address": "Skårersletta 10 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4345034,
+          59.8343018
+        ]
+      },
+      "properties": {
+        "name": "Eirin Angel Olsen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "34 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/28489-eirin-angel-olsen",
+        "address": "Torvveien 7 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7958615,
+          59.8109655
+        ]
+      },
+      "properties": {
+        "name": "Camilla Høili Bore",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "33 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/28511-camilla-hoili-bore",
+        "address": "Ingierveien 6 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4087579,
+          63.4326109
+        ]
+      },
+      "properties": {
+        "name": "Lucian-Alexandru Constantin",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "32 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/32001-lucian-alexandru-constantin",
+        "address": "Innherredsveien 2C 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7332197,
+          58.9163768
+        ]
+      },
+      "properties": {
+        "name": "Annlaug Lunde Stensland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/5485-annlaug-lunde-stensland",
+        "address": "Kanalpiren, Laberget 28 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2039028,
+          59.7391791
+        ]
+      },
+      "properties": {
+        "name": "Shams Sam Arvini",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6689-shams-sam-arvini",
+        "address": "Tollbugata 5 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7799122,
+          63.1106221
+        ]
+      },
+      "properties": {
+        "name": "Anna Grazyna Kasbekar",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6730-anna-grazyna-kasbekar",
+        "address": "Industriveien 17 6517 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4163527,
+          68.6941199
+        ]
+      },
+      "properties": {
+        "name": "Gunn Johnsen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6742-gunn-johnsen",
+        "address": "Strandgata 24/26 8400 Sortland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3911959,
+          63.430803
+        ]
+      },
+      "properties": {
+        "name": "Elin Marie Gravdal Brusveen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6755-elin-marie-gravdal-brusveen",
+        "address": "Kongens Gate 30 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2122195,
+          60.4214897
+        ]
+      },
+      "properties": {
+        "name": "Nils Åge Førsund",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7084-nils-age-forsund",
+        "address": "Kleppevegen 75 5300 Kleppestø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2712268,
+          59.4187206
+        ]
+      },
+      "properties": {
+        "name": "Sigurd Sivertsen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7217-sigurd-sivertsen",
+        "address": "Ølengata 10 5522 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.596676,
+          59.9142327
+        ]
+      },
+      "properties": {
+        "name": "Lidunn Hovlandsdal",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7226-lidunn-hovlandsdal",
+        "address": "Gamle Ringeriksvei 14 B 1368 Stabekk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Tone Svanhild Klepsland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7227-tone-svanhild-klepsland",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3911959,
+          63.430803
+        ]
+      },
+      "properties": {
+        "name": "Trond Petter Vilnes Holstad",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7262-trond-petter-vilnes-holstad",
+        "address": "Kongens Gate 30 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Kristoffer Haugarvoll Helland",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7266-kristoffer-haugarvoll-helland",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7731436,
+          59.9415796
+        ]
+      },
+      "properties": {
+        "name": "Tord Hamran",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7269-tord-hamran",
+        "address": "Frederik Glads gate 8a 0482 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.727497,
+          59.9105443
+        ]
+      },
+      "properties": {
+        "name": "Yngvil Ørstavik Zachrisson",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7376-yngvil-orstavik-zachrisson",
+        "address": "Grundingen 6 0250 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2667155,
+          59.4149988
+        ]
+      },
+      "properties": {
+        "name": "Signe Storesund",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7420-signe-storesund",
+        "address": "Haraldsgata 183 5525 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.596634,
+          59.9143114
+        ]
+      },
+      "properties": {
+        "name": "Inger Marie Lund Eilertsen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7445-inger-marie-lund-eilertsen",
+        "address": "Gamle Ringeriksvei 14 1368 Stabekk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6760306,
+          58.9513426
+        ]
+      },
+      "properties": {
+        "name": "Martin Stage",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7523-martin-stage",
+        "address": "Madlakrossen 25 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4993556,
+          64.014417
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Kvaran",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7535-bjorn-kvaran",
+        "address": "Svein Jarls Gate 13 7713 Steinkjer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7636715,
+          58.4611032
+        ]
+      },
+      "properties": {
+        "name": "Anne Blix Werner",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7564-anne-blix-werner",
+        "address": "Vestre Gate 2 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7371455,
+          59.9132371
+        ]
+      },
+      "properties": {
+        "name": "Ingeborg Engeseth",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7593-ingeborg-engeseth",
+        "address": "Stortingsgata 10 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6938617,
+          59.9503859
+        ]
+      },
+      "properties": {
+        "name": "Berit Nina Ullsfoss",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7606-berit-nina-ullsfoss",
+        "address": "Stasjonsveien 4 0776 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4131643,
+          59.266562
+        ]
+      },
+      "properties": {
+        "name": "Britta-Ulrike Hoyer",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7642-britta-ulrike-hoyer",
+        "address": "St. Olavs gate 4 3126 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2073985,
+          59.7431043
+        ]
+      },
+      "properties": {
+        "name": "Morten Helgeland",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7646-morten-helgeland",
+        "address": "Nedre Storgate 11A 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1497773,
+          62.7355822
+        ]
+      },
+      "properties": {
+        "name": "Terje Holt",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7757-terje-holt",
+        "address": "Bjørnstjerne Bjørnsons veg 12 6412 Molde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7344006,
+          59.9329212
+        ]
+      },
+      "properties": {
+        "name": "Els-Marie Andersson",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7824-els-marie-andersson",
+        "address": "Ullevålsveien 82 B 0454 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4642296,
+          60.4210061
+        ]
+      },
+      "properties": {
+        "name": "Astrid Beate Katle",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7894-astrid-beate-katle",
+        "address": "Ådnavegen 63, Øyrane Torg 5260 Indre Arna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589288,
+          60.3806884
+        ]
+      },
+      "properties": {
+        "name": "Inger Øyum",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7899-inger-oyum",
+        "address": "Årstadveien 19 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.348501,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "Dagfinn Ask",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7904-dagfinn-ask",
+        "address": "Langelandsvegen 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1305139,
+          66.3071457
+        ]
+      },
+      "properties": {
+        "name": "John Arne Krutå",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7978-john-arne-kruta",
+        "address": "Søndre gate 3 8624 Mo i Rana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6559071,
+          59.1436808
+        ]
+      },
+      "properties": {
+        "name": "Christina Louise Hvaring",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8000-christina-louise-hvaring",
+        "address": "Storgata 174 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0275378,
+          59.0535342
+        ]
+      },
+      "properties": {
+        "name": "Karen A B Kristoffersen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8011-karen-a-b-kristoffersen",
+        "address": "Torget 3 3256 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3581108,
+          60.3788177
+        ]
+      },
+      "properties": {
+        "name": "Keijo Aukusti Luukko",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8037-keijo-aukusti-luukko",
+        "address": "Årstadgeilen 37 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4062275,
+          59.2686389
+        ]
+      },
+      "properties": {
+        "name": "Lino Thorlakson",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8061-lino-thorlakson",
+        "address": "Øvre Langgate 50 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.356175,
+          63.350354
+        ]
+      },
+      "properties": {
+        "name": "Anca Maria Baila",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8191-anca-maria-baila",
+        "address": "Heimdalsvegen 4 7080 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4861955,
+          59.8710359
+        ]
+      },
+      "properties": {
+        "name": "Björn Ulrich Winter",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8194-bjorn-ulrich-winter",
+        "address": "Olav Brunborgsvei 4 1396 Billingstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7376172,
+          58.9489415
+        ]
+      },
+      "properties": {
+        "name": "Linn Haugland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8219-linn-haugland",
+        "address": "Torgveien 21 B 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2333348,
+          64.8696836
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Bergh",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8230-ingrid-bergh",
+        "address": "Hansvikvegen 3 B 7900 Rørvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7432496,
+          59.9147468
+        ]
+      },
+      "properties": {
+        "name": "Håkon Høimyr",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8235-hakon-hoimyr",
+        "address": "Akersgata 51 0180 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7019778,
+          59.9429872
+        ]
+      },
+      "properties": {
+        "name": "Ragnar Bjering",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8331-ragnar-bjering",
+        "address": "Holmenveien 5G 0374 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7050755,
+          59.9208448
+        ]
+      },
+      "properties": {
+        "name": "Helen Pullisaar",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8343-helen-pullisaar",
+        "address": "Magnus Bergs Gate 4 0266 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6882354,
+          62.5942679
+        ]
+      },
+      "properties": {
+        "name": "William Howard Clark",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8367-william-howard-clark",
+        "address": "Inge Krokanns Veg 9 7340 Oppdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5402989,
+          68.799633
+        ]
+      },
+      "properties": {
+        "name": "Hugo Nygård Pettersen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8393-hugo-nygard-pettersen",
+        "address": "Asbjørn Selsbanes Gate 2 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.925327,
+          63.4726074
+        ]
+      },
+      "properties": {
+        "name": "Kristoffer Aavatsmark",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8432-kristoffer-aavatsmark",
+        "address": "Skolegata 30 7500 Stjørdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.046268,
+          59.9747122
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Audun Jørgensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8505-bjorn-audun-jorgensen",
+        "address": "Gunnar Randers vei 12 2007 Kjeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2891562,
+          60.3513325
+        ]
+      },
+      "properties": {
+        "name": "Ingeborg Williams-Eiken",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8528-ingeborg-williams-eiken",
+        "address": "Folke Bernadottesvei 38 5147 Fyllingsdalen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7339705,
+          58.8518211
+        ]
+      },
+      "properties": {
+        "name": "Andreas Huascar Røste Rabanal",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8541-andreas-huascar-roste-rabanal",
+        "address": "Langgata 18 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Kristiane Elisabeth Haugarvoll Helland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8553-kristiane-elisabeth-haugarvoll-helland",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Åslaug Haugsdal",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8554-aslaug-haugsdal",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4345034,
+          59.8343018
+        ]
+      },
+      "properties": {
+        "name": "David John Weichbrodt",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8592-david-john-weichbrodt",
+        "address": "Torvveien 7 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6938617,
+          59.9503859
+        ]
+      },
+      "properties": {
+        "name": "Anette Strindberg",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8611-anette-strindberg",
+        "address": "Stasjonsveien 4 0776 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0477094,
+          59.9520956
+        ]
+      },
+      "properties": {
+        "name": "Henrik Kårestedt",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8638-henrik-karestedt",
+        "address": "Tærudgata 3 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4672122,
+          60.1211063
+        ]
+      },
+      "properties": {
+        "name": "Ali Dolati",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/86426-ali-dolati",
+        "address": "Seterstøavegen 2A 2150 Årnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8055319,
+          59.8878586
+        ]
+      },
+      "properties": {
+        "name": "Line Piroska Minster",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8709-line-piroska-minster",
+        "address": "Sandstuveien 60A 1184 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6694272,
+          59.4364598
+        ]
+      },
+      "properties": {
+        "name": "Katrine Hovland",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8713-katrine-hovland",
+        "address": "Storgata 41, Amfisenteret Moss, 3 ETG 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2349911,
+          60.3631158
+        ]
+      },
+      "properties": {
+        "name": "Thelen Dorina Sula",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8728-thelen-dorina-sula",
+        "address": "Lyderhornsveien 353 5171 Loddefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6466522,
+          58.735504
+        ]
+      },
+      "properties": {
+        "name": "Jakob Alfred Helseth",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8742-jakob-alfred-helseth",
+        "address": "Storgata 15 4340 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800952,
+          59.8613533
+        ]
+      },
+      "properties": {
+        "name": "Saeed Sheikholeslami",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8763-saeed-sheikholeslami",
+        "address": "Ekebergveien 228C, 3. etasje 1162 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9914902,
+          58.1471772
+        ]
+      },
+      "properties": {
+        "name": "Katarzyna Mroz-Zurawska",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8764-katarzyna-mroz-zurawska",
+        "address": "Henrik Wergelandsgate 17a 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1752798,
+          60.146462
+        ]
+      },
+      "properties": {
+        "name": "Ester Orosz Andersen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8799-ester-orosz-andersen",
+        "address": "Ringveien 23 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7580827,
+          59.9535397
+        ]
+      },
+      "properties": {
+        "name": "Vaska Vandevska-Radunovic",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8836-vaska-vandevska-radunovic",
+        "address": "Bergrådveien 13 0873 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7376172,
+          58.9489415
+        ]
+      },
+      "properties": {
+        "name": "Jenny Bogstad Søvik",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8881-jenny-bogstad-sovik",
+        "address": "Torgveien 21 B 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7339705,
+          58.8518211
+        ]
+      },
+      "properties": {
+        "name": "Jannicke Sagevik Tunge",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8899-jannicke-sagevik-tunge",
+        "address": "Langgata 18 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1197493,
+          62.202096
+        ]
+      },
+      "properties": {
+        "name": "Ingri Yddal Beddari",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8907-ingri-yddal-beddari",
+        "address": "Strandgata 5 A 6150 Ørsta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0273876,
+          59.0534795
+        ]
+      },
+      "properties": {
+        "name": "Øystein Reikvam",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8918-oystein-reikvam",
+        "address": "Torget 3 3256 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8540526,
+          61.4520365
+        ]
+      },
+      "properties": {
+        "name": "Bjarne Strand",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1972)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8934-bjarne-strand",
+        "address": "Storehagen 3 6800 Førde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7640364,
+          58.4609548
+        ]
+      },
+      "properties": {
+        "name": "Jon Egil Tønnevold Fiane",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8964-jon-egil-tonnevold-fiane",
+        "address": "Vestregate 2 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1991602,
+          65.8383353
+        ]
+      },
+      "properties": {
+        "name": "Kjell Erik Johansen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9111-kjell-erik-johansen",
+        "address": "Jonas Liesgate 11 8657 Mosjøen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7432496,
+          59.9147468
+        ]
+      },
+      "properties": {
+        "name": "Svein Vidar Høimyr",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1973)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9177-svein-vidar-hoimyr",
+        "address": "Akersgata 51 0180 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3818268,
+          67.2850134
+        ]
+      },
+      "properties": {
+        "name": "Hege Alst",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9223-hege-alst",
+        "address": "Sjøgata 21 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5311238,
+          59.9084258
+        ]
+      },
+      "properties": {
+        "name": "Christian Fredrik Platou",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1971)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9276-christian-fredrik-platou",
+        "address": "Bærumsveien 385 1346 Gjettum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4062275,
+          59.2686389
+        ]
+      },
+      "properties": {
+        "name": "Jan Viggo Jørgensen",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1974)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9468-jan-viggo-jorgensen",
+        "address": "Øvre Langgate 50 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3535982,
+          60.3191147
+        ]
+      },
+      "properties": {
+        "name": "Dimitrios Theodoros Xenakis",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9512-dimitrios-theodoros-xenakis",
+        "address": "Østre Nesttunvegen 2 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3865535,
+          59.1265753
+        ]
+      },
+      "properties": {
+        "name": "Anders Skaare",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9515-anders-skaare",
+        "address": "Niels Stubs Gate 1 1776 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0510809,
+          59.9583291
+        ]
+      },
+      "properties": {
+        "name": "Barbro Fostad Salvesen",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9531-barbro-fostad-salvesen",
+        "address": "Stortorget 20 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3241501,
+          60.3938781
+        ]
+      },
+      "properties": {
+        "name": "Knut Normann Klepp",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1973)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9698-knut-normann-klepp",
+        "address": "Strandgaten 3 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7432496,
+          59.9147468
+        ]
+      },
+      "properties": {
+        "name": "Gunnar G Omland",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9701-gunnar-g-omland",
+        "address": "Akersgata 51 0180 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7157157,
+          58.9779244
+        ]
+      },
+      "properties": {
+        "name": "Svein Ole Vikse",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1974)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9780-svein-ole-vikse",
+        "address": "Tastagaten 30 4007 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9379212,
+          59.2130468
+        ]
+      },
+      "properties": {
+        "name": "Lena Margareta Nylén Tofeldt",
+        "profession": "Kjeveortoped",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9797-lena-margareta-nylen-tofeldt",
+        "address": "Nygaardsgata 49/51 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6466522,
+          58.735504
+        ]
+      },
+      "properties": {
+        "name": "Andreas Arnt Eidsaa",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1971)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9815-andreas-arnt-eidsaa",
+        "address": "Storgata 15 4340 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6469127,
+          59.9473679
+        ]
+      },
+      "properties": {
+        "name": "Dan Egil Fjeld",
+        "profession": "Kjeveortoped",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Kjeveortopedi",
+        "godkjenning": "Autorisasjon (1971)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9868-dan-egil-fjeld",
+        "address": "Sørkedalsveien 179 0754 Oslo"
+      }
+    }
+  ]
+}

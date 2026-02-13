@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1086223,
+          59.2932701
+        ]
+      },
+      "properties": {
+        "name": "Martin Bernd Johann Moersler",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2000)Autorisasjon - Tannlege (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10178-martin-bernd-johann-moersler",
+        "address": "Madam Arnesens Vei 43 1710 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3097004,
+          59.2845168
+        ]
+      },
+      "properties": {
+        "name": "Ulrich Christian Bier",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Tannlege (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10817-ulrich-christian-bier",
+        "address": "Hovedgaten 53 4250 Kopervik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.456105,
+          63.4368584
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Ketil Brevik",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2001)Autorisasjon - Tannlege (1987)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11168-bjorn-ketil-brevik",
+        "address": "Peder Falcks vei 3 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2673405,
+          59.4149838
+        ]
+      },
+      "properties": {
+        "name": "Jonar Storesund",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2016)Autorisasjon - Tannlege (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11557-jonar-storesund",
+        "address": "Haraldsgaten 177 5525 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Lars Peder Huse",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2012)Autorisasjon - Tannlege (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11995-lars-peder-huse",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7272052,
+          59.9335601
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Platou Lindal",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2011)Autorisasjon - Tannlege (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12672-fredrik-platou-lindal",
+        "address": "Kirkeveien 131 0361 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0407676,
+          59.9536718
+        ]
+      },
+      "properties": {
+        "name": "Pål Galteland",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2005)Autorisasjon - Tannlege (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13014-pal-galteland",
+        "address": "Dampsagveien 4 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8354783,
+          59.9432416
+        ]
+      },
+      "properties": {
+        "name": "Attila Nagy",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2014)Autorisasjon - Tannlege (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14848-attila-nagy",
+        "address": "Erich Mogensøns Vei 38 0594 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881103,
+          60.0453465
+        ]
+      },
+      "properties": {
+        "name": "Dominykas Dvylys",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "35 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Tannlege (2020)Autorisasjon - Lege (2020)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/25123-dominykas-dvylys",
+        "address": "Mattias Skytters vei 173 1482 Nittedal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Mats Døving",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Tannlege (2021)Autorisasjon - Lege (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27929-mats-doving",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Jemtegård Hansen",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Tannlege (1990)Autorisasjon - Lege (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7998-bjorn-jemtegard-hansen",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7402682,
+          59.9119265
+        ]
+      },
+      "properties": {
+        "name": "Zoltán Nyárády",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2010)Autorisasjon - Tannlege (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8439-zoltan-nyarady",
+        "address": "Akersgata 16 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709063,
+          59.9305328
+        ]
+      },
+      "properties": {
+        "name": "Matthias Michael Rieger",
+        "profession": "Maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Maxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Tannlege (2004)Autorisasjon - Lege (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9101-matthias-michael-rieger",
+        "address": "Sørkedalsveien 10A 0369 Oslo"
+      }
+    }
+  ]
+}

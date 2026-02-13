@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2211451,
+          59.130663
+        ]
+      },
+      "properties": {
+        "name": "Tore Prestgaard",
+        "profession": "Allmennlegespesialist og fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "AllmennmedisinFysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17369-tore-prestgaard",
+        "address": "Dronningens gate 3 3211 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Dag Ove Karsten",
+        "profession": "Allmennlegespesialist og fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "AllmennmedisinFysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18131-dag-ove-karsten",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    }
+  ]
+}

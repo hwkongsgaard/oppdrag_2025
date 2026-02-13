@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Georg Dimcevski",
+        "profession": "Gastroenterolog",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Fordøyelsessykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja. Har avtale vedKanalspesialistene AS",
+        "url": "https://www.legelisten.no/spesialister/24822-georg-dimcevski",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Jan Novotny",
+        "profession": "Gastroenterolog",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Fordøyelsessykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29275-jan-novotny",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019542,
+          59.8321071
+        ]
+      },
+      "properties": {
+        "name": "Rogelio Oswaldo Barreto Rios",
+        "profession": "Gastroenterolog",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Fordøyelsessykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31195-rogelio-oswaldo-barreto-rios",
+        "address": "Knud Askers vei 28B, Trekanten senter 1383 Asker"
+      }
+    }
+  ]
+}

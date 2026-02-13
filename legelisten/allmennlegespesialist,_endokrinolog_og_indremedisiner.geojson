@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5164319,
+          59.8912944
+        ]
+      },
+      "properties": {
+        "name": "Pål Johan Vanberg",
+        "profession": "Allmennlegespesialist, endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "AllmennmedisinEndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15363-pal-johan-vanberg",
+        "address": "Elias Smiths vei 24 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Rolf Whitfield",
+        "profession": "Allmennlegespesialist, endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "AllmennmedisinEndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15398-rolf-whitfield",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    }
+  ]
+}

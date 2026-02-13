@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.657439,
+          60.8019891
+        ]
+      },
+      "properties": {
+        "name": "Jan Mangersnes",
+        "profession": "Allmennlegespesialist og maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "AllmennmedisinMaxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (1995)Autorisasjon - Tannlege (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10621-jan-mangersnes",
+        "address": "Torkevegen 15 2819 Gjøvik"
+      }
+    }
+  ]
+}

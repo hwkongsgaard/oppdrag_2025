@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Tore Rygh",
+        "profession": "Endokrinolog, indremedisiner og revmatolog",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "EndokrinologiIndremedisinRevmatologi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15446-tore-rygh",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    }
+  ]
+}

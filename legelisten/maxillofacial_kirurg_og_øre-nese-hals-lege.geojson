@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7733339,
+          59.9479885
+        ]
+      },
+      "properties": {
+        "name": "Steven Anandan",
+        "profession": "Maxillofacial kirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Maxillofacial kirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon - Lege (2011)Autorisasjon - Tannlege (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6790-steven-anandan",
+        "address": "Nydalen allé 71 0485 Oslo"
+      }
+    }
+  ]
+}

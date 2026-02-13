@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5914224,
+          59.1931325
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Attia Mokbel El-Agroudi",
+        "profession": "Kjeveortoped og periodontist",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "KjeveortopediPeriodonti",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10590-mohammad-attia-mokbel-el-agroudi",
+        "address": "Telemarksvegen 170 3734 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5017202,
+          59.7809311
+        ]
+      },
+      "properties": {
+        "name": "Jan Ove Øen",
+        "profession": "Kjeveortoped og periodontist",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "KjeveortopediPeriodonti",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7728-jan-ove-oen",
+        "address": "Borggata 9 5417 Stord"
+      }
+    }
+  ]
+}

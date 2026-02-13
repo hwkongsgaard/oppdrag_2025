@@ -1,0 +1,2084 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4004647,
+          63.4399683
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Dale",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja. Har avtale vedHjertesenter Midt-NorgeogKjetil Dale",
+        "url": "https://www.legelisten.no/spesialister/15332-kjetil-dale",
+        "address": "Brattørkaia 11 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4041282,
+          63.4405529
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Olav Haugen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15333-bjorn-olav-haugen",
+        "address": "Havnegata 7 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9593139,
+          69.6506808
+        ]
+      },
+      "properties": {
+        "name": "Johan Sandvik",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15342-johan-sandvik",
+        "address": "Sjøgata 39 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0413677,
+          59.9534221
+        ]
+      },
+      "properties": {
+        "name": "Julita Karpinska",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15353-julita-karpinska",
+        "address": "Dampsagveien 2 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Sindre Stavnes",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15361-sindre-stavnes",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7641647,
+          58.460117
+        ]
+      },
+      "properties": {
+        "name": "Harald Brunvand",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15367-harald-brunvand",
+        "address": "Vestregate 1 4801 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0693104,
+          60.7953616
+        ]
+      },
+      "properties": {
+        "name": "Arnfinn B Nanbjør",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15370-arnfinn-b-nanbjor",
+        "address": "Torggata 83 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4643685,
+          61.1159989
+        ]
+      },
+      "properties": {
+        "name": "Leif Erik Erdal",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15373-leif-erik-erdal",
+        "address": "Wieses gate 3 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Svend Aakhus",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15374-svend-aakhus",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7352712,
+          59.9125509
+        ]
+      },
+      "properties": {
+        "name": "Olav Foss Abrahamsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15377-olav-foss-abrahamsen",
+        "address": "Fridtjof Nansens plass 7 0160 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Pirooz Badr",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15378-pirooz-badr",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Elsa M. Hjerkinn",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15384-elsa-m-hjerkinn",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Even Holt",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15385-even-holt",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Håvard Mundal",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15389-havard-mundal",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Zoran Radunovic",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15392-zoran-radunovic",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7352712,
+          59.9125509
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Westby",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15397-jorgen-westby",
+        "address": "Fridtjof Nansens plass 7 0160 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522454,
+          59.9138688
+        ]
+      },
+      "properties": {
+        "name": "Akram Zalmai",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15399-akram-zalmai",
+        "address": "Olav V`s gate 1 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3867577,
+          59.1202269
+        ]
+      },
+      "properties": {
+        "name": "Wojciech Mielczarek",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15406-wojciech-mielczarek",
+        "address": "Storgata 4 c 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676936,
+          59.41878
+        ]
+      },
+      "properties": {
+        "name": "Per Anton Sirnes",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15409-per-anton-sirnes",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Jan Dag Solli",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15414-jan-dag-solli",
+        "address": "Storgata 125 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9924355,
+          58.1437632
+        ]
+      },
+      "properties": {
+        "name": "Gunvald Eivindson",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15415-gunvald-eivindson",
+        "address": "Vestre Strandgate 23 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2192084,
+          59.1314423
+        ]
+      },
+      "properties": {
+        "name": "Jan Berg-Johansen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15423-jan-berg-johansen",
+        "address": "Aagaards plass 5 3211 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4857149,
+          59.4160394
+        ]
+      },
+      "properties": {
+        "name": "Jarle Flaatten",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15424-jarle-flaatten",
+        "address": "Langgaten 2 3191 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4152083,
+          59.2678064
+        ]
+      },
+      "properties": {
+        "name": "Lars Erik  Gevelt",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15426-lars-erik-gevelt",
+        "address": "Bulls gate 2 B 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321436,
+          60.3928098
+        ]
+      },
+      "properties": {
+        "name": "Efraim Bulut",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15433-efraim-bulut",
+        "address": "Markeveien 4C 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3191202,
+          60.4372272
+        ]
+      },
+      "properties": {
+        "name": "Morten Alexander Schei",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15447-morten-alexander-schei",
+        "address": "Eidsvågbakken 1 5105 Eidsvåg i Åsane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7328891,
+          58.9731709
+        ]
+      },
+      "properties": {
+        "name": "Trygve Brugger-Andersen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja. Har avtale vedHolmen legesenter",
+        "url": "https://www.legelisten.no/spesialister/15455-trygve-brugger-andersen",
+        "address": "Nedre Holmegate 30 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Volker Pönitz",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15462-volker-ponitz",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Kjell Ingar Pettersen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22584-kjell-ingar-pettersen",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Athar Ali Tajik",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": null,
+        "age": null,
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22643-athar-ali-tajik",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Cord Arend Manhenke",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23585-cord-arend-manhenke",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Rahul Bhatnagar",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23776-rahul-bhatnagar",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Svein Soleheim",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24229-svein-soleheim",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Farzad Vahedi",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24231-farzad-vahedi",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Olaf Rødevand",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24232-olaf-rodevand",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Yngvar Myreng",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24233-yngvar-myreng",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Rasmus Moer",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24234-rasmus-moer",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Shanmuganathan Limalanathan",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24235-shanmuganathan-limalanathan",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Tommy Larsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon - Lege (2005)Autorisasjon - Bioingeniør (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24236-tommy-larsen",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3203201,
+          60.3989021
+        ]
+      },
+      "properties": {
+        "name": "Nora Tuseth",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24470-nora-tuseth",
+        "address": "Bradbenken 1 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7328891,
+          58.9731709
+        ]
+      },
+      "properties": {
+        "name": "Torstein  Valborgland",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24820-torstein-valborgland",
+        "address": "Nedre Holmegate 30 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Vibeke Ritschel",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25217-vibeke-ritschel",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042563,
+          59.7444228
+        ]
+      },
+      "properties": {
+        "name": "Frederik Kontny",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25339-frederik-kontny",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1774644,
+          60.1405253
+        ]
+      },
+      "properties": {
+        "name": "Thomas Morgan Knutsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/26808-thomas-morgan-knutsen",
+        "address": "Skogvn. 2 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879243,
+          58.1466415
+        ]
+      },
+      "properties": {
+        "name": "Peter Scott Munk",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27198-peter-scott-munk",
+        "address": "Vestre Strandgate 42 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7782749,
+          59.9287108
+        ]
+      },
+      "properties": {
+        "name": "Thomas Gero Von  Lueder",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27259-thomas-gero-von-lueder",
+        "address": "Trondheimsveien 135 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Randi Anita Møyland  de Boer",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27299-randi-anita-moyland-de-boer",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9380225,
+          59.2068634
+        ]
+      },
+      "properties": {
+        "name": "Kapil Kishore Sharma",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27300-kapil-kishore-sharma",
+        "address": "Kråkerøyveien 2 B 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421069,
+          67.2779788
+        ]
+      },
+      "properties": {
+        "name": "Anders Hovland",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29145-anders-hovland",
+        "address": "Stormyrveien 20 8008 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2071692,
+          65.4648412
+        ]
+      },
+      "properties": {
+        "name": "​​Martin  Fjellsøy",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29146-martin-fjellsoy",
+        "address": "Skules vei 13 8904 Brønnøysund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3485011,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "Andrei  Marin",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29169-andrei-marin",
+        "address": "Langelandsvegen 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3119357,
+          63.7522138
+        ]
+      },
+      "properties": {
+        "name": "Kyrre Skjetne",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29170-kyrre-skjetne",
+        "address": "Helge Ingstads veg 1 7600 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2728801,
+          59.4132882
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Nyland",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29191-gunnar-nyland",
+        "address": "Skippergata 14 5527 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7248098,
+          58.9206671
+        ]
+      },
+      "properties": {
+        "name": "Erlend G. Singsaas",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29192-erlend-g-singsaas",
+        "address": "Boganesveien 10 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679214,
+          60.3563167
+        ]
+      },
+      "properties": {
+        "name": "Barbara  Rogge",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29211-barbara-rogge",
+        "address": "Nattlandsveien 89 5094 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Thomas Rogge",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29212-thomas-rogge",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3535982,
+          60.3191147
+        ]
+      },
+      "properties": {
+        "name": "Britt  Undheim",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29214-britt-undheim",
+        "address": "Østre Nesttunvegen 2 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Alexandra Vanessa  Finsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29260-alexandra-vanessa-finsen",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232494,
+          59.7413889
+        ]
+      },
+      "properties": {
+        "name": "Hans Kristian Wethal",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29271-hans-kristian-wethal",
+        "address": "Tomtegata 36 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Kristin Birgithe Jenssen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29278-kristin-birgithe-jenssen",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Gaute Vollan",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29323-gaute-vollan",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Merethe Karin Visnes",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29361-merethe-karin-visnes",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Jørgensen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29396-bjorn-jorgensen",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232494,
+          59.7413889
+        ]
+      },
+      "properties": {
+        "name": "Mohpal Singh Kahlon",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29398-mohpal-singh-kahlon",
+        "address": "Tomtegata 36 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232494,
+          59.7413889
+        ]
+      },
+      "properties": {
+        "name": "Peder Johansson",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29399-peder-johansson",
+        "address": "Tomtegata 36 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676936,
+          59.41878
+        ]
+      },
+      "properties": {
+        "name": "Linda Soon Ah Tangen Aaserud",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29407-linda-soon-ah-tangen-aaserud",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676936,
+          59.41878
+        ]
+      },
+      "properties": {
+        "name": "Riadh Ibrahim M Al-Ani",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29408-riadh-ibrahim-m-al-ani",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Senstad  Andersen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29435-oyvind-senstad-andersen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Mette-Elise  Estensen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29439-mette-elise-estensen",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Nisha Mistry",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29464-nisha-mistry",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Turid Apelland",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29471-turid-apelland",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Anne Kask",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29473-anne-kask",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Besnik  Hoxha",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29476-besnik-hoxha",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Vegard Tuseth",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29491-vegard-tuseth",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Marek  Kaczan",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29510-marek-kaczan",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Roar Thorshaug",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29528-roar-thorshaug",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Ali  Hajimirsadeghi",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29531-ali-hajimirsadeghi",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Atena  Miroslawska",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29533-atena-miroslawska",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Hanne Bjørnstad",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29535-hanne-bjornstad",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Lars Øivind Krafft Sande",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29556-lars-oivind-krafft-sande",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Amjad Hussain",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30205-amjad-hussain",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Herlof  Herlofsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30206-herlof-herlofsen",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Erikssen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30207-gunnar-erikssen",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Thomas Michael Helle-Valle",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30208-thomas-michael-helle-valle",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099593,
+          59.9307244
+        ]
+      },
+      "properties": {
+        "name": "Kristine Anstensrud",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30212-kristine-anstensrud",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865743,
+          59.8804723
+        ]
+      },
+      "properties": {
+        "name": "Loreta Skrebelyte Strøm",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30613-loreta-skrebelyte-strom",
+        "address": "Kongsveien 104 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2564024,
+          60.1657782
+        ]
+      },
+      "properties": {
+        "name": "Per Torger Skretteberg",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30621-per-torger-skretteberg",
+        "address": "Søndre torv 1 3510 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2564024,
+          60.1657782
+        ]
+      },
+      "properties": {
+        "name": "Alf-Åge R  Pettersen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30622-alf-age-r-pettersen",
+        "address": "Søndre torv 1 3510 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2564024,
+          60.1657782
+        ]
+      },
+      "properties": {
+        "name": "Jostein  Nordeng",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30623-jostein-nordeng",
+        "address": "Søndre torv 1 3510 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4859713,
+          59.7773933
+        ]
+      },
+      "properties": {
+        "name": "Ayodeji Awoyemi",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30625-ayodeji-awoyemi",
+        "address": "Kirkealleen 1 3470 Slemmestad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Darijan Ribic",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31433-darijan-ribic",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Hans Jørgen Hansen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32169-hans-jorgen-hansen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Kenneth Morgan  Knutsen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1974)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32170-kenneth-morgan-knutsen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Thuy Mi Nguyen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33211-thuy-mi-nguyen",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Ole Christian Walter Rutherford",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34665-ole-christian-walter-rutherford",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Kristin Kvakkestad",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34817-kristin-kvakkestad",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4004647,
+          63.4399683
+        ]
+      },
+      "properties": {
+        "name": "Garret Andersen",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86121-garret-andersen",
+        "address": "Brattørkaia 11 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Peter Deeg",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87153-peter-deeg",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Erik Ekker Solberg",
+        "profession": "Hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "HjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87254-erik-ekker-solberg",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Alessia  Quattrone",
+        "profession": "Hjertespesialist",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Hjertesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18384-alessia-quattrone",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Ana Monica Chivulescu",
+        "profession": "Hjertespesialist",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Hjertesykdommer",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27354-ana-monica-chivulescu",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6755494,
+          59.9260442
+        ]
+      },
+      "properties": {
+        "name": "Andreas Auensen",
+        "profession": "Hjertespesialist",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hjertesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30610-andreas-auensen",
+        "address": "Hoffsveien 15 0275 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8480493,
+          62.343389
+        ]
+      },
+      "properties": {
+        "name": "Velle Kristian  Espeland",
+        "profession": "Hjertespesialist",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hjertesykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32206-velle-kristian-espeland",
+        "address": "Bjørndalvegen 7 6065 Ulsteinvik"
+      }
+    }
+  ]
+}

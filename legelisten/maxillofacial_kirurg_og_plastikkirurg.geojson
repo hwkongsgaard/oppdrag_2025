@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6076811,
+          59.9193035
+        ]
+      },
+      "properties": {
+        "name": "Hans Erik Høgevold",
+        "profession": "Maxillofacial kirurg og plastikkirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Maxillofacial kirurgiPlastikkirurgi",
+        "godkjenning": "Autorisasjon - Lege (1986)Autorisasjon - Tannlege (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16783-hans-erik-hogevold",
+        "address": "Tjernsrudvn 9 1358 Jar"
+      }
+    }
+  ]
+}

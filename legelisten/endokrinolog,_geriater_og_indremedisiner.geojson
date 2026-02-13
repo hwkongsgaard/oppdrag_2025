@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Stefnir Svan Gudnason",
+        "profession": "Endokrinolog, geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "EndokrinologiGeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15439-stefnir-svan-gudnason",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    }
+  ]
+}

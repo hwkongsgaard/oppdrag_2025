@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Charlotte   Ingull",
+        "profession": "Anestesilege og hjertespesialist",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "AnestesiologiHjertesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29505-charlotte-ingull",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2224584,
+          59.1300073
+        ]
+      },
+      "properties": {
+        "name": "Liv Aass",
+        "profession": "Barne- og ungdomspsykiater og barnelege",
+        "gender": "Kvinne",
+        "age": "72 år",
+        "specialization": "Barne- og ungdomspsykiatriBarnesykdommer",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17025-liv-aass",
+        "address": "Thor Brynsgt. 7 3211 Sandefjord"
+      }
+    }
+  ]
+}

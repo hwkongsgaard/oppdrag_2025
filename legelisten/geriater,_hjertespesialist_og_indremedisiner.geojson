@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679214,
+          60.3563167
+        ]
+      },
+      "properties": {
+        "name": "Kjell Harald Arntzen",
+        "profession": "Geriater, hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "GeriatriHjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15427-kjell-harald-arntzen",
+        "address": "Nattlandsveien 89 5094 Bergen"
+      }
+    }
+  ]
+}

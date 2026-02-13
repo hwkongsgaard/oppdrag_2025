@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Øystein Henske Flatebø",
+        "profession": "Onkolog",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Onkologi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23195-oystein-henske-flatebo",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    }
+  ]
+}

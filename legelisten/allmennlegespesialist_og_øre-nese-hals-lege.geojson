@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4052605,
+          59.4188101
+        ]
+      },
+      "properties": {
+        "name": "Ragnhild Johanne Stuve",
+        "profession": "Allmennlegespesialist og øre-nese-hals-lege",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "AllmennmedisinØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17221-ragnhild-johanne-stuve",
+        "address": "Frakkagjerdvegen 121 5563 Førresfjorden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5231476,
+          59.8914437
+        ]
+      },
+      "properties": {
+        "name": "Mohammad  Sohrabi",
+        "profession": "Allmennlegespesialist og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "AllmennmedisinØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17749-mohammad-sohrabi",
+        "address": "Løkketangen 20A 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Chubaka Rubasha",
+        "profession": "Allmennlegespesialist og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "AllmennmedisinØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja. Har avtale vedViken Øre-Nese-Hals & Hørselsenter AS - HønefossogViken Øre-Nese-Hals & Hørselsenter AS - Nesbyen",
+        "url": "https://www.legelisten.no/spesialister/29442-chubaka-rubasha",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Petter Olberg",
+        "profession": "Allmennlegespesialist og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "AllmennmedisinØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29512-petter-olberg",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5214879,
+          59.8878727
+        ]
+      },
+      "properties": {
+        "name": "Øistein Ramleth",
+        "profession": "Allmennlegespesialist og nevrolog",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "AllmennmedisinNevrologi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17116-oistein-ramleth",
+        "address": "Sandviksveien 178 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7257964,
+          58.8858643
+        ]
+      },
+      "properties": {
+        "name": "Silvia Carolina Harboe",
+        "profession": "Allmennlegespesialist og nevrolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "AllmennmedisinNevrologi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30138-silvia-carolina-harboe",
+        "address": "Luramyrveien 79 4313 Sandnes"
+      }
+    }
+  ]
+}

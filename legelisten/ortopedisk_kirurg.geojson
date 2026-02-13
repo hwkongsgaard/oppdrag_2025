@@ -1,0 +1,3029 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Adalsteinn Odinsson",
+        "profession": "Ortopedisk kirurg",
+        "gender": null,
+        "age": null,
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16496-adalsteinn-odinsson",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Agnar Tegnander",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16500-agnar-tegnander",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4153946,
+          59.2829367
+        ]
+      },
+      "properties": {
+        "name": "Andreas Dietze",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16512-andreas-dietze",
+        "address": "Trudvangveien 67 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Andreas Martin Walter Hahn",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16513-andreas-martin-walter-hahn",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432641,
+          60.360564
+        ]
+      },
+      "properties": {
+        "name": "Ari Bertz",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16538-ari-bertz",
+        "address": "​Minde Allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Arne Kristian Aune",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16547-arne-kristian-aune",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9665578,
+          59.2078346
+        ]
+      },
+      "properties": {
+        "name": "Arne Roger Nilsen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16550-arne-roger-nilsen",
+        "address": "Spinnerivn. 11 1632 Gamle Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0877475,
+          60.7963545
+        ]
+      },
+      "properties": {
+        "name": "Arnfinn Pedersen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16551-arnfinn-pedersen",
+        "address": "Vangsveien 121 2318 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Astvaldur Arthursson",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16562-astvaldur-arthursson",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Eirik Johan Solheim",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16662-eirik-johan-solheim",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Eugen Eide",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16705-eugen-eide",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Fidel Helgi Sanchez",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16712-fidel-helgi-sanchez",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7387222,
+          59.9214464
+        ]
+      },
+      "properties": {
+        "name": "Gisle Berge",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16749-gisle-berge",
+        "address": "Pilestredet park 7 0374 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0407676,
+          59.9536718
+        ]
+      },
+      "properties": {
+        "name": "Håkon Sjøbrend",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16771-hakon-sjobrend",
+        "address": "Dampsagveien 4 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Hans Jacob Rossebø",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16786-hans-jacob-rossebo",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Harald Hovind",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16799-harald-hovind",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5747117,
+          59.8977766
+        ]
+      },
+      "properties": {
+        "name": "Hendrik Frølich Stange Fuglesang",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16827-hendrik-frolich-stange-fuglesang",
+        "address": "Sandviksveien 26 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Ingi Thor Hauksson",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16853-ingi-thor-hauksson",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Jàkup Midjord",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16865-jakup-midjord",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1152977,
+          59.2828253
+        ]
+      },
+      "properties": {
+        "name": "Jan Hochnowski",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja. Har avtale vedKlinikk Forum",
+        "url": "https://www.legelisten.no/spesialister/16871-jan-hochnowski",
+        "address": "Pellygata 60 1706 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3575382,
+          60.3873504
+        ]
+      },
+      "properties": {
+        "name": "Jesper Blomquist",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16891-jesper-blomquist",
+        "address": "Starefossveien 39 5019 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3840398,
+          59.1311896
+        ]
+      },
+      "properties": {
+        "name": "Kristian Bjørgul",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16987-kristian-bjorgul",
+        "address": "Dyrendalsveien 13 C 1778 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Leif Pål Kristiansen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17017-leif-pal-kristiansen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Mads Oksum",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17031-mads-oksum",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6633801,
+          59.437368
+        ]
+      },
+      "properties": {
+        "name": "Martin  Nsubuga",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja. Har avtale vedKase Klinikken",
+        "url": "https://www.legelisten.no/spesialister/17064-martin-nsubuga",
+        "address": "Prinsens Gate 9, Helsehuset i Moss 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Morten Sørgård",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17083-morten-sorgard",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5615149,
+          60.882445
+        ]
+      },
+      "properties": {
+        "name": "Nikolai Paus Grova",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17096-nikolai-paus-grova",
+        "address": "Storgata 15 2408 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Odd Arve Lien",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17109-odd-arve-lien",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9969744,
+          58.1500483
+        ]
+      },
+      "properties": {
+        "name": "Odd-Geir Skogesal",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon med vilkår (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17115-odd-geir-skogesal",
+        "address": "Henrik Wergelands gate 79 4614 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Ola Wessel-Tingby",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17122-ola-wessel-tingby",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367897,
+          59.9188623
+        ]
+      },
+      "properties": {
+        "name": "Olav Beito Liavåg",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17132-olav-beito-liavag",
+        "address": "Lilleakerveien 23B 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Ole Kristian Alhaug",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17141-ole-kristian-alhaug",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Ole Rasmus Robak",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17145-ole-rasmus-robak",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7151642,
+          59.9292384
+        ]
+      },
+      "properties": {
+        "name": "Oliver Grundnes",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17149-oliver-grundnes",
+        "address": "Kirkeveien 64 a 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432642,
+          60.3605638
+        ]
+      },
+      "properties": {
+        "name": "Ove Kristian Austgulen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17154-ove-kristian-austgulen",
+        "address": "Minde allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8060723,
+          59.8924873
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Gallefoss",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17161-oyvind-gallefoss",
+        "address": "Ryensvingen 6 0680 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3970749,
+          58.2616998
+        ]
+      },
+      "properties": {
+        "name": "Saulius Rytas Lapinskas",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17251-saulius-rytas-lapinskas",
+        "address": "Senterveien 32 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Sigmar Jack",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17259-sigmar-jack",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Sjur Braaten",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17273-sjur-braaten",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026413,
+          63.4113594
+        ]
+      },
+      "properties": {
+        "name": "Skjalg Ytterstad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17274-skjalg-ytterstad",
+        "address": "Odd Iversens veg 4, Lerkendal stadion 7031 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0407676,
+          59.9536718
+        ]
+      },
+      "properties": {
+        "name": "Ståle Clementsen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17283-stale-clementsen",
+        "address": "Dampsagveien 4 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Stein Morten Sletten",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17290-stein-morten-sletten",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4153946,
+          59.2829367
+        ]
+      },
+      "properties": {
+        "name": "Terje Kleven",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17330-terje-kleven",
+        "address": "Trudvangveien 67 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Tom Henry Sundøen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17351-tom-henry-sundoen",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9665578,
+          59.2078346
+        ]
+      },
+      "properties": {
+        "name": "Tor Vedeler",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17358-tor-vedeler",
+        "address": "Spinnerivn. 11 1632 Gamle Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7151642,
+          59.9292384
+        ]
+      },
+      "properties": {
+        "name": "Christian Hellum",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18134-christian-hellum",
+        "address": "Kirkeveien 64 a 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Berte Marie Bøe",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18135-berte-marie-boe",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7769886,
+          59.8916738
+        ]
+      },
+      "properties": {
+        "name": "Marc Jacob Strauss",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18136-marc-jacob-strauss",
+        "address": "Ekebergveien 101 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7151642,
+          59.9292384
+        ]
+      },
+      "properties": {
+        "name": "Roger Trana",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18137-roger-trana",
+        "address": "Kirkeveien 64 a 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1746803,
+          60.1419084
+        ]
+      },
+      "properties": {
+        "name": "Steen Winter Christensen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18312-steen-winter-christensen",
+        "address": "Storgt.20 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1746803,
+          60.1419084
+        ]
+      },
+      "properties": {
+        "name": "Tony Kristensen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18313-tony-kristensen",
+        "address": "Storgt.20 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Espen Møller-Hansen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21766-espen-moller-hansen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Stig Hegna",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22497-stig-hegna",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Jan Ragnar Haugstvedt",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22498-jan-ragnar-haugstvedt",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Lars Eldar Myrseth",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22499-lars-eldar-myrseth",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Istvan Zoltan Rigo",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22500-istvan-zoltan-rigo",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Asbjørn Sorteberg",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22506-asbjorn-sorteberg",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.211342,
+          59.1350007
+        ]
+      },
+      "properties": {
+        "name": "Torben Ianssen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22640-torben-ianssen",
+        "address": "Skiringssalveien 24 3208 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.211342,
+          59.1350007
+        ]
+      },
+      "properties": {
+        "name": "Justin van Leeuwen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22641-justin-van-leeuwen",
+        "address": "Skiringssalveien 24 3208 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Ingo Spauke",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23591-ingo-spauke",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Nils Jørgen Strøm",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23778-nils-jorgen-strom",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Mentor Fejzulai",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25006-mentor-fejzulai",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Sigurd Erik Hoelsbrekken",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25220-sigurd-erik-hoelsbrekken",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Hanne Osnes-Ringen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgiSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25283-hanne-osnes-ringen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Gunnar Kristiansen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26803-bjorn-gunnar-kristiansen",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Stephan Thomassen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26804-stephan-thomassen",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Rune Gladhaug",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26805-rune-gladhaug",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Filip Celestyn Dolatowski",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27180-filip-celestyn-dolatowski",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Jonas Bjørdal",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27181-jonas-bjordal",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Ståle Myhrvold",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27187-stale-myhrvold",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232494,
+          59.7413889
+        ]
+      },
+      "properties": {
+        "name": "Erik Apollonius Rosenlund",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29267-erik-apollonius-rosenlund",
+        "address": "Tomtegata 36 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Saad Douglah",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29315-saad-douglah",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Tomas Eriksen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29387-tomas-eriksen",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Tor Rabe",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29388-tor-rabe",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4500743,
+          61.1136852
+        ]
+      },
+      "properties": {
+        "name": "Anders Larsen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29390-anders-larsen",
+        "address": "Strandpromenaden 76, Strandtorget 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Ante  Kalstad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29400-ante-kalstad",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "John Olav Stokke",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29401-john-olav-stokke",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9609058,
+          69.6523274
+        ]
+      },
+      "properties": {
+        "name": "Khaled Meknas",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29410-khaled-meknas",
+        "address": "Skippergata 7A 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6423727,
+          59.1382882
+        ]
+      },
+      "properties": {
+        "name": "Gijsbert Cornelis Roelof F. Nijenhuis",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29415-gijsbert-cornelis-roelof-f-nijenhuis",
+        "address": "Kulltangvegen 70, Down Town Kjøpesenter 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Bryan Wright",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29446-bryan-wright",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Henning Borgos",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29453-henning-borgos",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Morten Beier Havdal",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29462-morten-beier-havdal",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Stian Kjennvold",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29466-stian-kjennvold",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Vidar Opland",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29469-vidar-opland",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Eivind Inderhaug",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29493-eivind-inderhaug",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Esten Haanæs",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29494-esten-haanaes",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Elin Haarr",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29495-elin-haarr",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Nokhaiz B. Ahmad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29497-nokhaiz-b-ahmad",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Jebens Nordskar",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29509-jorgen-jebens-nordskar",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026413,
+          63.4113594
+        ]
+      },
+      "properties": {
+        "name": "Rune  Moan",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29514-rune-moan",
+        "address": "Odd Iversens veg 4, Lerkendal stadion 7031 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3970749,
+          58.2616998
+        ]
+      },
+      "properties": {
+        "name": "Tor-Johannes Stray Slørdahl",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29517-tor-johannes-stray-slordahl",
+        "address": "Senterveien 32 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Martin  Polacek",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29523-martin-polacek",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Hanne Rasmussen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29536-hanne-rasmussen",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Hebe Kvernmo",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29537-hebe-kvernmo",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Mette  Andersen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29540-mette-andersen",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7098902,
+          59.9306917
+        ]
+      },
+      "properties": {
+        "name": "Nasratullah Majid",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29542-nasratullah-majid",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Gilbert  Moatshe",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29548-gilbert-moatshe",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Sondre Hassellund",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29549-sondre-hassellund",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Endre Søreide",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29550-endre-soreide",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Robstad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29565-bjorn-robstad",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Morten Smedsrud",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29622-morten-smedsrud",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Asle B. Kjellsen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30122-asle-b-kjellsen",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Thor Gunnar Thurmann",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30144-thor-gunnar-thurmann",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691002,
+          60.7997552
+        ]
+      },
+      "properties": {
+        "name": "Dirk Clemens",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30201-dirk-clemens",
+        "address": "Tordenskjolds gate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8555108,
+          61.4503248
+        ]
+      },
+      "properties": {
+        "name": "Truls  Evjensvold",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30292-truls-evjensvold",
+        "address": "Hafstadvegen 39 6800 Førde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Kristian Marstrand Warholm",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30306-kristian-marstrand-warholm",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.648485,
+          59.1395137
+        ]
+      },
+      "properties": {
+        "name": "Asgeir Furnes",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30413-asgeir-furnes",
+        "address": "Friisebrygga 8 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Anders  Bruvoll",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30570-anders-bruvoll",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568697,
+          60.3772865
+        ]
+      },
+      "properties": {
+        "name": "Knut Rokstad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Lisens (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30597-knut-rokstad",
+        "address": "Møllendalsbakken 11 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568697,
+          60.3772865
+        ]
+      },
+      "properties": {
+        "name": "Alexander  Uchermann",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30598-alexander-uchermann",
+        "address": "Møllendalsbakken 11 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175157,
+          58.8695848
+        ]
+      },
+      "properties": {
+        "name": "Heinrich  Brüggemann",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30599-heinrich-bruggemann",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4153946,
+          59.2829367
+        ]
+      },
+      "properties": {
+        "name": "Vidar  Berg",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30628-vidar-berg",
+        "address": "Trudvangveien 67 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Paul  Søderman",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30629-paul-soderman",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6283297,
+          59.9493601
+        ]
+      },
+      "properties": {
+        "name": "Hamid Sarkandi",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30702-hamid-sarkandi",
+        "address": "Niels Leuchs vei 99 1359 Eiksmarka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Gard Anderssen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30768-gard-anderssen",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432642,
+          60.3605638
+        ]
+      },
+      "properties": {
+        "name": "Hjortur  Brynjolfsson",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30769-hjortur-brynjolfsson",
+        "address": "Minde allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432642,
+          60.3605638
+        ]
+      },
+      "properties": {
+        "name": "Frode Vindenes",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30773-frode-vindenes",
+        "address": "Minde allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568697,
+          60.3772865
+        ]
+      },
+      "properties": {
+        "name": "Yngvar  Krukhaug",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30774-yngvar-krukhaug",
+        "address": "Møllendalsbakken 11 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568697,
+          60.3772865
+        ]
+      },
+      "properties": {
+        "name": "Pål  Høvding",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30775-pal-hovding",
+        "address": "Møllendalsbakken 11 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3568697,
+          60.3772865
+        ]
+      },
+      "properties": {
+        "name": "Geir  Hallan",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30776-geir-hallan",
+        "address": "Møllendalsbakken 11 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7299452,
+          58.9667615
+        ]
+      },
+      "properties": {
+        "name": "Örlygur  Arnarson",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30778-orlygur-arnarson",
+        "address": "St. Olavs gate 6 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.077648,
+          60.7919065
+        ]
+      },
+      "properties": {
+        "name": "Lars  Hemstad",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30779-lars-hemstad",
+        "address": "Torggata 1 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Trygve Methlie",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31054-trygve-methlie",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Yngve Sporstøl",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31400-yngve-sporstol",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4153946,
+          59.2829367
+        ]
+      },
+      "properties": {
+        "name": "Per Nicolai Robertsen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32012-per-nicolai-robertsen",
+        "address": "Trudvangveien 67 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Marius Nerhagen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32176-marius-nerhagen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Henrik Nagelhus",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32177-henrik-nagelhus",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0480667,
+          59.9575751
+        ]
+      },
+      "properties": {
+        "name": "Pål Jeroen Huseby",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32204-pal-jeroen-huseby",
+        "address": "Storgata 26 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6237054,
+          59.0088101
+        ]
+      },
+      "properties": {
+        "name": "Ole Kristian Opsahl",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33222-ole-kristian-opsahl",
+        "address": "Harestadveien 16 4070 Randaberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Petter Morten Pettersen",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2016)Autorisasjon - Fysioterapeut (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34666-petter-morten-pettersen",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Nikola Radojicic",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon - Lege (2013)Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34667-nikola-radojicic",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Joao Reis",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "38 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34723-joao-reis",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Tomasz Rudnicki",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34815-tomasz-rudnicki",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Sigurd Liavaag",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86511-sigurd-liavaag",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7016724,
+          60.9286099
+        ]
+      },
+      "properties": {
+        "name": "Audun Bøhn",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86630-audun-bohn",
+        "address": "Møllergata 18 2390 Moelv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Steinar Sulheim",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86631-steinar-sulheim",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Are Haukåen Stødle",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86644-are-haukaen-stodle",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Anders Karlsten",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86645-anders-karlsten",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Jonas Rydinge",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86647-jonas-rydinge",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Tea Lerberg Berge",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86651-tea-lerberg-berge",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Skauby",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86865-fredrik-skauby",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0628605,
+          59.2950651
+        ]
+      },
+      "properties": {
+        "name": "Christian Amdahl",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86866-christian-amdahl",
+        "address": "Rådmann Siras vei 1, Tune Senter 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6633801,
+          59.437368
+        ]
+      },
+      "properties": {
+        "name": "Magne Røkkum",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Ortopedisk kirurgiOrtopedisk kirurgi (gren)",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86989-magne-rokkum",
+        "address": "Prinsens Gate 9, Helsehuset i Moss 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8022823,
+          59.8971165
+        ]
+      },
+      "properties": {
+        "name": "Espen Brouwer",
+        "profession": "Ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Ortopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87001-espen-brouwer",
+        "address": "Enebakkveien 150 0680 Oslo"
+      }
+    }
+  ]
+}

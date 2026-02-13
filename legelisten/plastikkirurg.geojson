@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6478655,
+          59.1386602
+        ]
+      },
+      "properties": {
+        "name": "Anadi Begic",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16510-anadi-begic",
+        "address": "Storgata 107 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Arne Roaldsnes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16543-arne-roaldsnes",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331444,
+          58.9639678
+        ]
+      },
+      "properties": {
+        "name": "Ayman Zakaria",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16573-ayman-zakaria",
+        "address": "Muségaten 18 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7556655,
+          59.9171176
+        ]
+      },
+      "properties": {
+        "name": "Beata Sande",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16575-beata-sande",
+        "address": "Hausmannsgate 8 0182 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Bjørn E. Rosenberg",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16603-bjorn-e-rosenberg",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Tore Haga",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16608-bjorn-tore-haga",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2778312,
+          60.2924679
+        ]
+      },
+      "properties": {
+        "name": "Christian Busch",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16626-christian-busch",
+        "address": "Sandslimarka 61-63 5254 Sandsli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Erik Berg",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16689-erik-berg",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Frank F Steinbach",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16720-frank-f-steinbach",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Georg Panczel",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16745-georg-panczel",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729628,
+          59.8977224
+        ]
+      },
+      "properties": {
+        "name": "Halfdan Vier Simensen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16775-halfdan-vier-simensen",
+        "address": "Sandviksveien 36 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7117797,
+          59.9310483
+        ]
+      },
+      "properties": {
+        "name": "Haris Mesic",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16805-haris-mesic",
+        "address": "Sørkedalsveien 7 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3532608,
+          60.3181434
+        ]
+      },
+      "properties": {
+        "name": "Hartmut Heisterkamp",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16806-hartmut-heisterkamp",
+        "address": "Nesttunvegen 98B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Håvard Seland",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16808-havard-seland",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7339006,
+          59.9592487
+        ]
+      },
+      "properties": {
+        "name": "Helge Einar Roald",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16822-helge-einar-roald",
+        "address": "Hamborgveien 8 0860 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Hilde Bugge",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16835-hilde-bugge",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Ivan Pavlovic",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16860-ivan-pavlovic",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6306979,
+          59.9062766
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Utvoll",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16914-jorgen-utvoll",
+        "address": "Fornebuveien 50 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Kathrin Sørensen Sneve",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16938-kathrin-sorensen-sneve",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7697023,
+          59.9476979
+        ]
+      },
+      "properties": {
+        "name": "Knut Chr. Skolleborg",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16980-knut-chr-skolleborg",
+        "address": "Sandakerveien 114 b 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7461293,
+          58.9478511
+        ]
+      },
+      "properties": {
+        "name": "Lars Berg-Larsen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17003-lars-berg-larsen",
+        "address": "Kvalebergveien 21 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410482,
+          59.9114885
+        ]
+      },
+      "properties": {
+        "name": "Marcus Eriksson",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17043-marcus-eriksson",
+        "address": "Øvre Slottsgate 4 0157 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Margareth Bruheim",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17045-margareth-bruheim",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2497825,
+          59.725921
+        ]
+      },
+      "properties": {
+        "name": "Margit Hammerstad",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17046-margit-hammerstad",
+        "address": "Svelvikveien 4 3040 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Marit Nordskar",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17052-marit-nordskar",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6306979,
+          59.9062766
+        ]
+      },
+      "properties": {
+        "name": "Marius Barstad",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "PlastikkirurgiThoraxkirurgi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17059-marius-barstad",
+        "address": "Fornebuveien 50 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6970074,
+          59.4424505
+        ]
+      },
+      "properties": {
+        "name": "Marthe Felloni",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17061-marthe-felloni",
+        "address": "Vålerveien 159 1599 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311438,
+          59.9479778
+        ]
+      },
+      "properties": {
+        "name": "Mette Haga",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "58 årTilbyr videokonsultasjon",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17072-mette-haga",
+        "address": "Sognsveien 70 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7213441,
+          59.9157997
+        ]
+      },
+      "properties": {
+        "name": "Amin Kalaaji",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17080-amin-kalaaji",
+        "address": "Inkognitogata 34 0256 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6863359,
+          59.9371372
+        ]
+      },
+      "properties": {
+        "name": "Morten Rynning Kveim",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1973)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17090-morten-rynning-kveim",
+        "address": "Smestadvn. 1 0372 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Nils Lykke",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17100-nils-lykke",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9015002,
+          69.6430226
+        ]
+      },
+      "properties": {
+        "name": "Odd Petter Elvenes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon med vilkår (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17114-odd-petter-elvenes",
+        "address": "Alaskasvingen 13 9013 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Ola Evjen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17125-ola-evjen",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7353068,
+          59.9498371
+        ]
+      },
+      "properties": {
+        "name": "Robert Hermann",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17237-robert-hermann",
+        "address": "Sognsveien 75E 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3494636,
+          60.3115634
+        ]
+      },
+      "properties": {
+        "name": "Stefan Emmes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17284-stefan-emmes",
+        "address": "Nesttunbrekka 95 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6863359,
+          59.9371372
+        ]
+      },
+      "properties": {
+        "name": "Svein Arthur Jensen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17307-svein-arthur-jensen",
+        "address": "Smestadvn. 1 0372 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2778312,
+          60.2924679
+        ]
+      },
+      "properties": {
+        "name": "Tom Inge Ørner",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17352-tom-inge-orner",
+        "address": "Sandslimarka 61-63 5254 Sandsli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7697023,
+          59.9476979
+        ]
+      },
+      "properties": {
+        "name": "Tomm K Bjærke",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17354-tomm-k-bjaerke",
+        "address": "Sandakerveien 114 b 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Ulf Bertheim",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon med vilkår (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17399-ulf-bertheim",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4152083,
+          59.2678061
+        ]
+      },
+      "properties": {
+        "name": "Vanja Busic",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Lisens (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17404-vanja-busic",
+        "address": "Bulls gate 2B 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311438,
+          59.9479778
+        ]
+      },
+      "properties": {
+        "name": "Marius Solli-Nilsen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "47 årTilbyr videokonsultasjon",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17820-marius-solli-nilsen",
+        "address": "Sognsveien 70 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Ausen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18227-kjersti-ausen",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7829952,
+          59.8817917
+        ]
+      },
+      "properties": {
+        "name": "Alexander Vigen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18263-alexander-vigen",
+        "address": "Kongsveien 91 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Alf Tore Aas",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18267-alf-tore-aas",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Erling Bjordal",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18273-erling-bjordal",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Bård Nordang",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21800-bard-nordang",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Zetlitz",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21860-elisabeth-zetlitz",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7829952,
+          59.8817917
+        ]
+      },
+      "properties": {
+        "name": "Harald Vindenes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22492-harald-vindenes",
+        "address": "Kongsveien 91 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0981202,
+          58.1805045
+        ]
+      },
+      "properties": {
+        "name": "Gudjon Gunnarsson",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22504-gudjon-gunnarsson",
+        "address": "Lauvåsen Hovedvei 1 4656 Hamresanden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7682461,
+          59.9496175
+        ]
+      },
+      "properties": {
+        "name": "Kenneth Chiu",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22732-kenneth-chiu",
+        "address": "Gullhaugveien 1 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9943713,
+          58.1468626
+        ]
+      },
+      "properties": {
+        "name": "Luis Carlos Caviglia",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22756-luis-carlos-caviglia",
+        "address": "Gyldenløves gate 11 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Pål Krøger",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23589-pal-kroger",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7311438,
+          59.9479778
+        ]
+      },
+      "properties": {
+        "name": "Ine T. Mørk",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "53 årTilbyr videokonsultasjon",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23593-ine-t-mork",
+        "address": "Sognsveien 70 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6478655,
+          59.1386602
+        ]
+      },
+      "properties": {
+        "name": "Tatjana Radovic",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon - Lege (2013)Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23779-tatjana-radovic",
+        "address": "Storgata 107 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7697023,
+          59.9476979
+        ]
+      },
+      "properties": {
+        "name": "Hilde Bjærke",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23880-hilde-bjaerke",
+        "address": "Sandakerveien 114 b 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7697023,
+          59.9476979
+        ]
+      },
+      "properties": {
+        "name": "Thomas Moe Berg",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23881-thomas-moe-berg",
+        "address": "Sandakerveien 114 b 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7117797,
+          59.9310483
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Christian Brøndmo",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24752-bjorn-christian-brondmo",
+        "address": "Sørkedalsveien 7 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Børge Davik",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25001-borge-davik",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Tine Cecilie Sælensminde Wingsternes",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25222-tine-cecilie-saelensminde-wingsternes",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7098902,
+          59.9306917
+        ]
+      },
+      "properties": {
+        "name": "Kjell Vidar Husnes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25524-kjell-vidar-husnes",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8022823,
+          59.8971165
+        ]
+      },
+      "properties": {
+        "name": "Ståle Buhagen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25623-stale-buhagen",
+        "address": "Enebakkveien 150 0680 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Charles Filip",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26946-charles-filip",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Ingemar Havemann",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26947-ingemar-havemann",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Trude Staalesen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27191-trude-staalesen",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2284373,
+          59.7432143
+        ]
+      },
+      "properties": {
+        "name": "Martin Johns Jørgensen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29258-martin-johns-jorgensen",
+        "address": "Engene 116 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Hans Christian Sylvester-Jensen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon - Lege (2005)Autorisasjon - Tannlege (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29327-hans-christian-sylvester-jensen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Paul Egil Gravem",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29363-paul-egil-gravem",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Thale Gjessing Uchermann Riisøen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29373-thale-gjessing-uchermann-riisoen",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Marit Catherine Orhagen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29418-marit-catherine-orhagen",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Andreas Svee",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29423-andreas-svee",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Ingeborg  Rydningen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29508-ingeborg-rydningen",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.958909,
+          69.6504473
+        ]
+      },
+      "properties": {
+        "name": "Anne Maret Guttorm Dønland",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29532-anne-maret-guttorm-donland",
+        "address": "Sjøgata 31-33 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7098902,
+          59.9306917
+        ]
+      },
+      "properties": {
+        "name": "Martin Haugen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29543-martin-haugen",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Ashwin  Reddy",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30143-ashwin-reddy",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6478655,
+          59.1386602
+        ]
+      },
+      "properties": {
+        "name": "Rikard Dammen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30145-rikard-dammen",
+        "address": "Storgata 107 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Nina Oliver",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30164-nina-oliver",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Maria Vatne",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30165-maria-vatne",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6306979,
+          59.9062766
+        ]
+      },
+      "properties": {
+        "name": "Axel Rein Barstad",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30574-axel-rein-barstad",
+        "address": "Fornebuveien 50 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Kirsten  Kleppe",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30582-kirsten-kleppe",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6745583,
+          58.9524637
+        ]
+      },
+      "properties": {
+        "name": "Kristin Ochoa Furholt",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30585-kristin-ochoa-furholt",
+        "address": "Madlastokken 5 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.637014,
+          59.9190959
+        ]
+      },
+      "properties": {
+        "name": "Kristina Vaisvilaite",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30904-kristina-vaisvilaite",
+        "address": "Lilleakerveien 23B 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Eivind Strandenes",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31055-eivind-strandenes",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Martin Sollie",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31429-martin-sollie",
+        "address": "Sørkedalsveien 10d 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Peder Ikander",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31430-peder-ikander",
+        "address": "Sørkedalsveien 10d 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Åshild Berentzen",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32095-ashild-berentzen",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7682461,
+          59.9496175
+        ]
+      },
+      "properties": {
+        "name": "Jes Rødgaard",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32107-jes-rodgaard",
+        "address": "Gullhaugveien 1 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Solveig Gjengedal",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34754-solveig-gjengedal",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7353068,
+          59.9498371
+        ]
+      },
+      "properties": {
+        "name": "Nikolina Lalou",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/80876-nikolina-lalou",
+        "address": "Sognsveien 75E 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Håvard Nordgaard",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86099-havard-nordgaard",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3318116,
+          60.3914555
+        ]
+      },
+      "properties": {
+        "name": "Ileana Rodríguez Standal",
+        "profession": "Plastikkirurg",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87008-ileana-rodriguez-standal",
+        "address": "Marken 32 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Rød",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87226-oyvind-rod",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3660663,
+          60.3475253
+        ]
+      },
+      "properties": {
+        "name": "Hans Christian Sylvester-Jensen",
+        "profession": "Plastikkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Plastikkirurgi",
+        "godkjenning": "Autorisasjon - Lege (2005)Autorisasjon - Tannlege (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13004-hans-christian-sylvester-jensen",
+        "address": "Nattlandsfjellet 1 A 5098 Bergen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7272052,
+          59.9335601
+        ]
+      },
+      "properties": {
+        "name": "Helge Christen Risheim",
+        "profession": "Maxillofacial kirurg, oralkirurg og plastikkirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Maxillofacial kirurgiOral-kirurgi og oralmedisinPlastikkirurgi",
+        "godkjenning": "Autorisasjon - Lege (1999)Autorisasjon - Tannlege (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10956-helge-christen-risheim",
+        "address": "Kirkeveien 131 0361 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7098902,
+          59.9306917
+        ]
+      },
+      "properties": {
+        "name": "Espen Lindholm",
+        "profession": "Anestesilege og indremedisiner",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "AnestesiologiIndremedisin",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24660-espen-lindholm",
+        "address": "Sørkedalsveien 10C 0369 Oslo"
+      }
+    }
+  ]
+}

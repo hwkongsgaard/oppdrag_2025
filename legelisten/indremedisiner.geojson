@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0459487,
+          59.9557235
+        ]
+      },
+      "properties": {
+        "name": "Johannes  Barstad",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "BlodsykdommerIndremedisinInfeksjonssykdommer",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15345-johannes-barstad",
+        "address": "Adolf Tidemandsgt. 20 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Tom Fjornes",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15381-tom-fjornes",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Dag Anders Rustad",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "IndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15393-dag-anders-rustad",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Knut Spæren",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "IndremedisinInfeksjonssykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15395-knut-spaeren",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9369021,
+          59.2122926
+        ]
+      },
+      "properties": {
+        "name": "Anita Remme",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15407-anita-remme",
+        "address": "Storgata 10 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2192084,
+          59.1314423
+        ]
+      },
+      "properties": {
+        "name": "Asgeir Græsdal",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15425-asgeir-graesdal",
+        "address": "Aagaards plass 5 3211 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6969563,
+          58.8907103
+        ]
+      },
+      "properties": {
+        "name": "Steinar Berntsen",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15454-steinar-berntsen",
+        "address": "Vestre Svanholmen 14 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7408369,
+          59.9179036
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Hasle",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "IndremedisinInfeksjonssykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24215-gunnar-hasle",
+        "address": "St. Olavs plass 3 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7016724,
+          60.9286099
+        ]
+      },
+      "properties": {
+        "name": "Trond Fladsrud",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27219-trond-fladsrud",
+        "address": "Møllergata 18 2390 Moelv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Jan Bertil  Eggesbø",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "IndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29431-jan-bertil-eggesbo",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Anne Tonay Carlsen",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "BlodsykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29444-anne-tonay-carlsen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Fredrik  Schjesvold",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29451-fredrik-schjesvold",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Terje Apeland",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "IndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29499-terje-apeland",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4013806,
+          63.4341118
+        ]
+      },
+      "properties": {
+        "name": "Kine  Holm",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30640-kine-holm",
+        "address": "Brattørgata 10 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5973245,
+          59.1917745
+        ]
+      },
+      "properties": {
+        "name": "Trude Belseth  Sanden",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "IndremedisinSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30704-trude-belseth-sanden",
+        "address": "Ulefossvegen 51 3730 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6222316,
+          59.9006523
+        ]
+      },
+      "properties": {
+        "name": "Kirsten G.  Walaas",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30705-kirsten-g-walaas",
+        "address": "Forneburingen 5 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7138178,
+          59.9164176
+        ]
+      },
+      "properties": {
+        "name": "Ruth Foseide Thorkildsen",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30944-ruth-foseide-thorkildsen",
+        "address": "Niels Juels Gate 38 0257 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7387222,
+          59.9214464
+        ]
+      },
+      "properties": {
+        "name": "Ellen Samuelsen",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "IndremedisinInfeksjonssykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32278-ellen-samuelsen",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Markus  Warncke",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32332-markus-warncke",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Erik Hexeberg",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85948-erik-hexeberg",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9389181,
+          59.2123072
+        ]
+      },
+      "properties": {
+        "name": "Adeel Anwar",
+        "profession": "Indremedisiner",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Akutt- og mottaksmedisinIndremedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86736-adeel-anwar",
+        "address": "Nygaardsgata 36 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7367458,
+          59.9130099
+        ]
+      },
+      "properties": {
+        "name": "Samira Lekhal",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87012-samira-lekhal",
+        "address": "Tordenskiolds gate 2 0160 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3209553,
+          60.3943492
+        ]
+      },
+      "properties": {
+        "name": "Asha Sundaran Blåsternes",
+        "profession": "Indremedisiner",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Indremedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87303-asha-sundaran-blasternes",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    }
+  ]
+}

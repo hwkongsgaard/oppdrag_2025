@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2025706,
+          59.7440858
+        ]
+      },
+      "properties": {
+        "name": "Jon Edgar Selvåg",
+        "profession": "Allmennlegespesialist og hudlege",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "AllmennmedisinHud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon med vilkår (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15232-jon-edgar-selvag",
+        "address": "Øvre Storgate 4-6 3018 Drammen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0336548,
+          60.004215
+        ]
+      },
+      "properties": {
+        "name": "Knut Risberg",
+        "profession": "Allmennlegespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "AllmennmedisinIndremedisin",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15359-knut-risberg",
+        "address": "Presthagaveien 20 2020 Skedsmokorset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7389263,
+          58.853393
+        ]
+      },
+      "properties": {
+        "name": "Monika Usowicz-Kogut",
+        "profession": "Allmennlegespesialist og indremedisiner",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "AllmennmedisinIndremedisin",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86745-monika-usowicz-kogut",
+        "address": "Vågsgata 40 4306 Sandnes"
+      }
+    }
+  ]
+}

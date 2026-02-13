@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3676608,
+          60.3502015
+        ]
+      },
+      "properties": {
+        "name": "Grzegorz Gradek",
+        "profession": "Hjertespesialist, indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "HjertesykdommerIndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15438-grzegorz-gradek",
+        "address": "Kolstien 1 5097 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7323339,
+          58.9731791
+        ]
+      },
+      "properties": {
+        "name": "Finn jr. Finsnes",
+        "profession": "Hjertespesialist, indremedisiner og lungespesialist",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "HjertesykdommerIndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15457-finn-jr-finsnes",
+        "address": "Kirkegata 48 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3245671,
+          60.3893026
+        ]
+      },
+      "properties": {
+        "name": "Hilde Lunde  Tjora",
+        "profession": "Hjertespesialist, indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "HjertesykdommerIndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29213-hilde-lunde-tjora",
+        "address": "Nygårdsgaten 4 5015 Bergen"
+      }
+    }
+  ]
+}

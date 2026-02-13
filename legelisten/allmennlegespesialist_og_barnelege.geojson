@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Svein-Kåre Skeide",
+        "profession": "Allmennlegespesialist og barnelege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "AllmennmedisinBarnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29628-svein-kare-skeide",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    }
+  ]
+}

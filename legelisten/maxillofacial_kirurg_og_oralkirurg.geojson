@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7658526,
+          59.9491031
+        ]
+      },
+      "properties": {
+        "name": "Karl Iver Hanvold",
+        "profession": "Maxillofacial kirurg og oralkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Maxillofacial kirurgiOral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon - Lege (2009)Autorisasjon - Tannlege (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11903-karl-iver-hanvold",
+        "address": "Nydalsveien 33 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6621538,
+          63.6913983
+        ]
+      },
+      "properties": {
+        "name": "Christoph Mike Ziegler",
+        "profession": "Maxillofacial kirurg og oralkirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Maxillofacial kirurgiOral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon - Lege (2000)Autorisasjon - Tannlege (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6773-christoph-mike-ziegler",
+        "address": "Yrjars gate 29 7130 Brekstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9541359,
+          59.9270436
+        ]
+      },
+      "properties": {
+        "name": "Even Mjøen",
+        "profession": "Maxillofacial kirurg og oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Maxillofacial kirurgiOral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon - Lege (2009)Autorisasjon - Tannlege (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8708-even-mjoen",
+        "address": "Skårersletta 10 1473 Lørenskog"
+      }
+    }
+  ]
+}

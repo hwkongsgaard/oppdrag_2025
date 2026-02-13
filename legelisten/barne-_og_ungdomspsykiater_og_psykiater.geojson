@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643914,
+          59.9565345
+        ]
+      },
+      "properties": {
+        "name": "Christian Hjort",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16632-christian-hjort",
+        "address": "Gjerdrums vei 19 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7071136,
+          59.9311568
+        ]
+      },
+      "properties": {
+        "name": "Elsa Neegaard Mjellem",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16682-elsa-neegaard-mjellem",
+        "address": "Fridtjof Nansens vei 17 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92745,
+          59.2120979
+        ]
+      },
+      "properties": {
+        "name": "Grete Hartviksen",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatriPsykoterapiveileder - B.U.P.",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja. Har avtale vedGrete Hartviksen",
+        "url": "https://www.legelisten.no/spesialister/16757-grete-hartviksen",
+        "address": "Jens Wilhelmsens gate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7387222,
+          59.9214464
+        ]
+      },
+      "properties": {
+        "name": "Hilde  Bækken",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16836-hilde-baekken",
+        "address": "Pilestredet park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7643565,
+          59.9472911
+        ]
+      },
+      "properties": {
+        "name": "Randi Ulberg",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17222-randi-ulberg",
+        "address": "Nydalsveien 15 0319 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7396293,
+          59.9148054
+        ]
+      },
+      "properties": {
+        "name": "Rune Johansen",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatriPsykoterapiveileder - B.U.P.",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17247-rune-johansen",
+        "address": "Rosenkrantzgt 7 0159 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109663,
+          59.9263878
+        ]
+      },
+      "properties": {
+        "name": "Øystein Gundersen",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29100-oystein-gundersen",
+        "address": "Ulvenveien 80B 0581 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982729,
+          63.4337045
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Melland  Brandtzæg",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29172-kjersti-melland-brandtzaeg",
+        "address": "Olav Tryggvasons gate 24 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.937139,
+          59.2137487
+        ]
+      },
+      "properties": {
+        "name": "Patrick  Seyfried",
+        "profession": "Barne- og ungdomspsykiater og psykiater",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykiatri",
+        "godkjenning": "Autorisasjon med vilkår (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29711-patrick-seyfried",
+        "address": "Farmannsgate 1 1607 Fredrikstad"
+      }
+    }
+  ]
+}

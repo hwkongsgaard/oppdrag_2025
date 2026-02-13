@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9968881,
+          59.2458588
+        ]
+      },
+      "properties": {
+        "name": "Terje Torp",
+        "profession": "Allmennlegespesialist, indremedisiner, lungespesialist og psykologspesialist",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "AllmennmedisinIndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/psykologer/34684-terje-torp",
+        "address": "Orreveien 26 1661 Rolvsøy"
+      }
+    }
+  ]
+}

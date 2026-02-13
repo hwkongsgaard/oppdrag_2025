@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Anne Elisabeth Isern",
+        "profession": "Gynekolog og plastikkirurg",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommerPlastikkirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14956-anne-elisabeth-isern",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    }
+  ]
+}

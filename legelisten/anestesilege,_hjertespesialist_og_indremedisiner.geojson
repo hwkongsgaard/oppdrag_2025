@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679214,
+          60.3563167
+        ]
+      },
+      "properties": {
+        "name": "Knut Ståle Erga",
+        "profession": "Anestesilege, hjertespesialist og indremedisiner",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "AnestesiologiHjertesykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15436-knut-stale-erga",
+        "address": "Nattlandsveien 89 5094 Bergen"
+      }
+    }
+  ]
+}

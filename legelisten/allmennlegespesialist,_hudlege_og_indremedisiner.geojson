@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Olaf Harald Antonsen",
+        "profession": "Allmennlegespesialist, hudlege og indremedisiner",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "AllmennmedisinHud og veneriske sykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24566-olaf-harald-antonsen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    }
+  ]
+}

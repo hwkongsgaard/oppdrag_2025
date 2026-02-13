@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Bjarne Lied",
+        "profession": "Nevrokirurg og ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "NevrokirurgiOrtopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16592-bjarne-lied",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    }
+  ]
+}

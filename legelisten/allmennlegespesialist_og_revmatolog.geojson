@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6832774,
+          58.9530693
+        ]
+      },
+      "properties": {
+        "name": "Sam​​​ Aiobian",
+        "profession": "Allmennlegespesialist og revmatolog",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "AllmennmedisinRevmatologi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29199-sam-aiobian",
+        "address": "Madlamarkveien 2A 4041 Hafrsfjord"
+      }
+    }
+  ]
+}

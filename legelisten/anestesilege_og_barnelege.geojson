@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7697023,
+          59.9476979
+        ]
+      },
+      "properties": {
+        "name": "Jacob Berg Thomassen",
+        "profession": "Anestesilege og barnelege",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "AnestesiologiBarnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23882-jacob-berg-thomassen",
+        "address": "Sandakerveien 114 b 0484 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2294 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Saeedeh Bagheri Helland",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10066-saeedeh-bagheri-helland",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6953865,
+          59.9171114
+        ]
+      },
+      "properties": {
+        "name": "Amir Sepehr Mollaye Moghaddam",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10309-amir-sepehr-mollaye-moghaddam",
+        "address": "Drammensveien 102 G 0273 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3238447,
+          60.3939824
+        ]
+      },
+      "properties": {
+        "name": "Ketil Moen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10381-ketil-moen",
+        "address": "Broegelmannhuset Tannhelsesenter Strandgaten 5 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7332197,
+          58.9163768
+        ]
+      },
+      "properties": {
+        "name": "Roshi Frafjord",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10427-roshi-frafjord",
+        "address": "Kanalpiren, Laberget 28 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1531554,
+          62.4714543
+        ]
+      },
+      "properties": {
+        "name": "Paul Åsmund Vågen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10711-paul-asmund-vagen",
+        "address": "Notenesgata 3 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2005086,
+          59.7391119
+        ]
+      },
+      "properties": {
+        "name": "Gudmundur Asgeir Bjørnsson",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10889-gudmundur-asgeir-bjornsson",
+        "address": "Torgeir Vraasplass 6 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4060487,
+          63.4318304
+        ]
+      },
+      "properties": {
+        "name": "Murwan Mustafa Idris",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11031-murwan-mustafa-idris",
+        "address": "Nedre Bakklandet 58c 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Hanne Kleven Ingstad",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11100-hanne-kleven-ingstad",
+        "address": "Sørkedalsveien 10 C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7579057,
+          59.9141052
+        ]
+      },
+      "properties": {
+        "name": "Gholam  Soltani",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11116-gholam-soltani",
+        "address": "Christian Krohgs Gate 2 0186 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Kubon",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11167-bjorn-kubon",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2165948,
+          59.1313095
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Harald Widar",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11171-fredrik-harald-widar",
+        "address": "Thor Dahlsg 1-5, Oppg E 3201 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6723423,
+          59.9595
+        ]
+      },
+      "properties": {
+        "name": "Johanna Elisabeth Rykke Berstad",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11191-johanna-elisabeth-rykke-berstad",
+        "address": "Doktor Holms Vei 20 0787 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0759376,
+          60.7941652
+        ]
+      },
+      "properties": {
+        "name": "Gry Karina Kjølle",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11346-gry-karina-kjolle",
+        "address": "Østregate 23 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8101517,
+          59.860563
+        ]
+      },
+      "properties": {
+        "name": "Andreas Karatsaidis",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11407-andreas-karatsaidis",
+        "address": "Nordstrandveien 62 1164 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1752798,
+          60.146462
+        ]
+      },
+      "properties": {
+        "name": "Zina Emami Kristiansen",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11416-zina-emami-kristiansen",
+        "address": "Ringveien 23 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1952853,
+          59.7427382
+        ]
+      },
+      "properties": {
+        "name": "Else Kristine Breivik Hals",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11447-else-kristine-breivik-hals",
+        "address": "Grønland 40 3045 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7344436,
+          59.9132216
+        ]
+      },
+      "properties": {
+        "name": "Marianne Tingberg",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11480-marianne-tingberg",
+        "address": "Fridtjof Nansens Plass 5 0160 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Torbjørn Østvik Pedersen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11564-torbjorn-ostvik-pedersen",
+        "address": "Åsane Senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7684233,
+          58.4601585
+        ]
+      },
+      "properties": {
+        "name": "Endre Hellem",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11736-endre-hellem",
+        "address": "Langbryggen 5 4841 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7272052,
+          59.9335601
+        ]
+      },
+      "properties": {
+        "name": "Frode Jonny Øye",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11761-frode-jonny-oye",
+        "address": "Kirkeveien 131 0361 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3642129,
+          59.8141488
+        ]
+      },
+      "properties": {
+        "name": "Heming Olsen-Bergem",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11977-heming-olsen-bergem",
+        "address": "Engelsrudlia 51 1385 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2005086,
+          59.7391119
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Misje",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12004-kjetil-misje",
+        "address": "Torgeir Vraasplass 6 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5425266,
+          68.798477
+        ]
+      },
+      "properties": {
+        "name": "Paula Hanna Therese Frid",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12093-paula-hanna-therese-frid",
+        "address": "Storgata 9 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9515972,
+          69.6473602
+        ]
+      },
+      "properties": {
+        "name": "Hans Thomas Brox",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12187-hans-thomas-brox",
+        "address": "Grønnegata 32 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5298961,
+          67.2841716
+        ]
+      },
+      "properties": {
+        "name": "Martin Ragnar Skjerve Madsen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12210-martin-ragnar-skjerve-madsen",
+        "address": "Hestdalen 7 8023 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9105426,
+          59.2303221
+        ]
+      },
+      "properties": {
+        "name": "Tor-Eirik Holt",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon med vilkår (2024)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12373-tor-eirik-holt",
+        "address": "Storveien 3A 1624 Gressvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Gudveig Cecilie Gjerde Gjengedal",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12447-gudveig-cecilie-gjerde-gjengedal",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3238447,
+          60.3939824
+        ]
+      },
+      "properties": {
+        "name": "Sigbjørn Suk Løes",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12458-sigbjorn-suk-loes",
+        "address": "Strandgaten 5 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4261602,
+          60.6291291
+        ]
+      },
+      "properties": {
+        "name": "Jarle Svalestad",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12468-jarle-svalestad",
+        "address": "Uttrågata 36 5701 Voss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7799122,
+          63.1106221
+        ]
+      },
+      "properties": {
+        "name": "Karl Fredrik Edward Kristian Ahlgren",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12477-karl-fredrik-edward-kristian-ahlgren",
+        "address": "Industriveien 17 6517 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7225701,
+          58.8787449
+        ]
+      },
+      "properties": {
+        "name": "Attila Csillik",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12553-attila-csillik",
+        "address": "Luramyrveien 12 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6623967,
+          59.4355936
+        ]
+      },
+      "properties": {
+        "name": "Gaute Lyngstad",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12610-gaute-lyngstad",
+        "address": "Dronningensgate 19 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4236414,
+          58.0318107
+        ]
+      },
+      "properties": {
+        "name": "Katja Franke",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12688-katja-franke",
+        "address": "Leiervollen 1 A 4513 Mandal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0061203,
+          58.1507212
+        ]
+      },
+      "properties": {
+        "name": "Dag Tvedt",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12745-dag-tvedt",
+        "address": "Nedre Lunds Vei 1 4630 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0934936,
+          62.6224281
+        ]
+      },
+      "properties": {
+        "name": "Aline Brecht",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12778-aline-brecht",
+        "address": "Sjøgata 34 6390 Vestnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2807197,
+          63.7353833
+        ]
+      },
+      "properties": {
+        "name": "Ingvild Årøen Lein",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12875-ingvild-aroen-lein",
+        "address": "Moafjæra 10 7600 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5609041,
+          60.8829855
+        ]
+      },
+      "properties": {
+        "name": "Erik Bie",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12908-erik-bie",
+        "address": "Storgata 7B 2408 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465998,
+          61.1154588
+        ]
+      },
+      "properties": {
+        "name": "Wolfgang Michael Feiler",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12962-wolfgang-michael-feiler",
+        "address": "Storgata 64B, 2. etg. 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2673405,
+          59.4149838
+        ]
+      },
+      "properties": {
+        "name": "Ala Muhamad Ammin",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13015-ala-muhamad-ammin",
+        "address": "Haraldsgaten 177 5525 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2938158,
+          59.4038127
+        ]
+      },
+      "properties": {
+        "name": "Gregor Philipp Volz",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13123-gregor-philipp-volz",
+        "address": "Karmsundgata 59B 5531 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0497358,
+          69.7264507
+        ]
+      },
+      "properties": {
+        "name": "Dagfinn Nilsen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13214-dagfinn-nilsen",
+        "address": "Presteveien 10 9900 Kirkenes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5802948,
+          60.9595198
+        ]
+      },
+      "properties": {
+        "name": "Jarle Hillestad",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13284-jarle-hillestad",
+        "address": "Øverbygdsvegen 159 2836 Biri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7523109,
+          59.380979
+        ]
+      },
+      "properties": {
+        "name": "Carl Göran Widmark",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13416-carl-goran-widmark",
+        "address": "Ryggeveien 353B 1580 Rygge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0058101,
+          59.7569294
+        ]
+      },
+      "properties": {
+        "name": "Siv Forsberg Hansen",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13424-siv-forsberg-hansen",
+        "address": "Bruveien 12 3055 Krokstadelva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2289217,
+          59.127778
+        ]
+      },
+      "properties": {
+        "name": "Eivind Andersen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13445-eivind-andersen",
+        "address": "Thor Dahls gate 1 3210 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Ulf Stuge",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13610-ulf-stuge",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7629584,
+          58.4623222
+        ]
+      },
+      "properties": {
+        "name": "Ove Busch",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13657-ove-busch",
+        "address": "Vestregate 14 4838 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Petter Oscar Lind",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13698-petter-oscar-lind",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3877284,
+          63.4302684
+        ]
+      },
+      "properties": {
+        "name": "Tamás Hasulyó",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14310-tamas-hasulyo",
+        "address": "Kongens gate 49 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3848388,
+          67.2856123
+        ]
+      },
+      "properties": {
+        "name": "Therese Thoresen",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14337-therese-thoresen",
+        "address": "Sjøgata 31 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432563,
+          60.3605769
+        ]
+      },
+      "properties": {
+        "name": "Umar Sharif",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14352-umar-sharif",
+        "address": "Minde allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6373378,
+          59.9124013
+        ]
+      },
+      "properties": {
+        "name": "Kristine Eidal Tanem",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14356-kristine-eidal-tanem",
+        "address": "Lysaker torg 5 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6291781,
+          59.8949221
+        ]
+      },
+      "properties": {
+        "name": "Leonardo Carone",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14430-leonardo-carone",
+        "address": "Martin Linges vei 25 1364 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1262458,
+          60.3583721
+        ]
+      },
+      "properties": {
+        "name": "Farnoush Tousi",
+        "profession": "Oralkirurg",
+        "gender": null,
+        "age": null,
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14432-farnoush-tousi",
+        "address": "Sartorvegen 12 5353 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6495681,
+          59.6717964
+        ]
+      },
+      "properties": {
+        "name": "Hassan Tariq",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/17523-hassan-tariq",
+        "address": "Herman Foss gate 4 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1611183,
+          59.9278642
+        ]
+      },
+      "properties": {
+        "name": "Modassar Amin",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/17845-modassar-amin",
+        "address": "Gamle Fetvei 11 1900 Fetsund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1752798,
+          60.146462
+        ]
+      },
+      "properties": {
+        "name": "Jörgen Tjernberg",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/18011-jorgen-tjernberg",
+        "address": "Ringveien 23 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3527647,
+          62.4655697
+        ]
+      },
+      "properties": {
+        "name": "Dag Petter Nilsen Tingvoll",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon - Tannlege (2015)Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/18349-dag-petter-nilsen-tingvoll",
+        "address": "Langelandsveien 35 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Nino Buonocunto",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/21684-nino-buonocunto",
+        "address": "Sørkedalsveien 10 C 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.323012,
+          60.3938942
+        ]
+      },
+      "properties": {
+        "name": "Norbert Velich",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/22432-norbert-velich",
+        "address": "Strandgaten 6 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7560545,
+          59.9071067
+        ]
+      },
+      "properties": {
+        "name": "Jaehyun Sim",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23203-jaehyun-sim",
+        "address": "Operagata 15 0194 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563945,
+          59.9120546
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Moafi",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23809-mohammad-moafi",
+        "address": "Schweigaards gate 6, 4. etasje 0185 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2711975,
+          60.3300265
+        ]
+      },
+      "properties": {
+        "name": "Alexandru Oanca",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24330-alexandru-oanca",
+        "address": "Nedre Vilberg veg 8 2080 Eidsvoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3248782,
+          60.3924922
+        ]
+      },
+      "properties": {
+        "name": "Brigitta Bencsik",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24829-brigitta-bencsik",
+        "address": "Rådhusgaten 4 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7580827,
+          59.9535397
+        ]
+      },
+      "properties": {
+        "name": "Lars Peter Sand",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon - Lege (2017)Autorisasjon - Tannlege (2017)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27013-lars-peter-sand",
+        "address": "Bergrådveien 13 0873 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9345998,
+          59.2141387
+        ]
+      },
+      "properties": {
+        "name": "Felicia Svetlana  Suska",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27135-felicia-svetlana-suska",
+        "address": "Farmanns Gate 13 B 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9372431,
+          59.2139331
+        ]
+      },
+      "properties": {
+        "name": "Dominik Cap",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2021)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27206-dominik-cap",
+        "address": "Farmansgate 2 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3313096,
+          60.3920985
+        ]
+      },
+      "properties": {
+        "name": "Andreas Skaale Sælen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27239-andreas-skaale-saelen",
+        "address": "Tverrgaten 7 /11 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2120514,
+          59.7425864
+        ]
+      },
+      "properties": {
+        "name": "Algimantas Gaubys",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "31 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27347-algimantas-gaubys",
+        "address": "Nedre Storgate 29 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0010271,
+          59.2562884
+        ]
+      },
+      "properties": {
+        "name": "Haitham Akram Afif",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/27723-haitham-akram-afif",
+        "address": "Dikeveien 48 1661 Rolvsøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7070899,
+          59.9212236
+        ]
+      },
+      "properties": {
+        "name": "Puria Parvini",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/32013-puria-parvini",
+        "address": "Tidemands Gate 2 0266 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3237488,
+          60.393355
+        ]
+      },
+      "properties": {
+        "name": "Arild Kvalheim",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6988-arild-kvalheim",
+        "address": "Torgallmenningen 3b 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Njål Lekven",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6992-njal-lekven",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7516308,
+          59.9651289
+        ]
+      },
+      "properties": {
+        "name": "Lasse Ansgar Skoglund",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7020-lasse-ansgar-skoglund",
+        "address": "Grinda 4 D 0861 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.743508,
+          59.9338543
+        ]
+      },
+      "properties": {
+        "name": "Tore Bjørnland",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7024-tore-bjornland",
+        "address": "Geitmyrsveien 71 0455 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3780168,
+          67.2839157
+        ]
+      },
+      "properties": {
+        "name": "Roar Sture Karstensen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7080-roar-sture-karstensen",
+        "address": "Storgata 3b 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3223061,
+          60.3945547
+        ]
+      },
+      "properties": {
+        "name": "Rolf Sælen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7174-rolf-saelen",
+        "address": "Fortunen 1 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6082623,
+          59.2077706
+        ]
+      },
+      "properties": {
+        "name": "Eva Sawicki-Vladimirov",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7276-eva-sawicki-vladimirov",
+        "address": "Telemarksgata 12 3724 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8101517,
+          59.860563
+        ]
+      },
+      "properties": {
+        "name": "Janicke Cecilie Liaaen Jensen",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7315-janicke-cecilie-liaaen-jensen",
+        "address": "Nordstrandveien 62 1164 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07338,
+          60.7917563
+        ]
+      },
+      "properties": {
+        "name": "Ulf Erik Jonsson",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7351-ulf-erik-jonsson",
+        "address": "Lille Strandgate 3 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9594252,
+          69.6506951
+        ]
+      },
+      "properties": {
+        "name": "Bernt Arne Rønbeck",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7358-bernt-arne-ronbeck",
+        "address": "Sjøgata 39, Fiskernes hus 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833915,
+          58.9530884
+        ]
+      },
+      "properties": {
+        "name": "Mindaugas Brukas",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7385-mindaugas-brukas",
+        "address": "Madlamarkveien 2a 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0257768,
+          58.1507917
+        ]
+      },
+      "properties": {
+        "name": "Jon Bård Alvsaker",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7862-jon-bard-alvsaker",
+        "address": "Industrigata 4 4632 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7061264,
+          59.9204745
+        ]
+      },
+      "properties": {
+        "name": "Seong Hwan Jeon",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7997-seong-hwan-jeon",
+        "address": "Magnus Bergs Gate 3c 0266 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Øystein Langeland",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8010-oystein-langeland",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.727497,
+          59.9105443
+        ]
+      },
+      "properties": {
+        "name": "Hauk Øyri",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8050-hauk-oyri",
+        "address": "Grundingen 6 0250 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7225701,
+          58.8787449
+        ]
+      },
+      "properties": {
+        "name": "Peter Schleier",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8105-peter-schleier",
+        "address": "Luramyrveien 12 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7376172,
+          58.9489415
+        ]
+      },
+      "properties": {
+        "name": "Vegard Drange Østensjø",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8151-vegard-drange-ostensjo",
+        "address": "Torgveien 21 B 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709063,
+          59.9305328
+        ]
+      },
+      "properties": {
+        "name": "Kristine Lindstad Matri",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8206-kristine-lindstad-matri",
+        "address": "Sørkedalsveien 10A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9372431,
+          59.2139331
+        ]
+      },
+      "properties": {
+        "name": "Mats Hellman",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8285-mats-hellman",
+        "address": "Farmansgate 2 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5049525,
+          60.4196428
+        ]
+      },
+      "properties": {
+        "name": "Huong Maria Ngoc Thi Pham",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8313-huong-maria-ngoc-thi-pham",
+        "address": "Nedre Hagali 18 2760 Brandbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7272052,
+          59.9335601
+        ]
+      },
+      "properties": {
+        "name": "Tormod Bjartveit Krüger",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8321-tormod-bjartveit-kruger",
+        "address": "Kirkeveien 131 0361 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7652003,
+          59.9274413
+        ]
+      },
+      "properties": {
+        "name": "Sara Gabriella Bergstrand",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8374-sara-gabriella-bergstrand",
+        "address": "Schleppegrells Gate 32 0556 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7359899,
+          58.9706171
+        ]
+      },
+      "properties": {
+        "name": "Espen Skeie",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8438-espen-skeie",
+        "address": "Klubbgata 5 4013 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Anette Kubon",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8545-anette-kubon",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0861986,
+          59.2893306
+        ]
+      },
+      "properties": {
+        "name": "Laszlo Krisztian Kalmar",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8618-laszlo-krisztian-kalmar",
+        "address": "Vingulmorkveien 27 1710 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2351485,
+          59.1270109
+        ]
+      },
+      "properties": {
+        "name": "Ilaria Vitali",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "31 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/86243-ilaria-vitali",
+        "address": "Kilgata 9 3217 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3866266,
+          63.4305025
+        ]
+      },
+      "properties": {
+        "name": "Thomas Richard Klimowicz",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8676-thomas-richard-klimowicz",
+        "address": "Kongens Gate 60 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6495681,
+          59.6717964
+        ]
+      },
+      "properties": {
+        "name": "Wit Thomsen",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8695-wit-thomsen",
+        "address": "Herman Foss gate 4 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2471278,
+          59.9883931
+        ]
+      },
+      "properties": {
+        "name": "Petter Wilberg",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8701-petter-wilberg",
+        "address": "Gløtten 3 1920 Sørumsand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4861955,
+          59.8710359
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Lindberg",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8720-fredrik-lindberg",
+        "address": "Olav Brunborgsvei 4 1396 Billingstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7183085,
+          59.9284569
+        ]
+      },
+      "properties": {
+        "name": "Mirna Farran",
+        "profession": "Oralkirurg",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8762-mirna-farran",
+        "address": "Valkyriegata 5 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0759376,
+          60.7941652
+        ]
+      },
+      "properties": {
+        "name": "Petar Ninkov",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8826-petar-ninkov",
+        "address": "Østregate 23 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3223061,
+          60.3945547
+        ]
+      },
+      "properties": {
+        "name": "Espen Helgeland",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8857-espen-helgeland",
+        "address": "Fortunen 1 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9869468,
+          61.909316
+        ]
+      },
+      "properties": {
+        "name": "Frank-Jakob Sandbakk",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8916-frank-jakob-sandbakk",
+        "address": "Eidsgata 54, 6770 Nordfjordeid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9242655,
+          63.4687751
+        ]
+      },
+      "properties": {
+        "name": "Sebastian Stefanski",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8932-sebastian-stefanski",
+        "address": "Stokmovn.2 7500 Stjørdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563945,
+          59.9120546
+        ]
+      },
+      "properties": {
+        "name": "Shoresh Afnan",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8970-shoresh-afnan",
+        "address": "Schweigaards gate 6, 4. etasje 0185 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3535982,
+          60.3191147
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Goksøyr",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9088-oyvind-goksoyr",
+        "address": "Østre Nesttunvegen 2 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6082325,
+          59.2086574
+        ]
+      },
+      "properties": {
+        "name": "Michael Thomas Unger",
+        "profession": "Oralkirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Oral-kirurgi og oralmedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9646-michael-thomas-unger",
+        "address": "Kverndalsgata 2A 3717 Skien"
+      }
+    }
+  ]
+}

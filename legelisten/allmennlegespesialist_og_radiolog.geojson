@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3593994,
+          60.3562906
+        ]
+      },
+      "properties": {
+        "name": "Marit Tepstad",
+        "profession": "Allmennlegespesialist og radiolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "AllmennmedisinRadiologi",
+        "godkjenning": "Autorisasjon - Lege (2004)Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23422-marit-tepstad",
+        "address": "Vilhelm Bjerknes vei 4-10, 2. etasje 5094 Bergen"
+      }
+    }
+  ]
+}

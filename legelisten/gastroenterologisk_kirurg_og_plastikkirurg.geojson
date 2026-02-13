@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8022823,
+          59.8971165
+        ]
+      },
+      "properties": {
+        "name": "Frode Amland",
+        "profession": "Gastroenterologisk kirurg og plastikkirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Gastroenterologisk kirurgiPlastikkirurgi",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17211-frode-amland",
+        "address": "Enebakkveien 150 0680 Oslo"
+      }
+    }
+  ]
+}

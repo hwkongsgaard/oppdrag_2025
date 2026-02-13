@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7376172,
+          58.9489415
+        ]
+      },
+      "properties": {
+        "name": "Ingibjørg Sara Benediktsdottir",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10105-ingibjorg-sara-benediktsdottir",
+        "address": "Torgveien 21 B 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Ulf Harald Riis",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11340-ulf-harald-riis",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2677373,
+          60.1775534
+        ]
+      },
+      "properties": {
+        "name": "Ingvild Kibsgaard Vestengen",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11493-ingvild-kibsgaard-vestengen",
+        "address": "Hønengata 70 A 3515 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.881103,
+          60.0453465
+        ]
+      },
+      "properties": {
+        "name": "Mats Säll",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon - Tannlege (2009)Autorisasjon - Sykepleier (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12549-mats-sall",
+        "address": "Mattias Skytters vei 173 1482 Nittedal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589288,
+          60.3806884
+        ]
+      },
+      "properties": {
+        "name": "Grethe Blindheim",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12616-grethe-blindheim",
+        "address": "Årstadveien 19 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7842215,
+          59.8819253
+        ]
+      },
+      "properties": {
+        "name": "Marian Christina Stervik",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12987-marian-christina-stervik",
+        "address": "Kongsveien 94 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4723032,
+          59.8279594
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Meland Talseth",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14370-charlotte-meland-talseth",
+        "address": "Konglungveien 202 1392 Vettre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9992591,
+          59.9671366
+        ]
+      },
+      "properties": {
+        "name": "Lena Anneli Birgitta Vannas Löfqvist",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14497-lena-anneli-birgitta-vannas-lofqvist",
+        "address": "Nordens vei 15, Skjetten senter 2013 Skjetten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6621538,
+          63.6913983
+        ]
+      },
+      "properties": {
+        "name": "Neeraj Sateesh Kasbekar",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6731-neeraj-sateesh-kasbekar",
+        "address": "Yrjars gate 29 7130 Brekstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3313096,
+          60.3920985
+        ]
+      },
+      "properties": {
+        "name": "Siren Gro Skaale",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7191-siren-gro-skaale",
+        "address": "Tverrgaten 7 /11 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7272052,
+          59.9335601
+        ]
+      },
+      "properties": {
+        "name": "Margareth Kristensen Ottersen",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7259-margareth-kristensen-ottersen",
+        "address": "Kirkeveien 131 0361 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7552637,
+          58.4667516
+        ]
+      },
+      "properties": {
+        "name": "Caroline Hol",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7263-caroline-hol",
+        "address": "Sykehusveien 1 4838 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7183085,
+          59.9284569
+        ]
+      },
+      "properties": {
+        "name": "Katarzyna Ewa Kocent-Skramstad",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7594-katarzyna-ewa-kocent-skramstad",
+        "address": "Valkyriegata 5 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6291781,
+          59.8949221
+        ]
+      },
+      "properties": {
+        "name": "Guro Løseth",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7798-guro-loseth",
+        "address": "Martin Linges vei 25 1364 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1922752,
+          60.7178942
+        ]
+      },
+      "properties": {
+        "name": "Stein Johannessen",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7905-stein-johannessen",
+        "address": "Storgata 13 2335 Stange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7595852,
+          59.9133506
+        ]
+      },
+      "properties": {
+        "name": "Anders Valnes",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8613-anders-valnes",
+        "address": "Grønland 4 0188 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3920927,
+          63.4293483
+        ]
+      },
+      "properties": {
+        "name": "Bengt De Verdier",
+        "profession": "Kjeve- og ansiktsradiolog",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Kjeve- og ansiktsradiologi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9617-bengt-de-verdier",
+        "address": "Trenerys Gate 8, 3. etg 7042 Trondheim"
+      }
+    }
+  ]
+}

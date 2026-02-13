@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Ellen Moen",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16680-ellen-moen",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4345375,
+          59.8361377
+        ]
+      },
+      "properties": {
+        "name": "Hildegun Snekkevik",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16837-hildegun-snekkevik",
+        "address": "Knud Askers vei 20B 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042377,
+          59.7445484
+        ]
+      },
+      "properties": {
+        "name": "Jan Tore Pahr",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon - Lege (1992)Autorisasjon - Fysioterapeut (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16880-jan-tore-pahr",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9277884,
+          58.6240403
+        ]
+      },
+      "properties": {
+        "name": "Kåre Ulevåg",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16928-kare-ulevag",
+        "address": "Hovedgata 44 4900 Tvedestrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Rafn Lindal Björnsson",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17216-rafn-lindal-bjornsson",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2211451,
+          59.130663
+        ]
+      },
+      "properties": {
+        "name": "Simen Haugen",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17266-simen-haugen",
+        "address": "Dronningens gate 3 3211 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7769886,
+          59.8916738
+        ]
+      },
+      "properties": {
+        "name": "Thor Einar Andersen",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon - Lege (1992)Autorisasjon - Fysioterapeut (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17337-thor-einar-andersen",
+        "address": "Ekebergveien 101 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.648485,
+          59.1395137
+        ]
+      },
+      "properties": {
+        "name": "Tormod Løve",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon - Lege (1999)Autorisasjon - Fysioterapeut (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17385-tormod-love",
+        "address": "Friisebrygga 8 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Pål Moe",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18130-pal-moe",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Fredrik Walter Smith",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21855-fredrik-walter-smith",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7769886,
+          59.8916738
+        ]
+      },
+      "properties": {
+        "name": "Morten Berner",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23498-morten-berner",
+        "address": "Ekebergveien 101 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3100753,
+          60.8297645
+        ]
+      },
+      "properties": {
+        "name": "Irena Solberg",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25207-irena-solberg",
+        "address": "Landåsvegen 747 2861 Landåsbygda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Aina Emaus",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25211-aina-emaus",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776974,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Pål Frøysaa",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25216-pal-froysaa",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1309366,
+          60.1545628
+        ]
+      },
+      "properties": {
+        "name": "Jostein Grimsmo",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25227-jostein-grimsmo",
+        "address": "Ragnar Strøms veg 10 2067 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6879999,
+          59.9214798
+        ]
+      },
+      "properties": {
+        "name": "Anne Froholdt",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27228-anne-froholdt",
+        "address": "Drammensveien 130 0277 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Elina Schistad",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29448-elina-schistad",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2211451,
+          59.130663
+        ]
+      },
+      "properties": {
+        "name": "Anders Sætre",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30414-anders-saetre",
+        "address": "Dronningens gate 3 3211 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7972924,
+          59.9126627
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Kvinge",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30415-oyvind-kvinge",
+        "address": "Fyrstikkallèen 3b 0661 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7204646,
+          58.9729993
+        ]
+      },
+      "properties": {
+        "name": "Davor  Baros",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30695-davor-baros",
+        "address": "Sverdrupsgate 23 4007 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026413,
+          63.4113594
+        ]
+      },
+      "properties": {
+        "name": "Ida Beate Øyen Østhus",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86225-ida-beate-oyen-osthus",
+        "address": "Odd Iversens veg 4, Lerkendal stadion 7031 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1531454,
+          62.4714685
+        ]
+      },
+      "properties": {
+        "name": "Clive Bachelor",
+        "profession": "Fysikalsk medisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Fysikalsk medisin og rehabilitering",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86857-clive-bachelor",
+        "address": "Notenesgata 3 6002 Ålesund"
+      }
+    }
+  ]
+}

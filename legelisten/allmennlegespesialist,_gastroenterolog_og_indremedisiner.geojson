@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1174295,
+          59.2826193
+        ]
+      },
+      "properties": {
+        "name": "Svend J. Andresen",
+        "profession": "Allmennlegespesialist, gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "AllmennmedisinFordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15400-svend-j-andresen",
+        "address": "Sverres gate 10 1706 Sarpsborg"
+      }
+    }
+  ]
+}

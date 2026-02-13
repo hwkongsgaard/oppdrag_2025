@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Vidar Aasbø",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23482-vidar-aasbo",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0413677,
+          59.9534221
+        ]
+      },
+      "properties": {
+        "name": "Henrik Högstrøm",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "81 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Lisens (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23483-henrik-hogstrom",
+        "address": "Dampsagveien 2 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Anders Kristian Bautz Gundersen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23654-anders-kristian-bautz-gundersen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6879999,
+          59.9214798
+        ]
+      },
+      "properties": {
+        "name": "Gisle Granhus",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25116-gisle-granhus",
+        "address": "Drammensveien 130 0277 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Stefan Hyler",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26806-stefan-hyler",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Imrich Ivan",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26807-imrich-ivan",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7151642,
+          59.9292384
+        ]
+      },
+      "properties": {
+        "name": "Dag Antony Kaare",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27224-dag-antony-kaare",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Kjell Torp-Joakimsen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja. Har avtale vedKjell Torp-Joakimsen",
+        "url": "https://www.legelisten.no/spesialister/27226-kjell-torp-joakimsen",
+        "address": "Sørkedalsveien 10 D 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7151642,
+          59.9292384
+        ]
+      },
+      "properties": {
+        "name": "Morten Vinje",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27227-morten-vinje",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Arne Jan Petersen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29148-arne-jan-petersen",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0714958,
+          62.1440261
+        ]
+      },
+      "properties": {
+        "name": "Rune Heggedal",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29160-rune-heggedal",
+        "address": "Holmen 7a 6100 Volda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2729829,
+          59.4133084
+        ]
+      },
+      "properties": {
+        "name": "Anders E. Bøgesvang",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29188-anders-e-bogesvang",
+        "address": "Skippergata 14 5527 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6887807,
+          59.9221985
+        ]
+      },
+      "properties": {
+        "name": "Asle Terje  Johansen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29251-asle-terje-johansen",
+        "address": "Thunes vei 2 0274 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Gisle  Kjøsen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29553-gisle-kjosen",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6478655,
+          59.1386602
+        ]
+      },
+      "properties": {
+        "name": "Sturla Rising",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30146-sturla-rising",
+        "address": "Storgata 107 3921 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7461293,
+          58.9478511
+        ]
+      },
+      "properties": {
+        "name": "Kjell  Kaisen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30575-kjell-kaisen",
+        "address": "Kvalebergveien 21 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6745583,
+          58.9524637
+        ]
+      },
+      "properties": {
+        "name": "Unni Ytterdahl  Bergland",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30586-unni-ytterdahl-bergland",
+        "address": "Madlastokken 5 4042 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7473128,
+          58.4545088
+        ]
+      },
+      "properties": {
+        "name": "Mari Stokstad Olsen",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30626-mari-stokstad-olsen",
+        "address": "Vesterveien 44 4839 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7473128,
+          58.4545088
+        ]
+      },
+      "properties": {
+        "name": "Anita With Vårøy",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30627-anita-with-varoy",
+        "address": "Vesterveien 44 4839 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6918687,
+          59.9005831
+        ]
+      },
+      "properties": {
+        "name": "Stefan Hauptig",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31353-stefan-hauptig",
+        "address": "Admiral Børresens vei 6E 0286 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Jon Ole Reiten",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32165-jon-ole-reiten",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Hanne Andreassen",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32166-hanne-andreassen",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Vivvi Bjørnå",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32167-vivvi-bjorna",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Løvland",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32168-bjorn-lovland",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0820947,
+          60.793287
+        ]
+      },
+      "properties": {
+        "name": "Per Christensen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32223-per-christensen",
+        "address": "St. Olavsgate 61 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3766426,
+          60.1466312
+        ]
+      },
+      "properties": {
+        "name": "Bård Einar Heradstveit",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32410-bard-einar-heradstveit",
+        "address": "Røtingavegen 24 5216 Lepsøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4421726,
+          67.2919143
+        ]
+      },
+      "properties": {
+        "name": "Tom Cato Karlsen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33190-tom-cato-karlsen",
+        "address": "Stordalsveien 1 A 8011 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0413677,
+          59.9534221
+        ]
+      },
+      "properties": {
+        "name": "Lisa Dybvik",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33210-lisa-dybvik",
+        "address": "Dampsagveien 2 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3489895,
+          60.3321385
+        ]
+      },
+      "properties": {
+        "name": "Torbjørn Nedrebø",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34670-torbjorn-nedrebo",
+        "address": "Tjernvegen 30 5232 Paradis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7328292,
+          59.911208
+        ]
+      },
+      "properties": {
+        "name": "Niroshee Bronebakk",
+        "profession": "Anestesilege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86528-niroshee-bronebakk",
+        "address": " 0160 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7242773,
+          59.9248377
+        ]
+      },
+      "properties": {
+        "name": "Ayman Yassa",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Akutt- og mottaksmedisinAnestesiologi",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87069-ayman-yassa",
+        "address": "Bogstadveien 11 0355 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7353068,
+          59.9498371
+        ]
+      },
+      "properties": {
+        "name": "Gintaras Matulis",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon (2024)Autorisasjon - Lege (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87320-gintaras-matulis",
+        "address": "Sognsveien 75E 0855 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7424303,
+          67.2958746
+        ]
+      },
+      "properties": {
+        "name": "Trond Olav Skjerve Madsen",
+        "profession": "Anestesilege",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Anestesiologi",
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Tannlege (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6993-trond-olav-skjerve-madsen",
+        "address": "Mølnbakken 88 8050 Tverlandet"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0951301,
+          62.7363914
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Berland",
+        "profession": "Allmennlegespesialist og gynekolog",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "AllmennmedisinFødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14901-gunnar-berland",
+        "address": "Mekvegen  13A 6411 Molde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7307738,
+          58.8498515
+        ]
+      },
+      "properties": {
+        "name": "Rune Mork Braut",
+        "profession": "Allmennlegespesialist og gynekolog",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "AllmennmedisinFødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14907-rune-mork-braut",
+        "address": "Jærveien 15 4319 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6526795,
+          58.7350052
+        ]
+      },
+      "properties": {
+        "name": "Karen Time",
+        "profession": "Allmennlegespesialist og gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "AllmennmedisinFødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15044-karen-time",
+        "address": "Arne Garborgs veg 15 4340 Bryne"
+      }
+    }
+  ]
+}

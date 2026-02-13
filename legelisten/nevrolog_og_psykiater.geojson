@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7249232,
+          59.9233252
+        ]
+      },
+      "properties": {
+        "name": "Per Gørvell",
+        "profession": "Nevrolog og psykiater",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "NevrologiPsykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17185-per-gorvell",
+        "address": "Uranienborg terasse 17 0351 Oslo"
+      }
+    }
+  ]
+}

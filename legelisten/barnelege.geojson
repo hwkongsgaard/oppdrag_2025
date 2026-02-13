@@ -1,0 +1,1244 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9620611,
+          59.9270409
+        ]
+      },
+      "properties": {
+        "name": "Ole Closs",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15473-ole-closs",
+        "address": "Boecks gate 12 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6424494,
+          59.8303197
+        ]
+      },
+      "properties": {
+        "name": "John Michael Dahl",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15474-john-michael-dahl",
+        "address": "Tosletta 44 1453 Bjørnemyr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Marie A Erlandsen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15475-marie-a-erlandsen",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9620611,
+          59.9270409
+        ]
+      },
+      "properties": {
+        "name": "Morten Pettersen",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15477-morten-pettersen",
+        "address": "Boecks gate 12 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9620611,
+          59.9270409
+        ]
+      },
+      "properties": {
+        "name": "Gisle Rød",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15478-gisle-rod",
+        "address": "Boecks gate 12 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.646431,
+          59.6735911
+        ]
+      },
+      "properties": {
+        "name": "Sidsel Bjering",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15483-sidsel-bjering",
+        "address": "Schwabes gate 11 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6830092,
+          59.937226
+        ]
+      },
+      "properties": {
+        "name": "Laila Hovind Aaserud",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15484-laila-hovind-aaserud",
+        "address": "Sørkedalsveien 90 B 0377 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8116406,
+          59.9096827
+        ]
+      },
+      "properties": {
+        "name": "Vibeke Fossum",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15486-vibeke-fossum",
+        "address": "Brynsveien 5 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6830092,
+          59.937226
+        ]
+      },
+      "properties": {
+        "name": "Cathrine Haraldsen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15488-cathrine-haraldsen",
+        "address": "Sørkedalsveien 90 B 0377 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865743,
+          59.8804723
+        ]
+      },
+      "properties": {
+        "name": "Bente Kvenshagen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15490-bente-kvenshagen",
+        "address": "Kongsveien 104 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Frøydis Olafsen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15491-froydis-olafsen",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738507,
+          59.9202049
+        ]
+      },
+      "properties": {
+        "name": "Roger Pedersen",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15492-roger-pedersen",
+        "address": "Pilestredet Park 31 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766686,
+          59.9496264
+        ]
+      },
+      "properties": {
+        "name": "Astri Vigen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15496-astri-vigen",
+        "address": "Nydalsveien 36 B 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.953927,
+          59.2249788
+        ]
+      },
+      "properties": {
+        "name": "Espen Kolsrud",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15497-espen-kolsrud",
+        "address": "Wilbergjordet 10 1605 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3539109,
+          60.3186784
+        ]
+      },
+      "properties": {
+        "name": "Martha Gravelsæther",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15499-martha-gravelsaether",
+        "address": "Østre Nesttunvegen 6 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Irene Teslo",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "BarnesykdommerSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15538-irene-teslo",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.822769,
+          59.9030726
+        ]
+      },
+      "properties": {
+        "name": "Kristin Jensen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15539-kristin-jensen",
+        "address": "Østensjøveien 79 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Maria Bunæs Haffeld",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15540-maria-bunaes-haffeld",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7029764,
+          59.0516886
+        ]
+      },
+      "properties": {
+        "name": "Thor Arne Grønnerød",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1973)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15541-thor-arne-gronnerod",
+        "address": "Koffegata 30 3950 Brevik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9905721,
+          58.1456125
+        ]
+      },
+      "properties": {
+        "name": "Leif Eskedal",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15542-leif-eskedal",
+        "address": "Skippergata 3-5 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5821966,
+          59.899784
+        ]
+      },
+      "properties": {
+        "name": "Annette Resch",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18225-annette-resch",
+        "address": "O. H. Bangs vei 51 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301915,
+          63.3912851
+        ]
+      },
+      "properties": {
+        "name": "Soheila Rahman",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/21581-soheila-rahman",
+        "address": "Ingeborg Aas veg 2 7036 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7238899,
+          59.9204198
+        ]
+      },
+      "properties": {
+        "name": "Betty Kalikstad",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21826-betty-kalikstad",
+        "address": "Oscars gate 36 A 0258 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Catharina H. Sannes",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/22419-catharina-h-sannes",
+        "address": "Storgata 125 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Finn Greve-Isdahl",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22579-finn-greve-isdahl",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Igenbergs",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25069-elisabeth-igenbergs",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6830092,
+          59.937226
+        ]
+      },
+      "properties": {
+        "name": "Eirik Herland",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25113-eirik-herland",
+        "address": "Sørkedalsveien 90 B 0377 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2121416,
+          59.7426136
+        ]
+      },
+      "properties": {
+        "name": "Kai  Handeland",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25521-kai-handeland",
+        "address": "Nedre Storgate 31 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Edin Dizdarevic",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26801-edin-dizdarevic",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7769886,
+          59.8916738
+        ]
+      },
+      "properties": {
+        "name": "Tonje Reier-Nilsen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26969-tonje-reier-nilsen",
+        "address": "Ekebergveien 101 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5278495,
+          59.8929904
+        ]
+      },
+      "properties": {
+        "name": "Helene Lindvik",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27291-helene-lindvik",
+        "address": "Malmskrivervn. 27 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8510119,
+          59.7128903
+        ]
+      },
+      "properties": {
+        "name": "Anna Owczarz",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27293-anna-owczarz",
+        "address": "Industriveien 3 A 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301915,
+          63.3912851
+        ]
+      },
+      "properties": {
+        "name": "Andreas  Slørdahl",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29162-andreas-slordahl",
+        "address": "Ingeborg Aas veg 2 7036 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301915,
+          63.3912851
+        ]
+      },
+      "properties": {
+        "name": "Tuijaleena Maria Helland-Hansen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29163-tuijaleena-maria-helland-hansen",
+        "address": "Ingeborg Aas veg 2 7036 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Erik Hankø",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29268-erik-hanko",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Jobin Kotakkathu Varughese",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29276-jobin-kotakkathu-varughese",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Khalaf Mreihil",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29277-khalaf-mreihil",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Marianne Ullestad  Huun",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29280-marianne-ullestad-huun",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Martin Bogale Ystgaard",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29281-martin-bogale-ystgaard",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Sean Wallace",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29285-sean-wallace",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Thomas Rajka",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29288-thomas-rajka",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Øystein Riise",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "BarnesykdommerSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29292-oystein-riise",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Tina Treu Os",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29293-tina-treu-os",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691002,
+          60.7997552
+        ]
+      },
+      "properties": {
+        "name": "Siri Sollid",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2000)Autorisasjon - Fysioterapeut (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29316-siri-sollid",
+        "address": "Tordenskjolds gate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Kristian Sommerfelt",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29359-kristian-sommerfelt",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Jørund Enger-Olsen",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29383-jorund-enger-olsen",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Line Norman Kvenshagen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29386-line-norman-kvenshagen",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Merethe Michelsen",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29557-merethe-michelsen",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Hans-Jacob Bangstad",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29716-hans-jacob-bangstad",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Knut Dahl Jørgensen",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "BarnesykdommerMedisinsk biokjemi",
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29718-knut-dahl-jorgensen",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Hanna Dis Margeirsdottir",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29720-hanna-dis-margeirsdottir",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Torild  Skrivarhaug",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29729-torild-skrivarhaug",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9620611,
+          59.9270409
+        ]
+      },
+      "properties": {
+        "name": "Geir Håland",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30305-geir-haland",
+        "address": "Boecks gate 12 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7680697,
+          59.9505424
+        ]
+      },
+      "properties": {
+        "name": "Bård Fossli Jensen",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30338-bard-fossli-jensen",
+        "address": "Sandakerveien 128 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Ellen  Tafjord",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30568-ellen-tafjord",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.953927,
+          59.2249788
+        ]
+      },
+      "properties": {
+        "name": "Ragna Katrine Sofie Gauer",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31192-ragna-katrine-sofie-gauer",
+        "address": "Wilbergjordet 10 1605 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7131253,
+          58.4603751
+        ]
+      },
+      "properties": {
+        "name": "Oliver Scheck",
+        "profession": "Barnelege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32217-oliver-scheck",
+        "address": "Stoaveien 9 B 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4859713,
+          59.7773933
+        ]
+      },
+      "properties": {
+        "name": "Flore Le Marechal",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86085-flore-le-marechal",
+        "address": "Kirkealleen 1 3470 Slemmestad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4301915,
+          63.3912851
+        ]
+      },
+      "properties": {
+        "name": "Nina Moe",
+        "profession": "Barnelege",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Barnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86122-nina-moe",
+        "address": "Ingeborg Aas veg 2 7036 Trondheim"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5927 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5164319,
+          59.8912944
+        ]
+      },
+      "properties": {
+        "name": "Runa Sigrid Aabø",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14881-runa-sigrid-aabo",
+        "address": "Elias Smiths vei 24 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Kathe Aase",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14882-kathe-aase",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7250377,
+          58.9216939
+        ]
+      },
+      "properties": {
+        "name": "Rosa Thorunn Adalsteinsdottir",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14883-rosa-thorunn-adalsteinsdottir",
+        "address": "Hinnasvingene 46 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Oskar  Åkesson",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14884-oskar-akesson",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Ayfer Alhirmizi",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14886-ayfer-alhirmizi",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Martin Andresen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14889-martin-andresen",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Marit Garberg Andvig",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "75 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14890-marit-garberg-andvig",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975859,
+          63.4336685
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Baasland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14892-ingrid-baasland",
+        "address": "Olav Tryggvasons Gate 24, inngang Carl Johans gate 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7340222,
+          58.9722437
+        ]
+      },
+      "properties": {
+        "name": "Gunhild M. T. Bærheim",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14893-gunhild-m-t-baerheim",
+        "address": "Salvågergata 8 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2734841,
+          59.4109147
+        ]
+      },
+      "properties": {
+        "name": "Maren Elisabeth Baumann",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14895-maren-elisabeth-baumann",
+        "address": "Skåregata 92 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0685349,
+          60.7953791
+        ]
+      },
+      "properties": {
+        "name": "Gregor Bernhard Beck",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14896-gregor-bernhard-beck",
+        "address": "Torggata 83 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5868754,
+          59.917083
+        ]
+      },
+      "properties": {
+        "name": "Birgitte Benthien",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14897-birgitte-benthien",
+        "address": "Bærumsveien 207 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Anette Berg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14898-anette-berg",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7981354,
+          59.8108518
+        ]
+      },
+      "properties": {
+        "name": "Grete H. Berild",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14900-grete-h-berild",
+        "address": "Kolbotnveien 33 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3536374,
+          60.3195078
+        ]
+      },
+      "properties": {
+        "name": "Torgeir Bjerknes",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14902-torgeir-bjerknes",
+        "address": "Nesttunveien 90 5853 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3207232,
+          60.4371449
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Borthen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "72 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14905-ingrid-borthen",
+        "address": "Vollane 2 5105 Eidsvåg i Åsane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Linn Hjarne Brakstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14906-linn-hjarne-brakstad",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Brenden",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14908-kjersti-brenden",
+        "address": "Sørkedalsveien 10 A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Torun Garman Clausen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14912-torun-garman-clausen",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Anita Dresmane",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14913-anita-dresmane",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Cathrine Dunin-Woyseth",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14914-cathrine-dunin-woyseth",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3731855,
+          67.2831972
+        ]
+      },
+      "properties": {
+        "name": "Irina Poliakova Eide",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14915-irina-poliakova-eide",
+        "address": "Sjøgata 1 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Helena Enger",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14917-helena-enger",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6634255,
+          59.4325254
+        ]
+      },
+      "properties": {
+        "name": "Lars Espen Ernø",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14919-lars-espen-erno",
+        "address": "Høienhaldgt. 4 1532 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Erik Færø",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja. Har avtale vedTrondheimsgynekologene",
+        "url": "https://www.legelisten.no/spesialister/14920-erik-faero",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7170318,
+          59.9259012
+        ]
+      },
+      "properties": {
+        "name": "Catarina Falck",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14921-catarina-falck",
+        "address": "Dybwadsgate 2 0367 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Stine Fremming",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14924-stine-fremming",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7347195,
+          58.9700856
+        ]
+      },
+      "properties": {
+        "name": "Leif K. Gjessing",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Psykolog (1994)Autorisasjon - Lege (1991)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14925-leif-k-gjessing",
+        "address": "Klubbgate 2B 4013 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Anne Grønmark",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14926-anne-gronmark",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0215388,
+          59.0497667
+        ]
+      },
+      "properties": {
+        "name": "Ebbe Chr. Grønvold",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14927-ebbe-chr-gronvold",
+        "address": "Fritzøe Brygge 1 3264 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2123499,
+          59.1351895
+        ]
+      },
+      "properties": {
+        "name": "Kristian Guttu",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon med vilkår (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14930-kristian-guttu",
+        "address": "Skiringssalsveien 20 3208 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0061203,
+          58.1507212
+        ]
+      },
+      "properties": {
+        "name": "Paula Hagstrøm",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14931-paula-hagstrom",
+        "address": "Nedre Lundsvei 1 4630 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Anne Cecilie Hallquist",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14933-anne-cecilie-hallquist",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2330285,
+          58.7201422
+        ]
+      },
+      "properties": {
+        "name": "Magne Halvorsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14934-magne-halvorsen",
+        "address": "Storgt. 14 4950 Risør"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Christine  Hancke",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14935-christine-hancke",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Yngvild Skåtun Hannestad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14937-yngvild-skatun-hannestad",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9921623,
+          58.1439933
+        ]
+      },
+      "properties": {
+        "name": "Birgitt Haugeberg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14940-birgitt-haugeberg",
+        "address": "Vestre Strand gate 27-29 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2918766,
+          59.4036324
+        ]
+      },
+      "properties": {
+        "name": "Jon Hausken",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14941-jon-hausken",
+        "address": "Karmsundgaten 59 5531 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7905828,
+          59.9315272
+        ]
+      },
+      "properties": {
+        "name": "Ivar Omsjø Henie",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Lisens (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14946-ivar-omsjo-henie",
+        "address": "Lørenveien 38 0585 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Lina Herstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14947-lina-herstad",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Heidi Høgdahl",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14949-heidi-hogdahl",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7389659,
+          59.9211238
+        ]
+      },
+      "properties": {
+        "name": "Nicolai Holst",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14950-nicolai-holst",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879243,
+          58.1466415
+        ]
+      },
+      "properties": {
+        "name": "Christian Hoyer-Sørensen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14952-christian-hoyer-sorensen",
+        "address": "Vestre Strandgate 42 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7524883,
+          59.9125418
+        ]
+      },
+      "properties": {
+        "name": "Aage Huseby",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14953-aage-huseby",
+        "address": "Stenersgata 1 0050 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.368748,
+          62.4549879
+        ]
+      },
+      "properties": {
+        "name": "Hans Ejner Ipsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14954-hans-ejner-ipsen",
+        "address": "Langelandsv. 17, Daaeskogen næringsbygg 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Tetjana Isaksen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14955-tetjana-isaksen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6879999,
+          59.9214798
+        ]
+      },
+      "properties": {
+        "name": "Anne Flem Jacobsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14957-anne-flem-jacobsen",
+        "address": "Drammensveien 130 0277 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3495273,
+          62.4677497
+        ]
+      },
+      "properties": {
+        "name": "Tone Årmot Jareld",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14958-tone-armot-jareld",
+        "address": "Moavegen 11 6018 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7263042,
+          63.1090745
+        ]
+      },
+      "properties": {
+        "name": "Ellen Jendal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14959-ellen-jendal",
+        "address": "Konsul Knudtzons gate 8 6508 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4513448,
+          59.2752376
+        ]
+      },
+      "properties": {
+        "name": "Tatiana Karim",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14963-tatiana-karim",
+        "address": "Gauterødveien 6B 3154 Tolvsrød"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4094349,
+          59.2690336
+        ]
+      },
+      "properties": {
+        "name": "Jørn-Hugo Karlsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14964-jorn-hugo-karlsen",
+        "address": "Fayes gate 5 3110 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6478795,
+          59.6663027
+        ]
+      },
+      "properties": {
+        "name": "Kolbjørn  Kasin",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon med vilkår (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14965-kolbjorn-kasin",
+        "address": "Myntgt. 4 3616 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9405622,
+          59.2135032
+        ]
+      },
+      "properties": {
+        "name": "Theresia Maria Kasin",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14966-theresia-maria-kasin",
+        "address": "Bryggeriveien 6 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409393,
+          59.9533517
+        ]
+      },
+      "properties": {
+        "name": "Ingebjørg Helene Kinne",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14968-ingebjorg-helene-kinne",
+        "address": "Dampsagveien 2 A 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042563,
+          59.7444228
+        ]
+      },
+      "properties": {
+        "name": "Møyfrid Kjøllesdal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14970-moyfrid-kjollesdal",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0061203,
+          58.1507212
+        ]
+      },
+      "properties": {
+        "name": "Odrun Kleggetveit",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14971-odrun-kleggetveit",
+        "address": "Nedre Lundsvei 1 4630 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Kristine Kleivdal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14972-kristine-kleivdal",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Lill Merethe Kristiansen-Benske",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14974-lill-merethe-kristiansen-benske",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3996633,
+          63.4334591
+        ]
+      },
+      "properties": {
+        "name": "Jorun T. Loennechen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14979-jorun-t-loennechen",
+        "address": "Olav Trygvassonsgt. 14 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833059,
+          58.9527044
+        ]
+      },
+      "properties": {
+        "name": "Tone Lunde",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14982-tone-lunde",
+        "address": "Madlamarkveien 2 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1806777,
+          60.1413569
+        ]
+      },
+      "properties": {
+        "name": "Martin Norbert George Pogorzelski Lundring",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14984-martin-norbert-george-pogorzelski-lundring",
+        "address": "Dampsaga allè 5 2053 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7981354,
+          59.8108518
+        ]
+      },
+      "properties": {
+        "name": "Kristin Lyng",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14985-kristin-lyng",
+        "address": "Kolbotnveien 33 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5410043,
+          68.8007689
+        ]
+      },
+      "properties": {
+        "name": "Morten  Mangersnes",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14989-morten-mangersnes",
+        "address": "Håkonsgate 4 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7641582,
+          59.9526811
+        ]
+      },
+      "properties": {
+        "name": "Kristine Meidell",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14990-kristine-meidell",
+        "address": "Gjerdrums vei 10 D 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409393,
+          59.9533517
+        ]
+      },
+      "properties": {
+        "name": "Halvor Bakke Melbye",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14991-halvor-bakke-melbye",
+        "address": "Dampsagveien 2 A 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Ove Andreas Mortensen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14994-ove-andreas-mortensen",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4079404,
+          59.2698776
+        ]
+      },
+      "properties": {
+        "name": "Mikael Nicolaidis",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon med vilkår (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14995-mikael-nicolaidis",
+        "address": "Kong Sverresgt. 3 3111 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Deirdre Nsubuga",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14996-deirdre-nsubuga",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7665863,
+          58.4601337
+        ]
+      },
+      "properties": {
+        "name": "Gro Andrea Nyland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/14998-gro-andrea-nyland",
+        "address": "Tollbodgaten 1 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Elin Ødegaard",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15000-elin-odegaard",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4573946,
+          63.4363277
+        ]
+      },
+      "properties": {
+        "name": "Kristin Offerdal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15002-kristin-offerdal",
+        "address": "Falkenborgveien 9 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Hans Kristian Opøien",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15003-hans-kristian-opoien",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9937298,
+          59.2281769
+        ]
+      },
+      "properties": {
+        "name": "Maitii Østerberg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15004-maitii-osterberg",
+        "address": "Trykkeriveien 6 1653 Sellebakk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7316897,
+          59.9147503
+        ]
+      },
+      "properties": {
+        "name": "Inger Øverlie",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "73 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15006-inger-overlie",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6741289,
+          59.9508045
+        ]
+      },
+      "properties": {
+        "name": "Heidi Overrein",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15007-heidi-overrein",
+        "address": "Eddaveien 36 0772 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3542951,
+          60.3176958
+        ]
+      },
+      "properties": {
+        "name": "Pooja Parashar",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15008-pooja-parashar",
+        "address": "Østre Nesttunvegen 14, 4. etasje 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975144,
+          63.4334618
+        ]
+      },
+      "properties": {
+        "name": "Stig Pedersen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15009-stig-pedersen",
+        "address": "Olav Tryggvasons gate 24 B 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Erik Qvigstad",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15011-erik-qvigstad",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Hemamaalini Rajkumar",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15012-hemamaalini-rajkumar",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4346422,
+          59.8370676
+        ]
+      },
+      "properties": {
+        "name": "Kristin Ramm",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15013-kristin-ramm",
+        "address": "Knud Askers vei 28 a 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691002,
+          60.7997552
+        ]
+      },
+      "properties": {
+        "name": "Ottar Kåre Rekkedal",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15014-ottar-kare-rekkedal",
+        "address": "Tordenskjolds gate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4357766,
+          59.8348337
+        ]
+      },
+      "properties": {
+        "name": "Vibeke Rognan",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15016-vibeke-rognan",
+        "address": "Torvveien 1 1386 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Erik Rokkones",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15017-erik-rokkones",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403009,
+          63.4417539
+        ]
+      },
+      "properties": {
+        "name": "Liv Bente Bergem Romundstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15018-liv-bente-bergem-romundstad",
+        "address": "Havnegata 9, Pirsenteret, inngang 2, 3. etg 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Åse Karin Rondestveit",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2003)Autorisasjon - Sykepleier (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15019-ase-karin-rondestveit",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Linn Røyneland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15020-linn-royneland",
+        "address": "Storgata 125, 2. etasje 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Sverre Sand",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15021-sverre-sand",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0603642,
+          59.2983823
+        ]
+      },
+      "properties": {
+        "name": "Mikael Røijen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15023-mikael-roijen",
+        "address": "Kalnesveien 5 1712 Grålum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2918766,
+          59.4036324
+        ]
+      },
+      "properties": {
+        "name": "Arne Schwennicke",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15024-arne-schwennicke",
+        "address": "Karmsundgaten 59 5531 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.679838,
+          60.2498318
+        ]
+      },
+      "properties": {
+        "name": "Pia Christina Sillanpää",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15026-pia-christina-sillanpaa",
+        "address": "Øgardsvegen 56 2100 Skarnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5164319,
+          59.8912944
+        ]
+      },
+      "properties": {
+        "name": "Oskar Johan Skår",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15027-oskar-johan-skar",
+        "address": "Elias Smiths vei 24 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Anita Soland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15030-anita-soland",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4125537,
+          63.4348859
+        ]
+      },
+      "properties": {
+        "name": "Terje Sørdal",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15031-terje-sordal",
+        "address": "Beddingen 8 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4346422,
+          59.8370676
+        ]
+      },
+      "properties": {
+        "name": "Anny E Spydslaug",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15033-anny-e-spydslaug",
+        "address": "Knud Askers vei 28 a 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7295796,
+          58.96726
+        ]
+      },
+      "properties": {
+        "name": "Anita Steinbakk",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15034-anita-steinbakk",
+        "address": "St. Olavs gate 2 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4346422,
+          59.8370676
+        ]
+      },
+      "properties": {
+        "name": "Anne Stensløkken",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15035-anne-stenslokken",
+        "address": "Knud Askers vei 28 a 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403009,
+          63.4417539
+        ]
+      },
+      "properties": {
+        "name": "Hildegunn Stoum",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15036-hildegunn-stoum",
+        "address": "Havnegata 9, Pirsenteret, inngang 2, 3. etg 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409393,
+          59.9533517
+        ]
+      },
+      "properties": {
+        "name": "Hilde Sundhagen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15038-hilde-sundhagen",
+        "address": "Dampsagveien 2 A 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1791972,
+          60.1415571
+        ]
+      },
+      "properties": {
+        "name": "Nargiza Svanadze",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15039-nargiza-svanadze",
+        "address": "Dampsaga Allè 4 C 2053 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3898695,
+          59.1184196
+        ]
+      },
+      "properties": {
+        "name": "Hanne S. Synnestvedt",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15041-hanne-s-synnestvedt",
+        "address": "Johan Stangs Plass 1 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6298681,
+          59.6603571
+        ]
+      },
+      "properties": {
+        "name": "Ursula Teufel",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15043-ursula-teufel",
+        "address": "Storgt. 27 1440 Drøbak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4125537,
+          63.4348859
+        ]
+      },
+      "properties": {
+        "name": "Solveig Tingulstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15045-solveig-tingulstad",
+        "address": "Beddingen 8 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Trine Tromsdal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15046-trine-tromsdal",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0061203,
+          58.1507212
+        ]
+      },
+      "properties": {
+        "name": "Kristin Tronstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15047-kristin-tronstad",
+        "address": "Nedre Lundsvei 1 4630 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5602661,
+          60.8822652
+        ]
+      },
+      "properties": {
+        "name": "Kari Anne Trosterud",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15048-kari-anne-trosterud",
+        "address": "Elvarheimsgt. 10 C 2408 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865743,
+          59.8804723
+        ]
+      },
+      "properties": {
+        "name": "Åsle-Marit Ullern",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15050-asle-marit-ullern",
+        "address": "Kongsveien 104 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2284373,
+          59.7432143
+        ]
+      },
+      "properties": {
+        "name": "Knut Magne Uv",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15051-knut-magne-uv",
+        "address": "Engene 116 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7389659,
+          59.9211238
+        ]
+      },
+      "properties": {
+        "name": "Anne Marte Vaarlund",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15052-anne-marte-vaarlund",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7250377,
+          58.9216939
+        ]
+      },
+      "properties": {
+        "name": "Marit Veholmen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15053-marit-veholmen",
+        "address": "Hinnasvingene 46 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9898079,
+          58.1457107
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Vik",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15054-jorgen-vik",
+        "address": "Vestre Strandgate 32 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Dag Wide-Swensson",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15057-dag-wide-swensson",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2025231,
+          59.7439888
+        ]
+      },
+      "properties": {
+        "name": "Nina Willumsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja. Har avtale vedDr. Willumsens Kvinneklinikk",
+        "url": "https://www.legelisten.no/spesialister/15058-nina-willumsen",
+        "address": "Øvre Storgt. 4-6 3018 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2745305,
+          69.9670892
+        ]
+      },
+      "properties": {
+        "name": "Susanne Ursula Woerner",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15060-susanne-ursula-woerner",
+        "address": "Sentrumsparken 4 9510 Alta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Anne Lone Wollen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15061-anne-lone-wollen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8371344,
+          59.7194207
+        ]
+      },
+      "properties": {
+        "name": "Anne Zandjani",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15063-anne-zandjani",
+        "address": "Idrettsvn. 3 1400 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8216771,
+          59.9039398
+        ]
+      },
+      "properties": {
+        "name": "Hilde Jørgensen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15066-hilde-jorgensen",
+        "address": "Østensjøveien 79, Bryn senter, 5. etasje 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Ija Meløe",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15068-ija-meloe",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4618047,
+          61.1205303
+        ]
+      },
+      "properties": {
+        "name": "Roald Lorentsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15069-roald-lorentsen",
+        "address": "Storgata 126 2615 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3736274,
+          60.3455453
+        ]
+      },
+      "properties": {
+        "name": "Øystein Helland",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15070-oystein-helland",
+        "address": "Østre Nattlandsfjellet 12 5098 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Alagic Edin",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15071-alagic-edin",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Katariina Laine",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15073-katariina-laine",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6524227,
+          58.735057
+        ]
+      },
+      "properties": {
+        "name": "Tonje Vaula",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2006)Autorisasjon - Fysioterapeut (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15075-tonje-vaula",
+        "address": "Arne Garborgs veg 15 4345 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7170318,
+          59.9259012
+        ]
+      },
+      "properties": {
+        "name": "Victoria Høeg Wohlfahrt",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja. Har avtale vedDybwadsgynekologene",
+        "url": "https://www.legelisten.no/spesialister/15078-victoria-hoeg-wohlfahrt",
+        "address": "Dybwadsgate 2 0367 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421069,
+          67.2779788
+        ]
+      },
+      "properties": {
+        "name": "Ellen Langen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15079-ellen-langen",
+        "address": "Stormyrveien 20 8008 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2734841,
+          59.4109147
+        ]
+      },
+      "properties": {
+        "name": "Gunnvor Merete Storesund",
+        "profession": "Gynekolog",
+        "gender": null,
+        "age": null,
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15080-gunnvor-merete-storesund",
+        "address": "Skåregata 92 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3157035,
+          60.3938174
+        ]
+      },
+      "properties": {
+        "name": "Jan Helge Seglem Mortensen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15081-jan-helge-seglem-mortensen",
+        "address": "Skottegaten 8 5011 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.800234,
+          59.9294956
+        ]
+      },
+      "properties": {
+        "name": "Torbjørn Paulsen",
+        "profession": "Gynekolog",
+        "gender": null,
+        "age": null,
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15082-torbjorn-paulsen",
+        "address": "Lørenveien 68 0585 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Svein Magne Skulstad",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16465-svein-magne-skulstad",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729628,
+          59.8977224
+        ]
+      },
+      "properties": {
+        "name": "Nahid Heydarpanah",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17755-nahid-heydarpanah",
+        "address": "Sandviksveien 36 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Maria Barøy Ræder",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17842-maria-baroy-raeder",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4859713,
+          59.7773933
+        ]
+      },
+      "properties": {
+        "name": "Anne Ragnhild Kjus Skomedal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Sykepleier (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18084-anne-ragnhild-kjus-skomedal",
+        "address": "Kirkealleen 1 3470 Slemmestad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7641582,
+          59.9526811
+        ]
+      },
+      "properties": {
+        "name": "Åse Vikanes",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/18103-ase-vikanes",
+        "address": "Gjerdrums vei 10 D 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4125537,
+          63.4348859
+        ]
+      },
+      "properties": {
+        "name": "Finn Tysland Johnsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18106-finn-tysland-johnsen",
+        "address": "Beddingen 8 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Wolfgang  Eichstetter",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18382-wolfgang-eichstetter",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7161103,
+          59.9288201
+        ]
+      },
+      "properties": {
+        "name": "Anne Lind",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2007)Autorisasjon - Sykepleier (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21524-anne-lind",
+        "address": "Bogstadveien 51 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2020836,
+          59.7448256
+        ]
+      },
+      "properties": {
+        "name": "Sunniva Hochnowski",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21572-sunniva-hochnowski",
+        "address": "Øvre Torggate 10 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7310179,
+          58.9698827
+        ]
+      },
+      "properties": {
+        "name": "Olav Andre Klefstad",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21609-olav-andre-klefstad",
+        "address": "Haakon VII gate 7 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Ingvild Sandnes",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21671-ingvild-sandnes",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7556655,
+          59.9171176
+        ]
+      },
+      "properties": {
+        "name": "Michael Tomala",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21760-michael-tomala",
+        "address": "Hausmannsgate 8 0182 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Katrine Kirial",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21857-katrine-kirial",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1717663,
+          60.1408331
+        ]
+      },
+      "properties": {
+        "name": "Martin Dudziak Sørensen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21925-martin-dudziak-sorensen",
+        "address": "Trondheimsvegen 70 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4511846,
+          59.2751042
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Møller Strand",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22347-elisabeth-moller-strand",
+        "address": "Gauterødveien 6b 3154 Tolvsrød"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Kristina Sole",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22425-kristina-sole",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Ingeborg Bøe  Engelsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/22434-ingeborg-boe-engelsen",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Christopher Finne Riley",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja. Har avtale vedSpesialistsenteret på Straume",
+        "url": "https://www.legelisten.no/spesialister/22496-christopher-finne-riley",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Azita Mahmoudan",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22572-azita-mahmoudan",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1194582,
+          59.2829752
+        ]
+      },
+      "properties": {
+        "name": "Alice Christine Moræus",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommerSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22581-alice-christine-moraeus",
+        "address": "Nansens gate 2B 1707 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Caroline Becker",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22754-caroline-becker",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3335601,
+          60.391601
+        ]
+      },
+      "properties": {
+        "name": "Kirsten Øvergaard Hope",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22755-kirsten-overgaard-hope",
+        "address": "Kong Oscars gate 66-68 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7347194,
+          58.9700856
+        ]
+      },
+      "properties": {
+        "name": "Grete Godtlibsen Dale",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22760-grete-godtlibsen-dale",
+        "address": "Klubbgata 2B 4013 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7389659,
+          59.9211238
+        ]
+      },
+      "properties": {
+        "name": "Stine Høvding Titland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23077-stine-hovding-titland",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1806777,
+          60.1413569
+        ]
+      },
+      "properties": {
+        "name": "Hege Lundring",
+        "profession": "Gynekolog",
+        "gender": null,
+        "age": null,
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23081-hege-lundring",
+        "address": "Dampsaga allè 5 2053 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5868754,
+          59.917083
+        ]
+      },
+      "properties": {
+        "name": "Camilla Stadheim Hellum",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23381-camilla-stadheim-hellum",
+        "address": "Bærumsveien 207 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7295796,
+          58.96726
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Tollaksen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23425-kjersti-tollaksen",
+        "address": "St. Olavs gate 2 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Nan B. Oldereid",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23619-nan-b-oldereid",
+        "address": "Sørkedalsveien 10 A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Hannah Russell",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23620-hannah-russell",
+        "address": "Sørkedalsveien 10 A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Sarah Bastienne Spallek-Halvorsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23621-sarah-bastienne-spallek-halvorsen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Thorbjørn Brook Steen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23806-thorbjorn-brook-steen",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5622608,
+          60.8852106
+        ]
+      },
+      "properties": {
+        "name": "Oliv Camilla Fremgaarden",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja. Har avtale vedHedmark Spesialistsenter",
+        "url": "https://www.legelisten.no/spesialister/24347-oliv-camilla-fremgaarden",
+        "address": "Torggata 3 2408 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2025706,
+          59.7440858
+        ]
+      },
+      "properties": {
+        "name": "Sabine Ehrig",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24354-sabine-ehrig",
+        "address": "Øvre Storgate 4-6 3018 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Kristin Klovning",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24506-kristin-klovning",
+        "address": "Storgata 125, 2. etasje 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7981354,
+          59.8108518
+        ]
+      },
+      "properties": {
+        "name": "Marte Myhre",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja. Har avtale vedGynekologene på Kolbotn",
+        "url": "https://www.legelisten.no/spesialister/24517-marte-myhre",
+        "address": "Kolbotnveien 33 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975859,
+          63.4336685
+        ]
+      },
+      "properties": {
+        "name": "Lene Hejna Pedersen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24553-lene-hejna-pedersen",
+        "address": "Olav Tryggvasons Gate 24, inngang Carl Johans gate 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40065,
+          63.4399435
+        ]
+      },
+      "properties": {
+        "name": "Nina-Iren Tvenning",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24554-nina-iren-tvenning",
+        "address": "Brattørkaia 11 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975859,
+          63.4336685
+        ]
+      },
+      "properties": {
+        "name": "Nina Jebens Nordskar",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24555-nina-jebens-nordskar",
+        "address": "Olav Tryggvasons Gate 24, inngang Carl Johans gate 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Cathrine Amalie Bjørke",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja. Har avtale vedGynekologene på Bekkestua",
+        "url": "https://www.legelisten.no/spesialister/24565-cathrine-amalie-bjorke",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Ole Aleksander Jonsbu Dyrkorn",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24567-ole-aleksander-jonsbu-dyrkorn",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Jackson Tok",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2013)Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24568-jackson-tok",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7154436,
+          59.9292374
+        ]
+      },
+      "properties": {
+        "name": "Pawel Wilkosz",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24579-pawel-wilkosz",
+        "address": "Kirkeveien 64 A 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Jan Mellembakken",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24658-jan-mellembakken",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5729628,
+          59.8977224
+        ]
+      },
+      "properties": {
+        "name": "Axel Mühlan",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24659-axel-muhlan",
+        "address": "Sandviksveien 36 1363 Høvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4612725,
+          61.1208788
+        ]
+      },
+      "properties": {
+        "name": "Anna Maria Danielsson",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24723-anna-maria-danielsson",
+        "address": "Nordregt. 11 2615 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0877475,
+          60.7963545
+        ]
+      },
+      "properties": {
+        "name": "Teresia Ann-Cathrine Marton",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24885-teresia-ann-cathrine-marton",
+        "address": "Vangsveien 121 2318 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0877475,
+          60.7963545
+        ]
+      },
+      "properties": {
+        "name": "Linda Cecilie Karlsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24886-linda-cecilie-karlsen",
+        "address": "Vangsveien 121 2318 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403009,
+          63.4417539
+        ]
+      },
+      "properties": {
+        "name": "Berit Ringstad  Olsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25142-berit-ringstad-olsen",
+        "address": "Havnegata 9, Pirsenteret, inngang 2, 3. etg 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Julia Hoge",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25280-julia-hoge",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1262353,
+          58.1712737
+        ]
+      },
+      "properties": {
+        "name": "Mariann Eidet",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26796-mariann-eidet",
+        "address": "Barstølveien 34 4636 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9946984,
+          58.1445139
+        ]
+      },
+      "properties": {
+        "name": "Liv-Hilde Antonsen Myren",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26798-liv-hilde-antonsen-myren",
+        "address": "Tollbodgata 8 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508712,
+          59.926841
+        ]
+      },
+      "properties": {
+        "name": "Toma Petrovic",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27131-toma-petrovic",
+        "address": "Silurveien 2 0380 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5868651,
+          59.9173392
+        ]
+      },
+      "properties": {
+        "name": "Birgitte Louise Aspenes",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27136-birgitte-louise-aspenes",
+        "address": "Bærumsveien 205 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Camilla Wold Kox",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27176-camilla-wold-kox",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Thomas Fredrik Thaulow",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27189-thomas-fredrik-thaulow",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7665605,
+          58.4601969
+        ]
+      },
+      "properties": {
+        "name": "Birgitte Sanda",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27199-birgitte-sanda",
+        "address": "Tollbodgaten 1 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7280858,
+          59.9224118
+        ]
+      },
+      "properties": {
+        "name": "Kristian Nordlie",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27256-kristian-nordlie",
+        "address": "Oscarsgt. 20 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6049937,
+          59.209511
+        ]
+      },
+      "properties": {
+        "name": "Nina Therese Berg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27280-nina-therese-berg",
+        "address": "Holbergsgate 5 3717 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0215388,
+          59.0497667
+        ]
+      },
+      "properties": {
+        "name": "Hårek Augestad Lysberg",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27281-harek-augestad-lysberg",
+        "address": "Fritzøe Brygge 1 3264 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Cecilie Terkelsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27296-cecilie-terkelsen",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7263748,
+          58.8410857
+        ]
+      },
+      "properties": {
+        "name": "Kristine Kaada",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27316-kristine-kaada",
+        "address": "Jærveien 15 4319 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3733759,
+          67.283197
+        ]
+      },
+      "properties": {
+        "name": "Marianne Larsen  Helland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29144-marianne-larsen-helland",
+        "address": "Sjøgata 1 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3485011,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "John Kristian Høye",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29164-john-kristian-hoye",
+        "address": "Langelandsveien 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5036926,
+          59.7832492
+        ]
+      },
+      "properties": {
+        "name": "Alda Urtane",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29210-alda-urtane",
+        "address": "Borggata 57 5417 Stord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Anton Langebrekke",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29261-anton-langebrekke",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Unn Mette Friberg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29290-unn-mette-friberg",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Vasilis Sitras",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29291-vasilis-sitras",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Aiva  Lauzikiene",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29294-aiva-lauzikiene",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Kamaljit Kaur Aujla",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29295-kamaljit-kaur-aujla",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Fadumo Omar Ali",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2013)Autorisasjon - Sykepleier (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29312-fadumo-omar-ali",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Solveig Thorarinsdottir",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29317-solveig-thorarinsdottir",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Jwan Hagi  Raza",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29382-jwan-hagi-raza",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Zelalem Mengistu",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29389-zelalem-mengistu",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4500743,
+          61.1136852
+        ]
+      },
+      "properties": {
+        "name": "Ida Elisabeth  Bang",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29393-ida-elisabeth-bang",
+        "address": "Strandpromenaden 76, Strandtorget 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4500743,
+          61.1136852
+        ]
+      },
+      "properties": {
+        "name": "Vera Alice Ernsting",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29394-vera-alice-ernsting",
+        "address": "Strandpromenaden 76, Strandtorget 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2232494,
+          59.7413889
+        ]
+      },
+      "properties": {
+        "name": "Gry Findal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29397-gry-findal",
+        "address": "Tomtegata 36 3012 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403009,
+          63.4417539
+        ]
+      },
+      "properties": {
+        "name": "Birgitte Heiberg  Kahrs",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29404-birgitte-heiberg-kahrs",
+        "address": "Havnegata 9, Pirsenteret, inngang 2, 3. etg 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676936,
+          59.41878
+        ]
+      },
+      "properties": {
+        "name": "Yong  Shi",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29409-yong-shi",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Camilla  Svensvik",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29420-camilla-svensvik",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709891,
+          59.9307109
+        ]
+      },
+      "properties": {
+        "name": "Anne Marie Barrameda",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29421-anne-marie-barrameda",
+        "address": "Sørkedalsveien 10B 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth  Smogeli",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29430-elisabeth-smogeli",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Jenny  Alvirovic",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29457-jenny-alvirovic",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Kristine Heien  Hansen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29483-kristine-heien-hansen",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Marte  Jettestad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29484-marte-jettestad",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Mette Løkeland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29485-mette-lokeland",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Sindre Grindheim",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29487-sindre-grindheim",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Ann Cecilie  Vaadal",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "34 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29502-ann-cecilie-vaadal",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3970749,
+          58.2616998
+        ]
+      },
+      "properties": {
+        "name": "Grethe  Smedsaas",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29520-grethe-smedsaas",
+        "address": "Senterveien 32 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3970749,
+          58.2616998
+        ]
+      },
+      "properties": {
+        "name": "Christin Meltzer-Gunnes",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29521-christin-meltzer-gunnes",
+        "address": "Senterveien 32 4790 Lillesand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Ida Collett  Ulimoen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29525-ida-collett-ulimoen",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Katrine Rostrup  Nakstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29527-katrine-rostrup-nakstad",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Ida Waagsbø Bjørntvedt",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29544-ida-waagsbo-bjorntvedt",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Madeleine  Engen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29545-madeleine-engen",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Ane Gerda Z Eriksson",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29546-ane-gerda-z-eriksson",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Ashi  Ahmad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29552-ashi-ahmad",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5868651,
+          59.9173392
+        ]
+      },
+      "properties": {
+        "name": "Siri Kløkstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29555-siri-klokstad",
+        "address": "Bærumsveien 205 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Aditi Singh",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29562-aditi-singh",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Tea Brummer",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29563-tea-brummer",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7016724,
+          60.9286099
+        ]
+      },
+      "properties": {
+        "name": "Alenka  Bindas",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29566-alenka-bindas",
+        "address": "Møllergata 18 2390 Moelv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6373378,
+          59.9124013
+        ]
+      },
+      "properties": {
+        "name": "Cecilie Golden",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29735-cecilie-golden",
+        "address": "Lysaker Torg 5 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6373378,
+          59.9124013
+        ]
+      },
+      "properties": {
+        "name": "Guri Pande-Rolfsen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29736-guri-pande-rolfsen",
+        "address": "Lysaker Torg 5 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3335601,
+          60.391601
+        ]
+      },
+      "properties": {
+        "name": "Ørjan L. Vermeer",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29737-orjan-l-vermeer",
+        "address": "Kong Oscars gate 66-68 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6516805,
+          59.1389277
+        ]
+      },
+      "properties": {
+        "name": "Adrian Botea",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29738-adrian-botea",
+        "address": "Storgata 125 3915 Porsgrunn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9918549,
+          58.1477373
+        ]
+      },
+      "properties": {
+        "name": "Yngvar Hansen-Tangen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29739-yngvar-hansen-tangen",
+        "address": "Henrik Wergelandsgate 27 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Stine Therese Birkeland",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30154-stine-therese-birkeland",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Kristine Flaten",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30155-kristine-flaten",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Sigrid Vingerhagen  Pethick",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30156-sigrid-vingerhagen-pethick",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2047316,
+          59.7471015
+        ]
+      },
+      "properties": {
+        "name": "Tom Hartgill",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30157-tom-hartgill",
+        "address": "Jørgen Moesgate 4 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7404685,
+          59.9162863
+        ]
+      },
+      "properties": {
+        "name": "Hildegunn Horne",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30158-hildegunn-horne",
+        "address": "PIlestredet 15 A 0164 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975859,
+          63.4336685
+        ]
+      },
+      "properties": {
+        "name": "Berit Rein Solhaug",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30159-berit-rein-solhaug",
+        "address": "Olav Tryggvasons Gate 24, inngang Carl Johans gate 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Milena  Kresovic",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30162-milena-kresovic",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.431032,
+          59.2760413
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Møller-Hansen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30166-ingrid-moller-hansen",
+        "address": "Kilengaten 18 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0409393,
+          59.9533517
+        ]
+      },
+      "properties": {
+        "name": "Gun Lisbet  Opheim",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja. Har avtale vedLillestrømgynekologene AS",
+        "url": "https://www.legelisten.no/spesialister/30173-gun-lisbet-opheim",
+        "address": "Dampsagveien 2 A 2004 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7161103,
+          59.9288201
+        ]
+      },
+      "properties": {
+        "name": "Desi Vasileva",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30199-desi-vasileva",
+        "address": "Bogstadveien 51 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2734841,
+          59.4109147
+        ]
+      },
+      "properties": {
+        "name": "Eli Wiksnes",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30218-eli-wiksnes",
+        "address": "Skåregata 92 5528 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7316897,
+          59.9147503
+        ]
+      },
+      "properties": {
+        "name": "Åsmund Mjøen-Vigeland",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30219-asmund-mjoen-vigeland",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975144,
+          63.4334618
+        ]
+      },
+      "properties": {
+        "name": "Kristian Schunemann",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30221-kristian-schunemann",
+        "address": "Olav Tryggvasons gate 24 B 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3975144,
+          63.4334618
+        ]
+      },
+      "properties": {
+        "name": "Hong Phi Pham",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30222-hong-phi-pham",
+        "address": "Olav Tryggvasons gate 24 B 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4573946,
+          63.4363277
+        ]
+      },
+      "properties": {
+        "name": "Trine Finanger",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommerRus- og avhengighetsmedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30223-trine-finanger",
+        "address": "Falkenborgveien 9 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4573946,
+          63.4363277
+        ]
+      },
+      "properties": {
+        "name": "Kristine Fuglem  Ulstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30224-kristine-fuglem-ulstad",
+        "address": "Falkenborgveien 9 7044 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9879243,
+          58.1466415
+        ]
+      },
+      "properties": {
+        "name": "Cecilie Risbakk",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30225-cecilie-risbakk",
+        "address": "Vestre Strandgate 42 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4600876,
+          58.0293183
+        ]
+      },
+      "properties": {
+        "name": "Marita Anette Sandvold Lomheim",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30289-marita-anette-sandvold-lomheim",
+        "address": "Skarvøyveien 26 4517 Mandal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8555108,
+          61.4503248
+        ]
+      },
+      "properties": {
+        "name": "Gudny Sando",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "74 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30291-gudny-sando",
+        "address": "Hafstadvegen 39 6800 Førde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3495273,
+          62.4677497
+        ]
+      },
+      "properties": {
+        "name": "Åse Roald  Sandvik",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30294-ase-roald-sandvik",
+        "address": "Moavegen 11 6018 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5585932,
+          68.7843048
+        ]
+      },
+      "properties": {
+        "name": "Hallvard Fjelltun",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30298-hallvard-fjelltun",
+        "address": "Rødbergveien 6 9408 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5585932,
+          68.7843048
+        ]
+      },
+      "properties": {
+        "name": "Hans Krogstad",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30300-hans-krogstad",
+        "address": "Rødbergveien 6 9408 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Jørgen Perminow",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30754-jorgen-perminow",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508712,
+          59.926841
+        ]
+      },
+      "properties": {
+        "name": "Magnus Borgan Berge",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30943-magnus-borgan-berge",
+        "address": "Silurveien 2 0380 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092695,
+          59.9147416
+        ]
+      },
+      "properties": {
+        "name": "Tone Rosander Hafsteen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31163-tone-rosander-hafsteen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Lene Ramberg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "37 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31197-lene-ramberg",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3187824,
+          60.385946
+        ]
+      },
+      "properties": {
+        "name": "Alexander Freis",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31200-alexander-freis",
+        "address": "Bredalsmarken 15, 7. etasje 5006 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8206721,
+          59.2261228
+        ]
+      },
+      "properties": {
+        "name": "Sofia Mathiesen",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31413-sofia-mathiesen",
+        "address": "Lillengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Lina Warholm",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31434-lina-warholm",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7316463,
+          63.111008
+        ]
+      },
+      "properties": {
+        "name": "Lisa  Skiphamn",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32113-lisa-skiphamn",
+        "address": "Storgata 1 6509 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8480493,
+          62.343389
+        ]
+      },
+      "properties": {
+        "name": "Sissel Hjelle",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32209-sissel-hjelle",
+        "address": "Bjørndalvegen 7 6065 Ulsteinvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8480493,
+          62.343389
+        ]
+      },
+      "properties": {
+        "name": "Lena Hüttner",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32210-lena-huttner",
+        "address": "Bjørndalvegen 7 6065 Ulsteinvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9921675,
+          58.1439919
+        ]
+      },
+      "properties": {
+        "name": "Ane Cecilie Dæhli Munk",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32218-ane-cecilie-daehli-munk",
+        "address": "Vestre Strandgate 27-29 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7347194,
+          58.9700856
+        ]
+      },
+      "properties": {
+        "name": "Kathinka Skjærmoen Retz",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32281-kathinka-skjaermoen-retz",
+        "address": "Klubbgata 2B 4013 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9610372,
+          69.6524548
+        ]
+      },
+      "properties": {
+        "name": "Rita Kral",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/32282-rita-kral",
+        "address": "Skippergata 1 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6524227,
+          58.735057
+        ]
+      },
+      "properties": {
+        "name": "Tone Tjørnhom",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32393-tone-tjornhom",
+        "address": "Arne Garborgs veg 15 4345 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5931884,
+          58.3380228
+        ]
+      },
+      "properties": {
+        "name": "Mette Skorstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33234-mette-skorstad",
+        "address": "Odden 1D 4876 Grimstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3187824,
+          60.385946
+        ]
+      },
+      "properties": {
+        "name": "Camilla Koester",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33247-camilla-koester",
+        "address": "Bredalsmarken 15, 7. etasje 5006 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4346422,
+          59.8370676
+        ]
+      },
+      "properties": {
+        "name": "Marthe Lene Telle",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Sykepleier (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34744-marthe-lene-telle",
+        "address": "Knud Askers vei 28 a 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7161103,
+          59.9288201
+        ]
+      },
+      "properties": {
+        "name": "Gabor Bunford",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34791-gabor-bunford",
+        "address": "Bogstadveien 51 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7316897,
+          59.9147503
+        ]
+      },
+      "properties": {
+        "name": "Gurpreet Singh Kalra",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86046-gurpreet-singh-kalra",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8467777,
+          59.7015176
+        ]
+      },
+      "properties": {
+        "name": "Latif Sadek",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86314-latif-sadek",
+        "address": "Kråkstadveien 64C 1424 Ski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9384663,
+          59.2055696
+        ]
+      },
+      "properties": {
+        "name": "Ingvild Hallberg",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86417-ingvild-hallberg",
+        "address": "Kråkerøyveien 2A 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Astrid Liavaag",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86510-astrid-liavaag",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.709743,
+          59.9303106
+        ]
+      },
+      "properties": {
+        "name": "Birgitte Mitlid-Mork",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86646-birgitte-mitlid-mork",
+        "address": "Sørkedalsveien 10 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4600876,
+          58.0293183
+        ]
+      },
+      "properties": {
+        "name": "Tonia Rike",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86683-tonia-rike",
+        "address": "Skarvøyveien 26 4517 Mandal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7389263,
+          58.853393
+        ]
+      },
+      "properties": {
+        "name": "Tomasz Kalbarczyk",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86746-tomasz-kalbarczyk",
+        "address": "Vågsgata 40 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.463098,
+          61.1168064
+        ]
+      },
+      "properties": {
+        "name": "Inger Hole Dietrichson",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86895-inger-hole-dietrichson",
+        "address": "Nymosvingen 6 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7310179,
+          58.9698827
+        ]
+      },
+      "properties": {
+        "name": "Shadi Farzannia",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86917-shadi-farzannia",
+        "address": "Haakon VII gate 7 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7316897,
+          59.9147503
+        ]
+      },
+      "properties": {
+        "name": "Renee Alstad",
+        "profession": "Gynekolog",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87084-renee-alstad",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2123499,
+          59.1351895
+        ]
+      },
+      "properties": {
+        "name": "Steinar Fritzner Rafaelsen Holmsen",
+        "profession": "Gynekolog",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Fødselshjelp og kvinnesykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87370-steinar-fritzner-rafaelsen-holmsen",
+        "address": "Skiringssalsveien 20 3208 Sandefjord"
+      }
+    }
+  ]
+}

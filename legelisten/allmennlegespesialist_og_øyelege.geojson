@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1401839,
+          66.3151456
+        ]
+      },
+      "properties": {
+        "name": "Knut Resellmo",
+        "profession": "Allmennlegespesialist og øyelege",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "AllmennmedisinSamfunnsmedisinØyesykdommer",
+        "godkjenning": "Autorisasjon - Lege (1983)Autorisasjon - Bioingeniør (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16974-knut-resellmo",
+        "address": "Johan Nygaardsvolds gate 3 8622 Mo i Rana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7166684,
+          59.930099
+        ]
+      },
+      "properties": {
+        "name": "Reza Ario Badian",
+        "profession": "Allmennlegespesialist og øyelege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "AllmennmedisinØyesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23879-reza-ario-badian",
+        "address": "Ole Vigs gate 32E 0366 Oslo"
+      }
+    }
+  ]
+}

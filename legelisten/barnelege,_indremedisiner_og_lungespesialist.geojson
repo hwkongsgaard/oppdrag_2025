@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588213,
+          59.9162626
+        ]
+      },
+      "properties": {
+        "name": "Anne Kjerstin Søyland",
+        "profession": "Barnelege, indremedisiner og lungespesialist",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "BarnesykdommerIndremedisinLungesykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15480-anne-kjerstin-soyland",
+        "address": "Gamle Ringeriksvei 34 1357 Bekkestua"
+      }
+    }
+  ]
+}

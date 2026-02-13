@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4867518,
+          59.8756326
+        ]
+      },
+      "properties": {
+        "name": "Ole Jørgen Kirkeby",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17140-ole-jorgen-kirkeby",
+        "address": "Fjellveien 13A 1396 Billingstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Roald Baardsen",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon - Lege (1993)Autorisasjon - Tannlege (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17231-roald-baardsen",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3534615,
+          60.3200736
+        ]
+      },
+      "properties": {
+        "name": "Juan Robbie  Mathisen",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17235-juan-robbie-mathisen",
+        "address": "Nesttunveien 90 B 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7648281,
+          59.9202541
+        ]
+      },
+      "properties": {
+        "name": "Vidar Tveit Vasfaret Stenset",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17415-vidar-tveit-vasfaret-stenset",
+        "address": "Sverdrups gate 9A 0559 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7394121,
+          58.8509264
+        ]
+      },
+      "properties": {
+        "name": "Ben Heskestad",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24213-ben-heskestad",
+        "address": "Elvegaten 25, 3. etasje 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Kåre Ekseth",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24214-kare-ekseth",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Nils Utheim",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26971-nils-utheim",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Kay Müller",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26972-kay-muller",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5211421,
+          59.8868537
+        ]
+      },
+      "properties": {
+        "name": "Pål Rydning",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26973-pal-rydning",
+        "address": "Sandviksvn 176 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Jugoslav Ivanovic",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27182-jugoslav-ivanovic",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Mark Züchner",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27184-mark-zuchner",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Hamed  Abo Obaid",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29452-hamed-abo-obaid",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Håvard  Sommernes",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29454-havard-sommernes",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "Andreas Sørlie",
+        "profession": "Nevrokirurg",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Nevrokirurgi",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29524-andreas-sorlie",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    }
+  ]
+}

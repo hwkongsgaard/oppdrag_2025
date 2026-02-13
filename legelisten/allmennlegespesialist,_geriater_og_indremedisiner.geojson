@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9368958,
+          59.9234533
+        ]
+      },
+      "properties": {
+        "name": "Paul H. Juul-Hansen",
+        "profession": "Allmennlegespesialist, geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "AllmennmedisinGeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15351-paul-h-juul-hansen",
+        "address": "Rastastubben 3 1476 Rasta"
+      }
+    }
+  ]
+}

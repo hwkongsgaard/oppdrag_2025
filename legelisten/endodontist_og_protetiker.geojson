@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8081637,
+          58.092858
+        ]
+      },
+      "properties": {
+        "name": "Karl Martin Loga",
+        "profession": "Endodontist og protetiker",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "EndodontiOral protetikk",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11111-karl-martin-loga",
+        "address": "Barbros Gate 13 4550 Farsund"
+      }
+    }
+  ]
+}

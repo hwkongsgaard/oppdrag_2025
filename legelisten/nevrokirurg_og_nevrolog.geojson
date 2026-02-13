@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4867518,
+          59.8756326
+        ]
+      },
+      "properties": {
+        "name": "Ingunn Rise  Kirkeby",
+        "profession": "Nevrokirurg og nevrolog",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "NevrokirurgiNevrologi",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30729-ingunn-rise-kirkeby",
+        "address": "Fjellveien 13A 1396 Billingstad"
+      }
+    }
+  ]
+}

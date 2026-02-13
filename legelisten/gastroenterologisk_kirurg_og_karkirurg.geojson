@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4951659,
+          64.4643995
+        ]
+      },
+      "properties": {
+        "name": "Arne Seternes",
+        "profession": "Gastroenterologisk kirurg og karkirurg",
+        "gender": null,
+        "age": null,
+        "specialization": "Gastroenterologisk kirurgiKarkirurgi",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23536-arne-seternes",
+        "address": "Fjordgt. 68 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Rune  Horneland",
+        "profession": "Gastroenterologisk kirurg og karkirurg",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Gastroenterologisk kirurgiKarkirurgi",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30583-rune-horneland",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7260522,
+          59.9279586
+        ]
+      },
+      "properties": {
+        "name": "Peyman Yousefi",
+        "profession": "Gastroenterologisk kirurg og karkirurg",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Gastroenterologisk kirurgiKarkirurgi",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32003-peyman-yousefi",
+        "address": "Vibes gate 24 0356 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2284373,
+          59.7432143
+        ]
+      },
+      "properties": {
+        "name": "Lars Haukeland",
+        "profession": "Ortopedisk kirurg og plastikkirurg",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Ortopedisk kirurgiPlastikkirurgi",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16999-lars-haukeland",
+        "address": "Engene 116 3012 Drammen"
+      }
+    }
+  ]
+}

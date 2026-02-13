@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1752798,
+          60.146462
+        ]
+      },
+      "properties": {
+        "name": "Odd Langbach",
+        "profession": "Gastroenterologisk kirurg og kjeveortoped",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Gastroenterologisk kirurgiKjeveortopedi",
+        "godkjenning": "Autorisasjon - Lege (1997)Autorisasjon - Tannlege (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7667-odd-langbach",
+        "address": "Ringveien 23 2050 Jessheim"
+      }
+    }
+  ]
+}

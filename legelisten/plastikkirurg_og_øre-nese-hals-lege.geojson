@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6306979,
+          59.9062766
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Tvedt",
+        "profession": "Plastikkirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "PlastikkirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16597-bjorn-tvedt",
+        "address": "Fornebuveien 50 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7227419,
+          59.9195509
+        ]
+      },
+      "properties": {
+        "name": "Lars Andreas Haasted",
+        "profession": "Plastikkirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "PlastikkirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17004-lars-andreas-haasted",
+        "address": "Oscarsgt 46B 0258 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Morten H Haug",
+        "profession": "Plastikkirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "PlastikkirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17089-morten-h-haug",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5215227,
+          59.8936283
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Borch Bugge",
+        "profession": "Plastikkirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "PlastikkirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17170-oyvind-borch-bugge",
+        "address": "Løkkeåsveien 3C 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0981202,
+          58.1805045
+        ]
+      },
+      "properties": {
+        "name": "Thom K Topstad",
+        "profession": "Plastikkirurg og øre-nese-hals-lege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "PlastikkirurgiØre-, nese-, halssykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17332-thom-k-topstad",
+        "address": "Lauvåsen Hovedvei 1 4656 Hamresanden"
+      }
+    }
+  ]
+}

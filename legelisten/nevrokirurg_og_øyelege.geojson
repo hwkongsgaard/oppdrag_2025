@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9609058,
+          69.6523274
+        ]
+      },
+      "properties": {
+        "name": "Roar Kloster",
+        "profession": "Nevrokirurg og øyelege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "NevrokirurgiØyesykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29411-roar-kloster",
+        "address": "Skippergata 7A 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7097076,
+          59.9307325
+        ]
+      },
+      "properties": {
+        "name": "Tiril Sandell",
+        "profession": "Nevrokirurg og øyelege",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "NevrokirurgiØyesykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86741-tiril-sandell",
+        "address": "Sørkedalsveien 10d 0369 Oslo"
+      }
+    }
+  ]
+}

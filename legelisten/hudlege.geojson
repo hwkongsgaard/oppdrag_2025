@@ -1,0 +1,2924 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Kinia Remaut",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15128-kinia-remaut",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5017232,
+          59.8870094
+        ]
+      },
+      "properties": {
+        "name": "Anne Marie Loven",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja. Har avtale vedBærum Hudlegekontor AS",
+        "url": "https://www.legelisten.no/spesialister/15129-anne-marie-loven",
+        "address": "Slependveien 48 1341 Slependen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410508,
+          59.9176347
+        ]
+      },
+      "properties": {
+        "name": "Dørte Koss-Harnes",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15130-dorte-koss-harnes",
+        "address": "Munchs gate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7327381,
+          59.9179107
+        ]
+      },
+      "properties": {
+        "name": "Ellen Margrethe Slevolden",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15132-ellen-margrethe-slevolden",
+        "address": "Wergelandsveien 1-3 0167 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7702915,
+          58.458704
+        ]
+      },
+      "properties": {
+        "name": "Ernst-Jan Veer",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15134-ernst-jan-veer",
+        "address": "Langbryggen 19C 4841 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7497865,
+          59.9145403
+        ]
+      },
+      "properties": {
+        "name": "Caroline Strandhagen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15138-caroline-strandhagen",
+        "address": "Youngstorget 2B 0181 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2079401,
+          59.743182
+        ]
+      },
+      "properties": {
+        "name": "Henning Johan Stang",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15139-henning-johan-stang",
+        "address": "Nedre Storgate 13 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Lars Kåre Fagerheim",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15140-lars-kare-fagerheim",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7160315,
+          59.9295231
+        ]
+      },
+      "properties": {
+        "name": "Ole Magne Kalgaard",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15141-ole-magne-kalgaard",
+        "address": "Valkyriegate 8 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Elin Holthe Johnsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja. Har avtale vedHønefoss hudlegekontor",
+        "url": "https://www.legelisten.no/spesialister/15142-elin-holthe-johnsen",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7809372,
+          59.8198408
+        ]
+      },
+      "properties": {
+        "name": "Lena Myhre",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15143-lena-myhre",
+        "address": "Trollåsveien 4 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Anne Lise Helgesen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15144-anne-lise-helgesen",
+        "address": "Sørkedalsveien 10 b 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Sidsel Haug",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15145-sidsel-haug",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Xiaotong Li",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15146-xiaotong-li",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Karianne Nodenes",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15148-karianne-nodenes",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Mila Lilleeng",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15149-mila-lilleeng",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Jon Anders Halvorsen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja. Har avtale vedBest Helse Nordstrand",
+        "url": "https://www.legelisten.no/spesialister/15150-jon-anders-halvorsen",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7253127,
+          59.9234997
+        ]
+      },
+      "properties": {
+        "name": "Jens Roar Bjerke",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Lisens (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15153-jens-roar-bjerke",
+        "address": "Hegdehaugsveien 36 B 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7150805,
+          59.9291842
+        ]
+      },
+      "properties": {
+        "name": "Line Anette Aulie",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15154-line-anette-aulie",
+        "address": "Kirkeveien 64 B 0364 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Claus Lützow-Holm",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15155-claus-lutzow-holm",
+        "address": "Sørkedalsveien 10 b 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5164319,
+          59.8912944
+        ]
+      },
+      "properties": {
+        "name": "Aase Høviskeland",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15156-aase-hoviskeland",
+        "address": "Elias Smiths vei 24 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7963603,
+          59.8354096
+        ]
+      },
+      "properties": {
+        "name": "Bjørn E Bondevik",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15160-bjorn-e-bondevik",
+        "address": "Holmlia Senter vei 1B, 4 etg 1255 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7865743,
+          59.8804723
+        ]
+      },
+      "properties": {
+        "name": "Ana Maria Astrid Solér",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15161-ana-maria-astrid-soler",
+        "address": "Kongsveien 104 1177 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5887304,
+          59.9163436
+        ]
+      },
+      "properties": {
+        "name": "Anne Klemeyer",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15162-anne-klemeyer",
+        "address": "Gamle Ringeriksvei 34 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Nils-Jørgen Mørk",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15165-nils-jorgen-mork",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7774986,
+          59.8175233
+        ]
+      },
+      "properties": {
+        "name": "Morten Nyrud",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "Almenpraktiker DnlfHud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15168-morten-nyrud",
+        "address": "Trollåsveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9543161,
+          59.9260062
+        ]
+      },
+      "properties": {
+        "name": "Cato Mørk",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15170-cato-mork",
+        "address": "Skårersletta 18 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Jürgen Funk",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja. Har avtale vedDr. Funks Hudklinikk AS",
+        "url": "https://www.legelisten.no/spesialister/15172-jurgen-funk",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9318046,
+          59.2205658
+        ]
+      },
+      "properties": {
+        "name": "Hans Petter J. Valnes",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15173-hans-petter-j-valnes",
+        "address": "Vestre Frydenbergvei 4 1613 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9401277,
+          59.2086472
+        ]
+      },
+      "properties": {
+        "name": "Guttorm Edvin Guleng",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15174-guttorm-edvin-guleng",
+        "address": "Tordenskioldsgate 12 1606 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1071032,
+          59.2808901
+        ]
+      },
+      "properties": {
+        "name": "Darjosh Dinparvar",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15176-darjosh-dinparvar",
+        "address": "Sandesundsvn. 23 1724 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0627255,
+          59.9632656
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Aarstein",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15178-kjetil-aarstein",
+        "address": "C. J. Hansens vei 7 2007 Kjeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Trine Lilly Halvorsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja. Har avtale vedKolbotn Hudlegesenter",
+        "url": "https://www.legelisten.no/spesialister/15179-trine-lilly-halvorsen",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9543161,
+          59.9260062
+        ]
+      },
+      "properties": {
+        "name": "Hong Diem Thi Tran",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15180-hong-diem-thi-tran",
+        "address": "Skårersletta 18 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0698182,
+          60.7952639
+        ]
+      },
+      "properties": {
+        "name": "Morten Brekne  Nielsen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15182-morten-brekne-nielsen",
+        "address": "Torggt. 73 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7782464,
+          59.9287389
+        ]
+      },
+      "properties": {
+        "name": "Florian Gatty",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15184-florian-gatty",
+        "address": "Trondheimsveien 135 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4630952,
+          61.1169038
+        ]
+      },
+      "properties": {
+        "name": "Lars Kåre Dotterud",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15185-lars-kare-dotterud",
+        "address": "Nymosvingen 6 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6892317,
+          60.7958268
+        ]
+      },
+      "properties": {
+        "name": "Kjell Arne Stene Hoff",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15186-kjell-arne-stene-hoff",
+        "address": "Bakkegata 3 2815 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6485698,
+          59.6706465
+        ]
+      },
+      "properties": {
+        "name": "Ivana Randjelovic",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15189-ivana-randjelovic",
+        "address": "Skolegata 7 3611 Kongsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2007821,
+          59.7491155
+        ]
+      },
+      "properties": {
+        "name": "Patrick  Kramer",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15190-patrick-kramer",
+        "address": "Bergstien 28 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Katarina Zak Stangeland",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15198-katarina-zak-stangeland",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405712,
+          58.9575642
+        ]
+      },
+      "properties": {
+        "name": "Thomas Ternowitz",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15199-thomas-ternowitz",
+        "address": "Lagårdsveien 80 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7405023,
+          58.9470644
+        ]
+      },
+      "properties": {
+        "name": "Sheila Ann Fevang",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15200-sheila-ann-fevang",
+        "address": "Gartnerveien 41 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7245578,
+          58.9217406
+        ]
+      },
+      "properties": {
+        "name": "Freddy Hestholm",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15201-freddy-hestholm",
+        "address": "Hinnasvingene 55 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9997621,
+          58.1453357
+        ]
+      },
+      "properties": {
+        "name": "Saeb S. Zakout",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15202-saeb-s-zakout",
+        "address": "Kongensgate 30 4610 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7702915,
+          58.458704
+        ]
+      },
+      "properties": {
+        "name": "Frode Kristiansen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15206-frode-kristiansen",
+        "address": "Langbryggen 19C 4841 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3203443,
+          60.3945446
+        ]
+      },
+      "properties": {
+        "name": "Tore Morken",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": "Almenpraktiker DnlfHud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15207-tore-morken",
+        "address": "Valkendorfsgaten 9 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3203443,
+          60.3945446
+        ]
+      },
+      "properties": {
+        "name": "Ole Rødland",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15208-ole-rodland",
+        "address": "Valkendorfsgaten 9 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3285554,
+          60.39516
+        ]
+      },
+      "properties": {
+        "name": "Asta Meland Lysebo",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15209-asta-meland-lysebo",
+        "address": "Kong Oscars gate 18 5017 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Eli Synnøve Lilleskog",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15210-eli-synnove-lilleskog",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3208257,
+          60.4710872
+        ]
+      },
+      "properties": {
+        "name": "Erlend Tolaas",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15211-erlend-tolaas",
+        "address": "Myrdalsvegen 22 5130 Nyborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Karin Wold Frølich",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15213-karin-wold-frolich",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Anabella Bjørnestad",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15214-anabella-bjornestad",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1187844,
+          60.3623336
+        ]
+      },
+      "properties": {
+        "name": "Steinulv Aarebrot",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15215-steinulv-aarebrot",
+        "address": "Blombakkane 2 5354 Straume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2724125,
+          59.4119909
+        ]
+      },
+      "properties": {
+        "name": "Jacek Bartosik",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15216-jacek-bartosik",
+        "address": "Skåregaten 112 5501 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4190332,
+          60.6284451
+        ]
+      },
+      "properties": {
+        "name": "Helge Danielsen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15217-helge-danielsen",
+        "address": "Skulegata 11 A 5700 Voss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3410085,
+          62.4646646
+        ]
+      },
+      "properties": {
+        "name": "Thor Henry Andersen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15218-thor-henry-andersen",
+        "address": "Åregjerdet 9A 6018 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991849,
+          63.4338124
+        ]
+      },
+      "properties": {
+        "name": "Morten Dalaker",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Hud og veneriske sykdommerPatologi",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15219-morten-dalaker",
+        "address": "Carl Johans gt 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991849,
+          63.4338124
+        ]
+      },
+      "properties": {
+        "name": "Jon Helge Bonesrønning",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15220-jon-helge-bonesronning",
+        "address": "Carl Johans gt 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991849,
+          63.4338124
+        ]
+      },
+      "properties": {
+        "name": "Leila Muslibegovic",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15221-leila-muslibegovic",
+        "address": "Carl Johans gt 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6629283,
+          59.4358127
+        ]
+      },
+      "properties": {
+        "name": "Malte Hübner",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja. Har avtale vedDTH Derma AS",
+        "url": "https://www.legelisten.no/spesialister/15222-malte-hubner",
+        "address": "Dronningens gate 17 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9230794,
+          63.4679323
+        ]
+      },
+      "properties": {
+        "name": "Merete Ziel Stenersen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15224-merete-ziel-stenersen",
+        "address": "Kjøpmannsgata 28 7500 Stjørdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.395608,
+          63.4327606
+        ]
+      },
+      "properties": {
+        "name": "Karin Moser",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15225-karin-moser",
+        "address": "Thomas Angells gate 22, Inngang B 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2816302,
+          63.7326656
+        ]
+      },
+      "properties": {
+        "name": "Jan Harald Vadla",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15226-jan-harald-vadla",
+        "address": "Moafjæra 8B 7606 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4891926,
+          64.0187409
+        ]
+      },
+      "properties": {
+        "name": "Anders Todal",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15227-anders-todal",
+        "address": "Bogaveien 6 7725 Steinkjer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2816302,
+          63.7326656
+        ]
+      },
+      "properties": {
+        "name": "Theis Huldt-Nystrøm",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja. Har avtale vedHudpoliklinikken på Innherred",
+        "url": "https://www.legelisten.no/spesialister/15233-theis-huldt-nystrom",
+        "address": "Moafjæra 8B 7606 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Michael Mehrdad Zangani",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15236-michael-mehrdad-zangani",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7524883,
+          59.9125418
+        ]
+      },
+      "properties": {
+        "name": "Panagiota Mantaka",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17525-panagiota-mantaka",
+        "address": "Stenersgata 1 0050 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2289217,
+          59.127778
+        ]
+      },
+      "properties": {
+        "name": "Nada Rakovan",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17680-nada-rakovan",
+        "address": "Thor Dahls gate 1 3210 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1334365,
+          66.3121597
+        ]
+      },
+      "properties": {
+        "name": "Richard Stoll",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17967-richard-stoll",
+        "address": "Fridtjof Nansens gate 29 8622 Mo i Rana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Linnea Torsnes",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18141-linnea-torsnes",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2724125,
+          59.4119909
+        ]
+      },
+      "properties": {
+        "name": "Judit Kiss",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18166-judit-kiss",
+        "address": "Skåregaten 112 5501 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1746803,
+          60.1419084
+        ]
+      },
+      "properties": {
+        "name": "Massimo Cioccolini",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18311-massimo-cioccolini",
+        "address": "Storgt.20 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4380829,
+          59.8343525
+        ]
+      },
+      "properties": {
+        "name": "Per Helsing",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/21473-per-helsing",
+        "address": "Erteløkka 1 1384 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7327381,
+          59.9179107
+        ]
+      },
+      "properties": {
+        "name": "Martin Enger",
+        "profession": "Hudlege",
+        "gender": null,
+        "age": null,
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21533-martin-enger",
+        "address": "Wergelandsveien 1-3 0167 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2606764,
+          59.5609361
+        ]
+      },
+      "properties": {
+        "name": "Inderjeet Singh Cheema",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja. Har avtale vedTelemark Hudlegesenter - PorsgrunnogTelemark Hudlegesenter - Notodden",
+        "url": "https://www.legelisten.no/spesialister/21682-inderjeet-singh-cheema",
+        "address": "Storgata 54A 3674 Notodden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4087601,
+          59.270848
+        ]
+      },
+      "properties": {
+        "name": "Narinder Kaur",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/21683-narinder-kaur",
+        "address": "Grev Wedels gate 10 3111 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1746803,
+          60.1419084
+        ]
+      },
+      "properties": {
+        "name": "Foteini Triantafyllopoulou",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22424-foteini-triantafyllopoulou",
+        "address": "Storgt.20 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5017232,
+          59.8870094
+        ]
+      },
+      "properties": {
+        "name": "Ragnar  Faye",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/22495-ragnar-faye",
+        "address": "Slependveien 48 1341 Slependen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9920979,
+          58.1450134
+        ]
+      },
+      "properties": {
+        "name": "Ane Vedå Scheel",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23087-ane-veda-scheel",
+        "address": "Gyldenløves gate 2 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9965283,
+          60.1922574
+        ]
+      },
+      "properties": {
+        "name": "Kristofer Thorslund",
+        "profession": "Hudlege",
+        "gender": null,
+        "age": null,
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23207-kristofer-thorslund",
+        "address": "Fjellgata 17 2212 Kongsvinger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7497865,
+          59.9145403
+        ]
+      },
+      "properties": {
+        "name": "Anne Birgitte Thomas Nordal",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23418-anne-birgitte-thomas-nordal",
+        "address": "Youngstorget 2B 0181 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Weinihareg Habtemariam",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23473-weinihareg-habtemariam",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522454,
+          59.9138688
+        ]
+      },
+      "properties": {
+        "name": "Miray Al-Mustafa",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23777-miray-al-mustafa",
+        "address": " 0257 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Mari Skylstad Kvernebo",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23890-mari-skylstad-kvernebo",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Regine Knudsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24249-regine-knudsen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Emilia Hugdahl",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24344-emilia-hugdahl",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2005086,
+          59.7391119
+        ]
+      },
+      "properties": {
+        "name": "Anita Dhirad",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24513-anita-dhirad",
+        "address": "Torgeir Vraas Plass 6 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9939176,
+          58.1485478
+        ]
+      },
+      "properties": {
+        "name": "Ellen Cathrine Pritzier",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24528-ellen-cathrine-pritzier",
+        "address": "Festningsgata 45 4612 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5345985,
+          63.4210709
+        ]
+      },
+      "properties": {
+        "name": "Alesya Knutsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24562-alesya-knutsen",
+        "address": "Vikelvfaret 2 7054 Ranheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Roza Garvik",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24721-roza-garvik",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Chinh Khac Le",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24818-chinh-khac-le",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6113941,
+          59.1860744
+        ]
+      },
+      "properties": {
+        "name": "Jon Gottfred Andersen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24869-jon-gottfred-andersen",
+        "address": "Infanteriveien 16 3734 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2816302,
+          63.7326656
+        ]
+      },
+      "properties": {
+        "name": "Kristine Skjetne",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25154-kristine-skjetne",
+        "address": "Moafjæra 8B 7606 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6062099,
+          64.8611265
+        ]
+      },
+      "properties": {
+        "name": "Witoslaw Chwasta",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25155-witoslaw-chwasta",
+        "address": "Nøkkrosevegen 2 7970 Kolvereid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4630952,
+          61.1169038
+        ]
+      },
+      "properties": {
+        "name": "Hermund Feldborg",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Ja. Har avtale vedHudlegekontoret Lillehammer",
+        "url": "https://www.legelisten.no/spesialister/25263-hermund-feldborg",
+        "address": "Nymosvingen 6 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.416257,
+          59.2533884
+        ]
+      },
+      "properties": {
+        "name": "Mohabbat Pal Singh",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25354-mohabbat-pal-singh",
+        "address": "Smidsrødveien 6 3120 Nøtterøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6633801,
+          59.437368
+        ]
+      },
+      "properties": {
+        "name": "Reza Sohrabi",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/25429-reza-sohrabi",
+        "address": "Prinsensgate 9 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Carl Fredrik von Krogh",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/27177-carl-fredrik-von-krogh",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4675669,
+          61.1173603
+        ]
+      },
+      "properties": {
+        "name": "Kirsten Morrison",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Ja. Har avtale vedMesna HudklinikkogNord-Gudbrandsdal Lokalmedisinske senter",
+        "url": "https://www.legelisten.no/spesialister/27217-kirsten-morrison",
+        "address": "Elvegata 19 2670 Otta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5604265,
+          60.8823083
+        ]
+      },
+      "properties": {
+        "name": "Maria Zofia Zmudzinska",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27218-maria-zofia-zmudzinska",
+        "address": "Elvarheimgata 10 C 2403 Elverum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5958965,
+          59.2091727
+        ]
+      },
+      "properties": {
+        "name": "Dag Næs Løchen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27282-dag-naes-lochen",
+        "address": "Bjørnstjerne Bjørnsonsgate 6 3722 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0627255,
+          59.9632656
+        ]
+      },
+      "properties": {
+        "name": "Guro Sunniva Bjørnevaagen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27297-guro-sunniva-bjornevaagen",
+        "address": "C. J. Hansens vei 7 2007 Kjeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3882001,
+          59.1193488
+        ]
+      },
+      "properties": {
+        "name": "Alexandros Lazaros Stefou",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27298-alexandros-lazaros-stefou",
+        "address": "Torget 2 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4153398,
+          68.6963385
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Bremnes",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29142-oyvind-bremnes",
+        "address": "Kjøpmannsgata 2B 8400 Sortland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Una Bjåstad Hovlid",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja. Har avtale vedUna Bjåstad HovlidogMedi3 - Ålesund",
+        "url": "https://www.legelisten.no/spesialister/29165-una-bjastad-hovlid",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Daniel de la Rosa Carrillo",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29262-daniel-de-la-rosa-carrillo",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Henrik  Mathiesen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29272-henrik-mathiesen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Jutta Allgäuer-Roscher",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29273-ingrid-jutta-allgauer-roscher",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Linn Landrø",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29279-linn-landro",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Vladimir Jankovic",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29318-vladimir-jankovic",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Kristine  Åsheim",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29360-kristine-asheim",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9283786,
+          69.6745633
+        ]
+      },
+      "properties": {
+        "name": "Elin Eikemo  Ekornes",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29412-elin-eikemo-ekornes",
+        "address": "Karlsøyvegen 12 9015 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9283786,
+          69.6745633
+        ]
+      },
+      "properties": {
+        "name": "Kjersti Danielsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29414-kjersti-danielsen",
+        "address": "Karlsøyvegen 12 9015 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Irene  Johnsrud",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29419-irene-johnsrud",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Eva Tønsberg",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29422-eva-tonsberg",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Silje Maria Davik",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29424-silje-maria-davik",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Anne Sofie Brandstorp",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29425-anne-sofie-brandstorp",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7497865,
+          59.9145403
+        ]
+      },
+      "properties": {
+        "name": "Thomas Moe",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29427-thomas-moe",
+        "address": "Youngstorget 2B 0181 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Siri Kratter  Abrahamsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29441-siri-kratter-abrahamsen",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Benedicte Giertsen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29475-benedicte-giertsen",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3204814,
+          60.3945337
+        ]
+      },
+      "properties": {
+        "name": "Evelina  Buinauskaite",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29480-evelina-buinauskaite",
+        "address": "Valkendorfsgaten 9 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Torbjørg  Dahle",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29490-torbjorg-dahle",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4026413,
+          63.4113594
+        ]
+      },
+      "properties": {
+        "name": "Børge Østhus",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29503-borge-osthus",
+        "address": "Odd Iversens veg 4, Lerkendal stadion 7031 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Christian  Dotterud",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29506-christian-dotterud",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7702915,
+          58.458704
+        ]
+      },
+      "properties": {
+        "name": "Bjørnar Halser Moen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29518-bjornar-halser-moen",
+        "address": "Langbryggen 19C 4841 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7257964,
+          58.8858643
+        ]
+      },
+      "properties": {
+        "name": "Piotr Slaby",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "38 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30141-piotr-slaby",
+        "address": "Luramyrveien 79 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7111556,
+          59.9302087
+        ]
+      },
+      "properties": {
+        "name": "Jose Hernán Alfonso",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "ArbeidsmedisinHud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30161-jose-hernan-alfonso",
+        "address": "Sørkedalsveien 8 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Merete Lorentzen",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30631-merete-lorentzen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3246192,
+          60.3965678
+        ]
+      },
+      "properties": {
+        "name": "Gunnhild  Hunskår",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "37 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30632-gunnhild-hunskar",
+        "address": "Bryggen 13 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3203443,
+          60.3945446
+        ]
+      },
+      "properties": {
+        "name": "Silje M. Solberg",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/30635-silje-m-solberg",
+        "address": "Valkendorfsgaten 9 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Thomas  Schopf",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30643-thomas-schopf",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7497865,
+          59.9145403
+        ]
+      },
+      "properties": {
+        "name": "Kim Sandberg Endre",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30644-kim-sandberg-endre",
+        "address": "Youngstorget 2B 0181 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Mohammad Rizvi",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30645-mohammad-rizvi",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Kenan  Tanovic",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "35 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30646-kenan-tanovic",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Christoffer Aam Ingvaldsen",
+        "profession": "Hudlege",
+        "gender": "Mann",
+        "age": "35 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30647-christoffer-aam-ingvaldsen",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871984,
+          59.8220616
+        ]
+      },
+      "properties": {
+        "name": "Maria Ulvestad",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "35 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30648-maria-ulvestad",
+        "address": "Rosenholmveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7774986,
+          59.8175233
+        ]
+      },
+      "properties": {
+        "name": "Usha  Hartgill",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30902-usha-hartgill",
+        "address": "Trollåsveien 25 1414 Trollåsen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7327381,
+          59.9179107
+        ]
+      },
+      "properties": {
+        "name": "Yangchen Dhondup",
+        "profession": "Hudlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Hud og veneriske sykdommer",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86226-yangchen-dhondup",
+        "address": "Wergelandsveien 1-3 0167 Oslo"
+      }
+    }
+  ]
+}

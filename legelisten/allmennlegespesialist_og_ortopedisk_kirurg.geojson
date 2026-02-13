@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9975636,
+          61.9147673
+        ]
+      },
+      "properties": {
+        "name": "Hans Kristian Sørland Humborstad",
+        "profession": "Allmennlegespesialist og ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "AllmennmedisinOrtopedisk kirurgi",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16788-hans-kristian-sorland-humborstad",
+        "address": "Teina 4 6770 Nordfjordeid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0480667,
+          59.9575751
+        ]
+      },
+      "properties": {
+        "name": "Michael Nesland",
+        "profession": "Allmennlegespesialist og ortopedisk kirurg",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "AllmennmedisinOrtopedisk kirurgi",
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32205-michael-nesland",
+        "address": "Storgata 26 2000 Lillestrøm"
+      }
+    }
+  ]
+}

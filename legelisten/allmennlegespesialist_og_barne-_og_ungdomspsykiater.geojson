@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.932464,
+          58.6233613
+        ]
+      },
+      "properties": {
+        "name": "Bodil Solberg",
+        "profession": "Allmennlegespesialist og barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "AllmennmedisinBarne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17738-bodil-solberg",
+        "address": "Wrold Wroldsens gate 16 4901 Tvedestrand"
+      }
+    }
+  ]
+}

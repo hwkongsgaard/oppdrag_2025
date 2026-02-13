@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9260812,
+          61.2409621
+        ]
+      },
+      "properties": {
+        "name": "Henning Jensen",
+        "profession": "Fysikalsk medisiner og revmatolog",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "Fysikalsk medisin og rehabiliteringRevmatologi",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16828-henning-jensen",
+        "address": "Liavegen 7 2953 Beitostølen"
+      }
+    }
+  ]
+}

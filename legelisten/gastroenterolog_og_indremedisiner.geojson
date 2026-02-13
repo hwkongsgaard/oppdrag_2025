@@ -1,0 +1,887 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4004647,
+          63.4399683
+        ]
+      },
+      "properties": {
+        "name": "Constantin Sergiu Jianu",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15336-constantin-sergiu-jianu",
+        "address": "Brattørkaia 11 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4019542,
+          59.8321071
+        ]
+      },
+      "properties": {
+        "name": "Tore Sandanger",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15360-tore-sandanger",
+        "address": "Knud Askers vei 28B, Trekanten senter 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9545733,
+          59.9259565
+        ]
+      },
+      "properties": {
+        "name": "Per Einar Tolås",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15362-per-einar-tolas",
+        "address": "Skårersletta 18 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7641647,
+          58.460117
+        ]
+      },
+      "properties": {
+        "name": "Einar Beitohaugen",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15366-einar-beitohaugen",
+        "address": "Vestregt. 1 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0554033,
+          60.8132868
+        ]
+      },
+      "properties": {
+        "name": "Desmond O'Leary",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1987)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15371-desmond-o-leary",
+        "address": "Ajerhagan 96 2319 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7780828,
+          59.9326028
+        ]
+      },
+      "properties": {
+        "name": "Asad Ali",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15376-asad-ali",
+        "address": "Trondheimsveien 184 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Ranjeet Singh Dhatt",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15394-ranjeet-singh-dhatt",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9369021,
+          59.2122926
+        ]
+      },
+      "properties": {
+        "name": "Eva Haugset Günther",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15402-eva-haugset-gunther",
+        "address": "Storgata 10 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9924355,
+          58.1437632
+        ]
+      },
+      "properties": {
+        "name": "Jon B Matre",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15417-jon-b-matre",
+        "address": "Vestre Strandgate 23 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7249605,
+          58.8788969
+        ]
+      },
+      "properties": {
+        "name": "Isaac Essilfie",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15456-isaac-essilfie",
+        "address": "Luramyrveien 19 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2728801,
+          59.4132882
+        ]
+      },
+      "properties": {
+        "name": "Valery Glazkov",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15458-valery-glazkov",
+        "address": "Skippergata 14 5527 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Jonas Koch",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21868-jonas-koch",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Peder Sandvold Olsen",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22422-peder-sandvold-olsen",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Friedemann  Erchinger",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23397-friedemann-erchinger",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3968569,
+          59.2402948
+        ]
+      },
+      "properties": {
+        "name": "Erling Heimtun",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23644-erling-heimtun",
+        "address": "Kjærnåsveien 13 A 3142 Vestskogen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Arne Drivenes",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23651-arne-drivenes",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4701528,
+          59.4136865
+        ]
+      },
+      "properties": {
+        "name": "Kathrine Aglen Seeberg",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23652-kathrine-aglen-seeberg",
+        "address": "Harald Pedersens gate 9B 3182 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6098324,
+          59.2073859
+        ]
+      },
+      "properties": {
+        "name": "Tiberiu Nicodemus",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23874-tiberiu-nicodemus",
+        "address": "Torggata 3 3724 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6094322,
+          59.2086835
+        ]
+      },
+      "properties": {
+        "name": "Richard Heitmann",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/23875-richard-heitmann",
+        "address": "Torggata 10 3724 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Håvard Midgard",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24352-havard-midgard",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Skjalg Klomstad",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/24823-skjalg-klomstad",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3187824,
+          60.385946
+        ]
+      },
+      "properties": {
+        "name": "Øystein Sørdal",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26967-oystein-sordal",
+        "address": "Bredalsmarken 15, 7. etasje 5006 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6873577,
+          60.7942539
+        ]
+      },
+      "properties": {
+        "name": "Per Arthur Johansson",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27215-per-arthur-johansson",
+        "address": "Storgt 23 2815 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8649492,
+          59.9510808
+        ]
+      },
+      "properties": {
+        "name": "Reidulf Stray-Pedersen",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27257-reidulf-stray-pedersen",
+        "address": "Trondheimsveien 391 0953 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3485011,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Prytz  Berset",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "FordøyelsessykdommerIndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29166-ingrid-prytz-berset",
+        "address": "Langelandsvegen 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3485011,
+          62.4642498
+        ]
+      },
+      "properties": {
+        "name": "Christine Slinning",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29167-christine-slinning",
+        "address": "Langelandsvegen 17 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4004647,
+          63.4399683
+        ]
+      },
+      "properties": {
+        "name": "Arne Kristian Sandvik",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29168-arne-kristian-sandvik",
+        "address": "Brattørkaia 11 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7248098,
+          58.9206671
+        ]
+      },
+      "properties": {
+        "name": "Kristian Øgreid  Leitao",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29190-kristian-ogreid-leitao",
+        "address": "Boganesveien 10 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Bjørn  Hofstad",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29259-bjorn-hofstad",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Einar Husebye",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "74 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29264-einar-husebye",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Tahir Riaz Ahmad",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29287-tahir-riaz-ahmad",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Gülen Aslan Lied",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29326-gulen-aslan-lied",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4140681,
+          63.4339433
+        ]
+      },
+      "properties": {
+        "name": "Istvan  Gal",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29511-istvan-gal",
+        "address": "Innherredsveien 7D 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3790425,
+          67.2846373
+        ]
+      },
+      "properties": {
+        "name": "John  Yobuta",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29526-john-yobuta",
+        "address": "Sjøgata 17 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6252689,
+          59.9052564
+        ]
+      },
+      "properties": {
+        "name": "Arne Røseth",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29561-arne-roseth",
+        "address": "Oksenøyveien 10 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6783372,
+          59.4181033
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Moum",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "73 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29564-bjorn-moum",
+        "address": "Lilleengveien 8 1523 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3432642,
+          60.3605638
+        ]
+      },
+      "properties": {
+        "name": "Khanh D.  Pham",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30772-khanh-d-pham",
+        "address": "Minde allé 48 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7316897,
+          59.9147503
+        ]
+      },
+      "properties": {
+        "name": "Reidar Fossmark",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31198-reidar-fossmark",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4125537,
+          63.4348859
+        ]
+      },
+      "properties": {
+        "name": "Eiliv Brenna",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31199-eiliv-brenna",
+        "address": "Beddingen 8 7042 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Håvar Blich Hope",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31294-havar-blich-hope",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9924355,
+          58.1437632
+        ]
+      },
+      "properties": {
+        "name": "Petter Hære",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86083-petter-haere",
+        "address": "Vestre Strandgate 23 4611 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7313583,
+          59.9478549
+        ]
+      },
+      "properties": {
+        "name": "Fred Arne Halvorsen",
+        "profession": "Gastroenterolog og indremedisiner",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": "FordøyelsessykdommerIndremedisin",
+        "godkjenning": "Autorisasjon (1977)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86202-fred-arne-halvorsen",
+        "address": "Sognsveien 70 A 0855 Oslo"
+      }
+    }
+  ]
+}

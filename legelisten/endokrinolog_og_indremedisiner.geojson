@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4024487,
+          63.4307433
+        ]
+      },
+      "properties": {
+        "name": "Marek Michal Baranowski",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15330-marek-michal-baranowski",
+        "address": "Kjøpmannsgata 31 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Erik Fink Eriksen",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15380-erik-fink-eriksen",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Kenneth Brattetveit",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15432-kenneth-brattetveit",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3218244,
+          60.3948376
+        ]
+      },
+      "properties": {
+        "name": "Pål Ivar Holm",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15443-pal-ivar-holm",
+        "address": "Strandkaien 16 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3991849,
+          63.4338124
+        ]
+      },
+      "properties": {
+        "name": "Anders Prestmo",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "EndokrinologiIndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/22574-anders-prestmo",
+        "address": "Carl Johans gate 3 7414 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Sara Hammerstad",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24662-sara-hammerstad",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Daysi Duarte Sosa",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29263-daysi-duarte-sosa",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Norheim",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "72 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29274-ingrid-norheim",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7410393,
+          59.9218244
+        ]
+      },
+      "properties": {
+        "name": "Ida Croff",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29713-ida-croff",
+        "address": "Pilestredet Park 12A 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4087601,
+          59.270848
+        ]
+      },
+      "properties": {
+        "name": "Urs Bea Schafroth",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29714-urs-bea-schafroth",
+        "address": "Grev Wedels gate 10 3111 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Mikkel Pretorius",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29717-mikkel-pretorius",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Kristine Bech Holte",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29719-kristine-bech-holte",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Stina Therese Sollid",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29728-stina-therese-sollid",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Kari Anne  Sveen",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29730-kari-anne-sveen",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Kristine Vaage Hatlen",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29731-kristine-vaage-hatlen",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409115,
+          59.9220315
+        ]
+      },
+      "properties": {
+        "name": "Peter Gabriel Zadeh",
+        "profession": "Endokrinolog og indremedisiner",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "EndokrinologiIndremedisin",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/86115-peter-gabriel-zadeh",
+        "address": "Pilestredet Park 12 A 0176 Oslo"
+      }
+    }
+  ]
+}

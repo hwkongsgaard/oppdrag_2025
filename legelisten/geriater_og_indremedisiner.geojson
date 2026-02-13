@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Natalia  Aresvik",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "GeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18381-natalia-aresvik",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Øystein Fossdal",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "GeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29470-oystein-fossdal",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Kenneth Kjøde Sandviknes",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "GeriatriIndremedisinNyresykdommer",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29482-kenneth-kjode-sandviknes",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2564024,
+          60.1657782
+        ]
+      },
+      "properties": {
+        "name": "Jørgen  Ibsen",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "GeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30624-jorgen-ibsen",
+        "address": "Søndre torv 1 3510 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Heidi Nygaard Bakken",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Akutt- og mottaksmedisinGeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31435-heidi-nygaard-bakken",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6440212,
+          59.9482961
+        ]
+      },
+      "properties": {
+        "name": "Anders Rangvald Bugge",
+        "profession": "Geriater og indremedisiner",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "GeriatriIndremedisin",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85995-anders-rangvald-bugge",
+        "address": "Vækerøveien 207 0751 Oslo"
+      }
+    }
+  ]
+}

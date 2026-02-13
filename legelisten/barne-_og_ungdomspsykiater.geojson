@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.707079,
+          59.931107
+        ]
+      },
+      "properties": {
+        "name": "Bettina Berdal",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16584-bettina-berdal",
+        "address": "Fridjof Nansensvei 17 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5912776,
+          59.2017806
+        ]
+      },
+      "properties": {
+        "name": "Jorid Rena Johansson",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16917-jorid-rena-johansson",
+        "address": "Eilert Sundts gate 83 3725 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4338507,
+          59.8358089
+        ]
+      },
+      "properties": {
+        "name": "Helene Mehl",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22489-helene-mehl",
+        "address": "Strøket 9 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7326839,
+          59.9200586
+        ]
+      },
+      "properties": {
+        "name": "Mikkel Oskal",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon med vilkår (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23464-mikkel-oskal",
+        "address": "Hegdehaugsveien 8 0167 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.867285,
+          59.9509495
+        ]
+      },
+      "properties": {
+        "name": "Mette Hvalstad",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29101-mette-hvalstad",
+        "address": "Nedre Kalbakkvei 4 0950 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7139566,
+          59.9153619
+        ]
+      },
+      "properties": {
+        "name": "Anne Catrine Møller",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29102-anne-catrine-moller",
+        "address": "Bygdøy Alle 4 0257 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331098,
+          60.3889683
+        ]
+      },
+      "properties": {
+        "name": "Kristel Gerdts Rojas",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29222-kristel-gerdts-rojas",
+        "address": "Vestre Strømkaien 1 5008 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7332546,
+          59.660535
+        ]
+      },
+      "properties": {
+        "name": "Hilde Aker",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29708-hilde-aker",
+        "address": "Drøbakveien 147 1433 Ås"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8416723,
+          59.91409
+        ]
+      },
+      "properties": {
+        "name": "Ingebjørg  Fahre",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29709-ingebjorg-fahre",
+        "address": "Tvetenveien 150 0671 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3251924,
+          60.3964891
+        ]
+      },
+      "properties": {
+        "name": "Pavol Adamik",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29721-pavol-adamik",
+        "address": "Lodin Lepps Gate 2B 5003 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Eline Alten",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29733-eline-alten",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7248698,
+          59.92552
+        ]
+      },
+      "properties": {
+        "name": "Øystein Sørbye",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Barne- og ungdomspsykiatriPsykoterapiveileder - B.U.P.",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30755-oystein-sorbye",
+        "address": "Rosenborggata 3 0356 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3614812,
+          63.3559314
+        ]
+      },
+      "properties": {
+        "name": "Kaja Stålskjær Haugen",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31016-kaja-stalskjaer-haugen",
+        "address": "Sivert Thonstads Vei 7 7072 Heimdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2912971,
+          60.5462954
+        ]
+      },
+      "properties": {
+        "name": "Ingvild Skogen Bauge",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31295-ingvild-skogen-bauge",
+        "address": "Kvassnesvegen 40 5914 Isdalstø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7150805,
+          59.9291842
+        ]
+      },
+      "properties": {
+        "name": "Bothild Bendiksen",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32017-bothild-bendiksen",
+        "address": "Kirkeveien 64 B 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6548077,
+          59.4342572
+        ]
+      },
+      "properties": {
+        "name": "Jorunn Thue Hansen",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "68 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34655-jorunn-thue-hansen",
+        "address": "Bryggekanten 7 A 1531 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.835018,
+          59.86631
+        ]
+      },
+      "properties": {
+        "name": "Annamaria Hadhazi",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34690-annamaria-hadhazi",
+        "address": "Gamle Enebakkvei 55 1188 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8500186,
+          59.8955411
+        ]
+      },
+      "properties": {
+        "name": "Rikard Nygård",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34699-rikard-nygard",
+        "address": "Bjartveien 18 A 0687 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3454353,
+          63.4045216
+        ]
+      },
+      "properties": {
+        "name": "Anne Mari Sund",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "75 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34715-anne-mari-sund",
+        "address": "Brænnes vei 19 7022 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9250841,
+          69.6565144
+        ]
+      },
+      "properties": {
+        "name": "Siv Kvernmo",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34718-siv-kvernmo",
+        "address": "Brinkvegen 45 9012 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4333388,
+          59.8351267
+        ]
+      },
+      "properties": {
+        "name": "Gina Enger",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85984-gina-enger",
+        "address": "Smuget 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474236,
+          58.8867141
+        ]
+      },
+      "properties": {
+        "name": "Hilde Abrahamsen",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86495-hilde-abrahamsen",
+        "address": "Rådhusvegen 30 4050 Sola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Carl Tore Johansen Sundquist",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86515-carl-tore-johansen-sundquist",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Ingrid Aarak",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86516-ingrid-aarak",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2807439,
+          63.735788
+        ]
+      },
+      "properties": {
+        "name": "Ben Bouwhuis",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86717-ben-bouwhuis",
+        "address": "Moafjæra 8A 7606 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7254859,
+          59.9234064
+        ]
+      },
+      "properties": {
+        "name": "Camilla Nohlin",
+        "profession": "Barne- og ungdomspsykiater",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Barne- og ungdomspsykiatri",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87072-camilla-nohlin",
+        "address": "Hegdehaugsveien 36A 0352 Oslo"
+      }
+    }
+  ]
+}

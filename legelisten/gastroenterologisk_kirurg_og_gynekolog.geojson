@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Silje Stensholt Holte",
+        "profession": "Gastroenterologisk kirurg og gynekolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommerGastroenterologisk kirurgi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/14951-silje-stensholt-holte",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Gro Flesjå Zahl",
+        "profession": "Gastroenterologisk kirurg og gynekolog",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Fødselshjelp og kvinnesykdommerGastroenterologisk kirurgi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86742-gro-flesja-zahl",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    }
+  ]
+}

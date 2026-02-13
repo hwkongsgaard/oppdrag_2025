@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508712,
+          59.926841
+        ]
+      },
+      "properties": {
+        "name": "Ardavan Karimi",
+        "profession": "Fysikalsk medisiner og nevrolog",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": "Fysikalsk medisin og rehabiliteringNevrologi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26951-ardavan-karimi",
+        "address": "Silurveien 2 0380 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.939674,
+          59.2093517
+        ]
+      },
+      "properties": {
+        "name": "Maria Kase-Berg",
+        "profession": "Fysikalsk medisiner og nevrolog",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Fysikalsk medisin og rehabiliteringNevrologi",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27309-maria-kase-berg",
+        "address": "Kirkebrygga 4 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3332519,
+          60.3896068
+        ]
+      },
+      "properties": {
+        "name": "Tor-Arne Pisani Valen",
+        "profession": "Fysikalsk medisiner og nevrolog",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Fysikalsk medisin og rehabiliteringNevrologi",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29489-tor-arne-pisani-valen",
+        "address": "Kaigaten 5, Bergen Storsenter 5015 Bergen"
+      }
+    }
+  ]
+}

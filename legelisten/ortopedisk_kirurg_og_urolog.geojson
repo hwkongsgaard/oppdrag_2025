@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Inga Norunn Jacobsen",
+        "profession": "Ortopedisk kirurg og urolog",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Ortopedisk kirurgiUrologi",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15266-inga-norunn-jacobsen",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    }
+  ]
+}

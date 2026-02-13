@@ -1,0 +1,3344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7327381,
+          59.9179107
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Guldbakke",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15133-kjetil-guldbakke",
+        "address": "Wergelandsveien 1-3 0167 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7251047,
+          59.9218167
+        ]
+      },
+      "properties": {
+        "name": "Tatyana Katayeva Anker-Nilssen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": null,
+        "godkjenning": "Lisens (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15235-tatyana-katayeva-anker-nilssen",
+        "address": "Oscars gate 27 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9404521,
+          60.8841499
+        ]
+      },
+      "properties": {
+        "name": "Mats-Ola Kalgraff",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15241-mats-ola-kalgraff",
+        "address": "Nygata 22 2380 Brumunddal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5193736,
+          59.8917397
+        ]
+      },
+      "properties": {
+        "name": "Steinar Madsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/15356-steinar-madsen",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7776973,
+          59.9458416
+        ]
+      },
+      "properties": {
+        "name": "Olav Kåre Refvem",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/15358-olav-kare-refvem",
+        "address": "Vitaminveien 1A 0485 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6222316,
+          59.9006523
+        ]
+      },
+      "properties": {
+        "name": "Anita Baklund",
+        "profession": "Allmennlege",
+        "gender": null,
+        "age": null,
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16516-anita-baklund",
+        "address": "Forneburingen 5 1360 Fornebu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7090535,
+          59.9305475
+        ]
+      },
+      "properties": {
+        "name": "Gunnleiv Birkeland",
+        "profession": "Allmennlege",
+        "gender": null,
+        "age": null,
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16766-gunnleiv-birkeland",
+        "address": "Sørkedalsveien 10 D 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Hazem Hassan",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16810-hazem-hassan",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4261338,
+          68.4307401
+        ]
+      },
+      "properties": {
+        "name": "Jens Kratholm",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16886-jens-kratholm",
+        "address": "Administrasjonsveien 1 8514 Narvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.940533,
+          59.2134971
+        ]
+      },
+      "properties": {
+        "name": "Juan Antonio Pablo Garcia Wisser",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "63 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/16921-juan-antonio-pablo-garcia-wisser",
+        "address": "Bryggeriveien 6 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6909626,
+          60.7997811
+        ]
+      },
+      "properties": {
+        "name": "Leif Næss",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17016-leif-naess",
+        "address": "Tordenskjoldsgate 13-15 2821 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0476133,
+          59.9545418
+        ]
+      },
+      "properties": {
+        "name": "Steinar Hauge",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17292-steinar-hauge",
+        "address": "Storgt. 3 C 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9937298,
+          59.2281769
+        ]
+      },
+      "properties": {
+        "name": "Stephan Barbari",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17299-stephan-barbari",
+        "address": "Trykkerivn. 6 1653 Sellebakk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Lars Tjessem",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18173-lars-tjessem",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Leila Sayed",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18178-leila-sayed",
+        "address": "Sørkedalsveien 10D 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6516778,
+          58.7353025
+        ]
+      },
+      "properties": {
+        "name": "Evelyn Kleppe",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "35 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18268-evelyn-kleppe",
+        "address": "Hulda Garborgsveg 9 4340 Bryne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7251047,
+          59.9218167
+        ]
+      },
+      "properties": {
+        "name": "Jan Anker-Nilssen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/21425-jan-anker-nilssen",
+        "address": "Oscars gate 27 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7095825,
+          59.9309269
+        ]
+      },
+      "properties": {
+        "name": "Karim Sayed",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/22508-karim-sayed",
+        "address": "Sørkedalsveien 10D 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7152841,
+          59.9304118
+        ]
+      },
+      "properties": {
+        "name": "Peter Molnar",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23469-peter-molnar",
+        "address": "Slemdalsveien 1 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Aksel Espen Foss",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/23499-aksel-espen-foss",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331444,
+          58.9639678
+        ]
+      },
+      "properties": {
+        "name": "Nils Åke Nystrøm",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/24526-nils-ake-nystrom",
+        "address": "Muségaten 18 4010 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6766091,
+          59.9276674
+        ]
+      },
+      "properties": {
+        "name": "Amer Ghantous",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2021)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25526-amer-ghantous",
+        "address": "Engebrets vei 3 0275 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4859713,
+          59.7773933
+        ]
+      },
+      "properties": {
+        "name": "Atle Eikeland",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25682-atle-eikeland",
+        "address": "Kirkealleen 1 3470 Slemmestad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Ksenia Britvina",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/25705-ksenia-britvina",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Anders Baalsrud",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "75 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26953-anders-baalsrud",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508712,
+          59.926841
+        ]
+      },
+      "properties": {
+        "name": "Louis Voisin",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "62 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/26954-louis-voisin",
+        "address": "Silurveien 2 0380 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2661812,
+          59.4140608
+        ]
+      },
+      "properties": {
+        "name": "Leif​​ Östling",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29198-leif-ostling",
+        "address": "Strandgata 172 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7524883,
+          59.9125418
+        ]
+      },
+      "properties": {
+        "name": "Asma Abedin",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29202-asma-abedin",
+        "address": "Stenersgata 1 0050 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8131795,
+          59.9108343
+        ]
+      },
+      "properties": {
+        "name": "Pooja Verma",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29249-pooja-verma",
+        "address": "Østensjøveien 36 0667 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Mina Nøkleholm Klaveness",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29283-mina-nokleholm-klaveness",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7606308,
+          59.9080162
+        ]
+      },
+      "properties": {
+        "name": "Jeppe Lodding",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2025)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29299-jeppe-lodding",
+        "address": "Wismargata 2 0191 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Silje Modell",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29300-silje-modell",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7606308,
+          59.9080162
+        ]
+      },
+      "properties": {
+        "name": "Monica Chahal-Kummen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29301-monica-chahal-kummen",
+        "address": "Wismargata 2 0191 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Henrik A. Svendsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29313-henrik-a-svendsen",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Celso Elyseo Carmona Dominguez",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "76 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29322-celso-elyseo-carmona-dominguez",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Einar Andreas Richter Kaarstein",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2017)Autorisasjon - Sykepleier (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29368-einar-andreas-richter-kaarstein",
+        "address": "Åsane senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4500743,
+          61.1136852
+        ]
+      },
+      "properties": {
+        "name": "Axel Høstmælingen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29391-axel-hostmaelingen",
+        "address": "Strandpromenaden 76, Strandtorget 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2046452,
+          59.7466663
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Ellingsen Husebye",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29522-elisabeth-ellingsen-husebye",
+        "address": "Albumsgate 9 3016 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Christian  Hage-Engebretsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29613-christian-hage-engebretsen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Harald Skarpeteig",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29614-harald-skarpeteig",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Kari P. Lund-Iversen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2011)Autorisasjon - Sykepleier (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29615-kari-p-lund-iversen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6367201,
+          59.9160169
+        ]
+      },
+      "properties": {
+        "name": "Katharina Pracon",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29616-katharina-pracon",
+        "address": "Lilleakerveien 8 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7037683,
+          59.9337056
+        ]
+      },
+      "properties": {
+        "name": "Lara Elizabeth Lind",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29617-lara-elizabeth-lind",
+        "address": "Borgenveien 2A 0370 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Lillan Jebsen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29618-lillan-jebsen",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Lisa Flem Kalheim",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29619-lisa-flem-kalheim",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7317376,
+          59.9147703
+        ]
+      },
+      "properties": {
+        "name": "Ragnhild Gravdal",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29625-ragnhild-gravdal",
+        "address": "Stortingsgata 30 0161 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Vidar Ukkestad",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29635-vidar-ukkestad",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Arne  Myrold",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29637-arne-myrold",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "John Erik Osnes",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Sykepleier (1997)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29638-john-erik-osnes",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Anders Albert Sandström",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29641-anders-albert-sandstrom",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7083586,
+          59.9151251
+        ]
+      },
+      "properties": {
+        "name": "Cassandra Frisvoll",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29642-cassandra-frisvoll",
+        "address": "Frederik Stangs gate 11-13 0264 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3173387,
+          60.3954283
+        ]
+      },
+      "properties": {
+        "name": "Michael Holm",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29703-michael-holm",
+        "address": "Cort Piil smauet 7 5005 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7201546,
+          59.9237727
+        ]
+      },
+      "properties": {
+        "name": "Sigrid Næss",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "43 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29710-sigrid-naess",
+        "address": "Prof. Dahlsgt. 18 0353 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Dina Grinde",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29723-dina-grinde",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Therese Weider",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29732-therese-weider",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Anita Weiberg-Aurdal",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30124-anita-weiberg-aurdal",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Bernt  Rognlien",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30127-bernt-rognlien",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Lana Pocekaj",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30128-lana-pocekaj",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Lars Omdal",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "77 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1976)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30129-lars-omdal",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Ragnhild Skari Iuell",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30131-ragnhild-skari-iuell",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Parvaneh  Farid-Monfared",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "58 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30132-parvaneh-farid-monfared",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Yasmin Christiane Alambeigi",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30133-yasmin-christiane-alambeigi",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Richard  Knobel",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30134-richard-knobel",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.007331,
+          59.9472859
+        ]
+      },
+      "properties": {
+        "name": "Jahan Zeeb  Saleem",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30147-jahan-zeeb-saleem",
+        "address": "Støperiveien 5 2010 Strømmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0951301,
+          62.7363914
+        ]
+      },
+      "properties": {
+        "name": "Aksel  Wilhelmsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30153-aksel-wilhelmsen",
+        "address": "Mekvegen  13A 6411 Molde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.706261,
+          66.874875
+        ]
+      },
+      "properties": {
+        "name": "Christian Rokseth",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "72 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30301-christian-rokseth",
+        "address": "Gammelveien 16 8150 Ørnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928138,
+          63.4323632
+        ]
+      },
+      "properties": {
+        "name": "Eivind Lenhard  Johansen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30381-eivind-lenhard-johansen",
+        "address": "Dronningens gate 38 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6969563,
+          58.8907103
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Lea",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30383-gunnar-lea",
+        "address": "Vestre Svanholmen 14 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Bjarte Larsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2010)Autorisasjon - Fysioterapeut (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30566-bjarte-larsen",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Bjørn Rotevatn",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30567-bjorn-rotevatn",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Mattias  Egberth",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30580-mattias-egberth",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2637154,
+          59.427259
+        ]
+      },
+      "properties": {
+        "name": "Ingemar  Bolin",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30581-ingemar-bolin",
+        "address": "Nygårdsvegen 6 5515 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7329284,
+          59.9204501
+        ]
+      },
+      "properties": {
+        "name": "Farhad  Eshaghi",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30594-farhad-eshaghi",
+        "address": "Hegdehaugsveien 1 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7200194,
+          59.9075725
+        ]
+      },
+      "properties": {
+        "name": "Victoria Serine  Soltvedt",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2022)Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30692-victoria-serine-soltvedt",
+        "address": "Salmakersvenn Marius Jantzens Plass 4, 0252 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7099597,
+          59.9278623
+        ]
+      },
+      "properties": {
+        "name": "Jeanine  Onsum",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30693-jeanine-onsum",
+        "address": "Middelthuns gate 21 0368 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309774,
+          59.9230194
+        ]
+      },
+      "properties": {
+        "name": "Sindre   Lee-Ødegård",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30696-sindre-lee-odegard",
+        "address": "Sponhoggveien 19 0284 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.722768,
+          58.880873
+        ]
+      },
+      "properties": {
+        "name": "Ole-Edvard Bergsdal Gabrielsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30713-ole-edvard-bergsdal-gabrielsen",
+        "address": "Luramyrveien 40 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3888066,
+          59.1185958
+        ]
+      },
+      "properties": {
+        "name": "Farzan  Javad",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30785-farzan-javad",
+        "address": "Festningsgata 24 1767 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0215388,
+          59.0497667
+        ]
+      },
+      "properties": {
+        "name": "Mette  Hovland Olsen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30857-mette-hovland-olsen",
+        "address": "Fritzøe brygge 1 3264 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0215388,
+          59.0497667
+        ]
+      },
+      "properties": {
+        "name": "Knut  Olsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30858-knut-olsen",
+        "address": "Fritzøe brygge 1 3264 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7166684,
+          59.930099
+        ]
+      },
+      "properties": {
+        "name": "Fredrik  Fineide",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30869-fredrik-fineide",
+        "address": "Ole Vigs gate 32E 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7166684,
+          59.930099
+        ]
+      },
+      "properties": {
+        "name": "Ayyad Zartasht Khan",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "33 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30870-ayyad-zartasht-khan",
+        "address": "Ole Vigs gate 32E 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092217,
+          59.9305149
+        ]
+      },
+      "properties": {
+        "name": "Hans  Eriksson",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "80 år",
+        "specialization": null,
+        "godkjenning": "Ingen autorisasjon/lisens funnet",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30875-hans-eriksson",
+        "address": "Sørkedalsveien 10A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092217,
+          59.9305149
+        ]
+      },
+      "properties": {
+        "name": "Hans Holmberg",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "58 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30876-hans-holmberg",
+        "address": "Sørkedalsveien 10A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7092217,
+          59.9305149
+        ]
+      },
+      "properties": {
+        "name": "Hassan Hamoudi",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30877-hassan-hamoudi",
+        "address": "Sørkedalsveien 10A 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2236475,
+          59.1323462
+        ]
+      },
+      "properties": {
+        "name": "Elena  Kozhevnikova",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30900-elena-kozhevnikova",
+        "address": "Jernbanealeen 28 3210 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7138178,
+          59.9164176
+        ]
+      },
+      "properties": {
+        "name": "Millie Ottesen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30945-millie-ottesen",
+        "address": "Niels Juels Gate 38 0257 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3842057,
+          59.1310943
+        ]
+      },
+      "properties": {
+        "name": "Jonas Peter Nicklasson",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31293-jonas-peter-nicklasson",
+        "address": "Dyrendalsveien 13C 1778 Halden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9576963,
+          59.9271579
+        ]
+      },
+      "properties": {
+        "name": "Azza  Elnadjar",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31390-azza-elnadjar",
+        "address": "Bibliotekgata 34 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7265089,
+          59.9124127
+        ]
+      },
+      "properties": {
+        "name": "Enayat Tokhi",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31531-enayat-tokhi",
+        "address": "Ruseløkkveien 26 0251 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Svein Solheimsnes",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31999-svein-solheimsnes",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2646606,
+          60.2944333
+        ]
+      },
+      "properties": {
+        "name": "Jonathan Lawaetz",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32004-jonathan-lawaetz",
+        "address": "Kokstadvegen 23 5257 Kokstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1798952,
+          59.1367667
+        ]
+      },
+      "properties": {
+        "name": "Andrius Rukas",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "35 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32007-andrius-rukas",
+        "address": "Nygårdsveien 84, inngang 2 3221 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9343076,
+          59.2146028
+        ]
+      },
+      "properties": {
+        "name": "Tonje Hattestad",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32008-tonje-hattestad",
+        "address": "Farmanns Gate 16, 3 etasje 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Anne Christine  Poole",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32019-anne-christine-poole",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Ingrid  Nome Dueland",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32020-ingrid-nome-dueland",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Amalie Christine  Poole",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32021-amalie-christine-poole",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Jakob  Thorkildsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32024-jakob-thorkildsen",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6841327,
+          59.9195316
+        ]
+      },
+      "properties": {
+        "name": "Maren Lindheim",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32025-maren-lindheim",
+        "address": "Karenslyst allé 16D 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.288739,
+          60.3507304
+        ]
+      },
+      "properties": {
+        "name": "Maissa Slim",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2021)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32151-maissa-slim",
+        "address": "Folke Bernadottes vei 44 5147 Fyllingsdalen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7265089,
+          59.9124127
+        ]
+      },
+      "properties": {
+        "name": "Lada Vlaski",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32158-lada-vlaski",
+        "address": "Ruseløkkveien 26 0251 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8480493,
+          62.343389
+        ]
+      },
+      "properties": {
+        "name": "Håvard Ramsli",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32211-havard-ramsli",
+        "address": "Bjørndalvegen 7 6065 Ulsteinvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8480493,
+          62.343389
+        ]
+      },
+      "properties": {
+        "name": "Øystein Habostad",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32213-oystein-habostad",
+        "address": "Bjørndalvegen 7 6065 Ulsteinvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333646,
+          59.9297835
+        ]
+      },
+      "properties": {
+        "name": "Khadija Ali-Siddique",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32232-khadija-ali-siddique",
+        "address": "Thereses gate 16A 0452 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333646,
+          59.9297835
+        ]
+      },
+      "properties": {
+        "name": "Marcela Camara",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32233-marcela-camara",
+        "address": "Thereses gate 16A 0452 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333646,
+          59.9297835
+        ]
+      },
+      "properties": {
+        "name": "Imon S. Barua",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32234-imon-s-barua",
+        "address": "Thereses gate 16A 0452 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333646,
+          59.9297835
+        ]
+      },
+      "properties": {
+        "name": "Håkon Ringstad",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32235-hakon-ringstad",
+        "address": "Thereses gate 16A 0452 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7950604,
+          59.9274562
+        ]
+      },
+      "properties": {
+        "name": "Hanne Lien",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32236-hanne-lien",
+        "address": "Bøkkerveien 4 0585 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6169454,
+          68.1491152
+        ]
+      },
+      "properties": {
+        "name": "Jacob Andrèas Lindkvist",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32306-jacob-andreas-lindkvist",
+        "address": "Storgata 9 8370 Leknes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2293852,
+          60.3387265
+        ]
+      },
+      "properties": {
+        "name": "Sivert Øksnes  Amland",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32314-sivert-oksnes-amland",
+        "address": "Haakonsvern 5886 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0181364,
+          59.0508019
+        ]
+      },
+      "properties": {
+        "name": "Jan Martin Andersen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32315-jan-martin-andersen",
+        "address": "Nedre Fritzøegate 1-3 3264 Larvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9594252,
+          69.6506951
+        ]
+      },
+      "properties": {
+        "name": "Erik Ankre",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32322-erik-ankre",
+        "address": "Sjøgata 39 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1563062,
+          62.4736123
+        ]
+      },
+      "properties": {
+        "name": "Erling L Kjerstad Hawkes Kjerstad Hawkes",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32328-erling-l-kjerstad-hawkes-kjerstad-hawkes",
+        "address": "Kongens gate 11 6002 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Ida Stene  Rosvold",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2017)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32329-ida-stene-rosvold",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921185,
+          59.17878
+        ]
+      },
+      "properties": {
+        "name": "Joar  Palmås",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32330-joar-palmas",
+        "address": "Jens Wilhelmsensgate 1 1671 Kråkerøy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Maren  Ekeland",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32331-maren-ekeland",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Nils  Kjønik Hordvik",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32333-nils-kjonik-hordvik",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2355776,
+          64.8641548
+        ]
+      },
+      "properties": {
+        "name": "Ragnvald Bjørgaas Petersen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32334-ragnvald-bjorgaas-petersen",
+        "address": "Kirkegt. 10A 7900 Rørvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Thor Andre  Skar",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32337-thor-andre-skar",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1998516,
+          59.7395916
+        ]
+      },
+      "properties": {
+        "name": "Jens Oscar Viktor Guterstam Christoffersson",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32375-jens-oscar-viktor-guterstam-christoffersson",
+        "address": "Grønland 1 3045 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.762116,
+          59.9108817
+        ]
+      },
+      "properties": {
+        "name": "Afzal Mohammad Aslamsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32383-afzal-mohammad-aslamsen",
+        "address": "Schweigaards gate 16 0191 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2020917,
+          65.4703417
+        ]
+      },
+      "properties": {
+        "name": "Sigrid Drevvatne Fagerlund",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32401-sigrid-drevvatne-fagerlund",
+        "address": "Strandveien 30 8900 Brønnøysund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Tor-Christian Aase Johannessen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32572-tor-christian-aase-johannessen",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5302479,
+          68.8008127
+        ]
+      },
+      "properties": {
+        "name": "Sara Iselin Johnsen",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/32574-sara-iselin-johnsen",
+        "address": "General Fleischers G 21 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7257964,
+          58.8858643
+        ]
+      },
+      "properties": {
+        "name": "Anish Abraham",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2014)Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33182-anish-abraham",
+        "address": "Luramyrveien 79 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4399448,
+          63.7885821
+        ]
+      },
+      "properties": {
+        "name": "Kurt Ture Kvenild",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "69 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33193-kurt-ture-kvenild",
+        "address": "Hamneveien 7 7652 Verdal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928924,
+          63.4312578
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Nordhaug Fjell",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2012)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33200-kjetil-nordhaug-fjell",
+        "address": "Prinsens gate 39, 2. etasje 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3916586,
+          63.430789
+        ]
+      },
+      "properties": {
+        "name": "John Lille-Mæhlum",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33215-john-lille-maehlum",
+        "address": "Kongens gate 30 7012 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3260474,
+          60.2945462
+        ]
+      },
+      "properties": {
+        "name": "Andreas Munch-Nygaard",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33219-andreas-munch-nygaard",
+        "address": "Laguneveien 9 5239 Rådal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7305761,
+          58.973983
+        ]
+      },
+      "properties": {
+        "name": "Martin Melbye Olsen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2019)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33220-martin-melbye-olsen",
+        "address": "Nordbøgata 6 4006 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Stephanie Helga Strøm",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33236-stephanie-helga-strom",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7389263,
+          58.853393
+        ]
+      },
+      "properties": {
+        "name": "Thomas Waldow",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/33244-thomas-waldow",
+        "address": "Vågsgata 40 4306 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7333646,
+          59.9297835
+        ]
+      },
+      "properties": {
+        "name": "Dulanjaya Perera",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "33 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2024)Autorisasjon - Bioingeniør (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34748-dulanjaya-perera",
+        "address": "Thereses gate 16A 0452 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7161103,
+          59.9288201
+        ]
+      },
+      "properties": {
+        "name": "Saida Amirova",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/34792-saida-amirova",
+        "address": "Bogstadveien 51 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7409956,
+          59.9175497
+        ]
+      },
+      "properties": {
+        "name": "Tiril Elstad",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "36 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2021)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/80803-tiril-elstad",
+        "address": "Munchsgate 7 0165 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7292038,
+          59.9215323
+        ]
+      },
+      "properties": {
+        "name": "Jay Randhawa",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2020)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/80879-jay-randhawa",
+        "address": "Parkveien 19 0350 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.725926,
+          59.9141501
+        ]
+      },
+      "properties": {
+        "name": "Pål Eivind Ståras",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1986)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85807-pal-eivind-staras",
+        "address": "Arbins gate 11 0253 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.910554,
+          59.230298
+        ]
+      },
+      "properties": {
+        "name": "Nemanja Peric",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85946-nemanja-peric",
+        "address": "Storveien 3A 1624 Gressvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Anna Kathrine Ljøgodt",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "64 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2022)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85949-anna-kathrine-ljogodt",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Jenny-Marie Wadosch",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85950-jenny-marie-wadosch",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.519122,
+          59.8919057
+        ]
+      },
+      "properties": {
+        "name": "Marie Gunnestad",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2008)Autorisasjon - Sykepleier (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85952-marie-gunnestad",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.431032,
+          59.2760413
+        ]
+      },
+      "properties": {
+        "name": "Sofie Hexeberg",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85953-sofie-hexeberg",
+        "address": "Kilengaten 18 3117 Tønsberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7069648,
+          59.9238417
+        ]
+      },
+      "properties": {
+        "name": "Linda Tånevik",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85954-linda-tanevik",
+        "address": "Kirkeveien 4  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3173387,
+          60.3954283
+        ]
+      },
+      "properties": {
+        "name": "Mandana Banayshahany",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85979-mandana-banayshahany",
+        "address": "Cort Piil smauet 7 5005 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4333388,
+          59.8351267
+        ]
+      },
+      "properties": {
+        "name": "Eva  Stubrud",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2021)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85985-eva-stubrud",
+        "address": "Smuget 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3311147,
+          59.2822112
+        ]
+      },
+      "properties": {
+        "name": "Rasmus Jørgensen",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/85997-rasmus-jorgensen",
+        "address": "Hageveien 4 3170 Sem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7972972,
+          59.9137033
+        ]
+      },
+      "properties": {
+        "name": "Ali Ashraf Malik",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86729-ali-ashraf-malik",
+        "address": "Grensesvingen 2 0663 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6352292,
+          59.9175509
+        ]
+      },
+      "properties": {
+        "name": "Omid Alizadeh Mazraeh",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/86766-omid-alizadeh-mazraeh",
+        "address": "Lilleakerveien 16 0283 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8022823,
+          59.8971165
+        ]
+      },
+      "properties": {
+        "name": "Arpad Toth",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87000-arpad-toth",
+        "address": "Enebakkveien 150 0680 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8022823,
+          59.8971165
+        ]
+      },
+      "properties": {
+        "name": "Tom Viken",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87013-tom-viken",
+        "address": "Enebakkveien 150 0680 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7242773,
+          59.9248377
+        ]
+      },
+      "properties": {
+        "name": "Kine Svensrud Kraft",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon - Lege (2018)Autorisasjon - Sykepleier (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87068-kine-svensrud-kraft",
+        "address": "Bogstadveien 11 0355 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7658526,
+          59.9491031
+        ]
+      },
+      "properties": {
+        "name": "Peter Svamo",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "37 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87133-peter-svamo",
+        "address": "Nydalsveien 33 0484 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4064376,
+          63.4317887
+        ]
+      },
+      "properties": {
+        "name": "Carlo Sacerdoti",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87140-carlo-sacerdoti",
+        "address": "Nedre Bakklandet 58a 7040 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7166684,
+          59.930099
+        ]
+      },
+      "properties": {
+        "name": "Ole Kristian Reiten",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "27 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2023)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87142-ole-kristian-reiten",
+        "address": "Ole Vigs gate 32E 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Toril Strøm Tingstad",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "41 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87152-toril-strom-tingstad",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7782464,
+          59.9287389
+        ]
+      },
+      "properties": {
+        "name": "Rosemary Oche Kwengoua",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "35 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2018)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87162-rosemary-oche-kwengoua",
+        "address": "Trondheimsveien 135 0570 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7379144,
+          59.9154409
+        ]
+      },
+      "properties": {
+        "name": "Rafael Ruiz Prada",
+        "profession": "Allmennlege",
+        "gender": "Mann",
+        "age": "39 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2024)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87252-rafael-ruiz-prada",
+        "address": "Kristian IV's gate 12 0164 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5221287,
+          59.8893982
+        ]
+      },
+      "properties": {
+        "name": "Berit Sæthern",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87295-berit-saethern",
+        "address": "Claude Monets Alle 21 1338 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3225754,
+          60.3939961
+        ]
+      },
+      "properties": {
+        "name": "Henriette Lillebøe",
+        "profession": "Allmennlege",
+        "gender": "Kvinne",
+        "age": "32 år",
+        "specialization": null,
+        "godkjenning": "Autorisasjon (2022)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87319-henriette-lilleboe",
+        "address": "Strandgaten 10 5013 Bergen"
+      }
+    }
+  ]
+}

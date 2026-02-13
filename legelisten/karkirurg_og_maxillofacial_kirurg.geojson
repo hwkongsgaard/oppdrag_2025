@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7580827,
+          59.9535397
+        ]
+      },
+      "properties": {
+        "name": "Olav Anders Olstad",
+        "profession": "Karkirurg og maxillofacial kirurg",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "KarkirurgiMaxillofacial kirurgi",
+        "godkjenning": "Autorisasjon - Lege (1984)Autorisasjon - Tannlege (1973)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8030-olav-anders-olstad",
+        "address": "Bergrådveien 13 0873 Oslo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1562944,
+          62.4747234
+        ]
+      },
+      "properties": {
+        "name": "Kjell  Akslen",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16959-kjell-akslen",
+        "address": "Kongens gate 23 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5190989,
+          59.8919132
+        ]
+      },
+      "properties": {
+        "name": "Nuzhat Osmani",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "70 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/17107-nuzhat-osmani",
+        "address": "Elias Smiths vei 10 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6947352,
+          59.9517691
+        ]
+      },
+      "properties": {
+        "name": "Pål Rochette",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/17174-pal-rochette",
+        "address": "Tennisveien 2G 0777 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8573568,
+          60.7173335
+        ]
+      },
+      "properties": {
+        "name": "Inger Kragh Nyhus",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": null,
+        "age": null,
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/18128-inger-kragh-nyhus",
+        "address": "Fabrikkvegen 52 2849 Kapp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4336572,
+          59.8350554
+        ]
+      },
+      "properties": {
+        "name": "Birgit Leikanger  Eichstetter",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "61 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/18386-birgit-leikanger-eichstetter",
+        "address": "Bankveien 1 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3960301,
+          63.4336421
+        ]
+      },
+      "properties": {
+        "name": "Tone Dorthe Sletten",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/27519-tone-dorthe-sletten",
+        "address": "Olav Tryggvasons Gate 28 7011 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3679414,
+          60.3563126
+        ]
+      },
+      "properties": {
+        "name": "Arian Rafii",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29221-arian-rafii",
+        "address": "Nattlandsveien 89 5094 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3764226,
+          62.5742775
+        ]
+      },
+      "properties": {
+        "name": "Ilka Daniel",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "59 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29254-ilka-daniel",
+        "address": "Tollef Bredals vei 13 7374 Røros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2079401,
+          59.743182
+        ]
+      },
+      "properties": {
+        "name": "Ole Andre Skalstad",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/31247-ole-andre-skalstad",
+        "address": "Nedre Storgate 13 3015 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7165857,
+          58.4637572
+        ]
+      },
+      "properties": {
+        "name": "Gunnar Johannessen",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "AllmennmedisinPsykiatriSamfunnsmedisin",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/31401-gunnar-johannessen",
+        "address": "Stoaveien 45A 4848 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7424973,
+          59.7791542
+        ]
+      },
+      "properties": {
+        "name": "Marianne Sofie Kvamsdahl",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87131-marianne-sofie-kvamsdahl",
+        "address": "Framveien 12 1420 Svartskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.713193,
+          59.9237378
+        ]
+      },
+      "properties": {
+        "name": "Irene Shestopal",
+        "profession": "Allmennlegespesialist og psykiater",
+        "gender": "Kvinne",
+        "age": "69 årTilbyr videokonsultasjon",
+        "specialization": "AllmennmedisinPsykiatri",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/87296-irene-shestopal",
+        "address": "Eckersbergsgate 30 0260 Oslo"
+      }
+    }
+  ]
+}

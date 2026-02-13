@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7175332,
+          58.86966
+        ]
+      },
+      "properties": {
+        "name": "Magnus Wold Hultgren",
+        "profession": "Allmennlegespesialist og anestesilege",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "AllmennmedisinAnestesiologi",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/29314-magnus-wold-hultgren",
+        "address": "Larsamyrå 18 4313 Sandnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421069,
+          67.2779788
+        ]
+      },
+      "properties": {
+        "name": "Jonne Kalstad",
+        "profession": "Allmennlegespesialist og anestesilege",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "AllmennmedisinAnestesiologi",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": "Nei",
+        "url": "https://www.legelisten.no/spesialister/30197-jonne-kalstad",
+        "address": "Stormyrveien 20 8008 Bodø"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1979 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9553594,
+          69.6474796
+        ]
+      },
+      "properties": {
+        "name": "Sissel Storli",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10393-sissel-storli",
+        "address": "Strandtorget 3 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716072,
+          59.9287563
+        ]
+      },
+      "properties": {
+        "name": "Dag Solmund Ørstavik",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "79 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1969)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10472-dag-solmund-orstavik",
+        "address": "Bogstadveien 51 0366 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7376172,
+          58.9489415
+        ]
+      },
+      "properties": {
+        "name": "Calin Alexandru Cristea",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2006)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10677-calin-alexandru-cristea",
+        "address": "Torgveien 21 B 4016 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3223061,
+          60.3945547
+        ]
+      },
+      "properties": {
+        "name": "Anca Virtej",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10683-anca-virtej",
+        "address": "Fortunen 1 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6082325,
+          59.2086574
+        ]
+      },
+      "properties": {
+        "name": "Robert Austheim",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10708-robert-austheim",
+        "address": "Kverndalsgata 2A 3717 Skien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7232751,
+          59.9147114
+        ]
+      },
+      "properties": {
+        "name": "Hilde Merete Aanmoen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1978)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10785-hilde-merete-aanmoen",
+        "address": "Løkkeveien 5 0253 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3766638,
+          60.3489598
+        ]
+      },
+      "properties": {
+        "name": "Asgeir Bårdsen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "59 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1990)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10826-asgeir-bardsen",
+        "address": "Nattlandsrinden 113 5098 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3223061,
+          60.3945547
+        ]
+      },
+      "properties": {
+        "name": "Siv Else Kristine Rosendorf Kvinnsland",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "62 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10907-siv-else-kristine-rosendorf-kvinnsland",
+        "address": "Fortunen 1 5013 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Vilhjalmur Helgi Vilhjalmsson",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1991)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10950-vilhjalmur-helgi-vilhjalmsson",
+        "address": "Åsane Senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3210994,
+          60.3941156
+        ]
+      },
+      "properties": {
+        "name": "Sivakami R. Haug",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/10984-sivakami-r-haug",
+        "address": "Valkendorfsgaten 5 5012 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833915,
+          58.9530884
+        ]
+      },
+      "properties": {
+        "name": "Dyveke Haagensen Knudsen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "47 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11014-dyveke-haagensen-knudsen",
+        "address": "Madlamarkveien 2a 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Gilberto Jirair Debelian",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "61 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11028-gilberto-jirair-debelian",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6835776,
+          59.9206611
+        ]
+      },
+      "properties": {
+        "name": "Ingela Pedersen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "69 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1983)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11045-ingela-pedersen",
+        "address": "Karenslyst allé 9 C 0278 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.254485,
+          60.1668491
+        ]
+      },
+      "properties": {
+        "name": "Niels Christiaan Lijkendijk",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11072-niels-christiaan-lijkendijk",
+        "address": "Stabells gate 5 3510 Hønefoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7402682,
+          59.9119265
+        ]
+      },
+      "properties": {
+        "name": "Anne Gunn Nygaard-Østby",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1992)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11078-anne-gunn-nygaard-ostby",
+        "address": "Akersgata 16 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8116627,
+          59.942422
+        ]
+      },
+      "properties": {
+        "name": "Stig Heistein",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "60 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1993)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11182-stig-heistein",
+        "address": "Refstadveien 64 0589 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6889422,
+          60.7944023
+        ]
+      },
+      "properties": {
+        "name": "Veslemøy Linde",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1994)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11345-veslemoy-linde",
+        "address": "Storgata 16 2815 Gjøvik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0407676,
+          59.9536718
+        ]
+      },
+      "properties": {
+        "name": "Sølve Larsen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11464-solve-larsen",
+        "address": "Dampsagveien 4 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2019956,
+          59.7448209
+        ]
+      },
+      "properties": {
+        "name": "Nikola Petronijevic",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "48 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11482-nikola-petronijevic",
+        "address": "Øvre Torggate 10 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5875229,
+          59.9178829
+        ]
+      },
+      "properties": {
+        "name": "Trude Udnæs",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11503-trude-udnaes",
+        "address": "Gamle Ringeriksvei 37 1357 Bekkestua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1628069,
+          62.738017
+        ]
+      },
+      "properties": {
+        "name": "Øyvind Kristoffersen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "54 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11534-oyvind-kristoffersen",
+        "address": "Romsdalsgata 1 6413 Molde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7265029,
+          58.9697035
+        ]
+      },
+      "properties": {
+        "name": "Ole Henrik Nag",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1995)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11535-ole-henrik-nag",
+        "address": "Løkkeveien 51 4008 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2042377,
+          59.7445484
+        ]
+      },
+      "properties": {
+        "name": "Elham Kahdim Al-Toma",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11678-elham-kahdim-al-toma",
+        "address": "Bragernes Torg 4 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6475157,
+          58.8852353
+        ]
+      },
+      "properties": {
+        "name": "Afif Tabbara",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "38 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11705-afif-tabbara",
+        "address": "Solakrossen 14 4050 Sola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5231304,
+          59.8914522
+        ]
+      },
+      "properties": {
+        "name": "Trude Handal",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11734-trude-handal",
+        "address": "Løkketangen 20A 1337 Sandvika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7389659,
+          59.9211238
+        ]
+      },
+      "properties": {
+        "name": "Javad Firoozkoohi",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "64 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11815-javad-firoozkoohi",
+        "address": "Pilestredet Park 7 0176 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7224156,
+          59.9149892
+        ]
+      },
+      "properties": {
+        "name": "Homan Zandi",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1996)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/11867-homan-zandi",
+        "address": "Parkveien 60 0254 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4723823,
+          60.1837509
+        ]
+      },
+      "properties": {
+        "name": "Marianne Lægreid",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12043-marianne-laegreid",
+        "address": "Hamnevegen 48 5200 Os"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242504,
+          60.3924554
+        ]
+      },
+      "properties": {
+        "name": "Hege Hekland",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12046-hege-hekland",
+        "address": "Starvhusgaten 2a 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2673405,
+          59.4149838
+        ]
+      },
+      "properties": {
+        "name": "Louis Cuomo Høisæter",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "57 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12246-louis-cuomo-hoisaeter",
+        "address": "Haraldsgaten 177 5525 Haugesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3848388,
+          67.2856123
+        ]
+      },
+      "properties": {
+        "name": "Johan Andreas Furebotten",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12251-johan-andreas-furebotten",
+        "address": "Sjøgata 31 8006 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9548677,
+          59.9220815
+        ]
+      },
+      "properties": {
+        "name": "Arash Sanjabi",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "55 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12288-arash-sanjabi",
+        "address": "Skårersletta 54 1473 Lørenskog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2026056,
+          59.7440492
+        ]
+      },
+      "properties": {
+        "name": "Nikola Jakovljevic",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12317-nikola-jakovljevic",
+        "address": "Øvre Storgate 4-6 3018 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7101755,
+          59.9303044
+        ]
+      },
+      "properties": {
+        "name": "Trude Bøe",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "55 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12360-trude-boe",
+        "address": "Sørkedalsveien 10B 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7359899,
+          58.9706171
+        ]
+      },
+      "properties": {
+        "name": "Janette Galdal Hansen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12370-janette-galdal-hansen",
+        "address": "Klubbgata 5 4013 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.797666,
+          63.1108466
+        ]
+      },
+      "properties": {
+        "name": "Marianne Kleivmyr",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12377-marianne-kleivmyr",
+        "address": "Rørgata 8 6517 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3901783,
+          67.2803054
+        ]
+      },
+      "properties": {
+        "name": "Birte Nikolaisen Myrvang",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12383-birte-nikolaisen-myrvang",
+        "address": "Bankgata 24 B, (2.etg) 8005 Bodø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72735,
+          59.9218664
+        ]
+      },
+      "properties": {
+        "name": "Andre Roushan",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12384-andre-roushan",
+        "address": "Hegdehaugsveien 31 0352 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5634585,
+          60.6313163
+        ]
+      },
+      "properties": {
+        "name": "Guri Skjelde",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "54 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1999)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12389-guri-skjelde",
+        "address": "Sundrevegen 87 3570 Ål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2471278,
+          59.9883931
+        ]
+      },
+      "properties": {
+        "name": "Gaute Floer Johnsen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12527-gaute-floer-johnsen",
+        "address": "Gløtten 3 1920 Sørumsand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9992591,
+          59.9671366
+        ]
+      },
+      "properties": {
+        "name": "Erik Børstell Giving",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "51 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12600-erik-borstell-giving",
+        "address": "Nordens vei 15, Skjetten senter 2013 Skjetten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3527647,
+          62.4655697
+        ]
+      },
+      "properties": {
+        "name": "Tim Sebastian Lehmann",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12640-tim-sebastian-lehmann",
+        "address": "Langelandsveien 35 6010 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7101755,
+          59.9303044
+        ]
+      },
+      "properties": {
+        "name": "Knut Årving",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "47 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12653-knut-arving",
+        "address": "Sørkedalsveien 10B 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7101755,
+          59.9303044
+        ]
+      },
+      "properties": {
+        "name": "Thomas Hilmar Myrhaug",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "52 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12717-thomas-hilmar-myrhaug",
+        "address": "Sørkedalsveien 10B 0369 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5072037,
+          59.9217664
+        ]
+      },
+      "properties": {
+        "name": "Nicolai Orsteen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12815-nicolai-orsteen",
+        "address": "Mosebakken 15 1352 Kolsås"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2005086,
+          59.7391119
+        ]
+      },
+      "properties": {
+        "name": "Cecilie Herbjørnsen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "51 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12821-cecilie-herbjornsen",
+        "address": "Torgeir Vraas Plass 6 3044 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4628371,
+          61.116505
+        ]
+      },
+      "properties": {
+        "name": "Marius Bunes",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12824-marius-bunes",
+        "address": "Kirkegata 77 2609 Lillehammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.079761,
+          60.7962503
+        ]
+      },
+      "properties": {
+        "name": "Nabeel Khaleel Mekhlif",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12843-nabeel-khaleel-mekhlif",
+        "address": "Vangsvegen 62 2317 Hamar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4236414,
+          58.0318107
+        ]
+      },
+      "properties": {
+        "name": "Claus Ungerechts",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "56 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12955-claus-ungerechts",
+        "address": "Leiervollen 1 A 4513 Mandal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7958483,
+          59.8109668
+        ]
+      },
+      "properties": {
+        "name": "Erika Madelene Giving",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/12974-erika-madelene-giving",
+        "address": "Ingierveien 6 1410 Kolbotn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3589288,
+          60.3806884
+        ]
+      },
+      "properties": {
+        "name": "Ellen Berggreen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13176-ellen-berggreen",
+        "address": "Årstadveien 19 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6373378,
+          59.9124013
+        ]
+      },
+      "properties": {
+        "name": "Unni Endal",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "67 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13246-unni-endal",
+        "address": "Lysaker torg 5 1366 Lysaker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6833915,
+          58.9530884
+        ]
+      },
+      "properties": {
+        "name": "Gro Christin Knudsen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "73 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1980)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13553-gro-christin-knudsen",
+        "address": "Madlamarkveien 2a 4041 Hafrsfjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0503785,
+          59.9559696
+        ]
+      },
+      "properties": {
+        "name": "Jan Boiesen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13557-jan-boiesen",
+        "address": "Brog 10 C 2000 Lillestrøm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.339451,
+          60.374865
+        ]
+      },
+      "properties": {
+        "name": "Lorentz Humlevik",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13684-lorentz-humlevik",
+        "address": "Fjøsangerveien 51 5054 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3535982,
+          60.3191147
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Haugarvoll Helland",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "71 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon - Tannlege (1988)Autorisasjon - Tannpleier (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/13707-elisabeth-haugarvoll-helland",
+        "address": "Østre Nesttunvegen 2 5221 Nesttun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9372431,
+          59.2139331
+        ]
+      },
+      "properties": {
+        "name": "Tabish Dilshad",
+        "profession": "Endodontist",
+        "gender": null,
+        "age": null,
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/14599-tabish-dilshad",
+        "address": "Farmansgate 2 1607 Fredrikstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7264862,
+          58.9697239
+        ]
+      },
+      "properties": {
+        "name": "Haakon Gramstad Skeie",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "34 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2016)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/18342-haakon-gramstad-skeie",
+        "address": "Løkkeveien 51 4008 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1755885,
+          60.1408268
+        ]
+      },
+      "properties": {
+        "name": "Ahmad Naweed Faizi",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "35 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/22413-ahmad-naweed-faizi",
+        "address": "Gotaasalleen 11 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.168252,
+          60.1453158
+        ]
+      },
+      "properties": {
+        "name": "Mina Wåler Rønning",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2015)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/23457-mina-waler-ronning",
+        "address": "Stallvegen 4 2050 Jessheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5437177,
+          68.7995696
+        ]
+      },
+      "properties": {
+        "name": "Marianne Lund",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "38 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24505-marianne-lund",
+        "address": "Torvet 1b 9405 Harstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0257768,
+          58.1507917
+        ]
+      },
+      "properties": {
+        "name": "Kjetil Kuhnle",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "44 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2014)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/24525-kjetil-kuhnle",
+        "address": "Industrigata 4 4632 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2019956,
+          59.7448209
+        ]
+      },
+      "properties": {
+        "name": "Isabelle Portenier",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2000)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6704-isabelle-portenier",
+        "address": "Øvre Torgate 10 3017 Drammen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8299421,
+          59.7542128
+        ]
+      },
+      "properties": {
+        "name": "Jonas Skyrud",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6727-jonas-skyrud",
+        "address": "Gamle Vevelstadvei 2A 1405 Langhus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7799122,
+          63.1106221
+        ]
+      },
+      "properties": {
+        "name": "Erik Hjelkrem",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "46 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6732-erik-hjelkrem",
+        "address": "Industriveien 17 6517 Kristiansund N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4138482,
+          63.4338425
+        ]
+      },
+      "properties": {
+        "name": "Tania Palm",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "40 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6741-tania-palm",
+        "address": "Innherredsveien 7A 7014 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6705027,
+          59.8457961
+        ]
+      },
+      "properties": {
+        "name": "Iman Mahmoud Saleh Aly Gouda",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "56 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2001)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6745-iman-mahmoud-saleh-aly-gouda",
+        "address": "Kapellveien 2 1452 Nesoddtangen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2289217,
+          59.127778
+        ]
+      },
+      "properties": {
+        "name": "Håvard Stueland",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "50 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6747-havard-stueland",
+        "address": "Thor Dahls gate 1 3210 Sandefjord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4333835,
+          59.8351712
+        ]
+      },
+      "properties": {
+        "name": "Erik Winsnes Lange",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "65 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6814-erik-winsnes-lange",
+        "address": "Smuget 1B 1383 Asker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6623967,
+          59.4355936
+        ]
+      },
+      "properties": {
+        "name": "Bente Iren Ingvaldsen Wiig",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "66 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/6915-bente-iren-ingvaldsen-wiig",
+        "address": "Dronningensgate 19 1530 Moss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7291399,
+          58.9668695
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Samuelsen",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "60 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1989)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7165-elisabeth-samuelsen",
+        "address": "St. Olavs Gate 7 4005 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9500989,
+          69.648463
+        ]
+      },
+      "properties": {
+        "name": "Anne Kjæreng",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "65 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7200-anne-kjaereng",
+        "address": "Strandskillet 5 9008 Tromsø"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1926064,
+          60.427029
+        ]
+      },
+      "properties": {
+        "name": "Irene Våge",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "52 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon - Tannlege (2002)Autorisasjon - Tannpleier (1997)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7240-irene-vage",
+        "address": "Juvikflaten 14a 5008 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8409635,
+          59.8987678
+        ]
+      },
+      "properties": {
+        "name": "Anders Ganer",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "40 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2011)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7386-anders-ganer",
+        "address": "Skøyenåsveien 9 F 0686 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Lene Thestrup Rikvold",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "63 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1988)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7397-lene-thestrup-rikvold",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3240971,
+          60.4651169
+        ]
+      },
+      "properties": {
+        "name": "Inge Fristad",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "67 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1982)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7408-inge-fristad",
+        "address": "Åsane Senter 37 5116 Ulset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7563945,
+          59.9120546
+        ]
+      },
+      "properties": {
+        "name": "Dan Grigorescu",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "45 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7431-dan-grigorescu",
+        "address": "Schweigaards gate 6, 4. etasje 0185 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7265029,
+          58.9697035
+        ]
+      },
+      "properties": {
+        "name": "Ole Iden",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "68 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1985)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7434-ole-iden",
+        "address": "Løkkeveien 51 4008 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Lars Martin Døving",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "71 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1981)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7460-lars-martin-doving",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1106572,
+          59.2830364
+        ]
+      },
+      "properties": {
+        "name": "Harald Prestegaard",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "66 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1984)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7875-harald-prestegaard",
+        "address": "Kirkegata 63 1721 Sarpsborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6208752,
+          59.9264065
+        ]
+      },
+      "properties": {
+        "name": "Johan August Ulstad",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "70 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1979)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/7889-johan-august-ulstad",
+        "address": "Jarveien 1 1358 Jar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3469713,
+          60.3626093
+        ]
+      },
+      "properties": {
+        "name": "Svein Egil Aarbu",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "53 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2003)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8051-svein-egil-aarbu",
+        "address": "Kanalveien 64 5068 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7375131,
+          59.9108914
+        ]
+      },
+      "properties": {
+        "name": "Kima Karimiha",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8273-kima-karimiha",
+        "address": "Nedre Vollgate 1 0158 Oslo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.078382,
+          58.1593967
+        ]
+      },
+      "properties": {
+        "name": "Mahkameh Nicole Aria",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8305-mahkameh-nicole-aria",
+        "address": "Ronatoppen 43a 4638 Kristiansand S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7668088,
+          58.4576985
+        ]
+      },
+      "properties": {
+        "name": "Christine Westlie Bergman",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "45 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2007)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8382-christine-westlie-bergman",
+        "address": "Teaterplassen 3, 3. etg. 4836 Arendal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3982659,
+          63.4361567
+        ]
+      },
+      "properties": {
+        "name": "Eivind Skaar",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "43 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8537-eivind-skaar",
+        "address": "Fosenkaia 3 7010 Trondheim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1720395,
+          62.4707568
+        ]
+      },
+      "properties": {
+        "name": "Kristin Jordal",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "48 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2005)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8743-kristin-jordal",
+        "address": "Ystenesgata 6B 6003 Ålesund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3540724,
+          60.3779703
+        ]
+      },
+      "properties": {
+        "name": "Inga Zilinskaite-Petrauskiene",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "42 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2010)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/8775-inga-zilinskaite-petrauskiene",
+        "address": "Møllendalsbakken 1 5009 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.046268,
+          59.9747122
+        ]
+      },
+      "properties": {
+        "name": "Erik Katle",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "41 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2013)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9132-erik-katle",
+        "address": "Gunnar Randers vei 12 2007 Kjeller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5012433,
+          59.7807738
+        ]
+      },
+      "properties": {
+        "name": "Bahar Dehghan Manshadi",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "46 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9378-bahar-dehghan-manshadi",
+        "address": "Borggata 5 5417 Stord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2807197,
+          63.7353833
+        ]
+      },
+      "properties": {
+        "name": "Greger Grunnan Fostad",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "42 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2009)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9475-greger-grunnan-fostad",
+        "address": "Moafjæra 10 7600 Levanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7332197,
+          58.9163768
+        ]
+      },
+      "properties": {
+        "name": "Katalin Jani",
+        "profession": "Endodontist",
+        "gender": "Kvinne",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2008)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9608-katalin-jani",
+        "address": "Kanalpiren, Laberget 28 4020 Stavanger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3242504,
+          60.3924554
+        ]
+      },
+      "properties": {
+        "name": "Atle Brynjulfsen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "78 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (1975)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9761-atle-brynjulfsen",
+        "address": "Starvhusgaten 2a 5014 Bergen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9438681,
+          59.2100408
+        ]
+      },
+      "properties": {
+        "name": "Anders Samuelsen",
+        "profession": "Endodontist",
+        "gender": "Mann",
+        "age": "49 år",
+        "specialization": "Endodonti",
+        "godkjenning": "Autorisasjon (2004)",
+        "offentlig_avtale": null,
+        "url": "https://www.legelisten.no/tannleger/9872-anders-samuelsen",
+        "address": "Hans Jacob Nilsens gate 12 1606 Fredrikstad"
+      }
+    }
+  ]
+}

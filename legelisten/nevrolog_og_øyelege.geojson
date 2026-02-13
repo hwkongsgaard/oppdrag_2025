@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4857146,
+          59.4160396
+        ]
+      },
+      "properties": {
+        "name": "Elisabeth Ancher Lindberg",
+        "profession": "Nevrolog og øyelege",
+        "gender": "Kvinne",
+        "age": "57 år",
+        "specialization": "NevrologiØyesykdommer",
+        "godkjenning": "Autorisasjon (1998)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/16677-elisabeth-ancher-lindberg",
+        "address": "Langgata 2 3187 Horten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3521686,
+          60.3790162
+        ]
+      },
+      "properties": {
+        "name": "Pia Wadel-Andersen",
+        "profession": "Nevrolog og øyelege",
+        "gender": "Kvinne",
+        "age": "50 år",
+        "specialization": "NevrologiØyesykdommer",
+        "godkjenning": "Autorisasjon (2002)",
+        "offentlig_avtale": "Ja",
+        "url": "https://www.legelisten.no/spesialister/29209-pia-wadel-andersen",
+        "address": "Møllendalsveien 65 C 5009 Bergen"
+      }
+    }
+  ]
+}
