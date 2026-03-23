@@ -9,14 +9,20 @@ Utført med Nominatim
 
 Datakilder for helsetjenester:
 
-Adresse Registeret (NHN)
+-**- Adresse Registeret (NHN)
 
-Fastlegeregisteret
+-**- Fastlegeregisteret
 
-Helsepersonellregisteret (HPR)
+-**- Helsepersonellregisteret (HPR)
 
-Legelistene
+-**- Legelistene.no
 
-RESH (NHN)
+-**- RESH (NHN)
+
+-**- Felleskatalogen
+
+-**- tsbnorge.no (TSB og PHV)
 
 Tidligere arbeid med akuttmedisin
+
+
