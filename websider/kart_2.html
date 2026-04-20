@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Norway Health - All Services</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { height: 100vh; width: 100vw; background: #ddd; }
+        .legend {
+            background: rgba(255, 255, 255, 0.95); padding: 12px; border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2); font-family: sans-serif; font-size: 11px;
+            max-height: 50vh; overflow-y: auto; width: 210px;
+        }
+        .status-box { display: inline-block; width: 10px; height: 10px; margin-right: 5px; border-radius: 50%; }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+
+<script>
+    var map = L.map('map').setView([65.0, 13.0], 5);
+
+    var baseLayers = {
+        "CartoDB Positron": L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', { attribution: '&copy; CARTO' }).addTo(map),
+        "Kartverket Gråtone": L.tileLayer('https://cache.kartverket.no/v1/wmts/1.0.0/topograatone/default/webmercator/{z}/{y}/{x}.png', { attribution: '&copy; Kartverket' })
+    };
+
+    function applyJitter(lat, lng, maxMeters = 500) {
+        const r = maxMeters * Math.sqrt(Math.random());
+        const theta = Math.random() * 2 * Math.PI;
+        const latOff = (r * Math.cos(theta)) / 111320;
+        const lngOff = (r * Math.sin(theta)) / (111320 * Math.cos(lat * Math.PI / 180));
+        return [lat + latOff, lng + lngOff];
+    }
+
+    const baseUrl = "https://raw.githubusercontent.com/hwkongsgaard/oppdrag_2025/main/";
+
+    // COMPLETE CONFIGURATION
+    const config = [
+        { file: "Akuttmottak.geojson", name: "Akuttmottak", icon: "hospital", color: "red" },
+        { file: "Akuttpsykiatrisk.geojson", name: "Akuttpsykiatrisk", icon: "brain", color: "purple" },
+        { file: "Legevakt.geojson", name: "Legevakt", icon: "house-medical", color: "orange" },
+        { file: "LVS_legevakt.geojson", name: "LVS Legevakt", icon: "stethoscope", color: "darkred" },
+        { file: "Luftambulansebasen.geojson", name: "Luftambulanse", icon: "helicopter", color: "blue" },
+        { file: "ambulansebaat.geojson", name: "Ambulansebåt", icon: "ship", color: "cadetblue" },
+        { file: "ambulansestasjoner.geojson", name: "Ambulanse", icon: "truck-medical", color: "red" },
+        { file: "amk_sentraler.geojson", name: "AMK Sentral", icon: "headset", color: "black" },
+        { file: "apotek_.geojson", name: "Apotek", icon: "pills", color: "green" },
+        { file: "fastleger.geojson", name: "Fastleger", icon: "user-doctor", color: "cadetblue" },
+        { file: "fysio_alternativ.geojson", name: "Fysioterapi", icon: "person-walking", checkAvtale: true },
+        { file: "leger_spes.geojson", name: "Spesialistleger", icon: "user-tie", checkAvtale: true },
+        { file: "psykolog.geojson", name: "Psykolog", icon: "headside-virus", checkAvtale: true },
+        { file: "tannleger.geojson", name: "Tannleger", icon: "tooth", color: "orange" },
+        { file: "tannpleier.geojson", name: "Tannpleier", icon: "teeth", color: "lightgreen" },
+        { file: "tsb_phv.geojson", name: "TSB/PHV", icon: "clinic-medical", checkPrivat: true },
+        { file: "ØHD.geojson", name: "ØHD", icon: "bed-pulse", color: "pink" }
+    ];
+
+    var overlays = {};
+
+    async function initMap() {
+        for (const item of config) {
+            try {
+                const response = await fetch(baseUrl + item.file);
+                if (!response.ok) continue;
+                const data = await response.json();
+
+                const clusterGroup = L.markerClusterGroup({ maxClusterRadius: 40, disableClusteringAtZoom: 16 });
+
+                L.geoJSON(data, {
+                    pointToLayer: (feature, latlng) => {
+                        let markerColor = item.color || "blue";
+                        let statusText = "";
+                        const props = feature.properties;
+
+                        // Public vs Private Jitter Color Logic
+                        if (item.checkAvtale && props.offentlig_avtale) {
+                            markerColor = props.offentlig_avtale.toLowerCase().startsWith("ja") ? "green" : "purple";
+                            statusText = `<br>Avtale: ${props.offentlig_avtale}`;
+                        }
+                        if (item.checkPrivat && props.privat) {
+                            markerColor = props.privat.toLowerCase().startsWith("ja") ? "purple" : "green";
+                            statusText = `<br>Privat: ${props.privat}`;
+                        }
+
+                        const [jLat, jLng] = applyJitter(latlng.lat, latlng.lng, 500);
+                        return L.marker([jLat, jLng], {
+                            icon: L.AwesomeMarkers.icon({ icon: item.icon, markerColor: markerColor, prefix: 'fa' })
+                        }).bindPopup(`<b>${props.navn || item.name}</b>${statusText}`);
+                    }
+                }).addTo(clusterGroup);
+
+                overlays[item.name] = clusterGroup;
+                // Default layers
+                if (["Akuttmottak", "Legevakt", "Luftambulanse"].includes(item.name)) clusterGroup.addTo(map);
+
+            } catch (e) { console.warn("Error loading: " + item.file); }
+        }
+
+        L.control.layers(baseLayers, overlays, { collapsed: false }).addTo(map);
+        addLegend();
+    }
+
+    function addLegend() {
+        var legend = L.control({position: 'bottomright'});
+        legend.onAdd = function() {
+            var div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = `
+                <strong>Tegnforklaring</strong><br>
+                <small>Markerte tjenester (Jitter 500m)</small><br><br>
+                <span class="status-box" style="background:green"></span> Offentlig / Avtale<br>
+                <span class="status-box" style="background:purple"></span> Privat<br>
+                <span class="status-box" style="background:red"></span> Akutt / Ambulanse<br>
+                <span class="status-box" style="background:cadetblue"></span> Primærhelsetjeneste
+            `;
+            return div;
+        };
+        legend.addTo(map);
+    }
+
+    initMap();
+</script>
+</body>
+</html>
